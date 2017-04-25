@@ -31,7 +31,10 @@ An awesome list of statistical software packages useful for creating official st
 
 #### Time series and seasonal adjustment
 
-    
+- R package [seasonal](https://CRAN.R-project.org/package=seasonal). Interface to the `X13 ARIMA` program.
+- [JDemetra+](https://ec.europa.eu/eurostat/cros/content/download_en) The seasonal adjustment software officially recommended for the European Statistical System.   
+
+ 
 #### Statistical disclosure control
 - R package [sdcMicro](https://CRAN.R-project.org/package=sdcMicro). Disclosure
   control for statistical microdata.
