@@ -30,6 +30,10 @@ An awesome list of statistical software packages useful for creating official st
 
     
 #### Statistical disclosure control
+- R package [sdcMicro](https://CRAN.R-project.org/package=sdcMicro). Disclosure
+  control for statistical microdata.
+- R package [sdcTable](https://CRAN.R-project.org/package=sdcTable). Disclosure
+  control for tabulated data.
 - [Argus](http://research.cbs.nl/casc/) and [SDC Tools](https://github.com/sdcTools). Tools like Tau-Argus and Mu-Argus for dististical disclosure control from Statistics Netherlands and the Statistical disclosure control netwerk.
 
 #### Scraping for Statistics
