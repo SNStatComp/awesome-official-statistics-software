@@ -34,7 +34,7 @@ An awesome list of statistical software packages useful for creating official st
 
 
 #### Statistical Dissemination
-- R package [rsdmx](https://github.com/opensdmx/rsdmx). Reading SDMX webservices. Contains list of available SDMX webservices.
+- R package [rsdmx](https://github.com/opensdmx/rsdmx). Reading SDMX webservices. Contains list of available SDMX webservices from national and international statistical institutes.
 - Nodejs, d3 [http://research.cbs.nl/Projects/StatMine/](http://research.cbs.nl/Projects/StatMine/). Experimental visualization framework from Statistics Netherlands.
 - SDMX-RI [SDMX-RI](https://webgate.ec.europa.eu/fpfis/mwikis/sdmx/index.php/SDMX_Reference_Infrastructure_SDMX-RI). Framework for disseminating data in SDMX format from Eurostat.
 
