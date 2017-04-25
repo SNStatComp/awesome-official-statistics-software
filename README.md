@@ -32,6 +32,7 @@ An awesome list of statistical software packages useful for creating official st
 #### Statistical disclosure control
 - Java [Argus](http://research.cbs.nl/casc/). Tau-Argus and Mu-Argus for dististical disclosure control from Statistics Netherlands.
 
+#### Scraping for Statistics
 
 #### Statistical Dissemination
 - R package [rsdmx](https://github.com/opensdmx/rsdmx). Reading SDMX webservices. Contains list of available SDMX webservices from national and international statistical institutes.
