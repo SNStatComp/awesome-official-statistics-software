@@ -43,6 +43,7 @@ An awesome list of open source statistical software packages useful for creating
 - Nodejs, d3 [http://research.cbs.nl/Projects/StatMine/](http://research.cbs.nl/Projects/StatMine/). Experimental visualization framework from Statistics Netherlands.
 - [SDMX Converter](https://webgate.ec.europa.eu/fpfis/mwikis/sdmx/index.php/SDMX_Converter). Converter between differnt versions of SDMX and formats such as CSV, FLR etc. from Eurostat.
 - [SDMX-RI](https://webgate.ec.europa.eu/fpfis/mwikis/sdmx/index.php/SDMX_Reference_Infrastructure_SDMX-RI). Framework for disseminating data in SDMX webservices from Eurostat.
+- [JSON-stat](https://json-stat.org/). Lightweight JSON format for statistical dissemination.
 
 #### Access to official statistics
 
