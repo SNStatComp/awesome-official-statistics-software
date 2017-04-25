@@ -1,6 +1,6 @@
 
 ### Awesome official statistics software
-An awesome list of statistical software packages useful for creating official statistics.
+An awesome list of open source statistical software packages useful for creating official statistics.
 
 
 
@@ -25,9 +25,6 @@ An awesome list of statistical software packages useful for creating official st
 
 #### Estimation and weighting
 
-
-- R package [survey](https://CRAN.R-project.org/package=survey). Weighting and estimation for complex survey designs, possibly under nonresponse. Also computes estimator variance.
-- R package [hbsae](https://CRAN.R-project.org/package=hbsae). Small area estimation
 
 #### Time series and seasonal adjustment
 
