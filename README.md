@@ -13,5 +13,27 @@ An awesome list of statistical software packages useful for creating official st
     - supports categorical and/or numeric data
     - supports linear equalities, inequalities and conditional rules.
     - Configurable backend for MIP-based error localization.
+- R package [VIM](https://CRAN.R-project.org/package=VIM). Visualisation and Imputation of missing values.
+    - Advanced visualisation of missing data patterns
+    - Imputation using (robust) linear regression methods
+    - Imputation using several donor-based methods (kNN, hot-deck)
+- R package [VIMGUI](https://CRAN.R-project.org/package=VIMGUI). Graphical frontend to [VIM](https://CRAN.R-project.org/package=VIM)
+- R package [simputation](https://CRAN.R-project.org/package=simputation). Simple imputation: many methods using a uniform interface following th [tidy tools manifesto](https://cran.r-project.org/web/packages/tidyverse/vignettes/manifesto.html)
+    - Allows to easily combiny many imputation methods/strategies.
+    - Supports regression (standard, M-estimation, ridge/lasso/elasticnet), hot-deck methods (powered by [VIM](https://CRAN.R-project.org/package=VIM)), randomForest, EM-based, and iterative randomForest imputation. Reuse of fitted models and definition of simple user-defined methods are supported as well.
+
+
+
+#### Estimation and weighting
+
+
+#### Time series and seasonal adjustment
+
+
+#### Statistical disclosure control
+
+
+
+
 
 
