@@ -30,7 +30,7 @@ An awesome list of statistical software packages useful for creating official st
 
     
 #### Statistical disclosure control
-- Java [Argus](http://research.cbs.nl/casc/) and [SDC Tools](https://github.com/sdcTools). Tau-Argus and Mu-Argus for dististical disclosure control from Statistics Netherlands.
+- Java [Argus](http://research.cbs.nl/casc/) and [SDC Tools](https://github.com/sdcTools). Tools like Tau-Argus and Mu-Argus for dististical disclosure control from Statistics Netherlands and the Statistical disclosure control netwerk.
 
 #### Scraping for Statistics
 
