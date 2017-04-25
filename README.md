@@ -38,7 +38,6 @@ An awesome list of statistical software packages useful for creating official st
     
 #### Statistical disclosure control
 - Java [Argus](http://research.cbs.nl/casc/). Tau-Argus and Mu-Argus for dististical disclosure control from Statistics Netherlands.
->>>>>>> 1ee1e8224c4ce21f58320d0a84c6ab4cd2e17ac1
 
 
 #### Statistical Dissemination
