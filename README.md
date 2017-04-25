@@ -55,3 +55,11 @@ An awesome list of statistical software packages useful for creating official st
 - R package [cbsodataR](https://CRAN.R-project.org/package=cbsodataR). Access to Statistics Netherlands' (CBS) open data API from R.
 
 
+#### Visualisation
+
+- R package [tabplot](https://CRAN.R-project.org/package=tabplot). Compare up
+  to about 10-20 variables simultaneously using a [tableplot](https://cran.r-project.org/web/packages/tabplot/vignettes/tabplot-vignette.html). See also [tabplotd3](https://CRAN.R-project.org/package=tabplot) for a
+web-based GUI.
+- R package [tmap](https://CRAN.R-project.org/package=tmap) Thematic geographic maps, including bubble charts, choropleths, and more.
+
+
