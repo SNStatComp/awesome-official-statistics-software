@@ -28,9 +28,6 @@ An awesome list of statistical software packages useful for creating official st
 
 #### Time series and seasonal adjustment
 
-
-
-
     
 #### Statistical disclosure control
 - Java [Argus](http://research.cbs.nl/casc/). Tau-Argus and Mu-Argus for dististical disclosure control from Statistics Netherlands.
