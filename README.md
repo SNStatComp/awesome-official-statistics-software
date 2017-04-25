@@ -1,6 +1,6 @@
 
 ## awesome-official-statistics-software
-An awesome list of statistical software packages useful for creating official statistics.
+An awesome list of open source statistical software packages useful for creating official statistics.
 
 ### Awesome official statistics software
 
@@ -28,12 +28,6 @@ An awesome list of statistical software packages useful for creating official st
 
 
 #### Time series and seasonal adjustment
-
-
-#### Statistical disclosure control
-
-
-
 
     
 #### Statistical disclosure control
