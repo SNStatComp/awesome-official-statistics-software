@@ -4,6 +4,7 @@ An awesome list of open source statistical software packages useful for creating
 
 
 
+
 #### Statistical data editing
 
 - R package [validate](https://CRAN.R-project.org/package=validate). Rule management and data validation.
@@ -20,20 +21,27 @@ An awesome list of open source statistical software packages useful for creating
 - R package [simputation](https://CRAN.R-project.org/package=simputation). Simple imputation: many methods using a uniform interface following th [tidy tools manifesto](https://cran.r-project.org/web/packages/tidyverse/vignettes/manifesto.html)
     - Allows to easily combiny many imputation methods/strategies.
     - Supports regression (standard, M-estimation, ridge/lasso/elasticnet), hot-deck methods (powered by [VIM](https://CRAN.R-project.org/package=VIM)), randomForest, EM-based, and iterative randomForest imputation. Reuse of fitted models and definition of simple user-defined methods are supported as well.
+- R package [SeleMix](https://CRAN.R-project.org/package=SeleMix). Detection of outliers and influential errors using a latent variable model for selective editing.
 
+### Sampling
+- R package [sampling](https://CRAN.R-project.org/package=sampling). Several algorithms
+for drawing (complex) survey samples and calibrating design weights.
 
 
 #### Estimation and weighting
 
-- R package [survey](https://CRAN.R-project.org/package=survey). Weighting and estimation for complex survey designs, possibly under nonresponse. Also computes estimator variance.
-- R package [hbsae](https://CRAN.R-project.org/package=hbsae). Small area estimation
-
+- R package [survey](https://CRAN.R-project.org/package=survey). Weighting and estimation for complex survey designs, possibly under nonresponse. Also computes estimator variance. See also R package [srvyr](https:://CRAN.R-project.org/package=survey) for integration with 
+[tidy tools](https://cran.r-project.org/web/packages/tidyverse/vignettes/manifesto.html)
+- R package [hbsae](https://CRAN.R-project.org/package=hbsae). Small area estimation based on hierarchical Bayesian models.
+- R package [rsae](https://CRAN.R-project.org/package=hbsae). Small area estimation
+based on (robust) maximum likelihood estimation.
 
 #### Time series and seasonal adjustment
 
-- R package [seasonal](https://CRAN.R-project.org/package=seasonal). Interface to the `X13 ARIMA` program.
+- [X-13ARIMA-SEATS](https://www.census.gov/srd/www/x13as/) Seasonal adjustment software
+produced maintained and distributed by the US Census Bureau.
+- R package [seasonal](https://CRAN.R-project.org/package=seasonal). Interface to the `X13-ARIMA-SEATS` program from R.
 - [JDemetra+](https://ec.europa.eu/eurostat/cros/content/download_en) The seasonal adjustment software officially recommended for the European Statistical System.   
-
  
 #### Statistical disclosure control
 - R package [sdcMicro](https://CRAN.R-project.org/package=sdcMicro). Disclosure
@@ -41,6 +49,11 @@ An awesome list of open source statistical software packages useful for creating
 - R package [sdcTable](https://CRAN.R-project.org/package=sdcTable). Disclosure
   control for tabulated data.
 - [Argus](http://research.cbs.nl/casc/) and [SDC Tools](https://github.com/sdcTools). Tools like Tau-Argus and Mu-Argus for dististical disclosure control from Statistics Netherlands and the Statistical disclosure control netwerk.
+
+#### Record linkage
+- R package [RecordLinkage](https://CRAN.R-project.org/package=RecordLinkage). IMplementation of the Fellegi-Sunter method for record linkage.
+- R packages [stringdist](https://CRAN.R-project.org/package=stringdist) and [fuzzyjoin](https://CRAN.R-project.org/package=fuzzyjoin) allow for mathing records based on inaccurate keys.
+
 
 #### Scraping for Statistics
 
@@ -53,7 +66,10 @@ An awesome list of open source statistical software packages useful for creating
 
 #### Access to official statistics
 
-- R package [cbsodataR](https://CRAN.R-project.org/package=cbsodataR). Access to Statistics Netherlands' (CBS) open data API from R.
+- R package [inegiR](https://CRAN.R-project.org/package=inegiR) Access to data published by
+[INEGI](http://www.inegi.org.mx/), Mexico's official statistics agency.
+- R package [cbsodataR](https://CRAN.R-project.org/package=cbsodataR). Access
+  to Statistics Netherlands' [(CBS](http://www.CBS.nl)] open data API from R.
 
 
 #### Visualisation
@@ -62,5 +78,6 @@ An awesome list of open source statistical software packages useful for creating
   to about 10-20 variables simultaneously using a [tableplot](https://cran.r-project.org/web/packages/tabplot/vignettes/tabplot-vignette.html). See also [tabplotd3](https://CRAN.R-project.org/package=tabplot) for a
 web-based GUI.
 - R package [tmap](https://CRAN.R-project.org/package=tmap) Thematic geographic maps, including bubble charts, choropleths, and more.
+- R package [treemap](https://CRAN.R-project.org/package=treemap). Space-filling visualisation of hierarchical data.
 
 
