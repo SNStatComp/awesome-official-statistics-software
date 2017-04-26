@@ -44,6 +44,8 @@ for drawing (complex) survey samples and calibrating design weights.
 - R package [hbsae](https://CRAN.R-project.org/package=hbsae). Small area estimation based on hierarchical Bayesian models.
 - R package [rsae](https://CRAN.R-project.org/package=hbsae). Small area estimation
 based on (robust) maximum likelihood estimation.
+- R package [calibrateSSB](https://CRAN.R-project.org/package=calibrateSSB). Calculate weighs and estimates for panel data with non-response.
+
 
 #### Time series and seasonal adjustment
 
