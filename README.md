@@ -8,8 +8,7 @@ Contributions are welcome, here are ways to do it:
 - Add an item to the
   [issue tracker](https://github.com/SNStatComp/awesome-official-statistics-software/issues)
 issue tracker. (you need a GH account)
-- Send an e-mail to `mark dot vanderloo at gmail dot com`
-
+- Send an e-mail to `mark dot vanderloo at gmail dot com` or tweet [\@markvdloo](https://twitter.com/markvdloo)
 
 
 #### Sampling ([GSBPM](http://www1.unece.org/stat/platform/display/metis/The+Generic+Statistical+Business+Process+Model) 4.1)
@@ -22,7 +21,7 @@ for drawing (complex) survey samples and calibrating design weights.
 
 
 #### Record linkage ([GSBPM](http://www1.unece.org/stat/platform/display/metis/The+Generic+Statistical+Business+Process+Model) 5.1)
-- R package [RecordLinkage](https://CRAN.R-project.org/package=RecordLinkage). IMplementation of the Fellegi-Sunter method for record linkage.
+- R package [RecordLinkage](https://CRAN.R-project.org/package=RecordLinkage). Implementation of the Fellegi-Sunter method for record linkage.
 - R packages [stringdist](https://CRAN.R-project.org/package=stringdist) and [fuzzyjoin](https://CRAN.R-project.org/package=fuzzyjoin) allow for matching records based on inaccurate keys.
 
 
@@ -44,7 +43,7 @@ for drawing (complex) survey samples and calibrating design weights.
     - Allows to easily combiny many imputation methods/strategies.
     - Supports regression (standard, M-estimation, ridge/lasso/elasticnet), hot-deck methods (powered by [VIM](https://CRAN.R-project.org/package=VIM)), randomForest, EM-based, and iterative randomForest imputation. Reuse of fitted models and definition of simple user-defined methods are supported as well.
 - R package [SeleMix](https://CRAN.R-project.org/package=SeleMix). Detection of outliers and influential errors using a latent variable model for selective editing.
-
+- R package [extremevalues](https://CRAN.R-project.org/package=extremevalues). Detection of univariate outliers based on modeling the bulk distribution.
 
 #### Estimation and weighting ([GSBPM](http://www1.unece.org/stat/platform/display/metis/The+Generic+Statistical+Business+Process+Model) 5.6 | 5.7)
 
@@ -94,6 +93,8 @@ web-based GUI.
 
 #### Access to official statistics ([GSBPM](http://www1.unece.org/stat/platform/display/metis/The+Generic+Statistical+Business+Process+Model) 7.4)
 
+- R package [sorvi](https://CRAN.R-project.org/package=eurostat) Finnish Open Government Data Toolkit
+- R package [eurostat](https://CRAN.R-project.org/package=eurostat) Tools to download data from the Eurostat database together with search and manipulation utilities.
 - R package [acs](https://CRAN.R-project.org/package=acs) Download, Manipulate, and Present American Community Survey and Decennial Data from the US Census.
 - R package [inegiR](https://CRAN.R-project.org/package=inegiR) Access to data published by
 [INEGI](http://www.inegi.org.mx/), Mexico's official statistics agency.
