@@ -1,9 +1,18 @@
 
-### Awesome official statistics software
+## Awesome official statistics software
 An awesome list of open source statistical software packages useful for creating official statistics.
 
+Contributions are welcome, here are ways to do it:
 
-### Sampling
+- The GitHub way: send us a [pull request](https://help.github.com/articles/creating-a-pull-request/) to add directly to this list.
+- Add an item to the
+  [issue tracker](https://github.com/SNStatComp/awesome-official-statistics-software/issues)
+issue tracker. (you need a GH account)
+- Send an e-mail to `mark dot vanderloo at gmail dot com`
+
+
+
+#### Sampling
 - R package [sampling](https://CRAN.R-project.org/package=sampling). Several algorithms
 for drawing (complex) survey samples and calibrating design weights.
 
