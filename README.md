@@ -3,6 +3,10 @@
 An awesome list of open source statistical software packages useful for creating official statistics.
 
 
+### Sampling
+- R package [sampling](https://CRAN.R-project.org/package=sampling). Several algorithms
+for drawing (complex) survey samples and calibrating design weights.
+
 
 
 #### Statistical data editing
@@ -23,15 +27,11 @@ An awesome list of open source statistical software packages useful for creating
     - Supports regression (standard, M-estimation, ridge/lasso/elasticnet), hot-deck methods (powered by [VIM](https://CRAN.R-project.org/package=VIM)), randomForest, EM-based, and iterative randomForest imputation. Reuse of fitted models and definition of simple user-defined methods are supported as well.
 - R package [SeleMix](https://CRAN.R-project.org/package=SeleMix). Detection of outliers and influential errors using a latent variable model for selective editing.
 
-### Sampling
-- R package [sampling](https://CRAN.R-project.org/package=sampling). Several algorithms
-for drawing (complex) survey samples and calibrating design weights.
-
 
 #### Estimation and weighting
 
 - R package [survey](https://CRAN.R-project.org/package=survey). Weighting and estimation for complex survey designs, possibly under nonresponse. Also computes estimator variance. See also R package [srvyr](https:://CRAN.R-project.org/package=survey) for integration with 
-[tidy tools](https://cran.r-project.org/web/packages/tidyverse/vignettes/manifesto.html)
+[tidy tools](https://cran.r-project.org/web/packages/tidyverse/vignettes/manifesto.html).
 - R package [hbsae](https://CRAN.R-project.org/package=hbsae). Small area estimation based on hierarchical Bayesian models.
 - R package [rsae](https://CRAN.R-project.org/package=hbsae). Small area estimation
 based on (robust) maximum likelihood estimation.
@@ -52,24 +52,25 @@ produced maintained and distributed by the US Census Bureau.
 
 #### Record linkage
 - R package [RecordLinkage](https://CRAN.R-project.org/package=RecordLinkage). IMplementation of the Fellegi-Sunter method for record linkage.
-- R packages [stringdist](https://CRAN.R-project.org/package=stringdist) and [fuzzyjoin](https://CRAN.R-project.org/package=fuzzyjoin) allow for mathing records based on inaccurate keys.
+- R packages [stringdist](https://CRAN.R-project.org/package=stringdist) and [fuzzyjoin](https://CRAN.R-project.org/package=fuzzyjoin) allow for matching records based on inaccurate keys.
 
 
 #### Scraping for Statistics
 
 #### Statistical Dissemination
 - R package [rsdmx](https://github.com/opensdmx/rsdmx). Reading SDMX webservices. Contains list of available SDMX webservices from national and international statistical institutes.
-- Nodejs, d3 [http://research.cbs.nl/Projects/StatMine/](http://research.cbs.nl/Projects/StatMine/). Experimental visualization framework from Statistics Netherlands.
+- Nodejs, d3 [StatMine/](http://research.cbs.nl/Projects/StatMine/). Experimental visualization framework from Statistics Netherlands.
 - [SDMX Converter](https://webgate.ec.europa.eu/fpfis/mwikis/sdmx/index.php/SDMX_Converter). Converter between differnt versions of SDMX and formats such as CSV, FLR etc. from Eurostat.
 - [SDMX-RI](https://webgate.ec.europa.eu/fpfis/mwikis/sdmx/index.php/SDMX_Reference_Infrastructure_SDMX-RI). Framework for disseminating data in SDMX webservices from Eurostat.
 - [JSON-Stat](https://json-stat.org/). Lightweight JSON based message format for statistical dissemination.
 
 #### Access to official statistics
 
+- R package [acs](https://CRAN.R-project.org/package=acs) Download, Manipulate, and Present American Community Survey and Decennial Data from the US Census.
 - R package [inegiR](https://CRAN.R-project.org/package=inegiR) Access to data published by
 [INEGI](http://www.inegi.org.mx/), Mexico's official statistics agency.
 - R package [cbsodataR](https://CRAN.R-project.org/package=cbsodataR). Access
-  to Statistics Netherlands' [(CBS](http://www.CBS.nl)] open data API from R.
+  to Statistics Netherlands' ([CBS](http://www.CBS.nl)) open data API from R.
 
 
 #### Visualisation
