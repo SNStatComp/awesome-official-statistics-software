@@ -96,7 +96,7 @@ web-based GUI.
 
 #### Access to official statistics ([GSBPM](http://www1.unece.org/stat/platform/display/metis/The+Generic+Statistical+Business+Process+Model) 7.4)
 
-
+- R package [rsdmx](https://github.com/opensdmx/rsdmx). Easy access to data from statistical organisations that support SDMX webservices. The package contains a list of SDMX access points of various national and international statistical institutes.
 - R package [oecd](https://CRAN.R-project.org/package=oecd) Search and Extract Data from the OECD
 - R package [sorvi](https://CRAN.R-project.org/package=eurostat) Finnish Open Government Data Toolkit
 - R package [eurostat](https://CRAN.R-project.org/package=eurostat) Tools to download data from the Eurostat database together with search and manipulation utilities.
