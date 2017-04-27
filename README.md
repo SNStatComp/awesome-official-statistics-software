@@ -10,7 +10,7 @@ Contributions are welcome, here are ways to do it:
 - Add an item to the
   [issue tracker](https://github.com/SNStatComp/awesome-official-statistics-software/issues)
 issue tracker. (you need a GH account)
-- Send an e-mail to `mark dot vanderloo at gmail dot com` or tweet [\@markvdloo](https://twitter.com/markvdloo)
+- Send an e-mail to `mark dot vanderloo at gmail dot com` or `olav dot tenbosch at gmail dot com` or tweet [\@markvdloo](https://twitter.com/markvdloo)
 
 
 #### Sampling ([GSBPM](http://www1.unece.org/stat/platform/display/metis/The+Generic+Statistical+Business+Process+Model) 4.1)
