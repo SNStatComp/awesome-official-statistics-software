@@ -20,7 +20,7 @@ for drawing (complex) survey samples and calibrating design weights.
 
 #### Scraping for Statistics ([GSBPM](http://www1.unece.org/stat/platform/display/metis/The+Generic+Statistical+Business+Process+Model) 4.3)
 
-- node.js package [roboto](https://www.npmjs.com/package/roboto). A crawler framework from the Official Statistics community.
+- node.js package [S4Sroboto](https://github.com/SNStatComp/S4Sroboto). A crawler framework, derived from the general package [roboto](https://www.npmjs.com/package/roboto) extended with some functionalities for use in statistics.
 - node.js tool [RobotTool](http://research.cbs.nl/Projects/RobotTool/index.html). A tool for checking price changes on the web. Used for price statistics at Statistics Netherlands. 
 
 #### Data integration and record linkage ([GSBPM](http://www1.unece.org/stat/platform/display/metis/The+Generic+Statistical+Business+Process+Model) 5.1)
