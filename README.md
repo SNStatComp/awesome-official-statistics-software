@@ -117,5 +117,6 @@ web-based GUI.
 [INEGI](http://www.inegi.org.mx/), Mexico's official statistics agency.
 - R package [cbsodataR](https://CRAN.R-project.org/package=cbsodataR). Access
   to Statistics Netherlands' ([CBS](http://www.CBS.nl)) open data API from R.
+- R package [rjstat](https://cran.r-project.org/package=rjstat). Read and write data sets in the JSON-stat format. 
 
 
