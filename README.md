@@ -4,13 +4,23 @@
 ## Awesome official statistics software
 An awesome list of open source statistical software packages useful for creating official statistics.
 
-Contributions are welcome, here are ways to do it:
+
+#### An item on this list is awesome because
+
+1. it is free, open source, and available for download;
+2. it is confirmed to be used in the production of official statistics by at least one institute, or
+3. it provides access to official statistics publications.
+
+Awesome contributions are welcome, here are ways to do it:
 
 - The GitHub way: send us a [pull request](https://help.github.com/articles/creating-a-pull-request/) to add directly to this list.
 - Add an item to the
   [issue tracker](https://github.com/SNStatComp/awesome-official-statistics-software/issues)
 issue tracker. (you need a GH account)
 - Send an e-mail to `mark dot vanderloo at gmail dot com` or `olav dot tenbosch at gmail dot com` or tweet [\@markvdloo](https://twitter.com/markvdloo)
+
+
+*****
 
 
 #### Sampling ([GSBPM](http://www1.unece.org/stat/platform/display/metis/The+Generic+Statistical+Business+Process+Model) 4.1)
