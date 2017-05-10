@@ -30,9 +30,11 @@ for drawing (complex) survey samples and calibrating design weights.
 
 
 #### Scraping for Statistics ([GSBPM](http://www1.unece.org/stat/platform/display/metis/The+Generic+Statistical+Business+Process+Model) 4.3)
-
+- node.js tool [RobotTool](http://research.cbs.nl/Projects/RobotTool/index.html). A tool for checking price changes on the web. Used for price statistics at Statistics Netherlands.
+- Java application [URLSearcher](https://github.com/SummaIstat/UrlSearcher). An application for searching Urls. Can be used to find websites of enterprise. Developed by ISTAT.
+- Java application [URLScorer](https://github.com/SummaIstat/UrlScorer). Gives a rule based score to scraped documents in a Solr database. Developed by ISTAT.
 - node.js package [S4Sroboto](https://github.com/SNStatComp/S4Sroboto). A crawler framework, derived from the general package [roboto](https://www.npmjs.com/package/roboto) extended with some functionalities for use in statistics.
-- node.js tool [RobotTool](http://research.cbs.nl/Projects/RobotTool/index.html). A tool for checking price changes on the web. Used for price statistics at Statistics Netherlands. 
+
 
 #### Data integration and record linkage ([GSBPM](http://www1.unece.org/stat/platform/display/metis/The+Generic+Statistical+Business+Process+Model) 5.1)
 - R package [XBRL](https://CRAN.R-project.org/package=XBRL). Extraction of Business Financial Information from [XBRL](https://www.xbrl.org/) Documents
