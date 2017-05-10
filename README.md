@@ -96,7 +96,7 @@ produced maintained and distributed by the US Census Bureau.
 
 #### Statistical Dissemination ([GSBPM](http://www1.unece.org/stat/platform/display/metis/The+Generic+Statistical+Business+Process+Model) 7.2)
 - R package [rsdmx](https://github.com/opensdmx/rsdmx). Writing SDMX from R.
-- [StatMine/](http://research.cbs.nl/Projects/StatMine/). Experimental visualization framework from Statistics Netherlands.
+- [StatMiner](http://research.cbs.nl/Projects/StatMine/), Experimental visualization framework from Statistics Netherlands. [(github)](https://github.com/statmine/statminer), [(demo)](http://statmine.github.io/statminer)
 - [SDMX Converter](https://webgate.ec.europa.eu/fpfis/mwikis/sdmx/index.php/SDMX_Converter). Converter between differnt versions of SDMX and formats such as CSV, FLR etc. from Eurostat.
 - [SDMX-RI](https://webgate.ec.europa.eu/fpfis/mwikis/sdmx/index.php/SDMX_Reference_Infrastructure_SDMX-RI). Framework for disseminating data in SDMX webservices from Eurostat.
 - [SDMX-JSON](https://github.com/sdmx-twg/sdmx-json/blob/master/data-message/docs/1-sdmx-json-field-guide.md). JSON variant of SDMX. This is still a candidate standard.
@@ -108,6 +108,7 @@ produced maintained and distributed by the US Census Bureau.
   to about 10-20 variables simultaneously using a [tableplot](https://cran.r-project.org/web/packages/tabplot/vignettes/tabplot-vignette.html). See also [tabplotd3](https://CRAN.R-project.org/package=tabplot) for a
 web-based GUI.
 - R package [tmap](https://CRAN.R-project.org/package=tmap) Thematic geographic maps, including bubble charts, choropleths, and more.
+- A (growing) list of simplified maps useful for web cartography for World, Europe and countries [cartomap](https://github.com/cartomap)
 - R package [treemap](https://CRAN.R-project.org/package=treemap). Space-filling visualisation of hierarchical data.
 
 
@@ -122,6 +123,8 @@ web-based GUI.
 [INEGI](http://www.inegi.org.mx/), Mexico's official statistics agency.
 - R package [cbsodataR](https://CRAN.R-project.org/package=cbsodataR). Access
   to Statistics Netherlands' ([CBS](http://www.CBS.nl)) open data API from R.
+- npm package [cbsodata.js](https://github.com/statmine/cbsodata.js). Access
+  to Statistics Netherlands' ([CBS](http://www.CBS.nl)) open data API from js.
 - R package [rjstat](https://cran.r-project.org/package=rjstat). Read and write data sets in the JSON-stat format. 
 
 
