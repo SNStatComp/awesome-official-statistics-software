@@ -127,5 +127,6 @@ web-based GUI.
 - npm package [cbsodata.js](https://github.com/statmine/cbsodata.js). Access
   to Statistics Netherlands' ([CBS](http://www.CBS.nl)) open data API from js.
 - R package [rjstat](https://cran.r-project.org/package=rjstat). Read and write data sets in the JSON-stat format. 
+- R package [censusapi](https://cran.r-project.org/package=censusapi) A wrapper for the U.S. Census Bureau APIs that returns data frames of Census data and metadata.
 
 
