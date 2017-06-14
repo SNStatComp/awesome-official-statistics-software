@@ -11,14 +11,7 @@ An awesome list of open source statistical software packages useful for creating
 
 We prefer packages that are reasonably easy to install and use and that
 are actively maintained.
-
-Awesome contributions are welcome, here are ways to do it:
-
-- The GitHub way: send us a [pull request](https://help.github.com/articles/creating-a-pull-request/) to add directly to this list.
-- Add an item to the
-  [issue tracker](https://github.com/SNStatComp/awesome-official-statistics-software/issues)
-issue tracker. (you need a GH account)
-- Send an e-mail to `mark dot vanderloo at gmail dot com` or `olav dot tenbosch at gmail dot com` or tweet [\@markvdloo](https://twitter.com/markvdloo)
+[Contributions](##Contributions) are welcome. 
 
 
 *****
@@ -128,6 +121,17 @@ web-based GUI.
   to Statistics Netherlands' ([CBS](http://www.CBS.nl)) open data API from js.
 - R package [rjstat](https://cran.r-project.org/package=rjstat). Read and write data sets in the JSON-stat format. 
 - R package [censusapi](https://cran.r-project.org/package=censusapi) A wrapper for the U.S. Census Bureau APIs that returns data frames of Census data and metadata.
+
+## Contributions
+
+Awesome contributions are welcome, here are ways to do it:
+
+- The GitHub way: send us a [pull request](https://help.github.com/articles/creating-a-pull-request/) to add directly to this list.
+- Add an item to the
+  [issue tracker](https://github.com/SNStatComp/awesome-official-statistics-software/issues)
+issue tracker. (you need a GH account)
+- Send an e-mail to `mark dot vanderloo at gmail dot com` or `olav dot tenbosch at gmail dot com` or tweet [\@markvdloo](https://twitter.com/markvdloo)
+
 
 ## License
 
