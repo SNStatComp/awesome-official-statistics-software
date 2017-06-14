@@ -11,7 +11,8 @@ An awesome list of open source statistical software packages useful for creating
 
 We prefer packages that are reasonably easy to install and use and that
 are actively maintained.
-[Contributions](#Contributions) are welcome. 
+
+[Contributions](#contributions) are welcome.
 
 
 *****
