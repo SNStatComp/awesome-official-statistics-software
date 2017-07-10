@@ -61,7 +61,7 @@ for drawing (complex) survey samples and calibrating design weights.
 
 #### Estimation and weighting ([GSBPM](http://www1.unece.org/stat/platform/display/metis/The+Generic+Statistical+Business+Process+Model) 5.6 | 5.7)
 
-- R package [survey](https://CRAN.R-project.org/package=survey). Weighting and estimation for complex survey designs, possibly under noninstalresponse. Also computes estimator variance. See also R package [srvyr](https:://CRAN.R-project.org/package=survey) for integration with 
+- R package [survey](https://CRAN.R-project.org/package=survey). Weighting and estimation for complex survey designs, possibly under nonresponse. Also computes estimator variance. See also R package [srvyr](https:://CRAN.R-project.org/package=survey) for integration with 
 [tidy tools](https://cran.r-project.org/web/packages/tidyverse/vignettes/manifesto.html).
 - R package [hbsae](https://CRAN.R-project.org/package=hbsae). Small area estimation based on hierarchical Bayesian models.
 - R package [rsae](https://CRAN.R-project.org/package=hbsae). Small area estimation
