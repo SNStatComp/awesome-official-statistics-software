@@ -67,7 +67,7 @@ for drawing (complex) survey samples and calibrating design weights.
 - R package [rsae](https://CRAN.R-project.org/package=hbsae). Small area estimation
 based on (robust) maximum likelihood estimation.
 - R package [calibrateSSB](https://CRAN.R-project.org/package=calibrateSSB). Calculate weighs and estimates for panel data with non-response.
-
+- R package [ReGenesees](https://joinup.ec.europa.eu/software/regenesees/description) (only availableon joinup) has a similar interface as the R package survey and many different estimators with sampling errors are implemented.
 
 #### Time series and seasonal adjustment ([GSBPM](http://www1.unece.org/stat/platform/display/metis/The+Generic+Statistical+Business+Process+Model) 5.6 | 5.7)
 
@@ -125,6 +125,7 @@ web-based GUI.
   to Statistics Netherlands' ([CBS](http://www.CBS.nl)) open data API from js.
 - R package [rjstat](https://cran.r-project.org/package=rjstat). Read and write data sets in the JSON-stat format. 
 - R package [censusapi](https://cran.r-project.org/package=censusapi) A wrapper for the U.S. Census Bureau APIs that returns data frames of Census data and metadata.
+- R package [nsoApi](https://github.com/bowerth/nsoApi) builds on other packages to access data from official statistics and tries to harmonize the API.
 
 ## Contributions
 
