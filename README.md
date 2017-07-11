@@ -21,6 +21,7 @@ are actively maintained.
 #### Sampling ([GSBPM](http://www1.unece.org/stat/platform/display/metis/The+Generic+Statistical+Business+Process+Model) 4.1)
 - R package [sampling](https://CRAN.R-project.org/package=sampling). Several algorithms
 for drawing (complex) survey samples and calibrating design weights.
+- R package [surveyplanning](https://cran.r-project.org/package=surveyplanning). Tools for sample survey planning, including sample size calculation, estimation of expected precision for the estimates of totals, and calculation of optimal sample size allocation.
 
 
 #### Scraping for Statistics ([GSBPM](http://www1.unece.org/stat/platform/display/metis/The+Generic+Statistical+Business+Process+Model) 4.3)
@@ -68,6 +69,8 @@ for drawing (complex) survey samples and calibrating design weights.
 based on (robust) maximum likelihood estimation.
 - R package [calibrateSSB](https://CRAN.R-project.org/package=calibrateSSB). Calculate weighs and estimates for panel data with non-response.
 - R package [ReGenesees](https://joinup.ec.europa.eu/software/regenesees/description) (only availableon joinup) has a similar interface as the R package survey and many different estimators with sampling errors are implemented.
+- R package [vardpoor](https://cran.r-project.org/package=vardpoor). Linearization of non-linear statistics and variance estimation.
+- R package [convey](https://cran.r-project.org/package=convey). Variance estimation on indicators of income concentration and poverty using complex sample survey designs. Wrapper around the survey package.
 
 #### Time series and seasonal adjustment ([GSBPM](http://www1.unece.org/stat/platform/display/metis/The+Generic+Statistical+Business+Process+Model) 5.6 | 5.7)
 
