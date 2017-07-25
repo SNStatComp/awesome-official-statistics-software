@@ -17,6 +17,9 @@ are actively maintained.
 
 *****
 
+#### Design frame and sample ([GSBPM](http://www1.unece.org/stat/platform/display/metis/The+Generic+Statistical+Business+Process+Model) 2.1)
+
+- R package [SamplingStrata]( http://cran.stat.unipd.it/web/packages/SamplingStrata/index.html). Optimal Stratification of Sampling Frames for Multipurpose Sampling Surveys.
 
 #### Sampling ([GSBPM](http://www1.unece.org/stat/platform/display/metis/The+Generic+Statistical+Business+Process+Model) 4.1)
 - R package [sampling](https://CRAN.R-project.org/package=sampling). Several algorithms
