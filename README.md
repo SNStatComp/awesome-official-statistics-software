@@ -47,6 +47,7 @@ for drawing (complex) survey samples and calibrating design weights.
 #### Statistical data editing and imputation  ([GSBPM](http://www1.unece.org/stat/platform/display/metis/The+Generic+Statistical+Business+Process+Model) 5.3 | 5.4)
 
 - R package [validate](https://CRAN.R-project.org/package=validate). Rule management and data validation.
+- R package [validatetools](https://CRAN.R-project.org/package=validatetools). Checking and simplifying sets of validation rules.
 - R package [errorlocate](https://CRAN.R-project.org/package=errorlocate). Error localisation based on the principle of Fellegi and Holt.
     - Uses [validate](https://CRAN.R-project.org/package=validate) rule definitions
     - supports categorical and/or numeric data
