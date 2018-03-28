@@ -74,7 +74,7 @@ for drawing (complex) survey samples and calibrating design weights.
 - R package [survey](https://CRAN.R-project.org/package=survey). Weighting and estimation for complex survey designs, possibly under nonresponse. Also computes estimator variance. See also R package [srvyr](https:://CRAN.R-project.org/package=survey) for integration with 
 [tidy tools](https://cran.r-project.org/web/packages/tidyverse/vignettes/manifesto.html).
 - R package [hbsae](https://CRAN.R-project.org/package=hbsae). Small area estimation based on hierarchical Bayesian models.
-- R package [rsae](https://CRAN.R-project.org/package=hbsae). Small area estimation
+- R package [rsae](https://CRAN.R-project.org/package=rsae). Small area estimation
 based on (robust) maximum likelihood estimation.
 - R package [calibrateSSB](https://CRAN.R-project.org/package=calibrateSSB). Calculate weighs and estimates for panel data with non-response.
 - R package [ReGenesees](https://joinup.ec.europa.eu/software/regenesees/description) (only availableon joinup) has a similar interface as the R package survey and many different estimators with sampling errors are implemented.
