@@ -112,7 +112,6 @@ produced maintained and distributed by the US Census Bureau.
 - [StatMiner](http://research.cbs.nl/Projects/StatMine/), Experimental visualization framework from Statistics Netherlands. [(github)](https://github.com/statmine/statminer), [(demo)](http://statmine.github.io/statminer)
 - [SDMX-JSON](https://github.com/sdmx-twg/sdmx-json/blob/master/data-message/docs/1-sdmx-json-field-guide.md). JSON variant of SDMX. This is still a candidate standard.
 - [JSON-Stat](https://json-stat.org/). Lightweight JSON based message format for statistical dissemination.
-- R package [btb](https://CRAN.R-project.org/package=btb). Conservative kernel smoothing method for spatial analysis.
 
 #### Visualisation ([GSBPM](http://www1.unece.org/stat/platform/display/metis/The+Generic+Statistical+Business+Process+Model) 7.2)
 
@@ -122,6 +121,7 @@ web-based GUI.
 - R package [tmap](https://CRAN.R-project.org/package=tmap) Thematic geographic maps, including bubble charts, choropleths, and more.
 - A (growing) list of simplified maps useful for web cartography for World, Europe and countries [cartomap](https://github.com/cartomap)
 - R package [treemap](https://CRAN.R-project.org/package=treemap). Space-filling visualisation of hierarchical data.
+- R package [btb](https://CRAN.R-project.org/package=btb). Conservative kernel smoothing method for spatial analysis.
 
 
 #### Access to official statistics ([GSBPM](http://www1.unece.org/stat/platform/display/metis/The+Generic+Statistical+Business+Process+Model) 7.4)
