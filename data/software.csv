@@ -24,6 +24,7 @@
 "estimation and weighting","5.6 | 5.7","ReGenesees","https://joinup.ec.europa.eu/software/regenesees/description","R",TRUE,TRUE,TRUE
 "estimation and weighting","5.6 | 5.7","vardpoor","https://cran.r-project.org/package=vardpoor","R",TRUE,TRUE,TRUE
 "estimation and weighting","5.6 | 5.7","convey","https://cran.r-project.org/package=convey","R",TRUE,TRUE,TRUE
+"estimation and weighting","5.6 | 5.7","icarus","https://cran.r-project.org/package=icarus","R",TRUE,TRUE,TRUE
 "time series and seasonal adjustment","5.6 | 5.7","X-13ARIMA-SEATS","https://www.census.gov/srd/www/x13as/","X-13ARIMA-SEATS",TRUE,FALSE,FALSE
 "time series and seasonal adjustment","5.6 | 5.7","seasonal","https://CRAN.R-project.org/package=seasonal","R",TRUE,TRUE,TRUE
 "time series and seasonal adjustment","5.6 | 5.7","x12","https://CRAN.R-project.org/package=x12","R",TRUE,TRUE,TRUE
