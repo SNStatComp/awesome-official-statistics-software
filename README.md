@@ -77,7 +77,7 @@ for drawing (complex) survey samples and calibrating design weights.
 - R package [hbsae](https://CRAN.R-project.org/package=hbsae). Small area estimation based on hierarchical Bayesian models.
 - R package [rsae](https://CRAN.R-project.org/package=rsae). Small area estimation
 based on (robust) maximum likelihood estimation.
-- R package [calibrateSSB](https://CRAN.R-project.org/package=calibrateSSB). Calculate weighs and estimates for panel data with non-response.
+- R package [CalibrateSSB](https://CRAN.R-project.org/package=CalibrateSSB). Calculate weighs and estimates for panel data with non-response.
 - R package [ReGenesees](https://joinup.ec.europa.eu/software/regenesees/description) (only availableon joinup) has a similar interface as the R package survey and many different estimators with sampling errors are implemented.
 - R package [vardpoor](https://cran.r-project.org/package=vardpoor). Linearization of non-linear statistics and variance estimation.
 - R package [convey](https://cran.r-project.org/package=convey). Variance estimation on indicators of income concentration and poverty using complex sample survey designs. Wrapper around the survey package.
