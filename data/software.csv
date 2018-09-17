@@ -1,0 +1,56 @@
+"gsbpm_name","gsbpm_number","software","link","platform","Windows","Mac","linux"
+"sampling","4.1","sampling","https://CRAN.R-project.org/package=sampling","R",TRUE,TRUE,TRUE
+"sampling","4.1","surveyplanning","https://cran.r-project.org/package=surveyplanning","R",TRUE,TRUE,TRUE
+"scraping for statistics","4.3","URLSearcher","https://github.com/SummaIstat/UrlSearcher","Java",TRUE,TRUE,TRUE
+"scraping for statistics","4.3","URLScorer","https://github.com/SummaIstat/UrlScorer","Java",TRUE,TRUE,TRUE
+"scraping for statistics","4.3","RobotTool","http://research.cbs.nl/Projects/RobotTool/index.html","node.js",TRUE,TRUE,TRUE
+"scraping for statistics","4.3","S4Sroboto","https://github.com/SNStatComp/S4Sroboto","node.js",TRUE,TRUE,TRUE
+"process","5","Java-VTL","https://github.com/statisticsnorway/java-vtl","Java",TRUE,TRUE,TRUE
+"data integration and record linkage","5.1","RecordLinkage","https://CRAN.R-project.org/package=RecordLinkage","R",TRUE,TRUE,TRUE
+"data integration and record linkage","5.1","stringdist","https://CRAN.R-project.org/package=stringdist","R",TRUE,TRUE,TRUE
+"data integration and record linkage","5.1","XBRL","https://CRAN.R-project.org/package=XBRL","R",TRUE,TRUE,TRUE
+"statistical data editing and imputation","5.3 | 5.4","validate","https://CRAN.R-project.org/package=validate","R",TRUE,TRUE,TRUE
+"statistical data editing and imputation","5.3 | 5.4","errorlocate","https://CRAN.R-project.org/package=errorlocate","R",TRUE,TRUE,TRUE
+"statistical data editing and imputation","5.3 | 5.4","VIM","https://CRAN.R-project.org/package=VIM","R",TRUE,TRUE,TRUE
+"statistical data editing and imputation","5.3 | 5.4","VIMGUI","https://CRAN.R-project.org/package=VIMGUI","R",TRUE,TRUE,TRUE
+"statistical data editing and imputation","5.3 | 5.4","simputation","https://CRAN.R-project.org/package=simputation","R",TRUE,TRUE,TRUE
+"statistical data editing and imputation","5.3 | 5.4","SeleMix","https://CRAN.R-project.org/package=SeleMix","R",TRUE,TRUE,TRUE
+"statistical data editing and imputation","5.3 | 5.4","extremevalues","https://CRAN.R-project.org/package=extremevalues","R",TRUE,TRUE,TRUE
+"statistical data editing and imputation","5.3 | 5.4","deductive","https://cran.r-project.org/web/packages=deductive","R",TRUE,TRUE,TRUE
+"estimation and weighting","5.6 | 5.7","survey","https://CRAN.R-project.org/package=survey","R",TRUE,TRUE,TRUE
+"estimation and weighting","5.6 | 5.7","hbsae","https://CRAN.R-project.org/package=hbsae","R",TRUE,TRUE,TRUE
+"estimation and weighting","5.6 | 5.7","rsae","https://CRAN.R-project.org/package=hbsae","R",TRUE,TRUE,TRUE
+"estimation and weighting","5.6 | 5.7","calibrateSSB","https://CRAN.R-project.org/package=calibrateSSB","R",TRUE,TRUE,TRUE
+"estimation and weighting","5.6 | 5.7","ReGenesees","https://joinup.ec.europa.eu/software/regenesees/description","R",TRUE,TRUE,TRUE
+"estimation and weighting","5.6 | 5.7","vardpoor","https://cran.r-project.org/package=vardpoor","R",TRUE,TRUE,TRUE
+"estimation and weighting","5.6 | 5.7","convey","https://cran.r-project.org/package=convey","R",TRUE,TRUE,TRUE
+"time series and seasonal adjustment","5.6 | 5.7","X-13ARIMA-SEATS","https://www.census.gov/srd/www/x13as/","X-13ARIMA-SEATS",TRUE,FALSE,FALSE
+"time series and seasonal adjustment","5.6 | 5.7","seasonal","https://CRAN.R-project.org/package=seasonal","R",TRUE,TRUE,TRUE
+"time series and seasonal adjustment","5.6 | 5.7","x12","https://CRAN.R-project.org/package=x12","R",TRUE,TRUE,TRUE
+"time series and seasonal adjustment","5.6 | 5.7","JDemetra+","https://ec.europa.eu/eurostat/cros/content/download_en","Java",TRUE,TRUE,TRUE
+"output validation","6.2","validate","https://CRAN.R-project.org/package=validate","R",TRUE,TRUE,TRUE
+"statistical disclosure control","6.4","Argus","http://research.cbs.nl/casc/","Java",TRUE,TRUE,TRUE
+"statistical disclosure control","6.4","sdcMicro","https://CRAN.R-project.org/package=sdcMicro","R",TRUE,TRUE,TRUE
+"statistical disclosure control","6.4","sdcTable","https://CRAN.R-project.org/package=sdcTable","R",TRUE,TRUE,TRUE
+"statistical disclosure control","6.4","simPop","https://CRAN.R-project.org/package=simPop","R",TRUE,TRUE,TRUE
+"statistical dissemination","7.2","SDMX Converter","https://webgate.ec.europa.eu/fpfis/mwikis/sdmx/index.php/SDMX_Converter","[SDMX",TRUE,FALSE,FALSE
+"statistical dissemination","7.2","SDMX-RI","https://webgate.ec.europa.eu/fpfis/mwikis/sdmx/index.php/SDMX_Reference_Infrastructure_SDMX-RI","SDMX-RI.",TRUE,FALSE,FALSE
+"statistical dissemination","7.2","rsdmx","https://github.com/opensdmx/rsdmx","R",TRUE,TRUE,TRUE
+"statistical dissemination","7.2","StatMiner","http://research.cbs.nl/Projects/StatMine/","StatMiner,",TRUE,FALSE,FALSE
+"statistical dissemination","7.2","SDMX-JSON","https://github.com/sdmx-twg/sdmx-json/blob/master/data-message/docs/1-sdmx-json-field-guide.md","SDMX-JSON.",TRUE,FALSE,FALSE
+"statistical dissemination","7.2","JSON-Stat","https://json-stat.org/","JSON-Stat.",TRUE,FALSE,FALSE
+"visualisation","7.2","tabplot","https://CRAN.R-project.org/package=tabplot","R",TRUE,TRUE,TRUE
+"visualisation","7.2","tmap","https://CRAN.R-project.org/package=tmap","R",TRUE,TRUE,TRUE
+"visualisation","7.2","cartomap","growing","A",TRUE,FALSE,FALSE
+"visualisation","7.2","treemap","https://CRAN.R-project.org/package=treemap","R",TRUE,TRUE,TRUE
+"access to official statistics","7.4","rsdmx","https://github.com/opensdmx/rsdmx","R",TRUE,TRUE,TRUE
+"access to official statistics","7.4","oecd","https://cran.r-project.org/web/packages/OECD/index.html","R",TRUE,TRUE,TRUE
+"access to official statistics","7.4","sorvi","https://CRAN.R-project.org/package=sorvi","R",TRUE,TRUE,TRUE
+"access to official statistics","7.4","eurostat","https://CRAN.R-project.org/package=eurostat","R",TRUE,TRUE,TRUE
+"access to official statistics","7.4","acs","https://CRAN.R-project.org/package=acs","R",TRUE,TRUE,TRUE
+"access to official statistics","7.4","inegiR","https://CRAN.R-project.org/package=inegiR","R",TRUE,TRUE,TRUE
+"access to official statistics","7.4","cbsodataR","https://CRAN.R-project.org/package=cbsodataR","R",TRUE,TRUE,TRUE
+"access to official statistics","7.4","cbsodata.js","https://github.com/statmine/cbsodata.js","npm",TRUE,TRUE,TRUE
+"access to official statistics","7.4","rjstat","https://cran.r-project.org/package=rjstat","R",TRUE,TRUE,TRUE
+"access to official statistics","7.4","censusapi","https://cran.r-project.org/package=censusapi","R",TRUE,TRUE,TRUE
+"access to official statistics","7.4","nsoApi","https://github.com/bowerth/nsoApi","R",TRUE,TRUE,TRUE
