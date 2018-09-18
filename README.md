@@ -82,6 +82,8 @@ based on (robust) maximum likelihood estimation.
 - R package [ReGenesees](https://joinup.ec.europa.eu/software/regenesees/description) (only availableon joinup) has a similar interface as the R package survey and many different estimators with sampling errors are implemented.
 - R package [vardpoor](https://cran.r-project.org/package=vardpoor). Linearization of non-linear statistics and variance estimation.
 - R package [convey](https://cran.r-project.org/package=convey). Variance estimation on indicators of income concentration and poverty using complex sample survey designs. Wrapper around the survey package.
+- R package [icarus](https://cran.r-project.org/package=icarus). Provides detailed tools for performing calibration and several of its varitations, in a familiar setting for Calmar users in SAS.
+- R package [gustave](https://cran.r-project.org/package=gustave). Provides a toolkit for analytical variance estimation in survey sampling.
 
 #### Time series and seasonal adjustment ([GSBPM](http://www1.unece.org/stat/platform/display/metis/The+Generic+Statistical+Business+Process+Model) 5.6 | 5.7)
 
