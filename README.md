@@ -18,17 +18,17 @@ are actively maintained.
 
 *****
 
-#### Design frame and sample ([GSBPM](http://www1.unece.org/stat/platform/display/metis/The+Generic+Statistical+Business+Process+Model) 2.1)
+#### Design frame and sample ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 2.1)
 
 - R package [SamplingStrata]( http://cran.stat.unipd.it/web/packages/SamplingStrata/index.html). Optimal Stratification of Sampling Frames for Multipurpose Sampling Surveys.
 
-#### Sampling ([GSBPM](http://www1.unece.org/stat/platform/display/metis/The+Generic+Statistical+Business+Process+Model) 4.1)
+#### Sampling ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 4.1)
 - R package [sampling](https://CRAN.R-project.org/package=sampling). Several algorithms
 for drawing (complex) survey samples and calibrating design weights.
 - R package [surveyplanning](https://cran.r-project.org/package=surveyplanning). Tools for sample survey planning, including sample size calculation, estimation of expected precision for the estimates of totals, and calculation of optimal sample size allocation.
 
 
-#### Scraping for Statistics ([GSBPM](http://www1.unece.org/stat/platform/display/metis/The+Generic+Statistical+Business+Process+Model) 4.3)
+#### Scraping for Statistics ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 4.3)
 - Java application [URLSearcher](https://github.com/SummaIstat/UrlSearcher). An application for searching Urls. Can be used to find websites of enterprise. By ISTAT.
 - Java application [URLScorer](https://github.com/SummaIstat/UrlScorer). Gives a rule based score to scraped documents in a Solr database. By ISTAT.
 - node.js tool [RobotTool](https://github.com/SNStatComp/RobotTool). A tool for checking (price) changes on the web. By Statistics Netherlands.
@@ -36,11 +36,11 @@ for drawing (complex) survey samples and calibrating design weights.
 - Python [Sustainability Reporting](https://github.com/AlessandraSozzi/MSc-dissertation). A script for measuring sustainability reporting from enterprises websites. By ONS.
 - node.js package [S4Sroboto](https://github.com/SNStatComp/S4Sroboto). A crawler framework, derived from the general package [roboto](https://www.npmjs.com/package/roboto) extended with some functionalities for statistical scraping. By Statistics Netherlands
 
-#### Process ([GSBPM](http://www1.unece.org/stat/platform/display/metis/The+Generic+Statistical+Business+Process+Model) 5)
+#### Process ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 5)
 - Java application [Java-VTL](https://github.com/statisticsnorway/java-vtl). A partial implementation of the Validation Transformation Language, based on the VTL 1.1 draft specification. By Statistics Norway.
 - Java application [ADaMSoft](http://adamsoft.sourceforge.net) implements procedures for data analysis, data, web and text mining. Also contains procedures for data validation and imputation, based on the principle of Fellegi and Holt.
 
-#### Data integration and record linkage ([GSBPM](http://www1.unece.org/stat/platform/display/metis/The+Generic+Statistical+Business+Process+Model) 5.1)
+#### Data integration and record linkage ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 5.1)
 - R package [reclin](https://cran.r-project.org/web/packages/reclin/index.html). Functions to assist in performing probabilistic record linkage and deduplication: generating pairs, comparing records, em-algorithm for estimating m- and u-probabilities, forcing one-to-one matching. Can also be used for pre- and post-processing for machine learning methods for record linkage.
 - R package [RecordLinkage](https://CRAN.R-project.org/package=RecordLinkage). Implementation of the Fellegi-Sunter method for record linkage.
 - R package [fastLink](https://cran.r-project.org/web/packages/fastLink/index.html). Implements a Fellegi-Sunter probabilistic record linkage model that allows for missing data and the inclusion of auxiliary information. Documentation can be found on http://imai.princeton.edu/research/linkage.html
@@ -49,7 +49,7 @@ for drawing (complex) survey samples and calibrating design weights.
 
 
 
-#### Statistical data editing and imputation  ([GSBPM](http://www1.unece.org/stat/platform/display/metis/The+Generic+Statistical+Business+Process+Model) 5.3 | 5.4)
+#### Statistical data editing and imputation  ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 5.3 | 5.4)
 
 - R package [validate](https://CRAN.R-project.org/package=validate). Rule management and data validation.
 - R package [validatetools](https://CRAN.R-project.org/package=validatetools). Checking and simplifying sets of validation rules.
@@ -71,7 +71,7 @@ for drawing (complex) survey samples and calibrating design weights.
 - R package [extremevalues](https://CRAN.R-project.org/package=extremevalues). Detection of univariate outliers based on modeling the bulk distribution.
 - R package [deductive](https://cran.r-project.org/web/packages=deductive). Deductive correction and imputation using edit rules and (partially) complete data.
 
-#### Estimation and weighting ([GSBPM](http://www1.unece.org/stat/platform/display/metis/The+Generic+Statistical+Business+Process+Model) 5.6 | 5.7)
+#### Estimation and weighting ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 5.6 | 5.7)
 
 - R package [survey](https://CRAN.R-project.org/package=survey). Weighting and estimation for complex survey designs, possibly under nonresponse. Also computes estimator variance. See also R package [srvyr](https:://CRAN.R-project.org/package=survey) for integration with 
 [tidy tools](https://cran.r-project.org/web/packages/tidyverse/vignettes/manifesto.html).
@@ -85,7 +85,7 @@ based on (robust) maximum likelihood estimation.
 - R package [icarus](https://cran.r-project.org/package=icarus). Provides detailed tools for performing calibration and several of its varitations, in a familiar setting for Calmar users in SAS.
 - R package [gustave](https://cran.r-project.org/package=gustave). Provides a toolkit for analytical variance estimation in survey sampling.
 
-#### Time series and seasonal adjustment ([GSBPM](http://www1.unece.org/stat/platform/display/metis/The+Generic+Statistical+Business+Process+Model) 5.6 | 5.7)
+#### Time series and seasonal adjustment ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 5.6 | 5.7)
 
 - [X-13ARIMA-SEATS](https://www.census.gov/srd/www/x13as/) Seasonal adjustment software
 produced maintained and distributed by the US Census Bureau.
@@ -93,12 +93,12 @@ produced maintained and distributed by the US Census Bureau.
 - R package [x12](https://CRAN.R-project.org/package=x12). Alternative interface to the `X13-ARIMA-SEATS` program from R with a focus on batch processing time series.
 - [JDemetra+](https://ec.europa.eu/eurostat/cros/content/download_en) The seasonal adjustment software officially recommended for the European Statistical System.   
 
-#### Output validation ([GSBPM](http://www1.unece.org/stat/platform/display/metis/The+Generic+Statistical+Business+Process+Model) 6.2)
+#### Output validation ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 6.2)
 - R package [validate](https://CRAN.R-project.org/package=validate). Rule management and data validation.
 
 
  
-#### Statistical disclosure control ([GSBPM](http://www1.unece.org/stat/platform/display/metis/The+Generic+Statistical+Business+Process+Model) 6.4)
+#### Statistical disclosure control ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 6.4)
 - [Argus](http://research.cbs.nl/casc/) and [SDC Tools](https://github.com/sdcTools). Tools like Tau-Argus and Mu-Argus for dististical disclosure control from Statistics Netherlands and the Statistical disclosure control netwerk.
 - R package [sdcMicro](https://CRAN.R-project.org/package=sdcMicro). Disclosure
   control for statistical microdata.
@@ -108,7 +108,7 @@ produced maintained and distributed by the US Census Bureau.
 
 
 
-#### Statistical Dissemination ([GSBPM](http://www1.unece.org/stat/platform/display/metis/The+Generic+Statistical+Business+Process+Model) 7.2)
+#### Statistical Dissemination ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 7.2)
 - [SDMX Converter](https://webgate.ec.europa.eu/fpfis/mwikis/sdmx/index.php/SDMX_Converter). Converter between differnt versions of SDMX and formats such as CSV, FLR etc. from Eurostat.
 - [SDMX-RI](https://webgate.ec.europa.eu/fpfis/mwikis/sdmx/index.php/SDMX_Reference_Infrastructure_SDMX-RI). Framework for disseminating data in SDMX webservices from Eurostat.
 - R package [rsdmx](https://github.com/opensdmx/rsdmx). Writing SDMX from R.
@@ -116,7 +116,7 @@ produced maintained and distributed by the US Census Bureau.
 - [SDMX-JSON](https://github.com/sdmx-twg/sdmx-json/blob/master/data-message/docs/1-sdmx-json-field-guide.md). JSON variant of SDMX. This is still a candidate standard.
 - [JSON-Stat](https://json-stat.org/). Lightweight JSON based message format for statistical dissemination.
 
-#### Visualisation ([GSBPM](http://www1.unece.org/stat/platform/display/metis/The+Generic+Statistical+Business+Process+Model) 7.2)
+#### Visualisation ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 7.2)
 
 - R package [tabplot](https://CRAN.R-project.org/package=tabplot). Compare up
   to about 10-20 variables simultaneously using a [tableplot](https://cran.r-project.org/web/packages/tabplot/vignettes/tabplot-vignette.html). See also [tabplotd3](https://CRAN.R-project.org/package=tabplot) for a
@@ -127,7 +127,7 @@ web-based GUI.
 - R package [btb](https://CRAN.R-project.org/package=btb). Conservative kernel smoothing method for spatial analysis.
 
 
-#### Access to official statistics ([GSBPM](http://www1.unece.org/stat/platform/display/metis/The+Generic+Statistical+Business+Process+Model) 7.4)
+#### Access to official statistics ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 7.4)
 
 - R package [rsdmx](https://github.com/opensdmx/rsdmx). Easy access to data from statistical organisations that support SDMX webservices. The package contains a list of SDMX access points of various national and international statistical institutes.
 - R package [oecd](https://cran.r-project.org/web/packages/OECD/index.html) Search and Extract Data from the OECD
