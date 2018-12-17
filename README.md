@@ -143,6 +143,7 @@ web-based GUI.
 - R package [rjstat](https://cran.r-project.org/package=rjstat). Read and write data sets in the JSON-stat format. 
 - R package [censusapi](https://cran.r-project.org/package=censusapi) A wrapper for the U.S. Census Bureau APIs that returns data frames of Census data and metadata.
 - R package [nsoApi](https://github.com/bowerth/nsoApi) builds on other packages to access data from official statistics and tries to harmonize the API.
+- R package [CANSIM2R](https://CRAN.R-project.org/package=CANSIM2R). Extract CANSIM (Statistics Canada) tables and transform them into readily usable data.
 - Python package [pyscbwrapper](https://github.com/kirajcg/pyscbwrapper). Access to the open data API of the Swedish Statistical Institute
 
 ## Contributions
