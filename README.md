@@ -104,8 +104,8 @@ produced maintained and distributed by the US Census Bureau.
   control for statistical microdata.
 - R package [sdcTable](https://CRAN.R-project.org/package=sdcTable). Disclosure
   control for tabulated data.
-- R package [easySdcTable](https://CRAN.R-projects.org/package=easySdcTable) provides an interface to the package sdcTable.
-- R package [SmallCountRounding](https://CRAN.R-projects.org/package=SmallCountRounding) can be used to protect frequency tables by rounding necessary inner cells so that cross-classifications to be published are safe.
+- R package [easySdcTable](https://CRAN.R-project.org/package=easySdcTable) provides an interface to the package sdcTable.
+- R package [SmallCountRounding](https://CRAN.R-project.org/package=SmallCountRounding) can be used to protect frequency tables by rounding necessary inner cells so that cross-classifications to be published are safe.
 - R package [simPop](https://CRAN.R-project.org/package=simPop). Simulation of synthetic populations from census/survey data considering auxiliary information.
 
 
