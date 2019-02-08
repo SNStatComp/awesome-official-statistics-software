@@ -148,6 +148,7 @@ web-based GUI.
 - R package [nsoApi](https://github.com/bowerth/nsoApi) builds on other packages to access data from official statistics and tries to harmonize the API.
 - R package [CANSIM2R](https://CRAN.R-project.org/package=CANSIM2R). Extract CANSIM (Statistics Canada) tables and transform them into readily usable data.
 - Python package [pyscbwrapper](https://github.com/kirajcg/pyscbwrapper). Access to the open data API of the Swedish Statistical Institute
+- R package [readabs](https://cran.r-project.org/package=readabs) Download data from the Australian Bureau of Statistics.
 
 ## Contributions
 
