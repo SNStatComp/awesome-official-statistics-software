@@ -75,7 +75,7 @@ View(out)
 out$platform <- replace_markdown_links(out$platform)
 
 out$Windows <- TRUE
-out$Mac <- out$platform %in% c('R',"Java","node.js","npm")
+out$Mac <- out$platform %in% c("R","Java","node.js","npm")
 out$linux <- out$Mac
 
 

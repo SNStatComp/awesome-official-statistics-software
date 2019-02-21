@@ -91,7 +91,9 @@ based on (robust) maximum likelihood estimation.
 produced maintained and distributed by the US Census Bureau.
 - R package [seasonal](https://CRAN.R-project.org/package=seasonal). Interface to the `X13-ARIMA-SEATS` program from R with a very nice shiny GUI.
 - R package [x12](https://CRAN.R-project.org/package=x12). Alternative interface to the `X13-ARIMA-SEATS` program from R with a focus on batch processing time series.
-- [JDemetra+](https://ec.europa.eu/eurostat/cros/content/download_en) The seasonal adjustment software officially recommended for the European Statistical System.   
+- Java application [JDemetra+](https://ec.europa.eu/eurostat/cros/content/download_en) The seasonal adjustment software officially recommended for the European Statistical System.
+- R package [RJDemetra](https://jdemetra.github.io/rjdemetra/) R interface to JDemetra+.
+- R package [tempdisagg](https://cran.r-project.org/package=tempdisagg) methods for temporal disaggregation and interpolation of time series.
 
 #### Output validation ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 6.2)
 - R package [validate](https://CRAN.R-project.org/package=validate). Rule management and data validation.
