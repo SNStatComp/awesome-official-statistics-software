@@ -45,6 +45,7 @@
 "statistical disclosure control","6.4","sdcMicro","https://CRAN.R-project.org/package=sdcMicro","R",TRUE,TRUE,TRUE
 "statistical disclosure control","6.4","sdcTable","https://CRAN.R-project.org/package=sdcTable","R",TRUE,TRUE,TRUE
 "statistical disclosure control","6.4","easySdcTable","https://CRAN.R-project.org/package=easySdcTable","R",TRUE,TRUE,TRUE
+"statistical disclosure control","6.4","sdcHierarchies","https://CRAN.R-project.org/package=sdcHierarchies","R",TRUE,TRUE,TRUE
 "statistical disclosure control","6.4","SmallCountRounding","https://CRAN.R-project.org/package=SmallCountRounding","R",TRUE,TRUE,TRUE
 "statistical disclosure control","6.4","simPop","https://CRAN.R-project.org/package=simPop","R",TRUE,TRUE,TRUE
 "statistical dissemination","7.2","SDMX Converter","https://webgate.ec.europa.eu/fpfis/mwikis/sdmx/index.php/SDMX_Converter","[SDMX",TRUE,FALSE,FALSE
