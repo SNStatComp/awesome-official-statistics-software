@@ -2,7 +2,7 @@
 
 remove_lines <- function(x,n=1){
   x <- sub(".*?\\n","",x)
-  if (n == 1) x else remove_lines(x,n-1) 
+  if (n == 1) x else remove_lines(x,n-1)
 }
 
 extract <- function(re,x){
@@ -11,7 +11,7 @@ extract <- function(re,x){
 }
 
 gsbpm_name <- function(x){
-  y <- extract(".*?\\(",x)  
+  y <- extract(".*?\\(",x)
   tolower(trimws(gsub("\\(","",y)))
 }
 
@@ -36,7 +36,7 @@ platform <- function(x){
 
 get_attributes <- function(x){
   d <- list(stringsAsFactors=FALSE)
-  
+
   d$gsbpm_name <- gsbpm_name(x)
   d$gsbpm_number <- gsbpm_number(x)
   v <- trimws(strsplit(x,"\n-")[[1]][-1])
@@ -44,7 +44,7 @@ get_attributes <- function(x){
   d$link <- link(v)
   d$platform <- platform(v)
   do.call(data.frame,d)
-  
+
 }
 
 replace_markdown_links <- function(x){
@@ -75,9 +75,9 @@ View(out)
 out$platform <- replace_markdown_links(out$platform)
 
 out$Windows <- TRUE
-out$Mac <- out$platform %in% c('R',"Java","node.js","npm")
+out$Mac <- out$platform %in% c("R","Java","node.js","npm")
 out$linux <- out$Mac
 
 
 
-write.csv(out,file="software.csv",row.names=FALSE)
+write.csv(out,file="data/software.csv",row.names=FALSE)
