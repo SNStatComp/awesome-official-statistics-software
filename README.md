@@ -146,7 +146,7 @@ web-based GUI.
   to Statistics Netherlands' ([CBS](http://www.CBS.nl)) open data API from R.
 - npm package [cbsodata.js](https://github.com/statmine/cbsodata.js). Access
   to Statistics Netherlands' ([CBS](http://www.CBS.nl)) open data API from js.
-- python package [cbsodata.py](https://cbsodata.readthedocs.io). Access to Statistics Netherlands' ([CBS](http://www.CBS.nl)) open data API from Python.
+- python package [cbsodata.py](https://github.com/J535D165/cbsodata). Access to Statistics Netherlands' ([CBS](http://www.CBS.nl)) open data API from Python.
 - R package [rjstat](https://cran.r-project.org/package=rjstat). Read and write data sets in the JSON-stat format. 
 - R package [censusapi](https://cran.r-project.org/package=censusapi) A wrapper for the U.S. Census Bureau APIs that returns data frames of Census data and metadata.
 - R package [nsoApi](https://github.com/bowerth/nsoApi) builds on other packages to access data from official statistics and tries to harmonize the API.
