@@ -37,6 +37,7 @@ for drawing (complex) survey samples and calibrating design weights.
 - node.js package [S4Sroboto](https://github.com/SNStatComp/S4Sroboto). A crawler framework, derived from the general package [roboto](https://www.npmjs.com/package/roboto) extended with some functionalities for statistical scraping. By Statistics Netherlands
 
 #### Process ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 5)
+- R package [blaise](https://CRAN.R-project.org/package=blaise). Reading and writing Files in the Blaise Format from R. By Statistics Netherlands.
 - Java application [Java-VTL](https://github.com/statisticsnorway/java-vtl). A partial implementation of the Validation Transformation Language, based on the VTL 1.1 draft specification. By Statistics Norway.
 - Java application [ADaMSoft](http://adamsoft.sourceforge.net) implements procedures for data analysis, data, web and text mining. Also contains procedures for data validation and imputation, based on the principle of Fellegi and Holt.
 
