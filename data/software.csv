@@ -8,6 +8,7 @@
 "scraping for statistics","4.3","Social-Media-Presence","https://github.com/jmaslankowski/WP2-Social-Media-Presence","Python",TRUE,FALSE,FALSE
 "scraping for statistics","4.3","Sustainability Reporting","https://github.com/AlessandraSozzi/MSc-dissertation","Python",TRUE,FALSE,FALSE
 "scraping for statistics","4.3","S4Sroboto","https://github.com/SNStatComp/S4Sroboto","node.js",TRUE,TRUE,TRUE
+"process","5","blaise","https://CRAN.R-project.org/package=blaise","R",TRUE,TRUE,TRUE
 "process","5","Java-VTL","https://github.com/statisticsnorway/java-vtl","Java",TRUE,TRUE,TRUE
 "process","5","ADaMSoft","http://adamsoft.sourceforge.net","Java",TRUE,TRUE,TRUE
 "data integration and record linkage","5.1","reclin","https://cran.r-project.org/web/packages/reclin/index.html","R",TRUE,TRUE,TRUE
@@ -67,9 +68,11 @@
 "access to official statistics","7.4","inegiR","https://CRAN.R-project.org/package=inegiR","R",TRUE,TRUE,TRUE
 "access to official statistics","7.4","cbsodataR","https://CRAN.R-project.org/package=cbsodataR","R",TRUE,TRUE,TRUE
 "access to official statistics","7.4","cbsodata.js","https://github.com/statmine/cbsodata.js","npm",TRUE,TRUE,TRUE
+"access to official statistics","7.4","cbsodata.py","https://github.com/J535D165/cbsodata","python",TRUE,FALSE,FALSE
 "access to official statistics","7.4","rjstat","https://cran.r-project.org/package=rjstat","R",TRUE,TRUE,TRUE
 "access to official statistics","7.4","censusapi","https://cran.r-project.org/package=censusapi","R",TRUE,TRUE,TRUE
 "access to official statistics","7.4","nsoApi","https://github.com/bowerth/nsoApi","R",TRUE,TRUE,TRUE
 "access to official statistics","7.4","CANSIM2R","https://CRAN.R-project.org/package=CANSIM2R","R",TRUE,TRUE,TRUE
 "access to official statistics","7.4","pyscbwrapper","https://github.com/kirajcg/pyscbwrapper","Python",TRUE,FALSE,FALSE
+"access to official statistics","7.4","rdbnomics","https://git.nomics.world/dbnomics/rdbnomics","R",TRUE,TRUE,TRUE
 "access to official statistics","7.4","readabs","https://cran.r-project.org/package=readabs","R",TRUE,TRUE,TRUE
