@@ -20,11 +20,6 @@ gsbpm_number <- function(x){
   tolower(trimws(gsub("\\)","",y)))
 }
 
-# get all text after the last closing round bracket.
-description <- function(x){
-  sub(".*\\).*?","\\1",x)
-}
-
 # get term between the first pair of square brackets.
 software <- function(x){
   sub(".*\\[(.*?)\\].*","\\1",x)
@@ -39,6 +34,11 @@ platform <- function(x){
   trimws(sub("^(.*?) .*","\\1",x))
 }
 
+# get all text after the last closing round bracket.
+description <- function(x){
+  sub(".*\\).*?","\\1",x)
+}
+
 get_attributes <- function(x){
   d <- list(stringsAsFactors=FALSE)
 
@@ -46,10 +46,10 @@ get_attributes <- function(x){
   d$gsbpm_number <- gsbpm_number(x)
   v <- trimws(strsplit(x,"\n-")[[1]][-1])
   #d$v <- v
-  d$description <- description(v)
   d$software <- software(v)
   d$link <- link(v)
   d$platform <- platform(v)
+  d$description <- description(v)
   do.call(data.frame,d)
 
 }
@@ -88,3 +88,4 @@ out$linux <- out$Mac
 
 
 write.csv(out,file="data/software.csv",row.names=FALSE)
+
