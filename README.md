@@ -101,8 +101,8 @@ produced maintained and distributed by the US Census Bureau.
 
  
 #### Statistical disclosure control ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 6.4)
-- Java application [μ-ARGUS](http://research.cbs.nl/casc/) and (https://github.com/sdcTools/muargus). Tool to create safe micro-data files.
-- Java application [T-ARGUS](http://research.cbs.nl/casc/) and (https://github.com/sdcTools/tauargus). Tool to protect statistical tables.
+- Java application [μ-ARGUS](https://github.com/sdcTools/muargus). Tool to create safe micro-data files. See also the [casc page](http://research.cbs.nl/casc/).
+- Java application [T-ARGUS](https://github.com/sdcTools/tauargus). Tool to protect statistical tables. See also the [casc page](http://research.cbs.nl/casc/).
 - R package [sdcMicro](https://CRAN.R-project.org/package=sdcMicro). Disclosure control for statistical microdata.
 - R package [sdcTable](https://CRAN.R-project.org/package=sdcTable). Disclosure control for tabulated data.
 - R package [easySdcTable](https://CRAN.R-project.org/package=easySdcTable) provides an interface to the package sdcTable.
