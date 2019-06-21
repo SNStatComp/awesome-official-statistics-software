@@ -15,11 +15,9 @@ are actively maintained.
 [Contributions](#contributions) are welcome.
 
 
-
 *****
 
 #### Design frame and sample ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 2.1)
-
 - R package [SamplingStrata]( http://cran.stat.unipd.it/web/packages/SamplingStrata/index.html). Optimal Stratification of Sampling Frames for Multipurpose Sampling Surveys.
 
 #### Sampling ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 4.1)
@@ -31,15 +29,17 @@ for drawing (complex) survey samples and calibrating design weights.
 #### Scraping for Statistics ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 4.3)
 - Java application [URLSearcher](https://github.com/SummaIstat/UrlSearcher). An application for searching Urls. Can be used to find websites of enterprise. By ISTAT.
 - Java application [URLScorer](https://github.com/SummaIstat/UrlScorer). Gives a rule based score to scraped documents in a Solr database. By ISTAT.
-- node.js tool [RobotTool](https://github.com/SNStatComp/RobotTool). A tool for checking (price) changes on the web. By Statistics Netherlands.
+- Node.js tool [RobotTool](https://github.com/SNStatComp/RobotTool). A tool for checking (price) changes on the web. By Statistics Netherlands.
 - Python [Social-Media-Presence](https://github.com/jmaslankowski/WP2-Social-Media-Presence). A script for detecting social media presence on enterprises websites. By Statistics Poland.
 - Python [Sustainability Reporting](https://github.com/AlessandraSozzi/MSc-dissertation). A script for measuring sustainability reporting from enterprises websites. By ONS.
-- node.js package [S4Sroboto](https://github.com/SNStatComp/S4Sroboto). A crawler framework, derived from the general package [roboto](https://www.npmjs.com/package/roboto) extended with some functionalities for statistical scraping. By Statistics Netherlands
+- Node.js package [S4Sroboto](https://github.com/SNStatComp/S4Sroboto). A crawler framework, derived from the general package [roboto](https://www.npmjs.com/package/roboto) extended with some functionalities for statistical scraping. By Statistics Netherlands
+
 
 #### Process ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 5)
 - R package [blaise](https://CRAN.R-project.org/package=blaise). Reading and writing Files in the Blaise Format from R. By Statistics Netherlands.
 - Java application [Java-VTL](https://github.com/statisticsnorway/java-vtl). A partial implementation of the Validation Transformation Language, based on the VTL 1.1 draft specification. By Statistics Norway.
 - Java application [ADaMSoft](http://adamsoft.sourceforge.net) implements procedures for data analysis, data, web and text mining. Also contains procedures for data validation and imputation, based on the principle of Fellegi and Holt.
+
 
 #### Data integration and record linkage ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 5.1)
 - R package [reclin](https://cran.r-project.org/web/packages/reclin/index.html). Functions to assist in performing probabilistic record linkage and deduplication: generating pairs, comparing records, em-algorithm for estimating m- and u-probabilities, forcing one-to-one matching. Can also be used for pre- and post-processing for machine learning methods for record linkage.
@@ -49,9 +49,7 @@ for drawing (complex) survey samples and calibrating design weights.
 - R package [XBRL](https://CRAN.R-project.org/package=XBRL). Extraction of Business Financial Information from [XBRL](https://www.xbrl.org/) Documents
 
 
-
 #### Statistical data editing and imputation  ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 5.3 | 5.4)
-
 - R package [validate](https://CRAN.R-project.org/package=validate). Rule management and data validation.
 - R package [validatetools](https://CRAN.R-project.org/package=validatetools). Checking and simplifying sets of validation rules.
 - R package [errorlocate](https://CRAN.R-project.org/package=errorlocate). Error localisation based on the principle of Fellegi and Holt.
@@ -72,8 +70,8 @@ for drawing (complex) survey samples and calibrating design weights.
 - R package [extremevalues](https://CRAN.R-project.org/package=extremevalues). Detection of univariate outliers based on modeling the bulk distribution.
 - R package [deductive](https://cran.r-project.org/web/packages=deductive). Deductive correction and imputation using edit rules and (partially) complete data.
 
-#### Estimation and weighting ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 5.6 | 5.7)
 
+#### Estimation and weighting ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 5.6 | 5.7)
 - R package [survey](https://CRAN.R-project.org/package=survey). Weighting and estimation for complex survey designs, possibly under nonresponse. Also computes estimator variance. See also R package [srvyr](https:://CRAN.R-project.org/package=survey) for integration with 
 [tidy tools](https://cran.r-project.org/web/packages/tidyverse/vignettes/manifesto.html).
 - R package [hbsae](https://CRAN.R-project.org/package=hbsae). Small area estimation based on hierarchical Bayesian models.
@@ -87,9 +85,9 @@ based on (robust) maximum likelihood estimation.
 - R package [gustave](https://cran.r-project.org/package=gustave). Provides a toolkit for analytical variance estimation in survey sampling.
 - R package [rtrim](https://cran.r-project.org/package=rtrim). Trends and Indices for Monitoring data. Provides tools for estimating animal/plant populations based on site counts, including occurrence of missing data.
 
-#### Time series and seasonal adjustment ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 5.6 | 5.7)
 
-- [X-13ARIMA-SEATS](https://www.census.gov/srd/www/x13as/) Seasonal adjustment software
+#### Time series and seasonal adjustment ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 5.6 | 5.7)
+- Fortran [X-13ARIMA-SEATS](https://www.census.gov/srd/www/x13as/) Seasonal adjustment software
 produced maintained and distributed by the US Census Bureau.
 - R package [seasonal](https://CRAN.R-project.org/package=seasonal). Interface to the `X13-ARIMA-SEATS` program from R with a very nice shiny GUI.
 - R package [x12](https://CRAN.R-project.org/package=x12). Alternative interface to the `X13-ARIMA-SEATS` program from R with a focus on batch processing time series.
@@ -97,9 +95,9 @@ produced maintained and distributed by the US Census Bureau.
 - R package [RJDemetra](https://jdemetra.github.io/rjdemetra/) R interface to JDemetra+.
 - R package [tempdisagg](https://cran.r-project.org/package=tempdisagg) methods for temporal disaggregation and interpolation of time series.
 
+
 #### Output validation ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 6.2)
 - R package [validate](https://CRAN.R-project.org/package=validate). Rule management and data validation.
-
 
  
 #### Statistical disclosure control ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 6.4)
@@ -114,23 +112,20 @@ produced maintained and distributed by the US Census Bureau.
 - R package [simPop](https://CRAN.R-project.org/package=simPop). Simulation of synthetic populations from census/survey data considering auxiliary information.
 
 
-
-
 #### Statistical Dissemination ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 7.2)
-- [SDMX Converter](https://webgate.ec.europa.eu/fpfis/mwikis/sdmx/index.php/SDMX_Converter). Converter between differnt versions of SDMX and formats such as CSV, FLR etc. from Eurostat.
-- [SDMX-RI](https://webgate.ec.europa.eu/fpfis/mwikis/sdmx/index.php/SDMX_Reference_Infrastructure_SDMX-RI). Framework for disseminating data in SDMX webservices from Eurostat.
+- Java application [SDMX Converter](https://webgate.ec.europa.eu/fpfis/mwikis/sdmx/index.php/SDMX_Converter). Converter between differnt versions of SDMX and formats such as CSV, FLR etc. from Eurostat.
+- Java application [SDMX-RI](https://webgate.ec.europa.eu/fpfis/mwikis/sdmx/index.php/SDMX_Reference_Infrastructure_SDMX-RI). Framework for disseminating data in SDMX webservices from Eurostat.
 - R package [rsdmx](https://github.com/opensdmx/rsdmx). Read SDMX into R.
-- [StatMiner](http://research.cbs.nl/Projects/StatMine/), Experimental visualization framework from Statistics Netherlands. [(github)](https://github.com/statmine/statminer), [(demo)](http://statmine.github.io/statminer)
-- [SDMX-JSON](https://github.com/sdmx-twg/sdmx-json/blob/master/data-message/docs/1-sdmx-json-field-guide.md). JSON variant of SDMX. This is still a candidate standard.
-- [JSON-Stat](https://json-stat.org/). Lightweight JSON based message format for statistical dissemination.
+- Node.js [StatMiner](http://research.cbs.nl/Projects/StatMine/), Experimental visualization framework from Statistics Netherlands. [(github)](https://github.com/statmine/statminer), [(demo)](http://statmine.github.io/statminer)
+- JSON [SDMX-JSON](https://github.com/sdmx-twg/sdmx-json/blob/master/data-message/docs/1-sdmx-json-field-guide.md). JSON variant of SDMX. This is still a candidate standard.
+- Node.js package [JSON-Stat](https://json-stat.org/). Lightweight JSON based message format for statistical dissemination.
 
 #### Visualisation ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 7.2)
-
 - R package [tabplot](https://CRAN.R-project.org/package=tabplot). Compare up
   to about 10-20 variables simultaneously using a [tableplot](https://cran.r-project.org/web/packages/tabplot/vignettes/tabplot-vignette.html). See also [tabplotd3](https://CRAN.R-project.org/package=tabplot) for a
 web-based GUI.
 - R package [tmap](https://CRAN.R-project.org/package=tmap) Thematic geographic maps, including bubble charts, choropleths, and more.
-- A (growing) list of simplified maps useful for web cartography for World, Europe and countries [cartomap](https://github.com/cartomap)
+- geojson/topojson [cartomap](https://github.com/cartomap) A (growing) list of simplified maps useful for web cartography for World, Europe and countries.
 - R package [treemap](https://CRAN.R-project.org/package=treemap). Space-filling visualisation of hierarchical data.
 - R package [btb](https://CRAN.R-project.org/package=btb). Conservative kernel smoothing method for spatial analysis.
 
@@ -146,7 +141,7 @@ web-based GUI.
 [INEGI](http://www.inegi.org.mx/), Mexico's official statistics agency.
 - R package [cbsodataR](https://CRAN.R-project.org/package=cbsodataR). Access
   to Statistics Netherlands' ([CBS](http://www.CBS.nl)) open data API from R.
-- npm package [cbsodata.js](https://github.com/statmine/cbsodata.js). Access
+- Node.js package [cbsodata.js](https://github.com/statmine/cbsodata.js). Access
   to Statistics Netherlands' ([CBS](http://www.CBS.nl)) open data API from js.
 - python package [cbsodata.py](https://github.com/J535D165/cbsodata). Access to Statistics Netherlands' ([CBS](http://www.CBS.nl)) open data API from Python.
 - R package [rjstat](https://cran.r-project.org/package=rjstat). Read and write data sets in the JSON-stat format. 
@@ -173,7 +168,6 @@ issue tracker. (you need a GH account)
 ```
 [![Mentioned in Awesome Official Statistics ](https://awesome.re/mentioned-badge.svg)](http://www.awesomeofficialstatistics.org)
 ```
-
 
 
 ## License
