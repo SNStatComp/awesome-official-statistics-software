@@ -101,11 +101,10 @@ produced maintained and distributed by the US Census Bureau.
 
  
 #### Statistical disclosure control ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 6.4)
-- [Argus](http://research.cbs.nl/casc/) and [SDC Tools](https://github.com/sdcTools). Tools like Tau-Argus and Mu-Argus for dististical disclosure control from Statistics Netherlands and the Statistical disclosure control netwerk.
-- R package [sdcMicro](https://CRAN.R-project.org/package=sdcMicro). Disclosure
-  control for statistical microdata.
-- R package [sdcTable](https://CRAN.R-project.org/package=sdcTable). Disclosure
-  control for tabulated data.
+- Java application [μ-ARGUS](http://research.cbs.nl/casc/) and (https://github.com/sdcTools/muargus). Tool to create safe micro-data files.
+- Java application [T-ARGUS](http://research.cbs.nl/casc/) and (https://github.com/sdcTools/tauargus). Tool to protect statistical tables.
+- R package [sdcMicro](https://CRAN.R-project.org/package=sdcMicro). Disclosure control for statistical microdata.
+- R package [sdcTable](https://CRAN.R-project.org/package=sdcTable). Disclosure control for tabulated data.
 - R package [easySdcTable](https://CRAN.R-project.org/package=easySdcTable) provides an interface to the package sdcTable.
 - R package [sdcHierarchies](https://CRAN.R-project.org/package=sdcHierarchies) allows to generate, modify and export nested hierarchies.
 - R package [SmallCountRounding](https://CRAN.R-project.org/package=SmallCountRounding) can be used to protect frequency tables by rounding necessary inner cells so that cross-classifications to be published are safe.
@@ -131,7 +130,6 @@ web-based GUI.
 
 
 #### Access to official statistics ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 7.4)
-
 - R package [rsdmx](https://github.com/opensdmx/rsdmx). Easy access to data from statistical organisations that support SDMX webservices. The package contains a list of SDMX access points of various national and international statistical institutes.
 - R package [oecd](https://cran.r-project.org/web/packages/OECD/index.html) Search and Extract Data from the OECD
 - R package [sorvi](https://CRAN.R-project.org/package=sorvi) Finnish Open Government Data Toolkit
