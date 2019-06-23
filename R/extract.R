@@ -1,5 +1,4 @@
 
-
 remove_lines <- function(x,n=1){
   x <- sub(".*?\\n","",x)
   if (n == 1) x else remove_lines(x,n-1)

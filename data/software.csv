@@ -88,7 +88,7 @@ web-based GUI.",TRUE,TRUE,TRUE
   to Statistics Netherlands' ([CBS](http://www.CBS.nl)) open data API from R.",TRUE,TRUE,TRUE
 "access to official statistics","7.4","cbsodata.js","https://github.com/statmine/cbsodata.js","Node.js",". Access
   to Statistics Netherlands' ([CBS](http://www.CBS.nl)) open data API from js.",TRUE,FALSE,FALSE
-"access to official statistics","7.4","cbsodata.py","https://github.com/J535D165/cbsodata","python",". Access to Statistics Netherlands' ([CBS](http://www.CBS.nl)) open data API from Python.",TRUE,FALSE,FALSE
+"access to official statistics","7.4","cbsodata.py","https://github.com/J535D165/cbsodata","Python",". Access to Statistics Netherlands' ([CBS](http://www.CBS.nl)) open data API from Python.",TRUE,FALSE,FALSE
 "access to official statistics","7.4","rjstat","https://cran.r-project.org/package=rjstat","R",". Read and write data sets in the JSON-stat format.",TRUE,TRUE,TRUE
 "access to official statistics","7.4","censusapi","https://cran.r-project.org/package=censusapi","R"," A wrapper for the U.S. Census Bureau APIs that returns data frames of Census data and metadata.",TRUE,TRUE,TRUE
 "access to official statistics","7.4","nsoApi","https://github.com/bowerth/nsoApi","R"," builds on other packages to access data from official statistics and tries to harmonize the API.",TRUE,TRUE,TRUE
