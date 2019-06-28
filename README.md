@@ -10,7 +10,8 @@ An awesome list of open source statistical software packages useful for creating
 We prefer packages that are reasonably easy to install and use, that have at least one stable version, and that are actively maintained.
 
 [Contributions](#contributions) are welcome.
-See [here](https://observablehq.com/@donthebike/visualizing-awesomeofficialstatistics-org) for some visualisations of the list.
+There is also a visual version of the list: ![clickable awesome](viz/ClickableAwesome.png "visual awesome list")
+See [here](https://observablehq.com/@donthebike/visualizing-awesomeofficialstatistics-org) for some other visualisations.
 
 
 *****
