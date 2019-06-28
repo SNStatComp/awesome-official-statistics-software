@@ -7,7 +7,7 @@ An awesome list of open source statistical software packages useful for creating
 2. it is confirmed to be used in the production of official statistics by at least one institute, or
 3. it provides access to official statistics publications.
 
-We prefer packages that are reasonably easy to install and use, that have at least one stable version, and that are actively maintained.
+We prefer packages that are easy to install and use, have at least one stable version, and are actively maintained.
 
 [Contributions](#contributions) are welcome.
 
