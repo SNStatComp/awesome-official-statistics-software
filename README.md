@@ -11,7 +11,6 @@ We prefer packages that are reasonably easy to install and use, that have at lea
 
 [Contributions](#contributions) are welcome.
 
-[![Mentioned in Awesome Official Statistics ](https://awesome.re/mentioned-badge.svg)](http://www.awesomeofficialstatistics.org)
 There is also a clickable version [![clickable version](viz/ClickableAwesomeSmall.png)](https://observablehq.com/@donthebike/clickable-awesomeofficialstatistics-org) and
 [other visuals](https://observablehq.com/@donthebike/visualizing-awesomeofficialstatistics-org).
 
