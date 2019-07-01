@@ -119,7 +119,7 @@ produced maintained and distributed by the US Census Bureau.
 - Python [pandaSDMX](https://github.com/dr-leo/pandaSDMX). Python interface to SDMX that facilitates the acquisition and analysis of SDMX-2.1 compliant data and metadata.
 - Node.js [StatMiner](http://research.cbs.nl/Projects/StatMine/), Experimental visualization framework from Statistics Netherlands. [(github)](https://github.com/statmine/statminer), [(demo)](http://statmine.github.io/statminer)
 - JSON [SDMX-JSON](https://github.com/sdmx-twg/sdmx-json/blob/master/data-message/docs/1-sdmx-json-field-guide.md). JSON variant of SDMX. This is still a candidate standard.
-- Node.js package [JSON-Stat](https://json-stat.org/). API to lightweight JSON based message format for statistical dissemination.
+- [JSON-stat](https://json-stat.org/), lightweight JSON format for statistical dissemination.
 
 #### Visualisation ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 7.2)
 - R package [tabplot](https://CRAN.R-project.org/package=tabplot). Compare up
@@ -129,7 +129,7 @@ web-based GUI.
 - geojson/topojson [cartomap](https://github.com/cartomap) A (growing) list of simplified maps useful for web cartography for World, Europe and countries.
 - R package [treemap](https://CRAN.R-project.org/package=treemap). Space-filling visualisation of hierarchical data.
 - R package [btb](https://CRAN.R-project.org/package=btb). Conservative kernel smoothing method for spatial analysis.
-
+- [Visual](https://github.com/idescat/visual), Javascript library for data visualization developed by the Statistical Institute of Catalonia (Idescat).
 
 #### Access to official statistics ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 7.4)
 - R package [rsdmx](https://github.com/opensdmx/rsdmx). Easy access to data from statistical organisations that support SDMX webservices. The package contains a list of SDMX access points of various national and international statistical institutes.
@@ -144,7 +144,10 @@ web-based GUI.
 - Node.js package [cbsodata.js](https://github.com/statmine/cbsodata.js). Access
   to Statistics Netherlands' ([CBS](http://www.CBS.nl)) open data API from js.
 - Python package [cbsodata.py](https://github.com/J535D165/cbsodata). Access to Statistics Netherlands' ([CBS](http://www.CBS.nl)) open data API from Python.
+- Client and Node.js [JSON-stat Toolkit](https://json-stat.com/). Set of solutions to deal with JSON-stat responses: the [JSON-stat Javascript Toolkit](https://www.npmjs.com/package/jsonstat), the [JSON-stat Javascript Utilities Suite](https://www.npmjs.com/package/jsonstat-utils) and the [JSON-stat Command Line Conversion Tools](https://www.npmjs.com/package/jsonstat-conv).
 - R package [rjstat](https://cran.r-project.org/package=rjstat). Read and write data sets in the JSON-stat format. 
+- Python package [pyjstat](https://pypi.org/project/pyjstat/). Read and write JSON-stat.
+- Java module [json-stat.java](https://github.com/statisticsnorway/json-stat.java) from Statistics Norway. Read and write JSON-stat.
 - R package [censusapi](https://cran.r-project.org/package=censusapi) A wrapper for the U.S. Census Bureau APIs that returns data frames of Census data and metadata.
 - R package [nsoApi](https://github.com/bowerth/nsoApi) builds on other packages to access data from official statistics and tries to harmonize the API.
 - R package [CANSIM2R](https://CRAN.R-project.org/package=CANSIM2R). Extract CANSIM (Statistics Canada) tables and transform them into readily usable data.
