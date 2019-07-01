@@ -119,7 +119,7 @@ produced maintained and distributed by the US Census Bureau.
 - Python [pandaSDMX](https://github.com/dr-leo/pandaSDMX). Python interface to SDMX that facilitates the acquisition and analysis of SDMX-2.1 compliant data and metadata.
 - Node.js [StatMiner](http://research.cbs.nl/Projects/StatMine/), Experimental visualization framework from Statistics Netherlands. [(github)](https://github.com/statmine/statminer), [(demo)](http://statmine.github.io/statminer)
 - JSON [SDMX-JSON](https://github.com/sdmx-twg/sdmx-json/blob/master/data-message/docs/1-sdmx-json-field-guide.md). JSON variant of SDMX. This is still a candidate standard.
-- [JSON-stat](https://json-stat.org/), lightweight JSON format for statistical dissemination.
+- [JSON-stat](https://json-stat.org/), lightweight JSON standard for statistical dissemination.
 
 #### Visualisation ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 7.2)
 - R package [tabplot](https://CRAN.R-project.org/package=tabplot). Compare up
