@@ -129,7 +129,7 @@ web-based GUI.
 - geojson/topojson [cartomap](https://github.com/cartomap) A (growing) list of simplified maps useful for web cartography for World, Europe and countries.
 - R package [treemap](https://CRAN.R-project.org/package=treemap). Space-filling visualisation of hierarchical data.
 - R package [btb](https://CRAN.R-project.org/package=btb). Conservative kernel smoothing method for spatial analysis.
-- [Visual](https://github.com/idescat/visual), Javascript library for data visualization developed by the Statistical Institute of Catalonia (Idescat).
+- Javascript library [Visual](https://github.com/idescat/visual). Data visualization library developed by the Statistical Institute of Catalonia (Idescat).
 
 #### Access to official statistics ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 7.4)
 - R package [rsdmx](https://github.com/opensdmx/rsdmx). Easy access to data from statistical organisations that support SDMX webservices. The package contains a list of SDMX access points of various national and international statistical institutes.
