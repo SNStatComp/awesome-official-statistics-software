@@ -75,7 +75,7 @@ L <- L[-1]
 # create main data.frame
 x <- lapply(L,get_attributes)
 out <- do.call(rbind,lapply(L,get_attributes))
-View(out)
+# View(out)
 # clean up still existing links
 
 out$platform <- replace_markdown_links(out$platform)
