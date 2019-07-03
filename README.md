@@ -114,12 +114,10 @@ produced maintained and distributed by the US Census Bureau.
 #### Statistical Dissemination ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 7.2)
 - Java application [SDMX Converter](https://webgate.ec.europa.eu/fpfis/mwikis/sdmx/index.php/SDMX_Converter). Converter between differnt versions of SDMX and formats such as CSV, FLR etc. from Eurostat.
 - Java application [SDMX-RI](https://webgate.ec.europa.eu/fpfis/mwikis/sdmx/index.php/SDMX_Reference_Infrastructure_SDMX-RI). Framework for disseminating data in SDMX webservices from Eurostat.
-- R package [rsdmx](https://github.com/opensdmx/rsdmx). Read SDMX into R.
 - R package and C++ [readSDMX](https://cran.r-project.org/package=readsdmx). Read SDMX into dataframes from local SDMX-ML file or web-service. By OECD.
 - Python [pandaSDMX](https://github.com/dr-leo/pandaSDMX). Python interface to SDMX that facilitates the acquisition and analysis of SDMX-2.1 compliant data and metadata.
-- Node.js [StatMiner](http://research.cbs.nl/Projects/StatMine/), Experimental visualization framework from Statistics Netherlands. [(github)](https://github.com/statmine/statminer), [(demo)](http://statmine.github.io/statminer)
 - JSON [SDMX-JSON](https://github.com/sdmx-twg/sdmx-json/blob/master/data-message/docs/1-sdmx-json-field-guide.md). JSON variant of SDMX. This is still a candidate standard.
-- JSON [JSON-stat](https://json-stat.org/), Lightweight JSON standard for statistical dissemination. Comes with libraries and sample code for several programming languages: JavaScript, R, Java, Python, Julia, PHP, and even the command line.
+- JSON [JSON-stat](https://json-stat.org/). Lightweight JSON standard for statistical dissemination. Comes with libraries and sample code for several programming languages: JavaScript, R, Java, Python, Julia, PHP, and even the command line.
 
 #### Visualisation ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 7.2)
 - R package [tabplot](https://CRAN.R-project.org/package=tabplot). Compare up
@@ -130,6 +128,7 @@ web-based GUI.
 - geojson/topojson [cartomap](https://github.com/cartomap) A (growing) list of simplified maps useful for web cartography for World, Europe and countries.
 - R package [treemap](https://CRAN.R-project.org/package=treemap). Space-filling visualisation of hierarchical data.
 - R package [btb](https://CRAN.R-project.org/package=btb). Conservative kernel smoothing method for spatial analysis.
+- Node.js [StatMiner](http://research.cbs.nl/Projects/StatMine/), Experimental visualization framework from Statistics Netherlands. [(github)](https://github.com/statmine/statminer), [(demo)](http://statmine.github.io/statminer)
 - Node.js [Visual](https://github.com/idescat/visual). Javascript library for data visualization that encapsulates complexity supporting chart types such as bar, rank, pie, time series bar/line, population pyramid, scatterplots and Choropleth maps. By Idescat.
 - Node.js system [.Stat Suite](https://sis-cc.gitlab.io/dotstatsuite-documentation/). An SDMX-based platform to build tailored data portals, topical or regional data explorers, or lightweight reporting platforms. By OECD.
 
