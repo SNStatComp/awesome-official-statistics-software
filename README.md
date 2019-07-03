@@ -21,7 +21,7 @@ There is also a clickable version [![clickable version](viz/ClickableAwesomeSmal
 - R package [SamplingStrata]( http://cran.stat.unipd.it/web/packages/SamplingStrata/index.html). Optimal Stratification of Sampling Frames for Multipurpose Sampling Surveys.
 
 #### Design variable descriptions ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 2.2)
-- Excel [SDMX Matrix Generator](https://github.com/OECDSTD/sdmx-matrix-generator). Excel-based visual SDMX artefact authoring tool which generates SDMX-ML for upload into an SDMX repository (such as a registry).By OECD.
+- Excel [SDMX Matrix Generator](https://github.com/OECDSTD/sdmx-matrix-generator). Excel-based visual SDMX artefact authoring tool which generates SDMX-ML for upload into an SDMX repository such as a registry. By OECD.
 
 #### Sampling ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 4.1)
 - R package [sampling](https://CRAN.R-project.org/package=sampling). Several algorithms
@@ -48,7 +48,8 @@ for drawing (complex) survey samples and calibrating design weights.
 - R package [reclin](https://cran.r-project.org/web/packages/reclin/index.html). Functions to assist in performing probabilistic record linkage and deduplication: generating pairs, comparing records, em-algorithm for estimating m- and u-probabilities, forcing one-to-one matching. Can also be used for pre- and post-processing for machine learning methods for record linkage.
 - R package [RecordLinkage](https://CRAN.R-project.org/package=RecordLinkage). Implementation of the Fellegi-Sunter method for record linkage.
 - R package [fastLink](https://cran.r-project.org/web/packages/fastLink/index.html). Implements a Fellegi-Sunter probabilistic record linkage model that allows for missing data and the inclusion of auxiliary information. Documentation can be found on http://imai.princeton.edu/research/linkage.html
-- R packages [stringdist](https://CRAN.R-project.org/package=stringdist) and [fuzzyjoin](https://CRAN.R-project.org/package=fuzzyjoin) allow for matching records based on inaccurate keys.
+- R packages [stringdist](https://CRAN.R-project.org/package=stringdist). Implements approximate string matching. Support various string distances (Damerau-Levenshtein, Hamming, Levenshtein, optimal sting alignment), qgrams (q- gram, cosine, jaccard distance) and heuristic metrics (Jaro, Jaro-Winkler). An implementation of soundex is provided as well.
+- R packages [fuzzyjoin](https://CRAN.R-project.org/package=fuzzyjoin). Join tables based on exact or similar matches. Allow for matching records based on inaccurate keys.
 - R package [XBRL](https://CRAN.R-project.org/package=XBRL). Extraction of Business Financial Information from [XBRL](https://www.xbrl.org/) Documents
 
 
