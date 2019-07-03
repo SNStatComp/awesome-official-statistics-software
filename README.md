@@ -20,6 +20,9 @@ There is also a clickable version [![clickable version](viz/ClickableAwesomeSmal
 #### Design frame and sample ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 2.1)
 - R package [SamplingStrata]( http://cran.stat.unipd.it/web/packages/SamplingStrata/index.html). Optimal Stratification of Sampling Frames for Multipurpose Sampling Surveys.
 
+#### Design variable descriptions ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 2.2)
+- Excel [SDMX Matrix Generator](https://github.com/OECDSTD/sdmx-matrix-generator). Excel-based visual SDMX artefact authoring tool which generates SDMX-ML for upload into an SDMX repository (such as a registry).By OECD.
+
 #### Sampling ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 4.1)
 - R package [sampling](https://CRAN.R-project.org/package=sampling). Several algorithms
 for drawing (complex) survey samples and calibrating design weights.

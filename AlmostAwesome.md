@@ -5,12 +5,6 @@ We keep this list for a reference. It is freely accessible to everyone.
 
 *****
 
-#### 2.1 Design outputs (Dataflows design in Dataflows and DSD-Concept Matrix worksheets)
-#### 2.2 Design variable descriptions (decomposition and creation of indicators in Indicator-Concept Matrix worksheet)
-#### 3.1 Reuse or build collection instruments (generating SDMX-ML for reporting Dataflows)
-#### 3.3 Reuse or build dissemination instruments (generating SDMX-ML for dissemination Dataflows)
-- Excel [SDMX Matrix Generator](https://github.com/OECDSTD/sdmx-matrix-generator). Excel-based visual SDMX artefact authoring tool which generates SDMX-ML for upload into an SDMX repository (such as a registry).By OECD.
-
 
 
 ## License
