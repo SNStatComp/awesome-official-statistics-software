@@ -128,7 +128,7 @@ web-based GUI.
 - geojson/topojson [cartomap](https://github.com/cartomap) A (growing) list of simplified maps useful for web cartography for World, Europe and countries.
 - R package [treemap](https://CRAN.R-project.org/package=treemap). Space-filling visualisation of hierarchical data.
 - R package [btb](https://CRAN.R-project.org/package=btb). Conservative kernel smoothing method for spatial analysis.
-- Node.js [StatMiner](http://research.cbs.nl/Projects/StatMine/), Experimental visualization framework from Statistics Netherlands. [(github)](https://github.com/statmine/statminer), [(demo)](http://statmine.github.io/statminer)
+- Node.js [StatMiner](http://research.cbs.nl/Projects/StatMine/), Experimental visualization framework from Statistics Netherlands.
 - Node.js [Visual](https://github.com/idescat/visual). Javascript library for data visualization that encapsulates complexity supporting chart types such as bar, rank, pie, time series bar/line, population pyramid, scatterplots and Choropleth maps. By Idescat.
 - Node.js system [.Stat Suite](https://sis-cc.gitlab.io/dotstatsuite-documentation/). An SDMX-based platform to build tailored data portals, topical or regional data explorers, or lightweight reporting platforms. By OECD.
 
