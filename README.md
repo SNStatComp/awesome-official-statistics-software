@@ -113,8 +113,8 @@ produced maintained and distributed by the US Census Bureau.
 - R package [sdcHierarchies](https://CRAN.R-project.org/package=sdcHierarchies) allows to generate, modify and export nested hierarchies.
 - R package [SmallCountRounding](https://CRAN.R-project.org/package=SmallCountRounding) can be used to protect frequency tables by rounding necessary inner cells so that cross-classifications to be published are safe.
 - R package [simPop](https://CRAN.R-project.org/package=simPop). Simulation of synthetic populations from census/survey data considering auxiliary information.
-- R package [sdcSpatial](https://CRAN.R-project.org/package=sdcSpatial). Create privacy protected density maps from location data. Includes sensitivity assessment and several protection methods.
 
+- R package [sdcSpatial](https://CRAN.R-project.org/package=sdcSpatial). Create privacy protected density maps from location data. Includes visual sensitivity assessment and several protection methods.
 
 #### Statistical Dissemination ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 7.2)
 - Java application [SDMX Converter](https://webgate.ec.europa.eu/fpfis/mwikis/sdmx/index.php/SDMX_Converter). Converter between differnt versions of SDMX and formats such as CSV, FLR etc. from Eurostat.
@@ -130,13 +130,13 @@ produced maintained and distributed by the US Census Bureau.
 web-based GUI.
 - R package [tmap](https://CRAN.R-project.org/package=tmap). Thematic geographic maps, including bubble charts, choropleths, and more.
 - R package [oceanis](https://CRAN.R-project.org/package=oceanis). To create maps for statistical analysis such as proportional circles, chroropleth, typology and flows. By INSEE.
-- R package [sdcSpatial](https://CRAN.R-project.org/package=sdcSpatial). Create privacy protected density maps from location data. Includes sensitivity assessment and several protection methods.
 - geojson/topojson [cartomap](https://github.com/cartomap) A (growing) list of simplified maps useful for web cartography for World, Europe and countries.
 - R package [treemap](https://CRAN.R-project.org/package=treemap). Space-filling visualisation of hierarchical data.
 - R package [btb](https://CRAN.R-project.org/package=btb). Conservative kernel smoothing method for spatial analysis.
 - Node.js [StatMiner](http://research.cbs.nl/Projects/StatMine/), Experimental visualization framework from Statistics Netherlands.
 - Node.js [Visual](https://github.com/idescat/visual). Javascript library for data visualization that encapsulates complexity supporting chart types such as bar, rank, pie, time series bar/line, population pyramid, scatterplots and Choropleth maps. By Idescat.
 - Node.js system [.Stat Suite](https://sis-cc.gitlab.io/dotstatsuite-documentation/). An SDMX-based platform to build tailored data portals, topical or regional data explorers, or lightweight reporting platforms. By OECD.
+- R package [sdcSpatial](https://CRAN.R-project.org/package=sdcSpatial). Create privacy protected density maps from location data. Includes sensitivity assessment and several protection methods.
 
 #### Access to official statistics ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 7.4)
 - R package [rsdmx](https://github.com/opensdmx/rsdmx). Easy access to data from statistical organisations that support SDMX webservices. The package contains a list of SDMX access points of various national and international statistical institutes.
