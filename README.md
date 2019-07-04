@@ -113,6 +113,7 @@ produced maintained and distributed by the US Census Bureau.
 - R package [sdcHierarchies](https://CRAN.R-project.org/package=sdcHierarchies) allows to generate, modify and export nested hierarchies.
 - R package [SmallCountRounding](https://CRAN.R-project.org/package=SmallCountRounding) can be used to protect frequency tables by rounding necessary inner cells so that cross-classifications to be published are safe.
 - R package [simPop](https://CRAN.R-project.org/package=simPop). Simulation of synthetic populations from census/survey data considering auxiliary information.
+- R package [sdcSpatial](https://CRAN.R-project.org/package=sdcSpatial). Create privacy protected density maps from location data. Includes visual sensitivity assessment and several protection methods.
 
 
 #### Statistical Dissemination ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 7.2)
