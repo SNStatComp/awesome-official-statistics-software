@@ -114,6 +114,7 @@ produced maintained and distributed by the US Census Bureau.
 - R package [SmallCountRounding](https://CRAN.R-project.org/package=SmallCountRounding) can be used to protect frequency tables by rounding necessary inner cells so that cross-classifications to be published are safe.
 - R package [simPop](https://CRAN.R-project.org/package=simPop). Simulation of synthetic populations from census/survey data considering auxiliary information.
 - R package [sdcSpatial](https://CRAN.R-project.org/package=sdcSpatial). Create privacy protected density maps from location data. Includes visual sensitivity assessment and several protection methods.
+- R package [synthpop](https://CRAN.R-project.org/package=synthpop). Produce synthetic versions of microdata containing confidential information so that they are safe to be released to users for exploratory analysis.
 
 
 #### Statistical Dissemination ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 7.2)
