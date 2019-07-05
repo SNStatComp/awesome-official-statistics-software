@@ -68,12 +68,10 @@ produced maintained and distributed by the US Census Bureau.",TRUE,FALSE,FALSE
 "statistical disclosure control","6.4","simPop","https://CRAN.R-project.org/package=simPop","R",". Simulation of synthetic populations from census/survey data considering auxiliary information.",TRUE,TRUE,TRUE
 "statistical disclosure control","6.4","sdcSpatial","https://CRAN.R-project.org/package=sdcSpatial","R",". Create privacy protected density maps from location data. Includes visual sensitivity assessment and several protection methods.",TRUE,TRUE,TRUE
 "statistical disclosure control","6.4","synthpop","https://CRAN.R-project.org/package=synthpop","R",". Produce synthetic versions of microdata containing confidential information so that they are safe to be released to users for exploratory analysis.",TRUE,TRUE,TRUE
-"statistical dissemination","7.2","SDMX Converter","https://webgate.ec.europa.eu/fpfis/mwikis/sdmx/index.php/SDMX_Converter","Java",". Converter between differnt versions of SDMX and formats such as CSV, FLR etc. from Eurostat.",TRUE,TRUE,TRUE
-"statistical dissemination","7.2","SDMX-RI","https://webgate.ec.europa.eu/fpfis/mwikis/sdmx/index.php/SDMX_Reference_Infrastructure_SDMX-RI","Java",". Framework for disseminating data in SDMX webservices from Eurostat.",TRUE,TRUE,TRUE
-"statistical dissemination","7.2","readSDMX","https://cran.r-project.org/package=readsdmx","R",". Read SDMX into dataframes from local SDMX-ML file or web-service. By OECD.",TRUE,TRUE,TRUE
-"statistical dissemination","7.2","pandaSDMX","https://github.com/dr-leo/pandaSDMX","Python",". Python interface to SDMX that facilitates the acquisition and analysis of SDMX-2.1 compliant data and metadata.",TRUE,FALSE,FALSE
+"statistical dissemination","7.2","SDMX Converter","https://webgate.ec.europa.eu/fpfis/mwikis/sdmx/index.php/SDMX_Converter","Java",". Converter between different versions of SDMX and formats such as CSV, FLR etc. By Eurostat.",TRUE,TRUE,TRUE
+"statistical dissemination","7.2","SDMX-RI","https://webgate.ec.europa.eu/fpfis/mwikis/sdmx/index.php/SDMX_Reference_Infrastructure_SDMX-RI","Java",". Framework for disseminating data in SDMX webservices. By Eurostat.",TRUE,TRUE,TRUE
 "statistical dissemination","7.2","SDMX-JSON","https://github.com/sdmx-twg/sdmx-json/blob/master/data-message/docs/1-sdmx-json-field-guide.md","JSON",". JSON variant of SDMX. This is still a candidate standard.",TRUE,FALSE,FALSE
-"statistical dissemination","7.2","JSON-stat","https://json-stat.org/","JSON",". Lightweight JSON standard for statistical dissemination. Comes with libraries and sample code for several programming languages: JavaScript, R, Java, Python, Julia, PHP, and even the command line.",TRUE,FALSE,FALSE
+"statistical dissemination","7.2","JSON-stat","https://json-stat.org/","JSON",". Lightweight JSON standard for statistical dissemination.",TRUE,FALSE,FALSE
 "visualisation","7.2","tabplot","https://CRAN.R-project.org/package=tabplot","R",". Compare up
   to about 10-20 variables simultaneously using a [tableplot](https://cran.r-project.org/web/packages/tabplot/vignettes/tabplot-vignette.html). See also [tabplotd3](https://CRAN.R-project.org/package=tabplot) for a
 web-based GUI.",TRUE,TRUE,TRUE
@@ -83,21 +81,22 @@ web-based GUI.",TRUE,TRUE,TRUE
 "visualisation","7.2","treemap","https://CRAN.R-project.org/package=treemap","R",". Space-filling visualisation of hierarchical data.",TRUE,TRUE,TRUE
 "visualisation","7.2","btb","https://CRAN.R-project.org/package=btb","R",". Conservative kernel smoothing method for spatial analysis.",TRUE,TRUE,TRUE
 "visualisation","7.2","StatMiner","http://research.cbs.nl/Projects/StatMine/","Node.js",", Experimental visualization framework from Statistics Netherlands.",TRUE,FALSE,FALSE
-"visualisation","7.2","Visual","https://github.com/idescat/visual","Node.js",". Javascript library for data visualization that encapsulates complexity supporting chart types such as bar, rank, pie, time series bar/line, population pyramid, scatterplots and Choropleth maps. By Idescat.",TRUE,FALSE,FALSE
+"visualisation","7.2","Visual","https://github.com/idescat/visual","JavaScript",". Javascript library for data visualization that encapsulates complexity supporting chart types such as bar, rank, pie, time series bar/line, population pyramid, scatterplots and Choropleth maps. By Idescat.",TRUE,FALSE,FALSE
 "visualisation","7.2",".Stat Suite","https://sis-cc.gitlab.io/dotstatsuite-documentation/","Node.js",". An SDMX-based platform to build tailored data portals, topical or regional data explorers, or lightweight reporting platforms. By OECD.",TRUE,FALSE,FALSE
 "access to official statistics","7.4","rsdmx","https://github.com/opensdmx/rsdmx","R",". Easy access to data from statistical organisations that support SDMX webservices. The package contains a list of SDMX access points of various national and international statistical institutes.",TRUE,TRUE,TRUE
+"access to official statistics","7.4","readSDMX","https://cran.r-project.org/package=readsdmx","R",". Read SDMX into dataframes from local SDMX-ML file or web-service. By OECD.",TRUE,TRUE,TRUE
+"access to official statistics","7.4","pandaSDMX","https://github.com/dr-leo/pandaSDMX","Python",". Python interface to SDMX that facilitates the acquisition and analysis of SDMX-2.1 compliant data and metadata.",TRUE,FALSE,FALSE
+"access to official statistics","7.4","rjstat","https://cran.r-project.org/package=rjstat","R",". Read and write data sets in the JSON-stat format.",TRUE,TRUE,TRUE
+"access to official statistics","7.4","pyjstat","https://pypi.org/project/pyjstat/","Python",". Read and write JSON-stat.",TRUE,FALSE,FALSE
+"access to official statistics","7.4","json-stat.java","https://github.com/statisticsnorway/json-stat.java","Java"," Read and write JSON-stat. By Statistics Norway.",TRUE,TRUE,TRUE
 "access to official statistics","7.4","oecd","https://cran.r-project.org/web/packages/OECD/index.html","R"," Search and Extract Data from the OECD",TRUE,TRUE,TRUE
 "access to official statistics","7.4","sorvi","https://CRAN.R-project.org/package=sorvi","R"," Finnish Open Government Data Toolkit",TRUE,TRUE,TRUE
 "access to official statistics","7.4","eurostat","https://CRAN.R-project.org/package=eurostat","R"," Tools to download data from the Eurostat database together with search and manipulation utilities.",TRUE,TRUE,TRUE
 "access to official statistics","7.4","acs","https://CRAN.R-project.org/package=acs","R"," Download, Manipulate, and Present American Community Survey and Decennial Data from the US Census.",TRUE,TRUE,TRUE
-"access to official statistics","7.4","inegiR","https://CRAN.R-project.org/package=inegiR","R"," Access to data published by
-[INEGI](http://www.inegi.org.mx/), Mexico's official statistics agency.",TRUE,TRUE,TRUE
-"access to official statistics","7.4","cbsodataR","https://CRAN.R-project.org/package=cbsodataR","R",". Access
-  to Statistics Netherlands' ([CBS](http://www.CBS.nl)) open data API from R.",TRUE,TRUE,TRUE
-"access to official statistics","7.4","cbsodata.js","https://github.com/statmine/cbsodata.js","Node.js",". Access
-  to Statistics Netherlands' ([CBS](http://www.CBS.nl)) open data API from js.",TRUE,FALSE,FALSE
+"access to official statistics","7.4","inegiR","https://CRAN.R-project.org/package=inegiR","R"," Access to data published by [INEGI](http://www.inegi.org.mx/), Mexico's official statistics agency.",TRUE,TRUE,TRUE
+"access to official statistics","7.4","cbsodataR","https://CRAN.R-project.org/package=cbsodataR","R",". Access to Statistics Netherlands' ([CBS](http://www.CBS.nl)) open data API from R.",TRUE,TRUE,TRUE
+"access to official statistics","7.4","cbsodata.js","https://github.com/statmine/cbsodata.js","Node.js",". Access to Statistics Netherlands' ([CBS](http://www.CBS.nl)) open data API from js.",TRUE,FALSE,FALSE
 "access to official statistics","7.4","cbsodata.py","https://github.com/J535D165/cbsodata","Python",". Access to Statistics Netherlands' ([CBS](http://www.CBS.nl)) open data API from Python.",TRUE,FALSE,FALSE
-"access to official statistics","7.4","rjstat","https://cran.r-project.org/package=rjstat","R",". Read and write data sets in the JSON-stat format.",TRUE,TRUE,TRUE
 "access to official statistics","7.4","censusapi","https://cran.r-project.org/package=censusapi","R"," A wrapper for the U.S. Census Bureau APIs that returns data frames of Census data and metadata.",TRUE,TRUE,TRUE
 "access to official statistics","7.4","nsoApi","https://github.com/bowerth/nsoApi","R"," builds on other packages to access data from official statistics and tries to harmonize the API.",TRUE,TRUE,TRUE
 "access to official statistics","7.4","CANSIM2R","https://CRAN.R-project.org/package=CANSIM2R","R",". Extract CANSIM (Statistics Canada) tables and transform them into readily usable data.",TRUE,TRUE,TRUE

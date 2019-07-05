@@ -118,12 +118,10 @@ produced maintained and distributed by the US Census Bureau.
 
 
 #### Statistical Dissemination ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 7.2)
-- Java application [SDMX Converter](https://webgate.ec.europa.eu/fpfis/mwikis/sdmx/index.php/SDMX_Converter). Converter between differnt versions of SDMX and formats such as CSV, FLR etc. from Eurostat.
-- Java application [SDMX-RI](https://webgate.ec.europa.eu/fpfis/mwikis/sdmx/index.php/SDMX_Reference_Infrastructure_SDMX-RI). Framework for disseminating data in SDMX webservices from Eurostat.
-- R package and C++ [readSDMX](https://cran.r-project.org/package=readsdmx). Read SDMX into dataframes from local SDMX-ML file or web-service. By OECD.
-- Python [pandaSDMX](https://github.com/dr-leo/pandaSDMX). Python interface to SDMX that facilitates the acquisition and analysis of SDMX-2.1 compliant data and metadata.
+- Java application [SDMX Converter](https://webgate.ec.europa.eu/fpfis/mwikis/sdmx/index.php/SDMX_Converter). Converter between different versions of SDMX and formats such as CSV, FLR etc. By Eurostat.
+- Java application [SDMX-RI](https://webgate.ec.europa.eu/fpfis/mwikis/sdmx/index.php/SDMX_Reference_Infrastructure_SDMX-RI). Framework for disseminating data in SDMX webservices. By Eurostat.
 - JSON [SDMX-JSON](https://github.com/sdmx-twg/sdmx-json/blob/master/data-message/docs/1-sdmx-json-field-guide.md). JSON variant of SDMX. This is still a candidate standard.
-- JSON [JSON-stat](https://json-stat.org/). Lightweight JSON standard for statistical dissemination. Comes with libraries and sample code for several programming languages: JavaScript, R, Java, Python, Julia, PHP, and even the command line.
+- JSON [JSON-stat](https://json-stat.org/). Lightweight JSON standard for statistical dissemination.
 
 #### Visualisation ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 7.2)
 - R package [tabplot](https://CRAN.R-project.org/package=tabplot). Compare up
@@ -135,24 +133,25 @@ web-based GUI.
 - R package [treemap](https://CRAN.R-project.org/package=treemap). Space-filling visualisation of hierarchical data.
 - R package [btb](https://CRAN.R-project.org/package=btb). Conservative kernel smoothing method for spatial analysis.
 - Node.js [StatMiner](http://research.cbs.nl/Projects/StatMine/), Experimental visualization framework from Statistics Netherlands.
-- Node.js [Visual](https://github.com/idescat/visual). Javascript library for data visualization that encapsulates complexity supporting chart types such as bar, rank, pie, time series bar/line, population pyramid, scatterplots and Choropleth maps. By Idescat.
+- JavaScript [Visual](https://github.com/idescat/visual). Javascript library for data visualization that encapsulates complexity supporting chart types such as bar, rank, pie, time series bar/line, population pyramid, scatterplots and Choropleth maps. By Idescat.
 - Node.js system [.Stat Suite](https://sis-cc.gitlab.io/dotstatsuite-documentation/). An SDMX-based platform to build tailored data portals, topical or regional data explorers, or lightweight reporting platforms. By OECD.
 
 
 #### Access to official statistics ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 7.4)
 - R package [rsdmx](https://github.com/opensdmx/rsdmx). Easy access to data from statistical organisations that support SDMX webservices. The package contains a list of SDMX access points of various national and international statistical institutes.
+- R package and C++ [readSDMX](https://cran.r-project.org/package=readsdmx). Read SDMX into dataframes from local SDMX-ML file or web-service. By OECD.
+- Python [pandaSDMX](https://github.com/dr-leo/pandaSDMX). Python interface to SDMX that facilitates the acquisition and analysis of SDMX-2.1 compliant data and metadata.
+- R package [rjstat](https://cran.r-project.org/package=rjstat). Read and write data sets in the JSON-stat format.
+- Python package [pyjstat](https://pypi.org/project/pyjstat/). Read and write JSON-stat.
+- Java module [json-stat.java](https://github.com/statisticsnorway/json-stat.java) Read and write JSON-stat. By Statistics Norway.
 - R package [oecd](https://cran.r-project.org/web/packages/OECD/index.html) Search and Extract Data from the OECD
 - R package [sorvi](https://CRAN.R-project.org/package=sorvi) Finnish Open Government Data Toolkit
 - R package [eurostat](https://CRAN.R-project.org/package=eurostat) Tools to download data from the Eurostat database together with search and manipulation utilities.
 - R package [acs](https://CRAN.R-project.org/package=acs) Download, Manipulate, and Present American Community Survey and Decennial Data from the US Census.
-- R package [inegiR](https://CRAN.R-project.org/package=inegiR) Access to data published by
-[INEGI](http://www.inegi.org.mx/), Mexico's official statistics agency.
-- R package [cbsodataR](https://CRAN.R-project.org/package=cbsodataR). Access
-  to Statistics Netherlands' ([CBS](http://www.CBS.nl)) open data API from R.
-- Node.js package [cbsodata.js](https://github.com/statmine/cbsodata.js). Access
-  to Statistics Netherlands' ([CBS](http://www.CBS.nl)) open data API from js.
+- R package [inegiR](https://CRAN.R-project.org/package=inegiR) Access to data published by [INEGI](http://www.inegi.org.mx/), Mexico's official statistics agency.
+- R package [cbsodataR](https://CRAN.R-project.org/package=cbsodataR). Access to Statistics Netherlands' ([CBS](http://www.CBS.nl)) open data API from R.
+- Node.js package [cbsodata.js](https://github.com/statmine/cbsodata.js). Access to Statistics Netherlands' ([CBS](http://www.CBS.nl)) open data API from js.
 - Python package [cbsodata.py](https://github.com/J535D165/cbsodata). Access to Statistics Netherlands' ([CBS](http://www.CBS.nl)) open data API from Python.
-- R package [rjstat](https://cran.r-project.org/package=rjstat). Read and write data sets in the JSON-stat format. 
 - R package [censusapi](https://cran.r-project.org/package=censusapi) A wrapper for the U.S. Census Bureau APIs that returns data frames of Census data and metadata.
 - R package [nsoApi](https://github.com/bowerth/nsoApi) builds on other packages to access data from official statistics and tries to harmonize the API.
 - R package [CANSIM2R](https://CRAN.R-project.org/package=CANSIM2R). Extract CANSIM (Statistics Canada) tables and transform them into readily usable data.
