@@ -50,6 +50,7 @@ based on (robust) maximum likelihood estimation.",TRUE,TRUE,TRUE
 "estimation and weighting","5.6 | 5.7","icarus","https://cran.r-project.org/package=icarus","R",". Provides detailed tools for performing calibration and several of its varitations, in a familiar setting for Calmar users in SAS.",TRUE,TRUE,TRUE
 "estimation and weighting","5.6 | 5.7","gustave","https://cran.r-project.org/package=gustave","R",". Provides a toolkit for analytical variance estimation in survey sampling.",TRUE,TRUE,TRUE
 "estimation and weighting","5.6 | 5.7","rtrim","https://cran.r-project.org/package=rtrim","R",". Trends and Indices for Monitoring data. Provides tools for estimating animal/plant populations based on site counts, including occurrence of missing data.",TRUE,TRUE,TRUE
+"estimation and weighting","5.6 | 5.7","surveysd","https://cran.r-project.org/package=surveysd","R",". Calibration, bootstrap and error estimation for complex surveys.",TRUE,TRUE,TRUE
 "time series and seasonal adjustment","5.6 | 5.7","X-13ARIMA-SEATS","https://www.census.gov/srd/www/x13as/","Fortran"," Seasonal adjustment software
 produced maintained and distributed by the US Census Bureau.",TRUE,FALSE,FALSE
 "time series and seasonal adjustment","5.6 | 5.7","seasonal","https://CRAN.R-project.org/package=seasonal","R",". Interface to the `X13-ARIMA-SEATS` program from R with a very nice shiny GUI.",TRUE,TRUE,TRUE
@@ -70,6 +71,7 @@ produced maintained and distributed by the US Census Bureau.",TRUE,FALSE,FALSE
 "statistical disclosure control","6.4","synthpop","https://CRAN.R-project.org/package=synthpop","R",". Produce synthetic versions of microdata containing confidential information so that they are safe to be released to users for exploratory analysis.",TRUE,TRUE,TRUE
 "statistical dissemination","7.2","SDMX Converter","https://webgate.ec.europa.eu/fpfis/mwikis/sdmx/index.php/SDMX_Converter","Java",". Converter between different versions of SDMX and formats such as CSV, FLR etc. By Eurostat.",TRUE,TRUE,TRUE
 "statistical dissemination","7.2","SDMX-RI","https://webgate.ec.europa.eu/fpfis/mwikis/sdmx/index.php/SDMX_Reference_Infrastructure_SDMX-RI","Java",". Framework for disseminating data in SDMX webservices. By Eurostat.",TRUE,TRUE,TRUE
+"statistical dissemination","7.2",".Stat Suite","https://sis-cc.gitlab.io/dotstatsuite-documentation/","Node.js",". An SDMX-based platform to build tailored data portals, topical or regional data explorers, or lightweight reporting platforms. By [SIS-CC](https://siscc.org).",TRUE,FALSE,FALSE
 "statistical dissemination","7.2","SDMX-JSON","https://github.com/sdmx-twg/sdmx-json/blob/master/data-message/docs/1-sdmx-json-field-guide.md","JSON",". JSON variant of SDMX. This is still a candidate standard.",TRUE,FALSE,FALSE
 "statistical dissemination","7.2","JSON-stat","https://json-stat.org/","JSON",". Lightweight JSON standard for statistical dissemination.",TRUE,FALSE,FALSE
 "visualisation","7.2","tabplot","https://CRAN.R-project.org/package=tabplot","R",". Compare up
@@ -82,7 +84,6 @@ web-based GUI.",TRUE,TRUE,TRUE
 "visualisation","7.2","btb","https://CRAN.R-project.org/package=btb","R",". Conservative kernel smoothing method for spatial analysis.",TRUE,TRUE,TRUE
 "visualisation","7.2","StatMiner","http://research.cbs.nl/Projects/StatMine/","Node.js",", Experimental visualization framework from Statistics Netherlands.",TRUE,FALSE,FALSE
 "visualisation","7.2","Visual","https://github.com/idescat/visual","JavaScript",". Javascript library for data visualization that encapsulates complexity supporting chart types such as bar, rank, pie, time series bar/line, population pyramid, scatterplots and Choropleth maps. By Idescat.",TRUE,FALSE,FALSE
-"visualisation","7.2",".Stat Suite","https://sis-cc.gitlab.io/dotstatsuite-documentation/","Node.js",". An SDMX-based platform to build tailored data portals, topical or regional data explorers, or lightweight reporting platforms. By OECD.",TRUE,FALSE,FALSE
 "access to official statistics","7.4","rsdmx","https://github.com/opensdmx/rsdmx","R",". Easy access to data from statistical organisations that support SDMX webservices. The package contains a list of SDMX access points of various national and international statistical institutes.",TRUE,TRUE,TRUE
 "access to official statistics","7.4","readsdmx","https://cran.r-project.org/package=readsdmx","R",". Read SDMX into dataframes from local SDMX-ML file or web-service. By OECD.",TRUE,TRUE,TRUE
 "access to official statistics","7.4","pandaSDMX","https://github.com/dr-leo/pandaSDMX","Python",". Python interface to SDMX that facilitates the acquisition and analysis of SDMX-2.1 compliant data and metadata.",TRUE,FALSE,FALSE
