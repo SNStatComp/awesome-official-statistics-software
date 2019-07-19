@@ -11,10 +11,9 @@ We prefer packages that are easy to install and use, have at least one stable ve
 
 [Contributions](#contributions) are welcome.
 
-There is also a clickable version [![clickable version](viz/ClickableAwesomeSmall.png)](https://observablehq.com/@donthebike/clickable-awesomeofficialstatistics-org) and
-[other visuals](https://observablehq.com/@donthebike/visualizing-awesomeofficialstatistics-org) such as 
-[![GSBPM use](viz/GSBPM_Small.png)](https://observablehq.com/@donthebike/visualizing-awesomeofficialstatistics-org#GSBPM) and a
-[![word cloud](viz/wordCloudSmall.png)](https://observablehq.com/@donthebike/visualizing-awesomeofficialstatistics-org#wordCloud)
+There is also a clickable version [![clickable version](viz/ClickableAwesomeSmall.png)](https://observablehq.com/@donthebike/clickable-awesomeofficialstatistics-org),
+a GSBPM visual [![GSBPM use](viz/GSBPM_Small.png)](https://observablehq.com/@donthebike/visualizing-awesomeofficialstatistics-org#GSBPM) and a
+word cloud [![word cloud](viz/wordCloudSmall.png)](https://observablehq.com/@donthebike/visualizing-awesomeofficialstatistics-org#wordCloud)
 
 
 *****
