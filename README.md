@@ -121,8 +121,8 @@ produced maintained and distributed by the US Census Bureau.
 
 
 #### Statistical Dissemination ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 7.2)
-- Java application [SDMX Converter](https://webgate.ec.europa.eu/fpfis/mwikis/sdmx/index.php/SDMX_Converter). Converter between different versions of SDMX and formats such as CSV, FLR etc. By Eurostat.
-- Java application [SDMX-RI](https://webgate.ec.europa.eu/fpfis/mwikis/sdmx/index.php/SDMX_Reference_Infrastructure_SDMX-RI). Framework for disseminating data in SDMX webservices. By Eurostat.
+- Java application [SDMX Converter](https://ec.europa.eu/eurostat/web/sdmx-infospace/sdmx-it-tools/sdmx-converter). Converter between different versions of SDMX and formats such as CSV, FLR etc. By Eurostat.
+- Java application [SDMX-RI](https://ec.europa.eu/eurostat/web/sdmx-infospace/sdmx-it-tools/sdmx-ri). Framework for disseminating data in SDMX webservices. By Eurostat.
 - Node.js and other [.Stat Suite](https://sis-cc.gitlab.io/dotstatsuite-documentation/). An SDMX-based platform to build tailored data portals, topical or regional data explorers, or lightweight reporting platforms. By [SIS-CC](https://siscc.org).
 - JSON [SDMX-JSON](https://github.com/sdmx-twg/sdmx-json/blob/master/data-message/docs/1-sdmx-json-field-guide.md). JSON variant of SDMX. This is still a candidate standard.
 - JSON [JSON-stat](https://json-stat.org/). Lightweight JSON standard for statistical dissemination.
