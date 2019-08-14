@@ -90,7 +90,7 @@ based on (robust) maximum likelihood estimation.
 - R package [gustave](https://cran.r-project.org/package=gustave). Provides a toolkit for analytical variance estimation in survey sampling.
 - R package [rtrim](https://cran.r-project.org/package=rtrim). Trends and Indices for Monitoring data. Provides tools for estimating animal/plant populations based on site counts, including occurrence of missing data.
 - R package [surveysd](https://cran.r-project.org/package=surveysd). Calibration, bootstrap and error estimation for complex surveys.
-
+- R package [inca](https://cran.r-project.org/package=inca). Calibration weighting with integer weights.
 
 
 #### Time series and seasonal adjustment ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 5.6 | 5.7)
@@ -164,6 +164,7 @@ web-based GUI.
 - R package [rdbnomics](https://git.nomics.world/dbnomics/rdbnomics). Access to the [DB.nomics database](https://next.nomics.world/) which provide macroeconomic data from 38 official providers such as INSEE, Eurostat, Wolrd bank, etc.
 - R package [readabs](https://cran.r-project.org/package=readabs) Download data from the Australian Bureau of Statistics.
 - R package [destatiscleanr](https://github.com/cutterkom/destatiscleanr). Clean csv files from [Genesis](https://www-genesis.destatis.de/genesis/online), the database of the Federal Statistical Office of Germany (Destatis) and its regional outlets.
+- R package [cdlTools](https://cran.r-project.org/package=cdlTools). Downloads USDA National Agricultural Statistics Service (NASS) cropscape data for a specified state.
 
 ## Contributions
 
