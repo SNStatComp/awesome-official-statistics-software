@@ -51,6 +51,7 @@ for drawing (complex) survey samples and calibrating design weights.
 - R package [fastLink](https://cran.r-project.org/web/packages/fastLink/index.html). Implements a Fellegi-Sunter probabilistic record linkage model that allows for missing data and the inclusion of auxiliary information. Documentation can be found on http://imai.princeton.edu/research/linkage.html
 - R packages [stringdist](https://CRAN.R-project.org/package=stringdist). Implements approximate string matching. Supports various string distances (Damerau-Levenshtein, Hamming, Levenshtein, optimal sting alignment), qgrams (q- gram, cosine, jaccard distance) and heuristic metrics (Jaro, Jaro-Winkler). An implementation of soundex is provided as well.
 - R packages [fuzzyjoin](https://CRAN.R-project.org/package=fuzzyjoin). Join tables based on exact or similar matches. Allows for matching records based on inaccurate keys.
+- R Java MySQL [RELAIS](https://joinup.ec.europa.eu/solution/relais-record-linkage-istat/releases). A toolkit providing techniques for dealing with record linkage. The purpose is to identify the same real world entity that can be differently represented in data sources. By Istat.
 - R package [XBRL](https://CRAN.R-project.org/package=XBRL). Extraction of Business Financial Information from [XBRL](https://www.xbrl.org/) Documents
 
 
