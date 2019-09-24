@@ -166,6 +166,7 @@ web-based GUI.
 - R package [destatiscleanr](https://github.com/cutterkom/destatiscleanr). Clean csv files from [Genesis](https://www-genesis.destatis.de/genesis/online), the database of the Federal Statistical Office of Germany (Destatis) and its regional outlets.
 - R package [cdlTools](https://cran.r-project.org/package=cdlTools). Downloads USDA National Agricultural Statistics Service (NASS) cropscape data for a specified state.
 - Java package [SDMX Connectors](https://github.com/amattioc/SDMX). Browse SDMX data providers, build your queries and get data directly in your favourite tool (R, SAS, Matlab, Stata and Excel). By Banca d'Italia.
+- Node.js package [sdmx-rest](https://www.npmjs.com/package/sdmx-rest). This library allows to easily create and execute SDMX REST queries from a JavaScript client application.
 
 ## Contributions
 
