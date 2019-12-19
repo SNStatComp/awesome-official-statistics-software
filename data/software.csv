@@ -113,3 +113,5 @@ web-based GUI.",TRUE,TRUE,TRUE
 "access to official statistics","7.4","cdlTools","https://cran.r-project.org/package=cdlTools","R",". Downloads USDA National Agricultural Statistics Service (NASS) cropscape data for a specified state.",TRUE,TRUE,TRUE
 "access to official statistics","7.4","SDMX Connectors","https://github.com/amattioc/SDMX","Java",". Browse SDMX data providers, build your queries and get data directly in your favourite tool (R, SAS, Matlab, Stata and Excel). By Banca d'Italia.",TRUE,TRUE,TRUE
 "access to official statistics","7.4","sdmx-rest","https://www.npmjs.com/package/sdmx-rest","Node.js",". This library allows to easily create and execute SDMX REST queries from a JavaScript client application.",TRUE,FALSE,FALSE
+"access to official statistics","7.4","csodata","https://cran.r-project.org/package=csodata","R"," Download data from Central Statistics 
+  Office (CSO) of Ireland.",TRUE,TRUE,TRUE

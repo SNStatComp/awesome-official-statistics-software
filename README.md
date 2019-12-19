@@ -6,9 +6,9 @@ An awesome list of open source statistical software packages useful for creating
 1. it is free, open source, and available for download and
 2. it is confirmed to be used in the production of official statistics by at least one institute or it provides access to official statistics publications.
 
-We prefer packages that are easy to install and use, have at least one stable version, and are actively maintained.
+We prefer packages that are easy to install and use, have at least one stable version, and are actively maintained. [Contributions](#contributions) are welcome.
 
-[Contributions](#contributions) are welcome.
+Milestone Dec 19th 2019: **100  packages on the list!!!**
 
 There is also a clickable version [![clickable version](viz/ClickableAwesomeSmall.png)](https://observablehq.com/@donthebike/clickable-awesomeofficialstatistics-org),
 a GSBPM visual [![GSBPM use](viz/GSBPM_Small.png)](https://observablehq.com/@donthebike/visualizing-awesomeofficialstatistics-org#GSBPM) and a
