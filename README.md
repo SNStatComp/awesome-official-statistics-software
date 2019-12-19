@@ -168,6 +168,8 @@ web-based GUI.
 - R package [cdlTools](https://cran.r-project.org/package=cdlTools). Downloads USDA National Agricultural Statistics Service (NASS) cropscape data for a specified state.
 - Java package [SDMX Connectors](https://github.com/amattioc/SDMX). Browse SDMX data providers, build your queries and get data directly in your favourite tool (R, SAS, Matlab, Stata and Excel). By Banca d'Italia.
 - Node.js package [sdmx-rest](https://www.npmjs.com/package/sdmx-rest). This library allows to easily create and execute SDMX REST queries from a JavaScript client application.
+- R package [csodata](https://cran.r-project.org/package=csodata) Download data from Central Statistics 
+  Office (CSO) of Ireland.
 
 ## Contributions
 
