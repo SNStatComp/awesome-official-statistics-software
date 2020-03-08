@@ -132,7 +132,8 @@ produced maintained and distributed by the US Census Bureau.
 web-based GUI.
 - R package [tmap](https://CRAN.R-project.org/package=tmap). Thematic geographic maps, including bubble charts, choropleths, and more.
 - R package [oceanis](https://CRAN.R-project.org/package=oceanis). To create maps for statistical analysis such as proportional circles, chroropleth, typology and flows. By INSEE.
-- geojson/topojson [cartomap](https://github.com/cartomap) A (growing) list of simplified maps useful for web cartography for World, Europe and countries.
+- GeoJSON/TopoJSON [cartomap](https://github.com/cartomap) A (growing) list of simplified maps useful for web cartography for World, Europe and countries.
+- GeoJSON/TopoJSON [Nuts2json](https://github.com/eurostat/Nuts2json) Simplified geometries for web maps of European NUTS regions. By Eurostat.
 - R package [treemap](https://CRAN.R-project.org/package=treemap). Space-filling visualisation of hierarchical data.
 - R package [btb](https://CRAN.R-project.org/package=btb). Conservative kernel smoothing method for spatial analysis.
 - Node.js [StatMiner](http://research.cbs.nl/Projects/StatMine/), Experimental visualization framework from Statistics Netherlands.
