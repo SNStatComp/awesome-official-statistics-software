@@ -80,7 +80,8 @@ produced maintained and distributed by the US Census Bureau.",TRUE,FALSE,FALSE
 web-based GUI.",TRUE,TRUE,TRUE
 "visualisation","7.2","tmap","https://CRAN.R-project.org/package=tmap","R",". Thematic geographic maps, including bubble charts, choropleths, and more.",TRUE,TRUE,TRUE
 "visualisation","7.2","oceanis","https://CRAN.R-project.org/package=oceanis","R",". To create maps for statistical analysis such as proportional circles, chroropleth, typology and flows. By INSEE.",TRUE,TRUE,TRUE
-"visualisation","7.2","cartomap","https://github.com/cartomap","geojson/topojson"," A (growing) list of simplified maps useful for web cartography for World, Europe and countries.",TRUE,FALSE,FALSE
+"visualisation","7.2","cartomap","https://github.com/cartomap","GeoJSON/TopoJSON"," A (growing) list of simplified maps useful for web cartography for World, Europe and countries.",TRUE,FALSE,FALSE
+"visualisation","7.2","Nuts2json","https://github.com/eurostat/Nuts2json","GeoJSON/TopoJSON"," Simplified geometries for web maps of European NUTS regions. By Eurostat.",TRUE,FALSE,FALSE
 "visualisation","7.2","treemap","https://CRAN.R-project.org/package=treemap","R",". Space-filling visualisation of hierarchical data.",TRUE,TRUE,TRUE
 "visualisation","7.2","btb","https://CRAN.R-project.org/package=btb","R",". Conservative kernel smoothing method for spatial analysis.",TRUE,TRUE,TRUE
 "visualisation","7.2","StatMiner","http://research.cbs.nl/Projects/StatMine/","Node.js",", Experimental visualization framework from Statistics Netherlands.",TRUE,FALSE,FALSE
