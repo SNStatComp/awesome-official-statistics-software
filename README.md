@@ -82,7 +82,7 @@ for drawing (complex) survey samples and calibrating design weights.
 - R package [rsae](https://CRAN.R-project.org/package=rsae). Small area estimation
 based on (robust) maximum likelihood estimation.
 - R package [CalibrateSSB](https://CRAN.R-project.org/package=CalibrateSSB). Calculate weighs and estimates for panel data with non-response.
-- R package [ReGenesees](https://joinup.ec.europa.eu/software/regenesees/description) (only availableon joinup) has a similar interface as the R package survey and many different estimators with sampling errors are implemented.
+- R package [ReGenesees](https://github.com/DiegoZardetto/ReGenesees). Has a similar interface as the R package [survey](https://CRAN.r-project.org/package=survey), along with specific features (e.g. partitioned calibration) that make it fit for processing large-scale surveys in the official statistics field. ReGenesees implements many different estimators with sampling errors, and ships with a dedicated GUI (package [ReGenesees.GUI](https://github.com/DiegoZardetto/ReGenesees.GUI)).
 - R package [vardpoor](https://cran.r-project.org/package=vardpoor). Linearization of non-linear statistics and variance estimation.
 - R package [convey](https://cran.r-project.org/package=convey). Variance estimation on indicators of income concentration and poverty using complex sample survey designs. Wrapper around the survey package.
 - R package [icarus](https://cran.r-project.org/package=icarus). Provides detailed tools for performing calibration and several of its varitations, in a familiar setting for Calmar users in SAS.
