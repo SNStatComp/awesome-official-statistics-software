@@ -73,6 +73,7 @@ for drawing (complex) survey samples and calibrating design weights.
 - R package [univOutl](https://cran.r-project.org/web/packages/univOutl/index.html). Various methods for detecting univariate outliers.
 - R package [extremevalues](https://CRAN.R-project.org/package=extremevalues). Detection of univariate outliers based on modeling the bulk distribution.
 - R package [deductive](https://cran.r-project.org/web/packages=deductive). Deductive correction and imputation using edit rules and (partially) complete data.
+- R package [rspa](https://cran.r-project.org/web/packages=rspa). Adapt Numerical Records to Fit (in)Equality Restrictions.
 
 
 #### Estimation and weighting ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 5.6 | 5.7)
