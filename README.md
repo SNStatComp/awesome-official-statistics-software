@@ -171,7 +171,7 @@ web-based GUI.
 - Node.js package [sdmx-rest](https://www.npmjs.com/package/sdmx-rest). This library allows to easily create and execute SDMX REST queries from a JavaScript client application.
 - R package [csodata](https://cran.r-project.org/package=csodata) Download data from Central Statistics 
   Office (CSO) of Ireland.
-- R package [iriR](https://cran.r-project.org/package=iriR). Client for the EU Industrial Research and Industry Scoreboard.
+- R package [iriR](https://cran.r-project.org/package=iriR). Client for the European Commission’s Industrial R&D Investment Scoreboard (IRI)
 
 ## Contributions
 
