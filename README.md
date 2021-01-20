@@ -173,6 +173,7 @@ web-based GUI.
 - R package [csodata](https://cran.r-project.org/package=csodata) Download data from Central Statistics 
   Office (CSO) of Ireland.
 - R package [iriR](https://cran.r-project.org/package=iriR). Client for the European Commission’s Industrial R&D Investment Scoreboard (IRI)
+- R package [czso](https://cran.r-project.org/package=czso). Access open data from the Czech Statistical Office.
 
 ## Contributions
 
