@@ -1,9 +1,9 @@
 ## Awesome official statistics software [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 An awesome list of open source statistical software useful for creating and accessing official statistics.
 
-#### An item on this list is awesome because
-1. it is free, open source, and available for download and
-2. it is confirmed to be used in the production of official statistics by at least one institute or it provides access to official statistics publications.
+#### An item on this list is awesome because it is
+1. free, open source, and available for download and
+2. used in the production of official statistics by at least one institute or provides easy access to official statistics.
 
 We prefer software that is easy to install and use, has at least one stable version, and is actively maintained. [Contributions](#contributions) welcome.
 
