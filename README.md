@@ -10,8 +10,8 @@ We prefer software that is easy to install and use, has at least one stable vers
 #### News
 - Dec 2017: List started during UNECE SDE 2017
 - Dec 2019: **100  packages on the list!!!**
-- Dec 2020: Awesome list presented on **uRos2020**: [slides](https://r-project.ro/conference2020-presentations.html#Olav_TEN_BOSCH,_Mark_VAN_DER_LOO_and_Alexander_KOWARIK)**
-- Jan 2021: **Awesome list in **[10th EG meeting on SDMX](https://www.imf.org/en/News/Seminars/Conferences/2021/01/25/10th-statistical-data-and-metadata-exchange)**: [slides](https://www.imf.org/-/media/Files/News/Seminars/2021/SDMX/siv-presentation-01-stocktaking-of-sdmx-tools.ashx)
+- Dec 2020: Awesome list presented on **uRos2020**: [slides](https://r-project.ro/conference2020-presentations.html#Olav_TEN_BOSCH,_Mark_VAN_DER_LOO_and_Alexander_KOWARIK)
+- Jan 2021: Awesome list in **[10th EG meeting on SDMX](https://www.imf.org/en/News/Seminars/Conferences/2021/01/25/10th-statistical-data-and-metadata-exchange)**: [slides](https://www.imf.org/-/media/Files/News/Seminars/2021/SDMX/siv-presentation-01-stocktaking-of-sdmx-tools.ashx)
 
 There is also a clickable version [![clickable version](viz/ClickableAwesomeSmall.png)](https://observablehq.com/@donthebike/clickable-awesomeofficialstatistics-org),
 a GSBPM visual [![GSBPM use](viz/GSBPM_Small.png)](https://observablehq.com/@donthebike/visualizing-awesomeofficialstatistics-org#GSBPM) and a
