@@ -3,7 +3,7 @@ An awesome list of open source statistical software useful for creating and acce
 
 #### An item on this list is awesome because it is
 1. free, open source, and available for download and
-2. used in the production of official statistics by at least one institute or provides easy access to official statistics.
+2. used in the production of official statistics by at least one institute or provides access to official statistics.
 
 We prefer software that is easy to install and use, has at least one stable version, and is actively maintained. [Contributions](#contributions) welcome.
 
