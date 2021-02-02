@@ -19,6 +19,7 @@ word cloud [![word cloud](viz/wordCloudSmall.png)](https://observablehq.com/@don
 
 #### Design frame and sample ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 2.1)
 - R package [SamplingStrata]( http://cran.stat.unipd.it/web/packages/SamplingStrata/index.html). Optimal Stratification of Sampling Frames for Multipurpose Sampling Surveys.
+- R package [R2BEAT](https://cran.r-project.org/package=R2BEAT) Multistage Sampling Allocation and PSU Selection
 
 #### Design variable descriptions ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 2.2)
 - Excel [SDMX Matrix Generator](https://github.com/OECDSTD/sdmx-matrix-generator). Excel-based visual SDMX artefact authoring tool which generates SDMX-ML for upload into an SDMX repository such as a registry. By OECD.
