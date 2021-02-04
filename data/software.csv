@@ -1,5 +1,6 @@
 "gsbpm_name","gsbpm_number","software","link","platform","description","Windows","Mac","linux"
 "design frame and sample","2.1","SamplingStrata"," http://cran.stat.unipd.it/web/packages/SamplingStrata/index.html","R",". Optimal Stratification of Sampling Frames for Multipurpose Sampling Surveys.",TRUE,TRUE,TRUE
+"design frame and sample","2.1","R2BEAT","https://cran.r-project.org/package=R2BEAT","R"," Multistage Sampling Allocation and PSU Selection",TRUE,TRUE,TRUE
 "design variable descriptions","2.2","SDMX Matrix Generator","https://github.com/OECDSTD/sdmx-matrix-generator","Excel",". Excel-based visual SDMX artefact authoring tool which generates SDMX-ML for upload into an SDMX repository such as a registry. By OECD.",TRUE,FALSE,FALSE
 "sampling","4.1","sampling","https://CRAN.R-project.org/package=sampling","R",". Several algorithms
 for drawing (complex) survey samples and calibrating design weights.",TRUE,TRUE,TRUE
@@ -16,6 +17,7 @@ for drawing (complex) survey samples and calibrating design weights.",TRUE,TRUE,
 "process","5","dcmodify","https://CRAN.r-project.org/package=dcmodify","R",". Derive new variables or modify data using externally defined data modification rules.",TRUE,TRUE,TRUE
 "data integration and record linkage","5.1","reclin","https://cran.r-project.org/web/packages/reclin/index.html","R",". Functions to assist in performing probabilistic record linkage and deduplication: generating pairs, comparing records, em-algorithm for estimating m- and u-probabilities, forcing one-to-one matching. Can also be used for pre- and post-processing for machine learning methods for record linkage.",TRUE,TRUE,TRUE
 "data integration and record linkage","5.1","RecordLinkage","https://CRAN.R-project.org/package=RecordLinkage","R",". Implementation of the Fellegi-Sunter method for record linkage.",TRUE,TRUE,TRUE
+"data integration and record linkage","5.1","StatMatch","https://CRAN.r-project.org/package=StatMatch","R",". Statistical Matching or Data Fusion",TRUE,TRUE,TRUE
 "data integration and record linkage","5.1","fastLink","https://cran.r-project.org/web/packages/fastLink/index.html","R",". Implements a Fellegi-Sunter probabilistic record linkage model that allows for missing data and the inclusion of auxiliary information. Documentation can be found on http://imai.princeton.edu/research/linkage.html",TRUE,TRUE,TRUE
 "data integration and record linkage","5.1","stringdist","https://CRAN.R-project.org/package=stringdist","R",". Implements approximate string matching. Supports various string distances (Damerau-Levenshtein, Hamming, Levenshtein, optimal sting alignment), qgrams (q- gram, cosine, jaccard distance) and heuristic metrics (Jaro, Jaro-Winkler). An implementation of soundex is provided as well.",TRUE,TRUE,TRUE
 "data integration and record linkage","5.1","fuzzyjoin","https://CRAN.R-project.org/package=fuzzyjoin","R",". Join tables based on exact or similar matches. Allows for matching records based on inaccurate keys.",TRUE,TRUE,TRUE
@@ -117,3 +119,5 @@ web-based GUI.",TRUE,TRUE,TRUE
 "access to official statistics","7.4","sdmx-rest","https://www.npmjs.com/package/sdmx-rest","Node.js",". This library allows to easily create and execute SDMX REST queries from a JavaScript client application.",TRUE,FALSE,FALSE
 "access to official statistics","7.4","csodata","https://cran.r-project.org/package=csodata","R"," Download data from Central Statistics 
   Office (CSO) of Ireland.",TRUE,TRUE,TRUE
+"access to official statistics","7.4","iriR","https://cran.r-project.org/package=iriR","R",". Client for the European Commission’s Industrial R&D Investment Scoreboard (IRI)",TRUE,TRUE,TRUE
+"access to official statistics","7.4","czso","https://cran.r-project.org/package=czso","R",". Access open data from the Czech Statistical Office.",TRUE,TRUE,TRUE
