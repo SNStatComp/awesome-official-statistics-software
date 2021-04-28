@@ -181,6 +181,9 @@ web-based GUI.
 - R package [iriR](https://cran.r-project.org/package=iriR). Client for the European Commission’s Industrial R&D Investment Scoreboard (IRI)
 - R package [czso](https://cran.r-project.org/package=czso). Access open data from the Czech Statistical Office.
 
+## Other lists
+- [CSPA Service catalogue](https://www.statistical-services.org)
+
 ## Contributions
 
 Awesome contributions are welcome, here are ways to do it:

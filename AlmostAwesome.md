@@ -1,9 +1,20 @@
 ## The almost awesome list
 This is a list of software packages that did not (yet) made it to the awesome list of open source statistical software for whatever reason.
-
-We keep this list for a reference. It is freely accessible to everyone.
+Reasons could be:
+ - interesting but still at early stage of development
+ - will probably be moved to another place
+ - will be followed up by another package later
+ - 
+We keep this list for a reference.
+It is freely accessible to everyone has no status at all.
 
 *****
+
+https://github.com/InseeFr/Trevas VTL Transformation engine and validator for statistics. from INSEE
+
+https://citnet.tech.ec.europa.eu/CITnet/stash/projects/VRM/repos/vtl-editor/browse VTL editor; unfortunately it requires to login right now. (by Eurostat)
+
+
 
 
 
