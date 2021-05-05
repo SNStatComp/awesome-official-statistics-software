@@ -22,6 +22,10 @@ We prefer software that is easy to install and use, has at least one stable vers
 
 *****
 
+#### Design ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 2)
+- [Aristotle Metadata Registry](https://github.com/aristotle-mdr/aristotle-metadata-registry/) - an open-source Metadata Registry framework based on the ISO/IEC 11179 standard for Metadata Registries. Supports the design, search and API export of data elements, varaiables, data dictionaries, question banks and performance indicators. Supported and built by [Aristotle Cloud Services](https://www.aristotlemetadata.com/case_studies/)
+
+
 #### Design frame and sample ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 2.1)
 - R package [SamplingStrata]( http://cran.stat.unipd.it/web/packages/SamplingStrata/index.html). Optimal Stratification of Sampling Frames for Multipurpose Sampling Surveys.
 - R package [R2BEAT](https://cran.r-project.org/package=R2BEAT) Multistage Sampling Allocation and PSU Selection
