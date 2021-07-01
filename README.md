@@ -146,6 +146,7 @@ web-based GUI.
 - R package [btb](https://CRAN.R-project.org/package=btb). Conservative kernel smoothing method for spatial analysis.
 - Node.js [StatMiner](http://research.cbs.nl/Projects/StatMine/), Experimental visualization framework from Statistics Netherlands.
 - JavaScript [Visual](https://github.com/idescat/visual). Javascript library for data visualization that encapsulates complexity supporting chart types such as bar, rank, pie, time series bar/line, population pyramid, scatterplots and Choropleth maps. By Idescat.
+- R package [PantaRhei](https://CRAN.R-project.org/package=PantaRhei). Sankey plots suited for (circulair) economical systems such as energy systems, material flow accounts and water accounts. Supports loops. 
 
 
 #### Access to official statistics ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 7.4)
