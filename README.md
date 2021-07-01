@@ -63,7 +63,7 @@ for drawing (complex) survey samples and calibrating design weights.
 
 #### Statistical data editing and imputation  ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 5.3 | 5.4)
 - R package [validate](https://CRAN.R-project.org/package=validate). Rule management and data validation.
-- R package [validatedb](https://CRAN.R-project.org/package=validatedb). [validate](https://CRAN.R-project.org/package=validate) on a database.
+- R package [validatedb](https://CRAN.R-project.org/package=validatedb). [validate](https://CRAN.R-project.org/package=validate) on a SQL database.
 - R package [validatetools](https://CRAN.R-project.org/package=validatetools). Checking and simplifying sets of validation rules.
 - R package [errorlocate](https://CRAN.R-project.org/package=errorlocate). Error localisation based on the principle of Fellegi and Holt.
     - Uses [validate](https://CRAN.R-project.org/package=validate) rule definitions
