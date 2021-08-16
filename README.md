@@ -15,9 +15,9 @@ We prefer software that is easy to install and use, has at least one stable vers
 - Jan 2021: Awesome list in **[10th EG meeting on SDMX](https://www.imf.org/en/News/Seminars/Conferences/2021/01/25/10th-statistical-data-and-metadata-exchange)**: [slides](https://www.imf.org/-/media/Files/News/Seminars/2021/SDMX/siv-presentation-01-stocktaking-of-sdmx-tools.ashx)
 
 #### Visuals
-[![GSBPM use](viz/GSBPM_Small.png)](https://observablehq.com/@donthebike/visualizing-awesomeofficialstatistics-org#GSBPM)
-[![clickable version](viz/ClickableAwesomeSmall.png)](https://observablehq.com/@donthebike/clickable-awesomeofficialstatistics-org)
-[![word cloud](viz/wordCloudSmall.png)](https://observablehq.com/@donthebike/visualizing-awesomeofficialstatistics-org#wordCloud)
+[![GSBPM use](viz/GSBPM_Small.png)](https://observablehq.com/@olavtenbosch/visualizing-awesomeofficialstatistics-org#GSBPM)
+[![clickable version](viz/ClickableAwesomeSmall.png)](https://observablehq.com/@olavtenbosch/clickable-awesomeofficialstatistics-org)
+[![word cloud](viz/wordCloudSmall.png)](https://observablehq.com/@olavtenbosch/visualizing-awesomeofficialstatistics-org#wordCloud)
 
 
 *****
