@@ -127,7 +127,7 @@ produced maintained and distributed by the US Census Bureau.
 - C# JavaScript [PxStat](https://github.com/CSOIreland/PxStat). Data Dissemination Management System for publishing Statistics based on PcAxis with a focus on accessibility and LOD. By [CSO](https://www.cso.ie/).
 - C# VB.NET ASP.NET [PxWeb](https://github.com/statisticssweden/PxWeb). Web application for dissemination of statistical tables in [Px format](https://www.scb.se/en/services/statistical-programs-for-px-files/px-file-format/) or SQL data in the [Nordic Data Model](https://www.scb.se/en/services/statistical-programs-for-px-files/px-web/px-web-med-sql-databas/).
 - Node.js and other [.Stat Suite](https://sis-cc.gitlab.io/dotstatsuite-documentation/). An SDMX-based platform to build tailored data portals, topical or regional data explorers, or lightweight reporting platforms. By [SIS-CC](https://siscc.org).
-- JSON [SDMX-JSON](https://github.com/sdmx-twg/sdmx-json). JSON variant of SDMX. Works together with the [https://github.com/sdmx-twg/sdmx-rest](SDMX-REST API).
+- JSON [SDMX-JSON](https://github.com/sdmx-twg/sdmx-json). JSON variant of SDMX. Works together with the [SDMX-REST API](https://github.com/sdmx-twg/sdmx-rest).
 - JSON [JSON-stat](https://json-stat.org/). Simple lightweight JSON format for statistical dissemination. Based on a Cube model with dimensions organised in categories.
 
 #### Visualisation ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 7.2)
