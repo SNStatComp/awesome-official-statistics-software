@@ -33,11 +33,10 @@ We prefer software that is easy to install and use, has at least one stable vers
 - Excel [SDMX Matrix Generator](https://github.com/OECDSTD/sdmx-matrix-generator). Excel-based visual SDMX artefact authoring tool which generates SDMX-ML for upload into an SDMX repository such as a registry. By OECD.
 
 #### Sampling ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 4.1)
-- R package [sampling](https://CRAN.R-project.org/package=sampling). Several algorithms
-for drawing (complex) survey samples and calibrating design weights.
+- R package [sampling](https://CRAN.R-project.org/package=sampling). Several algorithms for drawing survey samples, including a variety of unequal probabiltiy sampling designs (high entropy, systematic, Rao-Sampford, etc.), and calibrating design weights.
 - R package [surveyplanning](https://cran.r-project.org/package=surveyplanning). Tools for sample survey planning, including sample size calculation, estimation of expected precision for the estimates of totals, and calculation of optimal sample size allocation.
-
-
+- R package [PracTools](https://cran.r-project.org/web/packages/PracTools/). Functions and datasets related to Valliant, Dever, and Kreuter (2018 2nd ed), [*Practical Tools for Designing and Weighting Survey Samples*](https://doi.org/10.1007/978-3-319-93632-1).
+ 
 #### Scraping for Statistics ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 4.3)
 - Java application [URLSearcher](https://github.com/SummaIstat/UrlSearcher). An application for searching Urls. Can be used to find websites of enterprise. By ISTAT.
 - Java application [URLScorer](https://github.com/SummaIstat/UrlScorer). Gives a rule based score to scraped documents in a Solr database. By ISTAT.
@@ -76,7 +75,7 @@ for drawing (complex) survey samples and calibrating design weights.
 - R package [extremevalues](https://CRAN.R-project.org/package=extremevalues). Detection of univariate outliers based on modeling the bulk distribution.
 - R package [deductive](https://cran.r-project.org/web/packages/deductive/index.html). Deductive correction and imputation using edit rules and (partially) complete data.
 - R package [rspa](https://cran.r-project.org/web/packages/rspa/index.html). Adapt Numerical Records to Fit (in)Equality Restrictions.
-
+- R package [mice](https://cran.r-project.org/web/packages/mice/). Multiple imputation by chained equations, aka fully conditional specification, accompanied by [van Buuren (2018) _Flexible Imputation of Missing Data_](https://stefvanbuuren.name/fimd/).
 
 #### Estimation and weighting ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 5.6 | 5.7)
 - R package [survey](https://CRAN.R-project.org/package=survey). Weighting and estimation for complex survey designs, possibly under nonresponse. Also computes estimator variance. See also R package [srvyr](https:://CRAN.R-project.org/package=survey) for integration with 
@@ -178,6 +177,7 @@ web-based GUI.
   Office (CSO) of Ireland.
 - R package [iriR](https://cran.r-project.org/package=iriR). Client for the European Commission’s Industrial R&D Investment Scoreboard (IRI)
 - R package [czso](https://cran.r-project.org/package=czso). Access open data from the Czech Statistical Office.
+- R package [ipumsr](https://cran.r-project.org/web/packages/ipumsr/). Access to the Integrated Public Use Microdata Series archive ipums.org (international censuses, harmonized U.S. data).
 
 ## Other lists
 - [CSPA Service catalogue](https://www.statistical-services.org)
