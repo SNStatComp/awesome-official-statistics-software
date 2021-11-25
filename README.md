@@ -8,7 +8,7 @@ An awesome list of open source software for official statistics.
 We prefer software that is easy to install and use, has at least one stable version, and is actively maintained. [Contributions](#contributions) welcome.
 
 #### News
-- Nov 2021: Awesome list in keynote Edwin de Jonge at **[uRos](http://r-project.ro/conference2021.html#Edwin_de_Jonge)**
+- Nov 2021: Awesome list in keynote Edwin de Jonge at **[uRos2021](http://r-project.ro/conference2021.html#Edwin_de_Jonge)**
 - Nov 2021: Awesome list in **[Int. Conf. on Data Science and Official Statistics (ICDSOS)](https://icdsos.stis.ac.id/)**: [slides](https://drive.google.com/file/d/1Hp4TJUvkOOn1duXHPImjD74Kh394untx/view?usp=sharing)
 - Oct 2021: Awesome list in **[Px-meeting 2021](https://www.scb.se/px-meeting-2021)**: [slides](https://www.scb.se/globalassets/vara-tjanster/px-programmen/2021-10-21-multilingual-px-files-with-r-and-pxjob-.pdf)
 - Jan 2021: Awesome list in **[10th EG meeting on SDMX](https://www.imf.org/en/News/Seminars/Conferences/2021/01/25/10th-statistical-data-and-metadata-exchange)**: [slides](https://www.imf.org/-/media/Files/News/Seminars/2021/SDMX/siv-presentation-01-stocktaking-of-sdmx-tools.ashx)
