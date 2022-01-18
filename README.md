@@ -1,78 +1,83 @@
 ## Awesome official statistics software [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-An awesome list of open source statistical software packages useful for creating and accessing official statistics.
+An awesome list of open source software for official statistics.
+
+#### An item on this list is awesome because it is
+1. free, open source, and available for download and
+2. used in the production of official statistics by at least one institute or provides access to official statistics.
+
+We prefer software that is easy to install and use, has at least one stable version, and is actively maintained. [Contributions](#contributions) welcome.
+
+#### News
+- Nov 2021: Awesome list in keynote Edwin de Jonge at **[uRos2021](http://r-project.ro/conference2021.html#Edwin_de_Jonge)**
+- Nov 2021: Awesome list in **[Int. Conf. on Data Science and Official Statistics (ICDSOS)](https://icdsos.stis.ac.id/)**: [slides](https://drive.google.com/file/d/1Hp4TJUvkOOn1duXHPImjD74Kh394untx/view?usp=sharing)
+- Oct 2021: Awesome list in **[Px-meeting 2021](https://www.scb.se/px-meeting-2021)**: [slides](https://www.scb.se/globalassets/vara-tjanster/px-programmen/2021-10-21-multilingual-px-files-with-r-and-pxjob-.pdf)
+- Jan 2021: Awesome list in **[10th EG meeting on SDMX](https://www.imf.org/en/News/Seminars/Conferences/2021/01/25/10th-statistical-data-and-metadata-exchange)**: [slides](https://www.imf.org/-/media/Files/News/Seminars/2021/SDMX/siv-presentation-01-stocktaking-of-sdmx-tools.ashx)
+- Dec 2020: Awesome list presented on **uRos2020**: [slides](https://r-project.ro/conference2020-presentations.html#Olav_TEN_BOSCH,_Mark_VAN_DER_LOO_and_Alexander_KOWARIK)
+- Dec 2019: **100  items on the list!!!**
+- Jun 2019: Awesome list presented on **Modernstats World**: [slides](https://www.unece.org/fileadmin/DAM/stats/documents/ece/ces/ge.58/2019/mtg2/MWW2019_Soapbox_Netherlands_ten_Bosch.pdf)
+- Dec 2017: List started during UNECE SDE 2017
 
 
-#### An item on this list is awesome because
-1. it is free, open source, and available for download and
-2. it is confirmed to be used in the production of official statistics by at least one institute or it provides access to official statistics publications.
-
-We prefer packages that are easy to install and use, have at least one stable version, and are actively maintained. [Contributions](#contributions) are welcome.
-
-Milestone Dec 19th 2019: **100  packages on the list!!!**
-
-There is also a clickable version [![clickable version](viz/ClickableAwesomeSmall.png)](https://observablehq.com/@donthebike/clickable-awesomeofficialstatistics-org),
-a GSBPM visual [![GSBPM use](viz/GSBPM_Small.png)](https://observablehq.com/@donthebike/visualizing-awesomeofficialstatistics-org#GSBPM) and a
-word cloud [![word cloud](viz/wordCloudSmall.png)](https://observablehq.com/@donthebike/visualizing-awesomeofficialstatistics-org#wordCloud)
+#### Visuals
+[![GSBPM use](viz/GSBPM_Small.png)](https://observablehq.com/@olavtenbosch/visualizing-awesomeofficialstatistics-org#GSBPM)
+[![clickable version](viz/ClickableAwesomeSmall.png)](https://observablehq.com/@olavtenbosch/clickable-awesomeofficialstatistics-org)
+[![word cloud](viz/wordCloudSmall.png)](https://observablehq.com/@olavtenbosch/visualizing-awesomeofficialstatistics-org#wordCloud)
 
 
 *****
 
 #### Design frame and sample ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 2.1)
 - R package [SamplingStrata]( http://cran.stat.unipd.it/web/packages/SamplingStrata/index.html). Optimal Stratification of Sampling Frames for Multipurpose Sampling Surveys.
+- R package [R2BEAT](https://cran.r-project.org/package=R2BEAT) Multistage Sampling Allocation and PSU Selection
 
 #### Design variable descriptions ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 2.2)
 - Excel [SDMX Matrix Generator](https://github.com/OECDSTD/sdmx-matrix-generator). Excel-based visual SDMX artefact authoring tool which generates SDMX-ML for upload into an SDMX repository such as a registry. By OECD.
 
 #### Sampling ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 4.1)
-- R package [sampling](https://CRAN.R-project.org/package=sampling). Several algorithms
-for drawing (complex) survey samples and calibrating design weights.
+- R package [sampling](https://CRAN.R-project.org/package=sampling). Several algorithms for drawing survey samples, including a variety of unequal probabiltiy sampling designs (high entropy, systematic, Rao-Sampford, etc.), and calibrating design weights.
 - R package [surveyplanning](https://cran.r-project.org/package=surveyplanning). Tools for sample survey planning, including sample size calculation, estimation of expected precision for the estimates of totals, and calculation of optimal sample size allocation.
-
-
+- R package [PracTools](https://cran.r-project.org/web/packages/PracTools/). Functions and datasets related to Valliant, Dever, and Kreuter (2018 2nd ed), [*Practical Tools for Designing and Weighting Survey Samples*](https://doi.org/10.1007/978-3-319-93632-1).
+ 
 #### Scraping for Statistics ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 4.3)
 - Java application [URLSearcher](https://github.com/SummaIstat/UrlSearcher). An application for searching Urls. Can be used to find websites of enterprise. By ISTAT.
 - Java application [URLScorer](https://github.com/SummaIstat/UrlScorer). Gives a rule based score to scraped documents in a Solr database. By ISTAT.
 - Node.js tool [RobotTool](https://github.com/SNStatComp/RobotTool). A tool for checking (price) changes on the web. By Statistics Netherlands.
 - Python [Social-Media-Presence](https://github.com/jmaslankowski/WP2-Social-Media-Presence). A script for detecting social media presence on enterprises websites. By Statistics Poland.
 - Python [Sustainability Reporting](https://github.com/AlessandraSozzi/MSc-dissertation). A script for measuring sustainability reporting from enterprises websites. By ONS.
-- Python [urlfinding](https://github.com/SNStatComp/urlfinding). Software for finding websites of enterprises using a search engine and machine learning. By Statistics Netherlands
+- Python [urlfinding](https://github.com/SNStatComp/urlfinding). Software for finding websites of enterprises using a search engine and machine learning. By (Statistics Netherlands)[https:www.cbs.nl]
 
 
 #### Process ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 5)
 - R package [blaise](https://CRAN.R-project.org/package=blaise). Reading and writing Files in the Blaise Format from R. By Statistics Netherlands.
 - Java application [Java-VTL](https://github.com/statisticsnorway/java-vtl). A partial implementation of the Validation Transformation Language, based on the VTL 1.1 draft specification. By Statistics Norway.
 - Java application [ADaMSoft](http://adamsoft.sourceforge.net) implements procedures for data analysis, data, web and text mining. Also contains procedures for data validation and imputation, based on the principle of Fellegi and Holt.
-
+- R package [dcmodify](https://CRAN.r-project.org/package=dcmodify). Derive new variables or modify data using externally defined data modification rules.
 
 #### Data integration and record linkage ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 5.1)
 - R package [reclin](https://cran.r-project.org/web/packages/reclin/index.html). Functions to assist in performing probabilistic record linkage and deduplication: generating pairs, comparing records, em-algorithm for estimating m- and u-probabilities, forcing one-to-one matching. Can also be used for pre- and post-processing for machine learning methods for record linkage.
 - R package [RecordLinkage](https://CRAN.R-project.org/package=RecordLinkage). Implementation of the Fellegi-Sunter method for record linkage.
-- R package [fastLink](https://cran.r-project.org/web/packages/fastLink/index.html). Implements a Fellegi-Sunter probabilistic record linkage model that allows for missing data and the inclusion of auxiliary information. Documentation can be found on http://imai.princeton.edu/research/linkage.html
-- R packages [stringdist](https://CRAN.R-project.org/package=stringdist). Implements approximate string matching. Supports various string distances (Damerau-Levenshtein, Hamming, Levenshtein, optimal sting alignment), qgrams (q- gram, cosine, jaccard distance) and heuristic metrics (Jaro, Jaro-Winkler). An implementation of soundex is provided as well.
+- R package [StatMatch](https://CRAN.r-project.org/package=StatMatch). Statistical Matching or Data Fusion
+- R package [fastLink](https://cran.r-project.org/web/packages/fastLink/index.html). Implements a Fellegi-Sunter probabilistic record linkage model that allows for missing data and the inclusion of auxiliary information. [Documentation](http://imai.princeton.edu/research/linkage.html)
+- R packages [stringdist](https://CRAN.R-project.org/package=stringdist). Approximate string matching. Supports various string distances (Damerau-Levenshtein, Hamming, Levenshtein, optimal sting alignment), qgrams (q- gram, cosine, jaccard distance) and heuristic metrics (Jaro, Jaro-Winkler). An implementation of soundex is provided as well.
 - R packages [fuzzyjoin](https://CRAN.R-project.org/package=fuzzyjoin). Join tables based on exact or similar matches. Allows for matching records based on inaccurate keys.
 - R Java MySQL [RELAIS](https://joinup.ec.europa.eu/solution/relais-record-linkage-istat/releases). A toolkit providing techniques for dealing with record linkage. The purpose is to identify the same real world entity that can be differently represented in data sources. By Istat.
-- R package [XBRL](https://CRAN.R-project.org/package=XBRL). Extraction of Business Financial Information from [XBRL](https://www.xbrl.org/) Documents
+- R package [XBRL](https://CRAN.R-project.org/package=XBRL). Extraction of Business Financial Information from [XBRL](https://www.xbrl.org/)
 
 
 #### Statistical data editing and imputation  ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 5.3 | 5.4)
-- R package [validate](https://CRAN.R-project.org/package=validate). Rule management and data validation.
-- R package [validatetools](https://CRAN.R-project.org/package=validatetools). Checking and simplifying sets of validation rules.
-- R package [errorlocate](https://CRAN.R-project.org/package=errorlocate). Error localisation based on the principle of Fellegi and Holt.
-    - Uses [validate](https://CRAN.R-project.org/package=validate) rule definitions
-    - supports categorical and/or numeric data
-    - supports linear equalities, inequalities and conditional rules.
-    - Configurable backend for MIP-based error localization.
-- R package [VIM](https://CRAN.R-project.org/package=VIM). Visualisation and Imputation of missing values.
-    - Advanced visualisation of missing data patterns
-    - Imputation using (robust) linear regression methods
-    - Imputation using several donor-based methods (kNN, hot-deck)
-- R package [simputation](https://CRAN.R-project.org/package=simputation). Simple imputation: many methods using a uniform interface following the [tidy tools manifesto](https://cran.r-project.org/web/packages/tidyverse/vignettes/manifesto.html)
-    - Allows to easily combiny many imputation methods/strategies.
-    - Supports regression (standard, M-estimation, ridge/lasso/elasticnet), hot-deck methods (powered by [VIM](https://CRAN.R-project.org/package=VIM)), randomForest, EM-based, and iterative randomForest imputation. Reuse of fitted models and definition of simple user-defined methods are supported as well.
+- R package [validate](https://CRAN.R-project.org/package=validate). Data validation checks such as on length, format, range, missingness, availability, uniqueness, multivariate checks, statistical checks and checks on SDMX codelist. See [Cookbook](https://data-cleaning.github.io/validate/). By Statistics Netherlands
+- R package [validatedb](https://CRAN.R-project.org/package=validatedb). [validate](https://CRAN.R-project.org/package=validate) on a SQL database, providing validation on bigger data.
+- R package [validatetools](https://CRAN.R-project.org/package=validatetools). Checking validation rules on redundancies and contradictions. Useful if your validation rule set grows in complexity.
+- R package [errorlocate](https://CRAN.R-project.org/package=errorlocate). Error localisation based on Fellegi and Holt, supporting categorical and/or numeric data, linear equalities, inequalities and conditional rules and MIP-based error localization.
+- R package [VIM](https://CRAN.R-project.org/package=VIM). Visualisation and imputation of missing data. Imputation using (robust) linear regression methods or donor-based methods (kNN, hot-deck).
+- R package [simputation](https://CRAN.R-project.org/package=simputation). Front-end to (combinations of) advanced imputation methods following the [tidy tools manifesto](https://cran.r-project.org/web/packages/tidyverse/vignettes/manifesto.html). Supports regression (standard, M-estimation, ridge/lasso/elasticnet), hot-deck methods (powered by [VIM](https://CRAN.R-project.org/package=VIM)), randomForest, EM-based, and iterative randomForest imputation. Reuse of fitted models and definition of simple user-defined methods are supported as well.
 - R package [SeleMix](https://CRAN.R-project.org/package=SeleMix). Detection of outliers and influential errors using a latent variable model for selective editing.
 - R package [univOutl](https://cran.r-project.org/web/packages/univOutl/index.html). Various methods for detecting univariate outliers.
 - R package [extremevalues](https://CRAN.R-project.org/package=extremevalues). Detection of univariate outliers based on modeling the bulk distribution.
 - R package [deductive](https://CRAN.R-project.org/package=deductive). Deductive correction and imputation using edit rules and (partially) complete data.
+- R package [deductive](https://cran.r-project.org/web/packages/deductive/index.html). Deductive correction and imputation using edit rules and (partially) complete data.
+- R package [rspa](https://cran.r-project.org/web/packages/rspa/index.html). Adapt Numerical Records to Fit (in)Equality Restrictions.
+- R package [mice](https://cran.r-project.org/web/packages/mice/). Multiple imputation by chained equations, aka fully conditional specification, accompanied by [van Buuren (2018) _Flexible Imputation of Missing Data_](https://stefvanbuuren.name/fimd/).
 
 
 #### Estimation and weighting ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 5.6 | 5.7)
@@ -82,7 +87,7 @@ for drawing (complex) survey samples and calibrating design weights.
 - R package [rsae](https://CRAN.R-project.org/package=rsae). Small area estimation
 based on (robust) maximum likelihood estimation.
 - R package [CalibrateSSB](https://CRAN.R-project.org/package=CalibrateSSB). Calculate weighs and estimates for panel data with non-response.
-- R package [ReGenesees](https://joinup.ec.europa.eu/software/regenesees/description) (only availableon joinup) has a similar interface as the R package survey and many different estimators with sampling errors are implemented.
+- R package [ReGenesees](https://github.com/DiegoZardetto/ReGenesees). Like [survey](https://CRAN.r-project.org/package=survey), but with specific features (e.g. partitioned calibration) that make it fit for processing large-scale surveys. Implements different estimators with sampling errors, and ships with a dedicated GUI (package [ReGenesees.GUI](https://github.com/DiegoZardetto/ReGenesees.GUI)).
 - R package [vardpoor](https://cran.r-project.org/package=vardpoor). Linearization of non-linear statistics and variance estimation.
 - R package [convey](https://cran.r-project.org/package=convey). Variance estimation on indicators of income concentration and poverty using complex sample survey designs. Wrapper around the survey package.
 - R package [icarus](https://cran.r-project.org/package=icarus). Provides detailed tools for performing calibration and several of its varitations, in a familiar setting for Calmar users in SAS.
@@ -120,11 +125,13 @@ produced maintained and distributed by the US Census Bureau.
 
 
 #### Statistical Dissemination ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 7.2)
-- Java application [SDMX Converter](https://ec.europa.eu/eurostat/web/sdmx-infospace/sdmx-it-tools/sdmx-converter). Converter between different versions of SDMX and formats such as CSV, FLR etc. By Eurostat.
+- Java application [SDMX Converter](https://ec.europa.eu/eurostat/web/sdmx-infospace/sdmx-it-tools/sdmx-converter). Converts between SDMX versions and formats like CSV, FLR etc. By Eurostat.
 - Java application [SDMX-RI](https://ec.europa.eu/eurostat/web/sdmx-infospace/sdmx-it-tools/sdmx-ri). Framework for disseminating data in SDMX webservices. By Eurostat.
+- C# HTML5 JavaScript [PxStat](https://github.com/CSOIreland/PxStat). Data Dissemination Management System for creating and publishing Statistics over the Web with focus on Accessibility and LOD. By [CSO](https://www.cso.ie/).
+- C# VB.NET ASP.NET [PxWeb](https://github.com/statisticssweden/PxWeb). Web application for dissemination of statistical tables in [Px format](https://www.scb.se/en/services/statistical-programs-for-px-files/px-file-format/) or SQL data in the [Nordic Data Model](https://www.scb.se/en/services/statistical-programs-for-px-files/px-web/px-web-med-sql-databas/).
 - Node.js and other [.Stat Suite](https://sis-cc.gitlab.io/dotstatsuite-documentation/). An SDMX-based platform to build tailored data portals, topical or regional data explorers, or lightweight reporting platforms. By [SIS-CC](https://siscc.org).
-- JSON [SDMX-JSON](https://github.com/sdmx-twg/sdmx-json/blob/master/data-message/docs/1-sdmx-json-field-guide.md). JSON variant of SDMX. This is still a candidate standard.
-- JSON [JSON-stat](https://json-stat.org/). Lightweight JSON standard for statistical dissemination.
+- JSON [SDMX-JSON](https://github.com/sdmx-twg/sdmx-json). JSON variant of SDMX. Works together with the [SDMX-REST API](https://github.com/sdmx-twg/sdmx-rest).
+- JSON [JSON-stat](https://json-stat.org/). Simple lightweight JSON format for statistical dissemination. Based on a Cube model with dimensions organised in categories.
 
 #### Visualisation ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 7.2)
 - R package [tabplot](https://CRAN.R-project.org/package=tabplot). Compare up
@@ -132,11 +139,13 @@ produced maintained and distributed by the US Census Bureau.
 web-based GUI.
 - R package [tmap](https://CRAN.R-project.org/package=tmap). Thematic geographic maps, including bubble charts, choropleths, and more.
 - R package [oceanis](https://CRAN.R-project.org/package=oceanis). To create maps for statistical analysis such as proportional circles, chroropleth, typology and flows. By INSEE.
-- geojson/topojson [cartomap](https://github.com/cartomap) A (growing) list of simplified maps useful for web cartography for World, Europe and countries.
+- GeoJSON/TopoJSON [cartomap](https://github.com/cartomap) A (growing) list of simplified maps useful for web cartography for World, Europe and countries.
+- GeoJSON/TopoJSON [Nuts2json](https://github.com/eurostat/Nuts2json) Simplified geometries for web maps of European NUTS regions. By Eurostat.
 - R package [treemap](https://CRAN.R-project.org/package=treemap). Space-filling visualisation of hierarchical data.
 - R package [btb](https://CRAN.R-project.org/package=btb). Conservative kernel smoothing method for spatial analysis.
 - Node.js [StatMiner](http://research.cbs.nl/Projects/StatMine/), Experimental visualization framework from Statistics Netherlands.
 - JavaScript [Visual](https://github.com/idescat/visual). Javascript library for data visualization that encapsulates complexity supporting chart types such as bar, rank, pie, time series bar/line, population pyramid, scatterplots and Choropleth maps. By Idescat.
+- R package [PantaRhei](https://CRAN.R-project.org/package=PantaRhei). Sankey plots suited for (circulair) economical systems such as energy systems, material flow accounts and water accounts. Supports loops. 
 
 
 #### Access to official statistics ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 7.4)
@@ -168,6 +177,13 @@ web-based GUI.
 - Node.js package [sdmx-rest](https://www.npmjs.com/package/sdmx-rest). This library allows to easily create and execute SDMX REST queries from a JavaScript client application.
 - R package [csodata](https://cran.r-project.org/package=csodata) Download data from Central Statistics 
   Office (CSO) of Ireland.
+- R package [iriR](https://cran.r-project.org/package=iriR). Client for the European Commission’s Industrial R&D Investment Scoreboard (IRI)
+- R package [czso](https://cran.r-project.org/package=czso). Access open data from the Czech Statistical Office.
+- R package [ipumsr](https://cran.r-project.org/web/packages/ipumsr/). Access to the Integrated Public Use Microdata Series archive ipums.org (international censuses, harmonized U.S. data).
+
+## Other lists
+- [CSPA Service catalogue](https://www.statistical-services.org)
+- [Code from NTTS 2021 publications](https://github.com/NTTSConf/NTTS21)
 
 ## Contributions
 
