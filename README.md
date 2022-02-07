@@ -74,9 +74,11 @@ We prefer software that is easy to install and use, has at least one stable vers
 - R package [SeleMix](https://CRAN.R-project.org/package=SeleMix). Detection of outliers and influential errors using a latent variable model for selective editing.
 - R package [univOutl](https://cran.r-project.org/web/packages/univOutl/index.html). Various methods for detecting univariate outliers.
 - R package [extremevalues](https://CRAN.R-project.org/package=extremevalues). Detection of univariate outliers based on modeling the bulk distribution.
+- R package [deductive](https://CRAN.R-project.org/package=deductive). Deductive correction and imputation using edit rules and (partially) complete data.
 - R package [deductive](https://cran.r-project.org/web/packages/deductive/index.html). Deductive correction and imputation using edit rules and (partially) complete data.
 - R package [rspa](https://cran.r-project.org/web/packages/rspa/index.html). Adapt Numerical Records to Fit (in)Equality Restrictions.
 - R package [mice](https://cran.r-project.org/web/packages/mice/). Multiple imputation by chained equations, aka fully conditional specification, accompanied by [van Buuren (2018) _Flexible Imputation of Missing Data_](https://stefvanbuuren.name/fimd/).
+
 
 #### Estimation and weighting ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 5.6 | 5.7)
 - R package [survey](https://CRAN.R-project.org/package=survey). Weighting and estimation for complex survey designs, possibly under nonresponse. Also computes estimator variance. See also R package [srvyr](https:://CRAN.R-project.org/package=survey) for integration with 
@@ -169,7 +171,6 @@ web-based GUI.
 - R package [PxWebApiData](https://cran.r-project.org/package=PxWebApiData). Easy API access to e.g. Statistics Norway, Statistics Sweden and Statistics Finland.
 - R package [rdbnomics](https://git.nomics.world/dbnomics/rdbnomics). Access to the [DB.nomics database](https://next.nomics.world/) which provide macroeconomic data from 38 official providers such as INSEE, Eurostat, Wolrd bank, etc.
 - R package [readabs](https://cran.r-project.org/package=readabs) Download data from the Australian Bureau of Statistics.
-- R package [destatiscleanr](https://github.com/cutterkom/destatiscleanr). Clean csv files from [Genesis](https://www-genesis.destatis.de/genesis/online), the database of the Federal Statistical Office of Germany (Destatis) and its regional outlets.
 - R package [statcanR](https://cran.r-project.org/package=statcanR). An R connection to Statistics Canada's Web Data Service. Open economic data (formerly CANSIM tables) are accessible as a data frame in the R environment.
 - R package [cdlTools](https://cran.r-project.org/package=cdlTools). Downloads USDA National Agricultural Statistics Service (NASS) cropscape data for a specified state.
 - Java package [SDMX Connectors](https://github.com/amattioc/SDMX). Browse SDMX data providers, build your queries and get data directly in your favourite tool (R, SAS, Matlab, Stata and Excel). By Banca d'Italia.
