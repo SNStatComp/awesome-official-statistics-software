@@ -118,7 +118,3 @@ web-based GUI. Note: 2022-03-03: Temporarily not on Cran but expected to be back
 "access to official statistics","7.4","iriR","https://cran.r-project.org/package=iriR","R",". Client for the European Commission’s Industrial R&D Investment Scoreboard (IRI)",TRUE,TRUE,TRUE
 "access to official statistics","7.4","czso","https://cran.r-project.org/package=czso","R",". Access open data from the Czech Statistical Office.",TRUE,TRUE,TRUE
 "access to official statistics","7.4","ipumsr","https://cran.r-project.org/web/packages/ipumsr/","R",". Access to the Integrated Public Use Microdata Series archive ipums.org (international censuses, harmonized U.S. data).
-
-## Other lists",TRUE,TRUE,TRUE
-"access to official statistics","7.4","CSPA Service catalogue","https://www.statistical-services.org","[CSPA","",TRUE,FALSE,FALSE
-"access to official statistics","7.4","Code from NTTS 2021 publications","https://github.com/NTTSConf/NTTS21","[Code","",TRUE,FALSE,FALSE
