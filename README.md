@@ -31,7 +31,7 @@ We prefer software that is easy to install and use, has at least one stable vers
 - R package [R2BEAT](https://cran.r-project.org/package=R2BEAT) Multistage Sampling Allocation and PSU Selection
 
 #### Design variable descriptions ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 2.2)
-- Excel [SDMX Matrix Generator](https://github.com/OECDSTD/sdmx-matrix-generator). Excel-based visual SDMX artefact authoring tool which generates SDMX-ML for upload into an SDMX repository such as a registry. By OECD.
+- Excel [SDMX Matrix Generator](https://gitlab.com/sis-cc/sdmx-tools/sdmx-matrix-generator). Excel-based visual SDMX artefact authoring tool which generates SDMX-ML for upload into an SDMX repository such as a registry. By OECD.
 
 #### Sampling ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 4.1)
 - R package [sampling](https://CRAN.R-project.org/package=sampling). Several algorithms for drawing survey samples, including a variety of unequal probabiltiy sampling designs (high entropy, systematic, Rao-Sampford, etc.), and calibrating design weights.
