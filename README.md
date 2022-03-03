@@ -193,7 +193,7 @@ Awesome contributions are welcome, here are ways to do it:
 - Add an item to the
   [issue tracker](https://github.com/SNStatComp/awesome-official-statistics-software/issues)
 issue tracker. (you need a GH account)
-- Send an e-mail to `mark dot vanderloo at gmail dot com` or `olav dot tenbosch at gmail dot com` or tweet [\@markvdloo](https://twitter.com/markvdloo)
+- Send an e-mail to `mark dot vanderloo at gmail dot com` or `olav dot tenbosch at gmail dot com` or tweet [\@olavtenbosch](https://twitter.com/olavtenbosch) or [\@markvdloo](https://twitter.com/markvdloo)
 
 **Wear the badge.** Authors of software that is mentioned on this list gain the right to wear the [mentioned in awesome](https://github.com/sindresorhus/awesome/blob/master/awesome.md#awesome-mentioned-badge) badge on their website or GH repository. Please use the following code (or equivalent) to do so for your project.
 ```
