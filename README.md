@@ -44,7 +44,7 @@ We prefer software that is easy to install and use, has at least one stable vers
 - Node.js tool [RobotTool](https://github.com/SNStatComp/RobotTool). A tool for checking (price) changes on the web. By Statistics Netherlands.
 - Python [Social-Media-Presence](https://github.com/jmaslankowski/WP2-Social-Media-Presence). A script for detecting social media presence on enterprises websites. By Statistics Poland.
 - Python [Sustainability Reporting](https://github.com/AlessandraSozzi/MSc-dissertation). A script for measuring sustainability reporting from enterprises websites. By ONS.
-- Python [urlfinding](https://github.com/SNStatComp/urlfinding). Software for finding websites of enterprises using a search engine and machine learning. By (Statistics Netherlands)[https:www.cbs.nl]
+- Python [urlfinding](https://github.com/SNStatComp/urlfinding). Software for finding websites of enterprises using a search engine and machine learning. By [Statistics Netherlands](https:www.cbs.nl)
 
 
 #### Process ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 5)
