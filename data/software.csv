@@ -111,10 +111,9 @@ web-based GUI. Note: 2022-03-03: Temporarily not on Cran but expected to be back
 "access to official statistics","7.4","readabs","https://cran.r-project.org/package=readabs","R"," Download data from the Australian Bureau of Statistics.",TRUE,TRUE,TRUE
 "access to official statistics","7.4","statcanR","https://cran.r-project.org/package=statcanR","R",". An R connection to Statistics Canada's Web Data Service. Open economic data (formerly CANSIM tables) are accessible as a data frame in the R environment.",TRUE,TRUE,TRUE
 "access to official statistics","7.4","cdlTools","https://cran.r-project.org/package=cdlTools","R",". Downloads USDA National Agricultural Statistics Service (NASS) cropscape data for a specified state.",TRUE,TRUE,TRUE
-"access to official statistics","7.4","SDMX Connectors","https://github.com/amattioc/SDMX","Java",". Browse SDMX data providers, build your queries and get data directly in your favourite tool (R, SAS, Matlab, Stata and Excel). By Banca d'Italia.",TRUE,TRUE,TRUE
+"access to official statistics","7.4","SDMX Connectors","https://github.com/amattioc/SDMX","Java",". Browse SDMX data providers, build your queries and get data directly in your favourite tool (R, SAS, Matlab, Stata and Excel). By Banca dItalia.",TRUE,TRUE,TRUE
 "access to official statistics","7.4","sdmx-rest","https://www.npmjs.com/package/sdmx-rest","Node.js",". This library allows to easily create and execute SDMX REST queries from a JavaScript client application.",TRUE,FALSE,FALSE
-"access to official statistics","7.4","csodata","https://cran.r-project.org/package=csodata","R"," Download data from Central Statistics 
-  Office (CSO) of Ireland.",TRUE,TRUE,TRUE
+"access to official statistics","7.4","csodata","https://cran.r-project.org/package=csodata","R"," Download data from Central Statistics Office (CSO) of Ireland.",TRUE,TRUE,TRUE
 "access to official statistics","7.4","iriR","https://cran.r-project.org/package=iriR","R",". Client for the European Commission’s Industrial R&D Investment Scoreboard (IRI)",TRUE,TRUE,TRUE
 "access to official statistics","7.4","czso","https://cran.r-project.org/package=czso","R",". Access open data from the Czech Statistical Office.",TRUE,TRUE,TRUE
 "access to official statistics","7.4","ipumsr","https://cran.r-project.org/web/packages/ipumsr/","R",". Access to the Integrated Public Use Microdata Series archive ipums.org (international censuses, harmonized U.S. data).
