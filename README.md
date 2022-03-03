@@ -98,7 +98,7 @@ based on (robust) maximum likelihood estimation.
 
 
 #### Time series and seasonal adjustment ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 5.6 | 5.7)
-- Fortran [X-13ARIMA-SEATS](https://www.census.gov/srd/www/x13as/) Seasonal adjustment software
+- Fortran [X-13ARIMA-SEATS](https://www.census.gov/data/software/x13as.X-13ARIMA-SEATS.html) Seasonal adjustment software, by Census Bureau
 produced maintained and distributed by the US Census Bureau.
 - R package [seasonal](https://CRAN.R-project.org/package=seasonal). Interface to the `X13-ARIMA-SEATS` program from R with a very nice shiny GUI.
 - R package [x12](https://CRAN.R-project.org/package=x12). Alternative interface to the `X13-ARIMA-SEATS` program from R with a focus on batch processing time series.
@@ -136,7 +136,7 @@ produced maintained and distributed by the US Census Bureau.
 #### Visualisation ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 7.2)
 - R package [tabplot](https://CRAN.R-project.org/package=tabplot). Compare up
   to about 10-20 variables simultaneously using a [tableplot](https://cran.r-project.org/web/packages/tabplot/vignettes/tabplot-vignette.html). See also [tabplotd3](https://CRAN.R-project.org/package=tabplot) for a
-web-based GUI.
+web-based GUI. Note: 2022-03-03: Temporarily not on Cran but expected to be back in 2022.
 - R package [tmap](https://CRAN.R-project.org/package=tmap). Thematic geographic maps, including bubble charts, choropleths, and more.
 - R package [oceanis](https://CRAN.R-project.org/package=oceanis). To create maps for statistical analysis such as proportional circles, chroropleth, typology and flows. By INSEE.
 - GeoJSON/TopoJSON [cartomap](https://github.com/cartomap) A (growing) list of simplified maps useful for web cartography for World, Europe and countries.
