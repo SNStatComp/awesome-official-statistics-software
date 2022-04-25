@@ -151,7 +151,7 @@ web-based GUI. Note: 2022-03-03: Temporarily not on Cran but expected to be back
 #### Access to official statistics ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 7.4)
 - R package [rsdmx](https://github.com/opensdmx/rsdmx). Easy access to data from statistical organisations that support SDMX webservices. The package contains a list of SDMX access points of various national and international statistical institutes.
 - R package and C++ [readsdmx](https://cran.r-project.org/package=readsdmx). Read SDMX into dataframes from local SDMX-ML file or web-service. By OECD.
-- Python [pandaSDMX](https://github.com/dr-leo/pandaSDMX). Python interface to SDMX that facilitates the acquisition and analysis of SDMX-2.1 compliant data and metadata.
+- Python [sdmx](https://sdmx1.readthedocs.io/en/latest/). Python library that implements SDMX 2.1 to explore data from SDMX data providers, parse data and metadata and convert it into Pandas objects.
 - R package [rjstat](https://cran.r-project.org/package=rjstat). Read and write data sets in the JSON-stat format.
 - Python package [pyjstat](https://pypi.org/project/pyjstat/). Read and write JSON-stat.
 - Java module [json-stat.java](https://github.com/statisticsnorway/json-stat.java) Read and write JSON-stat. By Statistics Norway.
