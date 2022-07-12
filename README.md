@@ -158,6 +158,7 @@ web-based GUI. Note: 2022-03-03: Temporarily not on Cran but expected to be back
 - R package [oecd](https://cran.r-project.org/web/packages/OECD/index.html) Search and Extract Data from the OECD
 - R package [sorvi](https://CRAN.R-project.org/package=sorvi) Finnish Open Government Data Toolkit
 - R package [eurostat](https://CRAN.R-project.org/package=eurostat) Tools to download data from the Eurostat database together with search and manipulation utilities.
+- R package [restatapi](https://CRAN.R-project.org/package=restatapi) Search and retrieve data from Eurostat database, by Eurostat.
 - R package [acs](https://CRAN.R-project.org/package=acs) Download, Manipulate, and Present American Community Survey and Decennial Data from the US Census.
 - R package [inegiR](https://CRAN.R-project.org/package=inegiR) Access to data published by [INEGI](http://www.inegi.org.mx/), Mexico's official statistics agency.
 - R package [cbsodataR](https://CRAN.R-project.org/package=cbsodataR). Access to Statistics Netherlands' ([CBS](http://www.CBS.nl)) open data API from R.
