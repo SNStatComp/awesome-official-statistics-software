@@ -89,13 +89,14 @@ web-based GUI. Note: 2022-03-03: Temporarily not on Cran but expected to be back
 "visualisation","7.2","PantaRhei","https://CRAN.R-project.org/package=PantaRhei","R",". Sankey plots suited for (circulair) economical systems such as energy systems, material flow accounts and water accounts. Supports loops.",TRUE,TRUE,TRUE
 "access to official statistics","7.4","rsdmx","https://github.com/opensdmx/rsdmx","R",". Easy access to data from statistical organisations that support SDMX webservices. The package contains a list of SDMX access points of various national and international statistical institutes.",TRUE,TRUE,TRUE
 "access to official statistics","7.4","readsdmx","https://cran.r-project.org/package=readsdmx","R",". Read SDMX into dataframes from local SDMX-ML file or web-service. By OECD.",TRUE,TRUE,TRUE
-"access to official statistics","7.4","pandaSDMX","https://github.com/dr-leo/pandaSDMX","Python",". Python interface to SDMX that facilitates the acquisition and analysis of SDMX-2.1 compliant data and metadata.",TRUE,FALSE,FALSE
+"access to official statistics","7.4","sdmx","https://sdmx1.readthedocs.io/en/latest/","Python",". Python library that implements SDMX 2.1 to explore data from SDMX data providers, parse data and metadata and convert it into Pandas objects.",TRUE,FALSE,FALSE
 "access to official statistics","7.4","rjstat","https://cran.r-project.org/package=rjstat","R",". Read and write data sets in the JSON-stat format.",TRUE,TRUE,TRUE
 "access to official statistics","7.4","pyjstat","https://pypi.org/project/pyjstat/","Python",". Read and write JSON-stat.",TRUE,FALSE,FALSE
 "access to official statistics","7.4","json-stat.java","https://github.com/statisticsnorway/json-stat.java","Java"," Read and write JSON-stat. By Statistics Norway.",TRUE,TRUE,TRUE
 "access to official statistics","7.4","oecd","https://cran.r-project.org/web/packages/OECD/index.html","R"," Search and Extract Data from the OECD",TRUE,TRUE,TRUE
 "access to official statistics","7.4","sorvi","https://CRAN.R-project.org/package=sorvi","R"," Finnish Open Government Data Toolkit",TRUE,TRUE,TRUE
 "access to official statistics","7.4","eurostat","https://CRAN.R-project.org/package=eurostat","R"," Tools to download data from the Eurostat database together with search and manipulation utilities.",TRUE,TRUE,TRUE
+"access to official statistics","7.4","restatapi","https://CRAN.R-project.org/package=restatapi","R"," Search and retrieve data from Eurostat database, by Eurostat.",TRUE,TRUE,TRUE
 "access to official statistics","7.4","acs","https://CRAN.R-project.org/package=acs","R"," Download, Manipulate, and Present American Community Survey and Decennial Data from the US Census.",TRUE,TRUE,TRUE
 "access to official statistics","7.4","inegiR","https://CRAN.R-project.org/package=inegiR","R"," Access to data published by [INEGI](http://www.inegi.org.mx/), Mexico's official statistics agency.",TRUE,TRUE,TRUE
 "access to official statistics","7.4","cbsodataR","https://CRAN.R-project.org/package=cbsodataR","R",". Access to Statistics Netherlands' ([CBS](http://www.CBS.nl)) open data API from R.",TRUE,TRUE,TRUE
@@ -111,9 +112,11 @@ web-based GUI. Note: 2022-03-03: Temporarily not on Cran but expected to be back
 "access to official statistics","7.4","readabs","https://cran.r-project.org/package=readabs","R"," Download data from the Australian Bureau of Statistics.",TRUE,TRUE,TRUE
 "access to official statistics","7.4","statcanR","https://cran.r-project.org/package=statcanR","R",". An R connection to Statistics Canada's Web Data Service. Open economic data (formerly CANSIM tables) are accessible as a data frame in the R environment.",TRUE,TRUE,TRUE
 "access to official statistics","7.4","cdlTools","https://cran.r-project.org/package=cdlTools","R",". Downloads USDA National Agricultural Statistics Service (NASS) cropscape data for a specified state.",TRUE,TRUE,TRUE
-"access to official statistics","7.4","SDMX Connectors","https://github.com/amattioc/SDMX","Java",". Browse SDMX data providers, build your queries and get data directly in your favourite tool (R, SAS, Matlab, Stata and Excel). By Banca dItalia.",TRUE,TRUE,TRUE
+"access to official statistics","7.4","SDMX Connectors","https://github.com/amattioc/SDMX","Java",". Browse SDMX data providers, build your queries and get data directly in your favourite tool (R, SAS, Matlab, Stata and Excel). By Banca d'Italia.",TRUE,TRUE,TRUE
 "access to official statistics","7.4","sdmx-rest","https://www.npmjs.com/package/sdmx-rest","Node.js",". This library allows to easily create and execute SDMX REST queries from a JavaScript client application.",TRUE,FALSE,FALSE
-"access to official statistics","7.4","csodata","https://cran.r-project.org/package=csodata","R"," Download data from Central Statistics Office (CSO) of Ireland.",TRUE,TRUE,TRUE
+"access to official statistics","7.4","csodata","https://cran.r-project.org/package=csodata","R"," Download data from Central Statistics 
+  Office (CSO) of Ireland.",TRUE,TRUE,TRUE
 "access to official statistics","7.4","iriR","https://cran.r-project.org/package=iriR","R",". Client for the European Commission’s Industrial R&D Investment Scoreboard (IRI)",TRUE,TRUE,TRUE
 "access to official statistics","7.4","czso","https://cran.r-project.org/package=czso","R",". Access open data from the Czech Statistical Office.",TRUE,TRUE,TRUE
-"access to official statistics","7.4","ipumsr","https://cran.r-project.org/web/packages/ipumsr/","R",". Access to the Integrated Public Use Microdata Series archive ipums.org (international censuses, harmonized U.S. data).
+"access to official statistics","7.4","ipumsr","https://cran.r-project.org/web/packages/ipumsr/","R",". Access to the Integrated Public Use Microdata Series archive ipums.org (international censuses, harmonized U.S. data).",TRUE,TRUE,TRUE
+"access to official statistics","7.4","eph","https://cloud.r-project.org/web/packages/eph/index.html","R",". Tools to download and manipulate the [EPH-INDEC](https://www.indec.gob.ar/) from Argentina (EPH is the Spanish acronym for Permanent Household Survey)
