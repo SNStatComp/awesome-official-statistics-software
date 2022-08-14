@@ -181,6 +181,7 @@ web-based GUI. Note: 2022-03-03: Temporarily not on Cran but expected to be back
 - R package [iriR](https://cran.r-project.org/package=iriR). Client for the European Commission’s Industrial R&D Investment Scoreboard (IRI)
 - R package [czso](https://cran.r-project.org/package=czso). Access open data from the Czech Statistical Office.
 - R package [ipumsr](https://cran.r-project.org/web/packages/ipumsr/). Access to the Integrated Public Use Microdata Series archive ipums.org (international censuses, harmonized U.S. data).
+- R package [eph](https://cloud.r-project.org/web/packages/eph/index.html). Tools to download and manipulate the [EPH-INDEC](https://www.indec.gob.ar/) from Argentina (EPH is the Spanish acronym for Permanent Household Survey)
 
 ## Other lists
 - [CSPA Service catalogue](https://www.statistical-services.org)
