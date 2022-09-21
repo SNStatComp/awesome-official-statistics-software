@@ -28,7 +28,7 @@ We prefer software that is easy to install and use, has at least one stable vers
 *****
 
 #### Design frame and sample ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 2.1)
-- R package [SamplingStrata](https://cran.r-project.org/package=SamplingStrata) ![CRAN](https://www.r-pkg.org/badges/ago/SamplingStata). Optimal Stratification of Sampling Frames for Multipurpose Sampling Surveys.
+- R package [SamplingStrata](https://cran.r-project.org/package=SamplingStrata) ![CRAN](https://www.r-pkg.org/badges/ago/SamplingStrata). Optimal Stratification of Sampling Frames for Multipurpose Sampling Surveys.
 - R package [R2BEAT](https://cran.r-project.org/package=R2BEAT) Multistage Sampling Allocation and PSU Selection
 
 #### Design variable descriptions ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 2.2)
