@@ -28,8 +28,8 @@ We prefer software that is easy to install and use, has at least one stable vers
 *****
 
 #### Design frame and sample ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 2.1)
-- R package [SamplingStrata](https://cran.r-project.org/package=SamplingStrata) ![CRAN](https://www.r-pkg.org/badges/ago/SamplingStrata). Optimal Stratification of Sampling Frames for Multipurpose Sampling Surveys.
-- R package [R2BEAT](https://cran.r-project.org/package=R2BEAT) Multistage Sampling Allocation and PSU Selection
+- R package [SamplingStrata](https://cran.r-project.org/package=SamplingStrata). Optimal Stratification of Sampling Frames for Multipurpose Sampling Surveys.
+- R package [R2BEAT](https://cran.r-project.org/package=R2BEAT) Multistage Sampling Allocation and PSU Selection. ![CRAN](https://www.r-pkg.org/badges/ago/SamplingStrata)
 
 #### Design variable descriptions ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 2.2)
 - Excel [SDMX Matrix Generator](https://gitlab.com/sis-cc/sdmx-tools/sdmx-matrix-generator). Excel-based visual SDMX artefact authoring tool which generates SDMX-ML for upload into an SDMX repository such as a registry. By OECD.
@@ -40,7 +40,7 @@ We prefer software that is easy to install and use, has at least one stable vers
 - R package [PracTools](https://cran.r-project.org/package=PracTools). Functions and datasets related to Valliant, Dever, and Kreuter (2018 2nd ed), [*Practical Tools for Designing and Weighting Survey Samples*](https://doi.org/10.1007/978-3-319-93632-1).
  
 #### Scraping for Statistics ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 4.3)
-- Java application [URLSearcher](https://github.com/SummaIstat/UrlSearcher) ![github](https://img.shields.io/github/last-commit/SummaIstat/UrlSearcher?color=green&label=Github%20last%20commit). An application for searching Urls. Can be used to find websites of enterprise. By ISTAT.
+- Java application [URLSearcher](https://github.com/SummaIstat/UrlSearcher). An application for searching Urls. Can be used to find websites of enterprise. By ISTAT. ![github](https://img.shields.io/github/last-commit/SummaIstat/UrlSearcher?color=brightgreen&label=GITHUB%20last%20commit)
 - Java application [URLScorer](https://github.com/SummaIstat/UrlScorer). Gives a rule based score to scraped documents in a Solr database. By ISTAT.
 - Node.js tool [RobotTool](https://github.com/SNStatComp/RobotTool). A tool for checking (price) changes on the web. By Statistics Netherlands.
 - Python [Social-Media-Presence](https://github.com/jmaslankowski/WP2-Social-Media-Presence). A script for detecting social media presence on enterprises websites. By Statistics Poland.
