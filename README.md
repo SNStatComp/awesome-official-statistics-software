@@ -28,8 +28,9 @@ We prefer software that is easy to install and use, has at least one stable vers
 *****
 
 #### Design frame and sample ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 2.1)
-- R package [SamplingStrata](https://cran.r-project.org/package=SamplingStrata). Optimal Stratification of Sampling Frames for Multipurpose Sampling Surveys.
-- R package [R2BEAT](https://cran.r-project.org/package=R2BEAT) Multistage Sampling Allocation and PSU Selection. ![CRAN](https://www.r-pkg.org/badges/version-ago/SamplingStrata)
+- R package [SamplingStrata](https://cran.r-project.org/package=SamplingStrata). Optimal Stratification of Sampling Frames for Multipurpose Sampling Surveys. ![CRAN](https://www.r-pkg.org/badges/version-ago/SamplingStrata) ![github](https://img.shields.io/github/last-commit/barcaroli/SamplingStrata?color=brightgreen&label=GitHub)
+
+- R package [R2BEAT](https://cran.r-project.org/package=R2BEAT) Multistage Sampling Allocation and PSU Selection.
 
 #### Design variable descriptions ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 2.2)
 - Excel [SDMX Matrix Generator](https://gitlab.com/sis-cc/sdmx-tools/sdmx-matrix-generator). Excel-based visual SDMX artefact authoring tool which generates SDMX-ML for upload into an SDMX repository such as a registry. By OECD.
