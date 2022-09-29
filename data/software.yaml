@@ -2,7 +2,7 @@
   name: SamplingStrata
   url: https://cran.r-project.org/package=SamplingStrata
   description: 'Optimal Stratification of Sampling Frames for Multipurpose Sampling
-    Surveys. ![CRAN](https://www.r-pkg.org/badges/version-ago/SamplingStrata) ![github](https://img.shields.io/github/last-commit/barcaroli/SamplingStrata?color=brightgreen&label=GitHub)'
+    Surveys.'
   gsbpm: '2.1'
 - type: R package
   name: R2BEAT
@@ -39,7 +39,7 @@
   name: URLSearcher
   url: https://github.com/SummaIstat/UrlSearcher
   description: 'An application for searching Urls. Can be used to find websites of
-    enterprise. By ISTAT. ![github](https://img.shields.io/github/last-commit/SummaIstat/UrlSearcher?color=brightgreen&label=GitHub)'
+    enterprise. By ISTAT.'
   gsbpm: '4.3'
 - type: Java application
   name: URLScorer
@@ -68,7 +68,7 @@
   name: urlfinding
   url: https://github.com/SNStatComp/urlfinding
   description: 'Software for finding websites of enterprises using a search engine
-    and machine learning. By [Statistics Netherlands](https:www.cbs.nl)'
+    and machine learning. By [Statistics Netherlands](https:www.cbs.nl).'
   gsbpm: '4.3'
 - type: R package
   name: blaise
@@ -117,7 +117,7 @@
   name: fastLink
   url: https://cran.r-project.org/package=fastLink
   description: 'Implements a Fellegi-Sunter probabilistic record linkage model that
-    allows for missing data and the inclusion of auxiliary information. [Documentation](http://imai.princeton.edu/research/linkage.html)'
+    allows for missing data and the inclusion of auxiliary information. [Documentation](http://imai.princeton.edu/research/linkage.html).'
   gsbpm: '5.1'
 - type: R packages
   name: stringdist
@@ -143,7 +143,7 @@
 - type: R package
   name: XBRL
   url: https://cran.r-project.org/package=XBRL
-  description: 'Extraction of Business Financial Information from [XBRL](https://www.xbrl.org/)'
+  description: 'Extraction of Business Financial Information from [XBRL](https://www.xbrl.org/).'
   gsbpm: '5.1'
 - type: R package
   name: validate
@@ -151,7 +151,7 @@
   description: 'Data validation checks such as on length, format, range, missingness,
     availability, uniqueness, multivariate checks, statistical checks and checks on
     SDMX codelist. See [Cookbook](https://data-cleaning.github.io/validate/). By Statistics
-    Netherlands'
+    Netherlands.'
   gsbpm: '5.3 | 5.4'
 - type: R package
   name: validatedb

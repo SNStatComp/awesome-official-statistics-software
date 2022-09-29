@@ -33,7 +33,7 @@ We prefer software that is easy to install and use, has at least one stable vers
 
 #### Design frame and sample ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 2.1)
 
-- R package [SamplingStrata](https://cran.r-project.org/package=SamplingStrata). Optimal Stratification of Sampling Frames for Multipurpose Sampling Surveys. ![CRAN](https://www.r-pkg.org/badges/version-ago/SamplingStrata) ![github](https://img.shields.io/github/last-commit/barcaroli/SamplingStrata?color=brightgreen&amp;label=GitHub)
+- R package [SamplingStrata](https://cran.r-project.org/package=SamplingStrata). Optimal Stratification of Sampling Frames for Multipurpose Sampling Surveys.
 - R package [R2BEAT](https://cran.r-project.org/package=R2BEAT). Multistage Sampling Allocation and PSU Selection.
 
 
@@ -51,12 +51,12 @@ We prefer software that is easy to install and use, has at least one stable vers
 
 #### Scraping for Statistics ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 4.3)
 
-- Java application [URLSearcher](https://github.com/SummaIstat/UrlSearcher). An application for searching Urls. Can be used to find websites of enterprise. By ISTAT. ![github](https://img.shields.io/github/last-commit/SummaIstat/UrlSearcher?color=brightgreen&amp;label=GitHub)
+- Java application [URLSearcher](https://github.com/SummaIstat/UrlSearcher). An application for searching Urls. Can be used to find websites of enterprise. By ISTAT.
 - Java application [URLScorer](https://github.com/SummaIstat/UrlScorer). Gives a rule based score to scraped documents in a Solr database. By ISTAT.
 - Node.js tool [RobotTool](https://github.com/SNStatComp/RobotTool). A tool for checking (price) changes on the web. By Statistics Netherlands.
 - Python [Social-Media-Presence](https://github.com/jmaslankowski/WP2-Social-Media-Presence). A script for detecting social media presence on enterprises websites. By Statistics Poland.
 - Python [Sustainability Reporting](https://github.com/AlessandraSozzi/MSc-dissertation). A script for measuring sustainability reporting from enterprises websites. By ONS.
-- Python [urlfinding](https://github.com/SNStatComp/urlfinding). Software for finding websites of enterprises using a search engine and machine learning. By [Statistics Netherlands](https:www.cbs.nl)
+- Python [urlfinding](https://github.com/SNStatComp/urlfinding). Software for finding websites of enterprises using a search engine and machine learning. By [Statistics Netherlands](https:www.cbs.nl).
 
 
 #### Process ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 5)
@@ -72,16 +72,16 @@ We prefer software that is easy to install and use, has at least one stable vers
 - R package [reclin](https://cran.r-project.org/package=reclin). Functions to assist in performing probabilistic record linkage and deduplication: generating pairs, comparing records, em-algorithm for estimating m- and u-probabilities, forcing one-to-one matching. Can also be used for pre- and post-processing for machine learning methods for record linkage.
 - R package [RecordLinkage](https://cran.r-project.org/package=RecordLinkage). Implementation of the Fellegi-Sunter method for record linkage.
 - R package [StatMatch](https://cran.r-project.org/package=StatMatch). Statistical Matching or Data Fusion
-- R package [fastLink](https://cran.r-project.org/package=fastLink). Implements a Fellegi-Sunter probabilistic record linkage model that allows for missing data and the inclusion of auxiliary information. [Documentation](http://imai.princeton.edu/research/linkage.html)
+- R package [fastLink](https://cran.r-project.org/package=fastLink). Implements a Fellegi-Sunter probabilistic record linkage model that allows for missing data and the inclusion of auxiliary information. [Documentation](http://imai.princeton.edu/research/linkage.html).
 - R packages [stringdist](https://cran.r-project.org/package=stringdist). Approximate string matching. Supports various string distances (Damerau-Levenshtein, Hamming, Levenshtein, optimal sting alignment), qgrams (q- gram, cosine, jaccard distance) and heuristic metrics (Jaro, Jaro-Winkler). An implementation of soundex is provided as well.
 - R packages [fuzzyjoin](https://cran.r-project.org/package=fuzzyjoin). Join tables based on exact or similar matches. Allows for matching records based on inaccurate keys.
 - R Java MySQL [RELAIS](https://joinup.ec.europa.eu/solution/relais-record-linkage-istat/releases). A toolkit providing techniques for dealing with record linkage. The purpose is to identify the same real world entity that can be differently represented in data sources. By Istat.
-- R package [XBRL](https://cran.r-project.org/package=XBRL). Extraction of Business Financial Information from [XBRL](https://www.xbrl.org/)
+- R package [XBRL](https://cran.r-project.org/package=XBRL). Extraction of Business Financial Information from [XBRL](https://www.xbrl.org/).
 
 
 #### Statistical data editing and imputation ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 5.3 | 5.4)
 
-- R package [validate](https://cran.r-project.org/package=validate). Data validation checks such as on length, format, range, missingness, availability, uniqueness, multivariate checks, statistical checks and checks on SDMX codelist. See [Cookbook](https://data-cleaning.github.io/validate/). By Statistics Netherlands
+- R package [validate](https://cran.r-project.org/package=validate). Data validation checks such as on length, format, range, missingness, availability, uniqueness, multivariate checks, statistical checks and checks on SDMX codelist. See [Cookbook](https://data-cleaning.github.io/validate/). By Statistics Netherlands.
 - R package [validatedb](https://cran.r-project.org/package=validatedb). [validate](https://CRAN.R-project.org/package=validate) on a SQL database, providing validation on bigger data.
 - R package [validatetools](https://cran.r-project.org/package=validatetools). Checking validation rules on redundancies and contradictions. Useful if your validation rule set grows in complexity.
 - R package [errorlocate](https://cran.r-project.org/package=errorlocate). Error localisation based on Fellegi and Holt, supporting categorical and/or numeric data, linear equalities, inequalities and conditional rules and MIP-based error localization.
