@@ -1,7 +1,7 @@
 library(yaml)
 library(whisker)
 
-dta <- read_yaml("data/raw.yaml")
+dta <- read_yaml("data/software.yaml")
 categories <- read_yaml("data/categories.yaml")
 categories <- lapply(categories, as.data.frame) |> do.call(what = rbind)
 
