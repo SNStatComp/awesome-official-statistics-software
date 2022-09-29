@@ -13,11 +13,15 @@ dta <- split(dta, groups)
 
 tmp <- vector("list", length(dta))
 for (i in seq_along(dta)) {
-  tmp[[i]] <- list(name = names(dta)[i], items = dta[[i]])
+  group <- names(dta)[i]
+  category <- categories[categories$label == group,]
+  tmp[[i]] <- list(
+    name = category$name,
+    gsbpm = category$gsbpm,
+    items = dta[[i]])
 }
 tmp <- list(groups = tmp)
 
 template <- readLines("data/template.md")
-
-writeLines(whisker.render(template, tmp))
+writeLines(whisker.render(template, tmp), "README.md")
 

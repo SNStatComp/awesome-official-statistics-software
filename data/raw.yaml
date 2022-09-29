@@ -311,18 +311,18 @@
 - type: Java application
   name: JDemetra+
   url: https://ec.europa.eu/eurostat/cros/content/download_en
-  description: he seasonal adjustment software officially recommended for the European
+  description: The seasonal adjustment software officially recommended for the European
     Statistical System.
   gsbpm: '5.6 | 5.7 time series'
 - type: R package
   name: RJDemetra
   url: https://jdemetra.github.io/rjdemetra/
-  description: 'interface to JDemetra+.'
+  description: 'R interface to JDemetra+.'
   gsbpm: '5.6 | 5.7 time series'
 - type: R package
   name: tempdisagg
   url: https://cran.r-project.org/package=tempdisagg
-  description: ethods for temporal disaggregation and interpolation of time series.
+  description: Methods for temporal disaggregation and interpolation of time series.
   gsbpm: '5.6 | 5.7 time series'
 - type: R package
   name: validate
@@ -352,17 +352,17 @@
 - type: R package
   name: easySdcTable
   url: https://cran.r-project.org/package=easySdcTable
-  description: rovides an interface to the package sdcTable.
+  description: Provides an interface to the package sdcTable.
   gsbpm: '6.4'
 - type: R package
   name: sdcHierarchies
   url: https://cran.r-project.org/package=sdcHierarchies
-  description: llows to generate, modify and export nested hierarchies.
+  description: Allows to generate, modify and export nested hierarchies.
   gsbpm: '6.4'
 - type: R package
   name: SmallCountRounding
   url: https://cran.r-project.org/package=SmallCountRounding
-  description: an be used to protect frequency tables by rounding necessary inner
+  description: Can be used to protect frequency tables by rounding necessary inner
     cells so that cross-classifications to be published are safe.
   gsbpm: '6.4'
 - type: R package
@@ -444,13 +444,13 @@
 - type: GeoJSON/TopoJSON
   name: cartomap
   url: https://github.com/cartomap
-  description: '(growing) list of simplified maps useful for web cartography for
+  description: 'A (growing) list of simplified maps useful for web cartography for
     World, Europe and countries.'
   gsbpm: '7.2 visualisation'
 - type: GeoJSON/TopoJSON
   name: Nuts2json
   url: https://github.com/eurostat/Nuts2json
-  description: implified geometries for web maps of European NUTS regions. By Eurostat.
+  description: Simplified geometries for web maps of European NUTS regions. By Eurostat.
   gsbpm: '7.2 visualisation'
 - type: R package
   name: treemap
@@ -568,7 +568,7 @@
 - type: R package
   name: censusapi
   url: https://cran.r-project.org/package=censusapi
-  description: 'wrapper for the U.S. Census Bureau APIs that returns data frames
+  description: 'A wrapper for the U.S. Census Bureau APIs that returns data frames
     of Census data and metadata.'
   gsbpm: '7.4'
 - type: R package
@@ -610,7 +610,7 @@
 - type: R package
   name: readabs
   url: https://cran.r-project.org/package=readabs
-  description: ownload data from the Australian Bureau of Statistics.
+  description: Download data from the Australian Bureau of Statistics.
   gsbpm: '7.4'
 - type: R package
   name: statcanR
@@ -639,7 +639,7 @@
 - type: R package
   name: csodata
   url: https://cran.r-project.org/package=csodata
-  description: ownload data from Central Statistics Office (CSO) of Ireland.
+  description: Download data from Central Statistics Office (CSO) of Ireland.
   gsbpm: '7.4'
 - type: R package
   name: iriR
