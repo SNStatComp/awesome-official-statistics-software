@@ -9,15 +9,14 @@ An awesome list of open source software for official statistics.
 We prefer software that is easy to install and use, has at least one stable version, and is actively maintained. [Contributions](#contributions) welcome.
 
 #### News
-- Oct 2022: The list mentioned in [UNECE SDE 2022](https://unece.org/statistics/events/SDE2022)
-- Mar 2022: The list in Trusted Smart Statistics meeting: [slides](ppts/20220311_olav_ten_bosch_awesome_list.pdf)
-- Nov 2021: The list in keynote Edwin de Jonge at **[uRos2021](http://r-project.ro/conference2021.html#Edwin_de_Jonge)**
-- Nov 2021: The list in **[Int. Conf. on Data Science and Official Statistics (ICDSOS)](https://icdsos.stis.ac.id/)**: [slides](https://drive.google.com/file/d/1Hp4TJUvkOOn1duXHPImjD74Kh394untx/view?usp=sharing)
-- Oct 2021: The list in **[Px-meeting 2021](https://www.scb.se/px-meeting-2021)**: [slides](https://www.scb.se/globalassets/vara-tjanster/px-programmen/2021-10-21-multilingual-px-files-with-r-and-pxjob-.pdf)
-- Jan 2021: The list in **[10th EG meeting on SDMX](https://www.imf.org/en/News/Seminars/Conferences/2021/01/25/10th-statistical-data-and-metadata-exchange)**: [slides](https://www.imf.org/-/media/Files/News/Seminars/2021/SDMX/siv-presentation-01-stocktaking-of-sdmx-tools.ashx)
-- Dec 2020: The list presented at **uRos2020**: [slides](https://r-project.ro/conference2020-presentations.html#Olav_TEN_BOSCH,_Mark_VAN_DER_LOO_and_Alexander_KOWARIK)
+- Mar 2021: Awesome list in Trusted Smart Statistics meeting: [slides](ppts/20220311_olav_ten_bosch_awesome_list.pdf)
+- Nov 2021: Awesome list in keynote Edwin de Jonge at **[uRos2021](http://r-project.ro/conference2021.html#Edwin_de_Jonge)**
+- Nov 2021: Awesome list in **[Int. Conf. on Data Science and Official Statistics (ICDSOS)](https://icdsos.stis.ac.id/)**: [slides](https://drive.google.com/file/d/1Hp4TJUvkOOn1duXHPImjD74Kh394untx/view?usp=sharing)
+- Oct 2021: Awesome list in **[Px-meeting 2021](https://www.scb.se/px-meeting-2021)**: [slides](https://www.scb.se/globalassets/vara-tjanster/px-programmen/2021-10-21-multilingual-px-files-with-r-and-pxjob-.pdf)
+- Jan 2021: Awesome list in **[10th EG meeting on SDMX](https://www.imf.org/en/News/Seminars/Conferences/2021/01/25/10th-statistical-data-and-metadata-exchange)**: [slides](https://www.imf.org/-/media/Files/News/Seminars/2021/SDMX/siv-presentation-01-stocktaking-of-sdmx-tools.ashx)
+- Dec 2020: Awesome list presented on **uRos2020**: [slides](https://r-project.ro/conference2020-presentations.html#Olav_TEN_BOSCH,_Mark_VAN_DER_LOO_and_Alexander_KOWARIK)
 - Dec 2019: **100  items on the list!!!**
-- Jun 2019: The list presented at **Modernstats World**: [slides](https://www.unece.org/fileadmin/DAM/stats/documents/ece/ces/ge.58/2019/mtg2/MWW2019_Soapbox_Netherlands_ten_Bosch.pdf)
+- Jun 2019: Awesome list presented on **Modernstats World**: [slides](https://www.unece.org/fileadmin/DAM/stats/documents/ece/ces/ge.58/2019/mtg2/MWW2019_Soapbox_Netherlands_ten_Bosch.pdf)
 - Dec 2017: List started during UNECE SDE 2017
 
 
@@ -129,7 +128,7 @@ We prefer software that is easy to install and use, has at least one stable vers
 
 #### Statistical disclosure control ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 6.4)
 
-- Java application [µ-ARGUS](https://github.com/sdcTools/muargus). Tool to create safe micro-data files. See also the [casc page](http://research.cbs.nl/casc/).
+- Java application [Î¼-ARGUS](https://github.com/sdcTools/muargus). Tool to create safe micro-data files. See also the [casc page](http://research.cbs.nl/casc/).
 - Java application [T-ARGUS](https://github.com/sdcTools/tauargus). Tool to protect statistical tables. See also the [casc page](http://research.cbs.nl/casc/).
 - R package [sdcMicro](https://cran.r-project.org/package=sdcMicro). Disclosure control for statistical microdata.
 - R package [sdcTable](https://cran.r-project.org/package=sdcTable). Disclosure control for tabulated data.
@@ -196,7 +195,7 @@ We prefer software that is easy to install and use, has at least one stable vers
 - Java package [SDMX Connectors](https://github.com/amattioc/SDMX). Browse SDMX data providers, build your queries and get data directly in your favourite tool (R, SAS, Matlab, Stata and Excel). By Banca d'Italia.
 - Node.js package [sdmx-rest](https://www.npmjs.com/package/sdmx-rest). This library allows to easily create and execute SDMX REST queries from a JavaScript client application.
 - R package [csodata](https://cran.r-project.org/package=csodata). Download data from Central Statistics Office (CSO) of Ireland.
-- R package [iriR](https://cran.r-project.org/package=iriR). Client for the European Commission’s Industrial R&amp;D Investment Scoreboard (IRI)
+- R package [iriR](https://cran.r-project.org/package=iriR). Client for the European Commissionâ€™s Industrial R&amp;D Investment Scoreboard (IRI)
 - R package [czso](https://cran.r-project.org/package=czso). Access open data from the Czech Statistical Office.
 - R package [ipumsr](https://cran.r-project.org/package=ipumsr). Access to the Integrated Public Use Microdata Series archive ipums.org (international censuses, harmonized U.S. data).
 - R package [eph](https://cran.r-project.org/package=eph). Tools to download and manipulate the [EPH-INDEC](https://www.indec.gob.ar/) from Argentina (EPH is the Spanish acronym for Permanent Household Survey)
@@ -212,7 +211,7 @@ We prefer software that is easy to install and use, has at least one stable vers
 
 Awesome contributions are welcome, here are ways to do it:
 
-- The GitHub way: send us a [pull request](https://help.github.com/articles/creating-a-pull-request/) on data/software.yml.
+- The GitHub way: send us a [pull request](https://help.github.com/articles/creating-a-pull-request/) to add directly to this list.
 - Add an item to the
   [issue tracker](https://github.com/SNStatComp/awesome-official-statistics-software/issues)
 issue tracker. (you need a GH account)
