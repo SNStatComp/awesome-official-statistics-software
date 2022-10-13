@@ -2,26 +2,31 @@ library(yaml)
 library(whisker)
 
 dta <- read_yaml("data/software.yaml")
-categories <- read_yaml("data/categories.yaml")
-categories <- lapply(categories, as.data.frame) |> do.call(what = rbind)
+# Convert to data.frame
+dta <- lapply(dta, as.data.frame) |> do.call(what = rbind)
 
-groups <- sapply(dta, \(x) x$gsbpm)
 
-stopifnot(all(groups %in% categories$label))
-
-dta <- split(dta, groups)
-
-tmp <- vector("list", length(dta))
-for (i in seq_along(dta)) {
-  group <- names(dta)[i]
-  category <- categories[categories$label == group,]
-  tmp[[i]] <- list(
-    name = category$name,
-    gsbpm = category$gsbpm,
-    items = dta[[i]])
-}
+# === TRANSFORM DATA IN FORMAT NEEDED FOR WHISKER
+# Split dataset in groups; one for each gsbpm; in the template
+# software is grouped by gsbpm name
+tmp <- split(dta, paste(dta$gsbpm_number, dta$gsbpm_name))
+names(tmp) <- NULL
+# For each group we need a name, the gsbm number and a list of software
+# packages. 
+tmp <- lapply(tmp, function(group) {
+  # We split the dataframe into a list per row; needed for whisker
+  items <- split(group, seq_len(nrow(group))) |> lapply(FUN = as.list)
+  names(items) <- NULL
+  list(name = head(group$gsbpm_name, 1), 
+    number = head(group$gsbpm_number, 1), items = items)
+})
 tmp <- list(groups = tmp)
 
+# === GENERATE README FROM TEMPLATE
 template <- readLines("data/template.md")
 writeLines(whisker.render(template, tmp), "README.md")
+
+
+# === GENERATE SOFTWARE.CSV
+write.csv(dta, "data/software.csv", row.names = FALSE)
 
