@@ -129,7 +129,7 @@ We prefer software that is easy to install and use, has at least one stable vers
 
 #### Statistical disclosure control ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 6.4)
 
-- Java application [µ-ARGUS](https://github.com/sdcTools/muargus). Tool to create safe micro-data files. See also the [casc page](http://research.cbs.nl/casc/).
+- Java application [Î¼-ARGUS](https://github.com/sdcTools/muargus). Tool to create safe micro-data files. See also the [casc page](http://research.cbs.nl/casc/).
 - Java application [T-ARGUS](https://github.com/sdcTools/tauargus). Tool to protect statistical tables. See also the [casc page](http://research.cbs.nl/casc/).
 - R package [sdcMicro](https://cran.r-project.org/package=sdcMicro). Disclosure control for statistical microdata.
 - R package [sdcTable](https://cran.r-project.org/package=sdcTable). Disclosure control for tabulated data.
@@ -196,7 +196,7 @@ We prefer software that is easy to install and use, has at least one stable vers
 - Java package [SDMX Connectors](https://github.com/amattioc/SDMX). Browse SDMX data providers, build your queries and get data directly in your favourite tool (R, SAS, Matlab, Stata and Excel). By Banca d'Italia.
 - Node.js package [sdmx-rest](https://www.npmjs.com/package/sdmx-rest). This library allows to easily create and execute SDMX REST queries from a JavaScript client application.
 - R package [csodata](https://cran.r-project.org/package=csodata). Download data from Central Statistics Office (CSO) of Ireland.
-- R package [iriR](https://cran.r-project.org/package=iriR). Client for the European Commission’s Industrial R&amp;D Investment Scoreboard (IRI)
+- R package [iriR](https://cran.r-project.org/package=iriR). Client for the European Commissionâ€™s Industrial R&amp;D Investment Scoreboard (IRI)
 - R package [czso](https://cran.r-project.org/package=czso). Access open data from the Czech Statistical Office.
 - R package [ipumsr](https://cran.r-project.org/package=ipumsr). Access to the Integrated Public Use Microdata Series archive ipums.org (international censuses, harmonized U.S. data).
 - R package [eph](https://cran.r-project.org/package=eph). Tools to download and manipulate the [EPH-INDEC](https://www.indec.gob.ar/) from Argentina (EPH is the Spanish acronym for Permanent Household Survey)
@@ -212,7 +212,7 @@ We prefer software that is easy to install and use, has at least one stable vers
 
 Awesome contributions are welcome, here are ways to do it:
 
-- The GitHub way: send us a [pull request](https://help.github.com/articles/creating-a-pull-request/) on data/software.yml.
+- The GitHub way: send us a [pull request](https://help.github.com/articles/creating-a-pull-request/) on data/software.yaml.
 - Add an item to the
   [issue tracker](https://github.com/SNStatComp/awesome-official-statistics-software/issues)
 issue tracker. (you need a GH account)
