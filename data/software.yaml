@@ -112,8 +112,8 @@
   gsbpm_name: Process
   gsbpm_number: '5'
 - type: R package
-  name: reclin
-  url: https://cran.r-project.org/package=reclin
+  name: reclin2
+  url: https://cran.r-project.org/package=reclin2
   description: 'Functions to assist in performing probabilistic record linkage and
     deduplication: generating pairs, comparing records, em-algorithm for estimating
     m- and u-probabilities, forcing one-to-one matching. Can also be used for pre-
