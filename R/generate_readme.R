@@ -5,6 +5,12 @@ dta <- read_yaml("data/software.yaml")
 # Convert to data.frame
 dta <- lapply(dta, as.data.frame) |> do.call(what = rbind)
 
+# determine  type of url
+dta$cran <- grepl("cran\.r-project\.org", dta$url)
+dta$github <- grepl("github\.com", dta$url)
+dta$gitlab <- grepl("gitlab\.", dta$url)
+dta$npm <- grepl("npmjs\.com", dta$url)
+
 
 # === TRANSFORM DATA IN FORMAT NEEDED FOR WHISKER
 # Split dataset in groups; one for each gsbpm; in the template
