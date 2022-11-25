@@ -33,8 +33,6 @@ We prefer software that is easy to install and use, has at least one stable vers
  
 {{#groups}}
 
-#### {{name}} ([GSBPM](https://statswiki.unece.org/display/GSBPM/) {{number}})
-
 {{#items}}
 - {{type}} [{{name}}]({{url}}). {{description}}
 {{/items}}
@@ -43,9 +41,17 @@ We prefer software that is easy to install and use, has at least one stable vers
 
 <!-- END OF GENERATED LIST -->
 
+
+<!-- badge tests:
+- {{type}} [{{name}}]({{url}}). {{description}}
+- ![CRAN](https://www.r-pkg.org/badges/version-ago/{{name}}) {{type}} [{{name}}]({{url}}). {{description}}
+-->
+
+
 ## Other lists
 - [CSPA Service catalogue](https://www.statistical-services.org)
 - [Code from NTTS 2021 publications](https://github.com/NTTSConf/NTTS21)
+- [CRAN Task View: Official Statistics & Survey Statistics](https://cran.r-project.org/web/views/OfficialStatistics.html)
 
 ## Contributions
 
