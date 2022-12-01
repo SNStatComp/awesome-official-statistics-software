@@ -468,7 +468,7 @@
   gsbpm_name: Statistical Dissemination
   gsbpm_number: '7.2'
 - type: C# VB.NET ASP.NET
-  name: PxWeb
+  name: PxWeb_
   url: https://github.com/statisticssweden/PxWeb
   description: Web application for dissemination of statistical tables in [Px format](https://www.scb.se/en/services/statistical-programs-for-px-files/px-file-format/)
     or SQL data in the [Nordic Data Model](https://www.scb.se/en/services/statistical-programs-for-px-files/px-web/px-web-med-sql-databas/).
