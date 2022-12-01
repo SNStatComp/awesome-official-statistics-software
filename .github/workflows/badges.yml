@@ -30,4 +30,4 @@ jobs:
       
       # run getbadges
       - name: build
-        run: node getbadges.js
+        run: node get_badges.js
