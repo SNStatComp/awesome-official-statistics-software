@@ -146,7 +146,7 @@ We prefer software that is easy to install and use, has at least one stable vers
 - Java application [SDMX Converter](https://ec.europa.eu/eurostat/web/sdmx-infospace/sdmx-it-tools/sdmx-converter). Converts between SDMX versions and formats like CSV, FLR etc. By Eurostat.
 - Java application [SDMX-RI](https://ec.europa.eu/eurostat/web/sdmx-infospace/sdmx-it-tools/sdmx-ri). Framework for disseminating data in SDMX webservices. By Eurostat.
 - C# HTML5 JavaScript [PxStat](https://github.com/CSOIreland/PxStat). Data Dissemination Management System for creating and publishing Statistics over the Web with focus on Accessibility and LOD. By [CSO](https://www.cso.ie/).
-- C# VB.NET ASP.NET [PxWeb](https://github.com/statisticssweden/PxWeb). Web application for dissemination of statistical tables in [Px format](https://www.scb.se/en/services/statistical-programs-for-px-files/px-file-format/) or SQL data in the [Nordic Data Model](https://www.scb.se/en/services/statistical-programs-for-px-files/px-web/px-web-med-sql-databas/).
+- C# VB.NET ASP.NET [PxWeb_](https://github.com/statisticssweden/PxWeb). Web application for dissemination of statistical tables in [Px format](https://www.scb.se/en/services/statistical-programs-for-px-files/px-file-format/) or SQL data in the [Nordic Data Model](https://www.scb.se/en/services/statistical-programs-for-px-files/px-web/px-web-med-sql-databas/).
 - Node.js and other [.Stat Suite](https://sis-cc.gitlab.io/dotstatsuite-documentation/). An SDMX-based platform to build tailored data portals, topical or regional data explorers, or lightweight reporting platforms. By [SIS-CC](https://siscc.org).
 - JSON [SDMX-JSON](https://github.com/sdmx-twg/sdmx-json). JSON variant of SDMX. Works together with the [SDMX-REST API](https://github.com/sdmx-twg/sdmx-rest).
 - JSON [JSON-stat](https://json-stat.org/). Simple lightweight JSON format for statistical dissemination. Based on a Cube model with dimensions organised in categories.
@@ -203,12 +203,6 @@ We prefer software that is easy to install and use, has at least one stable vers
 
 
 <!-- END OF GENERATED LIST -->
-
-
-<!-- badge tests:
--  [](). 
-- ![CRAN](https://www.r-pkg.org/badges/version-ago/)  [](). 
--->
 
 
 ## Other lists

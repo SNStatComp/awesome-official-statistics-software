@@ -36,7 +36,8 @@ We prefer software that is easy to install and use, has at least one stable vers
 #### {{name}} ([GSBPM](https://statswiki.unece.org/display/GSBPM/) {{number}})
 
 {{#items}}
-- {{type}} [{{name}}]({{url}}). {{description}}
+- ![version](badges/{{name}}/version.svg) ![downloads](badges/{{name}}/downloads.svg) \
+{{type}} [{{name}}]({{url}}). {{description}}
 {{/items}}
 
 {{/groups}}
