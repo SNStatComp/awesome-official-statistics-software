@@ -25,10 +25,6 @@ tmp <- list(groups = tmp)
 template <- readLines("data/template.md")
 writeLines(whisker.render(template, tmp), "README.md")
 
-# === BADGES (EXPERIMENTAL)
-template <- readLines("data/template_badges.md")
-writeLines(whisker.render(template, tmp), "README_badges.md")
-
 # === GENERATE SOFTWARE.CSV
 write.csv(dta, "data/software.csv", row.names = FALSE)
 

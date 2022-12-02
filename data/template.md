@@ -9,6 +9,7 @@ An awesome list of open source software for official statistics.
 We prefer software that is easy to install and use, has at least one stable version, and is actively maintained. [Contributions](#contributions) welcome.
 
 #### News
+- Dec 2022: Badges added, they will be updatedweekly
 - Oct 2022: The list mentioned in [UNECE SDE 2022](https://unece.org/statistics/events/SDE2022)
 - Mar 2022: The list in Trusted Smart Statistics meeting: [slides](ppts/20220311_olav_ten_bosch_awesome_list.pdf)
 - Nov 2021: The list in keynote Edwin de Jonge at **[uRos2021](http://r-project.ro/conference2021.html#Edwin_de_Jonge)**
@@ -36,7 +37,10 @@ We prefer software that is easy to install and use, has at least one stable vers
 #### {{name}} ([GSBPM](https://statswiki.unece.org/display/GSBPM/) {{number}})
 
 {{#items}}
-- {{type}} [{{name}}]({{url}}). {{description}}
+- <img src="badges/{{name}}/version.svg"></img><img src="badges/{{name}}/latest.svg"></img><img src="badges/{{name}}/license.svg"></img>\
+{{type}} [{{name}}]({{url}}). {{description}}
+
+
 {{/items}}
 
 {{/groups}}
