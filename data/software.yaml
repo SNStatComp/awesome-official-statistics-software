@@ -12,7 +12,7 @@
   gsbpm_name: Design frame and sample
   gsbpm_number: '2.1'
 - type: Excel
-  name: SDMX Matrix Generator
+  name: SDMX_Matrix_Generator
   url: https://gitlab.com/sis-cc/sdmx-tools/sdmx-matrix-generator
   description: Excel-based visual SDMX artefact authoring tool which generates SDMX-ML
     for upload into an SDMX repository such as a registry. By OECD.
@@ -69,7 +69,7 @@
   gsbpm_name: Scraping for Statistics
   gsbpm_number: '4.3'
 - type: Python
-  name: Sustainability Reporting
+  name: Sustainability_Reporting
   url: https://github.com/AlessandraSozzi/MSc-dissertation
   description: A script for measuring sustainability reporting from enterprises websites.
     By ONS.
@@ -361,14 +361,14 @@
   gsbpm_number: 5.6 | 5.7
 - type: Java application
   name: JDemetra+
-  url: https://ec.europa.eu/eurostat/cros/content/download_en
+  url: https://github.com/jdemetra/jdemetra-app
   description: The seasonal adjustment software officially recommended for the European
     Statistical System.
   gsbpm_name: Time series and seasonal adjustment
   gsbpm_number: 5.6 | 5.7
 - type: R package
   name: RJDemetra
-  url: https://jdemetra.github.io/rjdemetra/
+  url: https://cran.r-project.org/package=RJDemetra
   description: R interface to JDemetra+.
   gsbpm_name: Time series and seasonal adjustment
   gsbpm_number: 5.6 | 5.7
@@ -385,7 +385,7 @@
   gsbpm_name: Output validation
   gsbpm_number: '6.2'
 - type: Java application
-  name: μ-ARGUS
+  name: Mu-ARGUS
   url: https://github.com/sdcTools/muargus
   description: Tool to create safe micro-data files. See also the [casc page](http://research.cbs.nl/casc/).
   gsbpm_name: Statistical disclosure control
@@ -449,14 +449,14 @@
   gsbpm_name: Statistical disclosure control
   gsbpm_number: '6.4'
 - type: Java application
-  name: SDMX Converter
-  url: https://ec.europa.eu/eurostat/web/sdmx-infospace/sdmx-it-tools/sdmx-converter
+  name: SDMX_Converter
+  url: https://ec.europa.eu/eurostat/cros/content/sdmx-converter-0_en
   description: Converts between SDMX versions and formats like CSV, FLR etc. By Eurostat.
   gsbpm_name: Statistical Dissemination
   gsbpm_number: '7.2'
 - type: Java application
   name: SDMX-RI
-  url: https://ec.europa.eu/eurostat/web/sdmx-infospace/sdmx-it-tools/sdmx-ri
+  url: https://ec.europa.eu/eurostat/cros/content/sdmx-ri_en
   description: Framework for disseminating data in SDMX webservices. By Eurostat.
   gsbpm_name: Statistical Dissemination
   gsbpm_number: '7.2'
@@ -475,10 +475,10 @@
   gsbpm_name: Statistical Dissemination
   gsbpm_number: '7.2'
 - type: Node.js and other
-  name: .Stat Suite
-  url: https://sis-cc.gitlab.io/dotstatsuite-documentation/
+  name: .Stat_Suite
+  url: https://gitlab.com/sis-cc/.stat-suite/dotstatsuite-data-explorer
   description: An SDMX-based platform to build tailored data portals, topical or regional
-    data explorers, or lightweight reporting platforms. By [SIS-CC](https://siscc.org).
+    data explorers, or lightweight reporting platforms. [Documentation](https://sis-cc.gitlab.io/dotstatsuite-documentation). By [SIS-CC](https://siscc.org).
   gsbpm_name: Statistical Dissemination
   gsbpm_number: '7.2'
 - type: JSON
@@ -543,7 +543,7 @@
   gsbpm_number: '7.2'
 - type: Node.js
   name: StatMiner
-  url: http://research.cbs.nl/Projects/StatMine/
+  url: https://github.com/statmine/statminer
   description: Experimental visualization framework from Statistics Netherlands.
   gsbpm_name: Visualisation
   gsbpm_number: '7.2'
@@ -579,7 +579,7 @@
   gsbpm_number: '7.4'
 - type: Python
   name: sdmx
-  url: https://sdmx1.readthedocs.io/en/latest/
+  url: https://github.com/khaeru/sdmx
   description: Python library that implements SDMX 2.1 to explore data from SDMX data
     providers, parse data and metadata and convert it into Pandas objects.
   gsbpm_name: Access to official statistics
@@ -732,7 +732,7 @@
   gsbpm_name: Access to official statistics
   gsbpm_number: '7.4'
 - type: Java package
-  name: SDMX Connectors
+  name: SDMX_Connectors
   url: https://github.com/amattioc/SDMX
   description: Browse SDMX data providers, build your queries and get data directly
     in your favourite tool (R, SAS, Matlab, Stata and Excel). By Banca d'Italia.
