@@ -296,11 +296,11 @@ R package [validate](https://cran.r-project.org/package=validate). Rule manageme
 #### Statistical disclosure control ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 6.4)
 
 - <img src="badges/Mu-ARGUS/version.svg"></img> <img src="badges/Mu-ARGUS/latest.svg"></img> <img src="badges/Mu-ARGUS/license.svg"></img>\
-Java application [Mu-ARGUS](https://github.com/sdcTools/muargus). Tool to create safe micro-data files. See also the [casc page](http://research.cbs.nl/casc/).
+Java and C++ application [Mu-ARGUS](https://github.com/sdcTools/muargus). Tool to create safe micro-data files. See also the [casc page](http://research.cbs.nl/casc/).
 
 
 - <img src="badges/T-ARGUS/version.svg"></img> <img src="badges/T-ARGUS/latest.svg"></img> <img src="badges/T-ARGUS/license.svg"></img>\
-Java application [T-ARGUS](https://github.com/sdcTools/tauargus). Tool to protect statistical tables. See also the [casc page](http://research.cbs.nl/casc/).
+Java C++ Fortran and Delphi application [T-ARGUS](https://github.com/sdcTools/tauargus). Tool to protect statistical tables. See also the [casc page](http://research.cbs.nl/casc/).
 
 
 - <img src="badges/sdcMicro/version.svg"></img> <img src="badges/sdcMicro/latest.svg"></img> <img src="badges/sdcMicro/license.svg"></img>\

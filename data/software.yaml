@@ -384,13 +384,13 @@
   description: Rule management and data validation.
   gsbpm_name: Output validation
   gsbpm_number: '6.2'
-- type: Java application
+- type: Java and C++ application
   name: Mu-ARGUS
   url: https://github.com/sdcTools/muargus
   description: Tool to create safe micro-data files. See also the [casc page](http://research.cbs.nl/casc/).
   gsbpm_name: Statistical disclosure control
   gsbpm_number: '6.4'
-- type: Java application
+- type: Java C++ Fortran and Delphi application
   name: T-ARGUS
   url: https://github.com/sdcTools/tauargus
   description: Tool to protect statistical tables. See also the [casc page](http://research.cbs.nl/casc/).
