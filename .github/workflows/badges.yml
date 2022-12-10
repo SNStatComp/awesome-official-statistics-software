@@ -29,8 +29,12 @@ jobs:
         run: npm install
       
       # run getbadges
-      - name: build
+      - name: get_badges
         run: node get_badges.js
+        
+      # run getbadges
+      - name: generate_readme_csv
+        run: node generate_readme_csv.js
         
       # push changes:
       - name: Commit files
