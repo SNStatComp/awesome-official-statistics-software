@@ -30,7 +30,7 @@ We prefer software that is easy to install and use, has at least one stable vers
 
 *****
 
-<!-- THE LIST OF APPS IS GENERATED FROM data/raw.yaml -->
+<!-- THE LIST OF APPS IS GENERATED FROM data/software.yaml -->
  
 {{#groups}}
 
@@ -39,8 +39,6 @@ We prefer software that is easy to install and use, has at least one stable vers
 {{#items}}
 - <img src="badges/{{name}}/version.svg"></img> <img src="badges/{{name}}/latest.svg"></img> <img src="badges/{{name}}/license.svg"></img>\
 {{type}} [{{name}}]({{url}}). {{description}}
-
-
 {{/items}}
 
 {{/groups}}

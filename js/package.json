@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "js-yaml": "^4.1.0"
+    "js-yaml": "^4.1.0",
+    "mustache": "^4.2.0",
+    "papaparse": "^5.3.2"
   }
 }
