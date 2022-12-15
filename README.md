@@ -139,6 +139,8 @@ R package [mice](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;mice). M
 R package [survey](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;survey). Weighting and estimation for complex survey designs, possibly under nonresponse. Also computes estimator variance. See also R package [srvyr](https::&#x2F;&#x2F;CRAN.R-project.org&#x2F;package&#x3D;survey) for integration with [tidy tools](https:&#x2F;&#x2F;cran.r-project.org&#x2F;web&#x2F;packages&#x2F;tidyverse&#x2F;vignettes&#x2F;manifesto.html).
 - <img src="badges/hbsae/version.svg"></img> <img src="badges/hbsae/latest.svg"></img> <img src="badges/hbsae/license.svg"></img>\
 R package [hbsae](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;hbsae). Small area estimation based on hierarchical Bayesian models.
+- <img src="badges/mcmcsae/version.svg"></img> <img src="badges/mcmcsae/latest.svg"></img> <img src="badges/mcmcsae/license.svg"></img>\
+R package [mcmcsae](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;mcmcsae). Small area estimation based on Markov Chain Monte Carlo simulation.
 - <img src="badges/rsae/version.svg"></img> <img src="badges/rsae/latest.svg"></img> <img src="badges/rsae/license.svg"></img>\
 R package [rsae](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;rsae). Small area estimation based on (robust) maximum likelihood estimation.
 - <img src="badges/CalibrateSSB/version.svg"></img> <img src="badges/CalibrateSSB/latest.svg"></img> <img src="badges/CalibrateSSB/license.svg"></img>\
