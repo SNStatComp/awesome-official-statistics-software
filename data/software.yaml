@@ -272,6 +272,12 @@
   gsbpm_name: Estimation and weighting
   gsbpm_number: 5.6 | 5.7
 - type: R package
+  name: mcmcsae
+  url: https://cran.r-project.org/package=mcmcsae
+  description: Small area estimation based on Markov Chain Monte Carlo simulation.
+  gsbpm_name: Estimation and weighting
+  gsbpm_number: 5.6 | 5.7
+- type: R package
   name: rsae
   url: https://cran.r-project.org/package=rsae
   description: Small area estimation based on (robust) maximum likelihood estimation.
