@@ -347,7 +347,7 @@
 - type: Fortran
   name: X-13ARIMA-SEATS
   url: https://www.census.gov/data/software/x13as.X-13ARIMA-SEATS.html
-  description: easonal adjustment software, by Census Bureau produced maintained and
+  description: seasonal adjustment software, by Census Bureau produced maintained and
     distributed by the US Census Bureau.
   gsbpm_name: Time series and seasonal adjustment
   gsbpm_number: 5.6 | 5.7
