@@ -10,7 +10,7 @@ We prefer software that is easy to install and use, has at least one stable vers
 
 #### News
 - Jan 2023: Work in progress: [ESS principles on OSS](https://os4os.pages.code-europa-eu.gitlab.host/pbbp/principles.html)
-- Dec 2022: Badges added, they will be updatedweekly
+- Dec 2022: Badges added, they will be updated weekly
 - Oct 2022: The list mentioned in [UNECE SDE 2022](https://unece.org/statistics/events/SDE2022)
 - Mar 2022: The list in Trusted Smart Statistics meeting: [slides](ppts/20220311_olav_ten_bosch_awesome_list.pdf)
 - Nov 2021: The list in keynote Edwin de Jonge at **[uRos2021](http://r-project.ro/conference2021.html#Edwin_de_Jonge)**
