@@ -9,7 +9,8 @@ An awesome list of open source software for official statistics.
 We prefer software that is easy to install and use, has at least one stable version, and is actively maintained. [Contributions](#contributions) welcome.
 
 #### News
-- Dec 2022: Badges added, they will be updatedweekly
+- Jan 2023: Work in progress: [ESS principles on OSS](https://os4os.pages.code-europa-eu.gitlab.host/pbbp/principles.html)
+- Dec 2022: Badges added, they will be updated weekly
 - Oct 2022: The list mentioned in [UNECE SDE 2022](https://unece.org/statistics/events/SDE2022)
 - Mar 2022: The list in Trusted Smart Statistics meeting: [slides](ppts/20220311_olav_ten_bosch_awesome_list.pdf)
 - Nov 2021: The list in keynote Edwin de Jonge at **[uRos2021](http://r-project.ro/conference2021.html#Edwin_de_Jonge)**
@@ -162,7 +163,7 @@ R package [surveysd](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;surv
 - <img src="badges/inca/version.svg"></img> <img src="badges/inca/latest.svg"></img> <img src="badges/inca/license.svg"></img>\
 R package [inca](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;inca). Calibration weighting with integer weights.
 - <img src="badges/X-13ARIMA-SEATS/version.svg"></img> <img src="badges/X-13ARIMA-SEATS/latest.svg"></img> <img src="badges/X-13ARIMA-SEATS/license.svg"></img>\
-Fortran [X-13ARIMA-SEATS](https:&#x2F;&#x2F;www.census.gov&#x2F;data&#x2F;software&#x2F;x13as.X-13ARIMA-SEATS.html). easonal adjustment software, by Census Bureau produced maintained and distributed by the US Census Bureau.
+Fortran [X-13ARIMA-SEATS](https:&#x2F;&#x2F;www.census.gov&#x2F;data&#x2F;software&#x2F;x13as.X-13ARIMA-SEATS.html). seasonal adjustment software, by Census Bureau produced maintained and distributed by the US Census Bureau.
 - <img src="badges/seasonal/version.svg"></img> <img src="badges/seasonal/latest.svg"></img> <img src="badges/seasonal/license.svg"></img>\
 R package [seasonal](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;seasonal). Interface to the &#x60;X13-ARIMA-SEATS&#x60; program from R with a very nice shiny GUI.
 - <img src="badges/x12/version.svg"></img> <img src="badges/x12/latest.svg"></img> <img src="badges/x12/license.svg"></img>\
