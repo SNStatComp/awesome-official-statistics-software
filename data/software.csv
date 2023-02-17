@@ -48,7 +48,7 @@
 "R package","rtrim","https://cran.r-project.org/package=rtrim","Trends and Indices for Monitoring data. Provides tools for estimating animal/plant populations based on site counts, including occurrence of missing data.","Estimation and weighting","5.6 | 5.7"
 "R package","surveysd","https://cran.r-project.org/package=surveysd","Calibration, bootstrap and error estimation for complex surveys.","Estimation and weighting","5.6 | 5.7"
 "R package","inca","https://cran.r-project.org/package=inca","Calibration weighting with integer weights.","Estimation and weighting","5.6 | 5.7"
-"Fortran","X-13ARIMA-SEATS","https://www.census.gov/data/software/x13as.X-13ARIMA-SEATS.html","easonal adjustment software, by Census Bureau produced maintained and distributed by the US Census Bureau.","Time series and seasonal adjustment","5.6 | 5.7"
+"Fortran","X-13ARIMA-SEATS","https://www.census.gov/data/software/x13as.X-13ARIMA-SEATS.html","seasonal adjustment software, by Census Bureau produced maintained and distributed by the US Census Bureau.","Time series and seasonal adjustment","5.6 | 5.7"
 "R package","seasonal","https://cran.r-project.org/package=seasonal","Interface to the `X13-ARIMA-SEATS` program from R with a very nice shiny GUI.","Time series and seasonal adjustment","5.6 | 5.7"
 "R package","x12","https://cran.r-project.org/package=x12","Alternative interface to the `X13-ARIMA-SEATS` program from R with a focus on batch processing time series.","Time series and seasonal adjustment","5.6 | 5.7"
 "Java application","JDemetra+","https://github.com/jdemetra/jdemetra-app","The seasonal adjustment software officially recommended for the European Statistical System.","Time series and seasonal adjustment","5.6 | 5.7"
