@@ -501,6 +501,13 @@
   gsbpm_name: Statistical Dissemination
   gsbpm_number: '7.2'
 - type: R package
+  name: cols4all
+  url: https://cran.r-project.org/package=cols4all
+  description: Color palettes generation and analysis with support for color-blind-friendliness and fairness.
+    Supports categorical, sequential, diverging and bivariate color palettes and colors for missing values. Own palettes can also be loaded and analysed.
+  gsbpm_name: Statistical Dissemination
+  gsbpm_number: '7.2'
+- type: R package
   name: tabplot
   url: https://cran.r-project.org/package=tabplot
   description: 'Compare up to about 10-20 variables simultaneously using a [tableplot](https://cran.r-project.org/web/packages/tabplot/vignettes/tabplot-vignette.html).
