@@ -421,6 +421,12 @@
   gsbpm_name: Statistical disclosure control
   gsbpm_number: '6.4'
 - type: R package
+  name: GaussSuppression
+  url: https://cran.r-project.org/package=GaussSuppression
+  description: Tabular data suppression using the Gaussian elimination secondary suppression algorithm.
+  gsbpm_name: Statistical disclosure control
+  gsbpm_number: '6.4'
+- type: R package
   name: sdcHierarchies
   url: https://cran.r-project.org/package=sdcHierarchies
   description: Allows to generate, modify and export nested hierarchies.
