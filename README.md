@@ -194,6 +194,8 @@ R package [sdcMicro](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;sdcM
 R package [sdcTable](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;sdcTable). Disclosure control for tabulated data.
 - <img src="badges/easySdcTable/version.svg"></img> <img src="badges/easySdcTable/latest.svg"></img> <img src="badges/easySdcTable/license.svg"></img>\
 R package [easySdcTable](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;easySdcTable). Provides an interface to the package sdcTable.
+- <img src="badges/GaussSuppression/version.svg"></img> <img src="badges/GaussSuppression/latest.svg"></img> <img src="badges/GaussSuppression/license.svg"></img>\
+R package [GaussSuppression](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;GaussSuppression). Tabular data suppression using the Gaussian elimination secondary suppression algorithm.
 - <img src="badges/sdcHierarchies/version.svg"></img> <img src="badges/sdcHierarchies/latest.svg"></img> <img src="badges/sdcHierarchies/license.svg"></img>\
 R package [sdcHierarchies](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;sdcHierarchies). Allows to generate, modify and export nested hierarchies.
 - <img src="badges/SmallCountRounding/version.svg"></img> <img src="badges/SmallCountRounding/latest.svg"></img> <img src="badges/SmallCountRounding/license.svg"></img>\

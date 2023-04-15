@@ -60,6 +60,7 @@
 "R package","sdcMicro","https://cran.r-project.org/package=sdcMicro","Disclosure control for statistical microdata.","Statistical disclosure control","6.4"
 "R package","sdcTable","https://cran.r-project.org/package=sdcTable","Disclosure control for tabulated data.","Statistical disclosure control","6.4"
 "R package","easySdcTable","https://cran.r-project.org/package=easySdcTable","Provides an interface to the package sdcTable.","Statistical disclosure control","6.4"
+"R package","GaussSuppression","https://cran.r-project.org/package=GaussSuppression","Tabular data suppression using the Gaussian elimination secondary suppression algorithm.","Statistical disclosure control","6.4"
 "R package","sdcHierarchies","https://cran.r-project.org/package=sdcHierarchies","Allows to generate, modify and export nested hierarchies.","Statistical disclosure control","6.4"
 "R package","SmallCountRounding","https://cran.r-project.org/package=SmallCountRounding","Can be used to protect frequency tables by rounding necessary inner cells so that cross-classifications to be published are safe.","Statistical disclosure control","6.4"
 "R package","simPop","https://cran.r-project.org/package=simPop","Simulation of synthetic populations from census/survey data considering auxiliary information.","Statistical disclosure control","6.4"
