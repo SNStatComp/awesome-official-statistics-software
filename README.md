@@ -194,6 +194,8 @@ R package [sdcMicro](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;sdcM
 R package [sdcTable](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;sdcTable). Disclosure control for tabulated data.
 - <img src="badges/easySdcTable/version.svg"></img> <img src="badges/easySdcTable/latest.svg"></img> <img src="badges/easySdcTable/license.svg"></img>\
 R package [easySdcTable](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;easySdcTable). Provides an interface to the package sdcTable.
+- <img src="badges/GaussSuppression/version.svg"></img> <img src="badges/GaussSuppression/latest.svg"></img> <img src="badges/GaussSuppression/license.svg"></img>\
+R package [GaussSuppression](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;GaussSuppression). Tabular data suppression using the Gaussian elimination secondary suppression algorithm.
 - <img src="badges/sdcHierarchies/version.svg"></img> <img src="badges/sdcHierarchies/latest.svg"></img> <img src="badges/sdcHierarchies/license.svg"></img>\
 R package [sdcHierarchies](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;sdcHierarchies). Allows to generate, modify and export nested hierarchies.
 - <img src="badges/SmallCountRounding/version.svg"></img> <img src="badges/SmallCountRounding/latest.svg"></img> <img src="badges/SmallCountRounding/license.svg"></img>\
@@ -223,7 +225,7 @@ JSON [SDMX-JSON](https:&#x2F;&#x2F;github.com&#x2F;sdmx-twg&#x2F;sdmx-json). JSO
 - <img src="badges/JSON-stat/version.svg"></img> <img src="badges/JSON-stat/latest.svg"></img> <img src="badges/JSON-stat/license.svg"></img>\
 JSON [JSON-stat](https:&#x2F;&#x2F;json-stat.org&#x2F;). Simple lightweight JSON format for statistical dissemination. Based on a Cube model with dimensions organised in categories.
 - <img src="badges/cols4all/version.svg"></img> <img src="badges/cols4all/latest.svg"></img> <img src="badges/cols4all/license.svg"></img>\
-R package [cols4all](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;cols4all). Color palettes generation and analysis with support for color-blind-friendliness and fairness. Supports categorical, sequential, diverging and bivariate color palettes and colors for missing values. Own palettes can also be loaded and analysed.
+R package [cols4all](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;cols4all). Color palettes generation and analysis with support for color-blind-friendliness and fairness. Supports categorical, sequential, diverging and bivariate color palettes and colors for missing values.
 - <img src="badges/tabplot/version.svg"></img> <img src="badges/tabplot/latest.svg"></img> <img src="badges/tabplot/license.svg"></img>\
 R package [tabplot](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;tabplot). Compare up to about 10-20 variables simultaneously using a [tableplot](https:&#x2F;&#x2F;cran.r-project.org&#x2F;web&#x2F;packages&#x2F;tabplot&#x2F;vignettes&#x2F;tabplot-vignette.html). See also [tabplotd3](https:&#x2F;&#x2F;CRAN.R-project.org&#x2F;package&#x3D;tabplot) for a web-based GUI. Note: 2022-03-03: Temporarily not on Cran but expected to be back in 2022.
 - <img src="badges/tmap/version.svg"></img> <img src="badges/tmap/latest.svg"></img> <img src="badges/tmap/license.svg"></img>\
