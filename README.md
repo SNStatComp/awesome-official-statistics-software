@@ -56,6 +56,8 @@ R package [sampling](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;samp
 R package [surveyplanning](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;surveyplanning). Tools for sample survey planning, including sample size calculation, estimation of expected precision for the estimates of totals, and calculation of optimal sample size allocation.
 - <img src="badges/PracTools/version.svg"></img> <img src="badges/PracTools/latest.svg"></img> <img src="badges/PracTools/license.svg"></img>\
 R package [PracTools](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;PracTools). Functions and datasets related to Valliant, Dever, and Kreuter (2018 2nd ed), [*Practical Tools for Designing and Weighting Survey Samples*](https:&#x2F;&#x2F;doi.org&#x2F;10.1007&#x2F;978-3-319-93632-1).
+- <img src="badges/prnsamplr/version.svg"></img> <img src="badges/prnsamplr/latest.svg"></img> <img src="badges/prnsamplr/license.svg"></img>\
+R package [prnsamplr](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;prnsamplr). Coordinated stratified sampling using permanent random numbers (PRN&#39;s). Supports simple random sampling and probability-proportional-to-size sampling and includes a function for transforming PRN&#39;s to control the sample overlap.
 
 
 #### Scraping for Statistics ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 4.3)
