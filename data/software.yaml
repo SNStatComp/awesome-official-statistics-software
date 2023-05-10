@@ -47,6 +47,7 @@
   description: Coordinated stratified sampling using permanent random numbers (PRN's). Supports simple random sampling and probability-proportional-to-size sampling and includes a function for transforming PRN's to control the sample overlap.
   gsbpm_name: Sampling
   gsbpm_number: '4.1'
+  #used in Cyprus
 - type: Java application
   name: URLSearcher
   url: https://github.com/SummaIstat/UrlSearcher
