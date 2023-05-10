@@ -41,6 +41,12 @@
     2nd ed), [*Practical Tools for Designing and Weighting Survey Samples*](https://doi.org/10.1007/978-3-319-93632-1).
   gsbpm_name: Sampling
   gsbpm_number: '4.1'
+- type: R package
+  name: prnsamplr
+  url: https://cran.r-project.org/package=prnsamplr
+  description: Coordinated stratified sampling using permanent random numbers (PRN's). Supports simple random sampling and probability-proportional-to-size sampling and includes a function for transforming PRN's to control the sample overlap.
+  gsbpm_name: Sampling
+  gsbpm_number: '4.1'
 - type: Java application
   name: URLSearcher
   url: https://github.com/SummaIstat/UrlSearcher
