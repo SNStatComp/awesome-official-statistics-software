@@ -297,6 +297,12 @@
   gsbpm_name: Estimation and weighting
   gsbpm_number: 5.6 | 5.7
 - type: R package
+  name: PriceIndices
+  url: https://cran.r-project.org/package=PriceIndices
+  description: Calculating Bilateral and Multilateral Price Indexes.
+  gsbpm_name: Estimation and weighting
+  gsbpm_number: 5.6 | 5.7
+- type: R package
   name: ReGenesees
   url: https://github.com/DiegoZardetto/ReGenesees
   description: Like [survey](https://CRAN.r-project.org/package=survey), but with
