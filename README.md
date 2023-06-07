@@ -148,6 +148,8 @@ R package [mcmcsae](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;mcmcs
 R package [rsae](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;rsae). Small area estimation based on (robust) maximum likelihood estimation.
 - <img src="badges/CalibrateSSB/version.svg"></img> <img src="badges/CalibrateSSB/latest.svg"></img> <img src="badges/CalibrateSSB/license.svg"></img>\
 R package [CalibrateSSB](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;CalibrateSSB). Calculate weighs and estimates for panel data with non-response.
+- <img src="badges/PriceIndices/version.svg"></img> <img src="badges/PriceIndices/latest.svg"></img> <img src="badges/PriceIndices/license.svg"></img>\
+R package [PriceIndices](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;PriceIndices). Calculating Bilateral and Multilateral Price Indexes.
 - <img src="badges/ReGenesees/version.svg"></img> <img src="badges/ReGenesees/latest.svg"></img> <img src="badges/ReGenesees/license.svg"></img>\
 R package [ReGenesees](https:&#x2F;&#x2F;github.com&#x2F;DiegoZardetto&#x2F;ReGenesees). Like [survey](https:&#x2F;&#x2F;CRAN.r-project.org&#x2F;package&#x3D;survey), but with specific features (e.g. partitioned calibration) that make it fit for processing large-scale surveys. Implements different estimators with sampling errors, and ships with a dedicated GUI (package [ReGenesees.GUI](https:&#x2F;&#x2F;github.com&#x2F;DiegoZardetto&#x2F;ReGenesees.GUI)).
 - <img src="badges/vardpoor/version.svg"></img> <img src="badges/vardpoor/latest.svg"></img> <img src="badges/vardpoor/license.svg"></img>\
