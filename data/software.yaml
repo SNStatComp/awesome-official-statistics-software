@@ -49,17 +49,15 @@
   gsbpm_number: '4.1'
   #used in Cyprus
 - type: Java application
-  name: URLSearcher
-  url: https://github.com/SummaIstat/UrlSearcher
-  description: An application for searching Urls. Can be used to find websites of
-    enterprise. By ISTAT.
+  name: GUrlSearcher
+  url: https://github.com/SummaIstat/GUrlSearcher
+  description: An application for searching Urls via Google. Can be used to find websites of enterprise. By ISTAT.
   gsbpm_name: Scraping for Statistics
   gsbpm_number: '4.3'
 - type: Java application
-  name: URLScorer
-  url: https://github.com/SummaIstat/UrlScorer
-  description: Gives a rule based score to scraped documents in a Solr database. By
-    ISTAT.
+  name: Url_scorer
+  url: https://github.com/SummaIstat/Url_scorer
+  description: Gives a rule based score to scraped documents in a Solr database. By ISTAT.
   gsbpm_name: Scraping for Statistics
   gsbpm_number: '4.3'
 - type: Node.js tool
