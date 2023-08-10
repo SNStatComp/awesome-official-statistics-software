@@ -62,10 +62,10 @@ R package [prnsamplr](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;prn
 
 #### Scraping for Statistics ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 4.3)
 
-- <img src="badges/URLSearcher/version.svg"></img> <img src="badges/URLSearcher/latest.svg"></img> <img src="badges/URLSearcher/license.svg"></img>\
-Java application [URLSearcher](https:&#x2F;&#x2F;github.com&#x2F;SummaIstat&#x2F;UrlSearcher). An application for searching Urls. Can be used to find websites of enterprise. By ISTAT.
-- <img src="badges/URLScorer/version.svg"></img> <img src="badges/URLScorer/latest.svg"></img> <img src="badges/URLScorer/license.svg"></img>\
-Java application [URLScorer](https:&#x2F;&#x2F;github.com&#x2F;SummaIstat&#x2F;UrlScorer). Gives a rule based score to scraped documents in a Solr database. By ISTAT.
+- <img src="badges/GUrlSearcher/version.svg"></img> <img src="badges/GUrlSearcher/latest.svg"></img> <img src="badges/GUrlSearcher/license.svg"></img>\
+Java application [GUrlSearcher](https:&#x2F;&#x2F;github.com&#x2F;SummaIstat&#x2F;GUrlSearcher). An application for searching Urls via Google. Can be used to find websites of enterprise. By ISTAT.
+- <img src="badges/Url_scorer/version.svg"></img> <img src="badges/Url_scorer/latest.svg"></img> <img src="badges/Url_scorer/license.svg"></img>\
+Java application [Url_scorer](https:&#x2F;&#x2F;github.com&#x2F;SummaIstat&#x2F;Url_scorer). Gives a rule based score to scraped documents in a Solr database. By ISTAT.
 - <img src="badges/RobotTool/version.svg"></img> <img src="badges/RobotTool/latest.svg"></img> <img src="badges/RobotTool/license.svg"></img>\
 Node.js tool [RobotTool](https:&#x2F;&#x2F;github.com&#x2F;SNStatComp&#x2F;RobotTool). A tool for checking (price) changes on the web. By Statistics Netherlands.
 - <img src="badges/Social-Media-Presence/version.svg"></img> <img src="badges/Social-Media-Presence/latest.svg"></img> <img src="badges/Social-Media-Presence/license.svg"></img>\
