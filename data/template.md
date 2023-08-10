@@ -9,7 +9,8 @@ An awesome list of open source software for official statistics.
 We prefer software that is easy to install and use, has at least one stable version, and is actively maintained. [Contributions](#contributions) welcome.
 
 #### News
-- Jan 2023: Work in progress: [ESS principles on OSS](https://os4os.pages.code-europa-eu.gitlab.host/pbbp/principles.html)
+- Jun 2023: The list highlighted in session on moving to OS in [71th CES conference](https://unece.org/statistics/events/CES2023)
+- Jan 2023: International OSS principles using awesome list experiences: [ESS principles on OSS](https://os4os.pages.code-europa-eu.gitlab.host/pbbp/principles.html)
 - Dec 2022: Badges added, they will be updated weekly
 - Oct 2022: The list mentioned in [UNECE SDE 2022](https://unece.org/statistics/events/SDE2022)
 - Mar 2022: The list in Trusted Smart Statistics meeting: [slides](ppts/20220311_olav_ten_bosch_awesome_list.pdf)

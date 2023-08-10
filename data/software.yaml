@@ -734,6 +734,12 @@
   gsbpm_name: Access to official statistics
   gsbpm_number: '7.4'
 - type: R package
+  name: pxR
+  url: https://cran.r-project.org/package=pxR
+  description: Functions for reading and writing PC-Axis files.
+  gsbpm_name: Access to official statistics
+  gsbpm_number: '7.4'
+- type: R package
   name: rdbnomics
   url: https://git.nomics.world/dbnomics/rdbnomics
   description: Access to the [DB.nomics database](https://next.nomics.world/) which
