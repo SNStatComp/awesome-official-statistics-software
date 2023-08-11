@@ -107,6 +107,7 @@
 "Python package","pyscbwrapper","https://github.com/kirajcg/pyscbwrapper","Access to the open data API of the Swedish Statistical Institute","Access to official statistics","7.4"
 "R package","pxweb","https://cran.r-project.org/package=pxweb","Generic interface for the PX-Web/PC-Axis API used by many National Statistical Agencies.","Access to official statistics","7.4"
 "R package","PxWebApiData","https://cran.r-project.org/package=PxWebApiData","Easy API access to e.g. Statistics Norway, Statistics Sweden and Statistics Finland.","Access to official statistics","7.4"
+"R package","pxR","https://cran.r-project.org/package=pxR","Functions for reading and writing PC-Axis files.","Access to official statistics","7.4"
 "R package","rdbnomics","https://git.nomics.world/dbnomics/rdbnomics","Access to the [DB.nomics database](https://next.nomics.world/) which provide macroeconomic data from 38 official providers such as INSEE, Eurostat, Wolrd bank, etc.","Access to official statistics","7.4"
 "R package","readabs","https://cran.r-project.org/package=readabs","Download data from the Australian Bureau of Statistics.","Access to official statistics","7.4"
 "R package","statcanR","https://cran.r-project.org/package=statcanR","An R connection to Statistics Canada's Web Data Service. Open economic data (formerly CANSIM tables) are accessible as a data frame in the R environment.","Access to official statistics","7.4"

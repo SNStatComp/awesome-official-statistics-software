@@ -9,7 +9,8 @@ An awesome list of open source software for official statistics.
 We prefer software that is easy to install and use, has at least one stable version, and is actively maintained. [Contributions](#contributions) welcome.
 
 #### News
-- Jan 2023: Work in progress: [ESS principles on OSS](https://os4os.pages.code-europa-eu.gitlab.host/pbbp/principles.html)
+- Jun 2023: The list highlighted in session on moving to OS in [71th CES conference](https://unece.org/statistics/events/CES2023)
+- Jan 2023: International OSS principles using awesome list experiences: [ESS principles on OSS](https://os4os.pages.code-europa-eu.gitlab.host/pbbp/principles.html)
 - Dec 2022: Badges added, they will be updated weekly
 - Oct 2022: The list mentioned in [UNECE SDE 2022](https://unece.org/statistics/events/SDE2022)
 - Mar 2022: The list in Trusted Smart Statistics meeting: [slides](ppts/20220311_olav_ten_bosch_awesome_list.pdf)
@@ -296,6 +297,8 @@ Python package [pyscbwrapper](https:&#x2F;&#x2F;github.com&#x2F;kirajcg&#x2F;pys
 R package [pxweb](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;pxweb). Generic interface for the PX-Web&#x2F;PC-Axis API used by many National Statistical Agencies.
 - <img src="badges/PxWebApiData/version.svg"></img> <img src="badges/PxWebApiData/latest.svg"></img> <img src="badges/PxWebApiData/license.svg"></img>\
 R package [PxWebApiData](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;PxWebApiData). Easy API access to e.g. Statistics Norway, Statistics Sweden and Statistics Finland.
+- <img src="badges/pxR/version.svg"></img> <img src="badges/pxR/latest.svg"></img> <img src="badges/pxR/license.svg"></img>\
+R package [pxR](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;pxR). Functions for reading and writing PC-Axis files.
 - <img src="badges/rdbnomics/version.svg"></img> <img src="badges/rdbnomics/latest.svg"></img> <img src="badges/rdbnomics/license.svg"></img>\
 R package [rdbnomics](https:&#x2F;&#x2F;git.nomics.world&#x2F;dbnomics&#x2F;rdbnomics). Access to the [DB.nomics database](https:&#x2F;&#x2F;next.nomics.world&#x2F;) which provide macroeconomic data from 38 official providers such as INSEE, Eurostat, Wolrd bank, etc.
 - <img src="badges/readabs/version.svg"></img> <img src="badges/readabs/latest.svg"></img> <img src="badges/readabs/license.svg"></img>\
