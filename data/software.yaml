@@ -595,18 +595,24 @@
 - type: R package
   name: rsdmx
   url: https://cran.r-project.org/package=rsdmx
-  description: Easy access to data from statistical organisations that support SDMX
+  description: Access to data or metadata from statistical organisations that support SDMX
     webservices. The package contains a list of SDMX access points of various national
     and international statistical institutes.
   gsbpm_name: Access to official statistics
   gsbpm_number: '7.4'
-- type: R package and C++
+  standard: SDMX
+  access_to:
+  - all SDMX
+- type: R package
   name: readsdmx
   url: https://cran.r-project.org/package=readsdmx
-  description: Read SDMX into dataframes from local SDMX-ML file or web-service. By
+  description: Read SDMX into dataframes from local SDMX-ML file or web-service. Parts in C++. By
     OECD.
   gsbpm_name: Access to official statistics
   gsbpm_number: '7.4'
+  standard: SDMX
+  access_to:
+  - all SDMX
 - type: Python
   name: sdmx
   url: https://github.com/khaeru/sdmx
@@ -614,36 +620,54 @@
     providers, parse data and metadata and convert it into Pandas objects.
   gsbpm_name: Access to official statistics
   gsbpm_number: '7.4'
+  standard: SDMX
+  access_to:
+  - all SDMX
 - type: R package
   name: rjstat
   url: https://cran.r-project.org/package=rjstat
   description: Read and write data sets in the JSON-stat format.
   gsbpm_name: Access to official statistics
   gsbpm_number: '7.4'
+  standard: JSON-STAT
+  access_to:
+  - all JSON-STAT
 - type: Python package
   name: pyjstat
   url: https://pypi.org/project/pyjstat/
   description: Read and write JSON-stat.
   gsbpm_name: Access to official statistics
   gsbpm_number: '7.4'
-- type: Java module
+  standard: JSON-STAT
+  access_to:
+  - all JSON-STAT
+- type: Java application
   name: json-stat.java
   url: https://github.com/statisticsnorway/json-stat.java
   description: Read and write JSON-stat. By Statistics Norway.
   gsbpm_name: Access to official statistics
   gsbpm_number: '7.4'
+  standard: JSON-STAT
+  access_to:
+  - all JSON-STAT
 - type: R package
   name: oecd
   url: https://cran.r-project.org/package=OECD
   description: Search and Extract Data from the OECD
   gsbpm_name: Access to official statistics
   gsbpm_number: '7.4'
+  standard:
+  access_to:
+  - OECD
 - type: R package
   name: sorvi
   url: https://cran.r-project.org/package=sorvi
   description: Finnish Open Government Data Toolkit
   gsbpm_name: Access to official statistics
   gsbpm_number: '7.4'
+  standard:
+  access_to:
+  - Finland
 - type: R package
   name: eurostat
   url: https://cran.r-project.org/package=eurostat
@@ -651,12 +675,18 @@
     and manipulation utilities.
   gsbpm_name: Access to official statistics
   gsbpm_number: '7.4'
+  standard:
+  access_to:
+  - ESTAT
 - type: R package
   name: restatapi
   url: https://cran.r-project.org/package=restatapi
   description: Search and retrieve data from Eurostat database, by Eurostat.
   gsbpm_name: Access to official statistics
   gsbpm_number: '7.4'
+  standard: SDMX
+  access_to:
+  - ESTAT
 - type: R package
   name: acs
   url: https://cran.r-project.org/package=acs
@@ -664,6 +694,9 @@
     Data from the US Census.
   gsbpm_name: Access to official statistics
   gsbpm_number: '7.4'
+  standard:
+  access_to:
+  - US Census Bureau
 - type: R package
   name: inegiR
   url: https://cran.r-project.org/package=inegiR
@@ -671,6 +704,9 @@
     official statistics agency.
   gsbpm_name: Access to official statistics
   gsbpm_number: '7.4'
+  standard: PX
+  access_to:
+  - INEGI
 - type: R package
   name: cbsodataR
   url: https://cran.r-project.org/package=cbsodataR
@@ -678,6 +714,18 @@
     API from R.
   gsbpm_name: Access to official statistics
   gsbpm_number: '7.4'
+  standard: ODATA
+  access_to:
+  - CBS
+- type: R package
+  name: cbsodata4
+  url: https://github.com/statistiekcbs/cbsodata4
+  description: Access to OData4 interface of Statistics Netherlands' ([CBS](http://www.CBS.nl)) open data.
+  gsbpm_name: Access to official statistics
+  gsbpm_number: '7.4'
+  standard: ODATA
+  access_to:
+  - CBS
 - type: Node.js package
   name: cbsodata.js
   url: https://github.com/statmine/cbsodata.js
@@ -685,6 +733,9 @@
     API from js.
   gsbpm_name: Access to official statistics
   gsbpm_number: '7.4'
+  standard: ODATA
+  access_to:
+  - CBS
 - type: Python package
   name: cbsodata.py
   url: https://github.com/J535D165/cbsodata
@@ -692,6 +743,9 @@
     API from Python.
   gsbpm_name: Access to official statistics
   gsbpm_number: '7.4'
+  standard: ODATA
+  access_to:
+  - CBS
 - type: R package
   name: censusapi
   url: https://cran.r-project.org/package=censusapi
@@ -699,6 +753,9 @@
     of Census data and metadata.
   gsbpm_name: Access to official statistics
   gsbpm_number: '7.4'
+  standard:
+  access_to:
+  - US Census Bureau
 - type: R package
   name: nsoApi
   url: https://github.com/bowerth/nsoApi
@@ -706,6 +763,14 @@
     tries to harmonize the API.
   gsbpm_name: Access to official statistics
   gsbpm_number: '7.4'
+  standard:
+  access_to:
+  - CBS
+  - Destatis
+  - UK
+  - Norway
+  - Austria
+  - STATCAN
 - type: R package
   name: CANSIM2R
   url: https://cran.r-project.org/package=CANSIM2R
@@ -713,12 +778,18 @@
     usable data.
   gsbpm_name: Access to official statistics
   gsbpm_number: '7.4'
+  standard:
+  access_to:
+  - STATCAN
 - type: Python package
   name: pyscbwrapper
   url: https://github.com/kirajcg/pyscbwrapper
   description: Access to the open data API of the Swedish Statistical Institute
   gsbpm_name: Access to official statistics
   gsbpm_number: '7.4'
+  standard:
+  access_to:
+  - Sweden
 - type: R package
   name: pxweb
   url: https://cran.r-project.org/package=pxweb
@@ -726,6 +797,9 @@
     Statistical Agencies.
   gsbpm_name: Access to official statistics
   gsbpm_number: '7.4'
+  standard: PX
+  access_to:
+  - all PX
 - type: R package
   name: PxWebApiData
   url: https://cran.r-project.org/package=PxWebApiData
@@ -733,26 +807,40 @@
     Finland.
   gsbpm_name: Access to official statistics
   gsbpm_number: '7.4'
+  standard: PX
+  access_to:
+  - Norway
+  - Sweden
+  - Finland
 - type: R package
   name: pxR
   url: https://cran.r-project.org/package=pxR
   description: Functions for reading and writing PC-Axis files.
   gsbpm_name: Access to official statistics
   gsbpm_number: '7.4'
+  standard: PX
+  access_to:
+  - all PX
 - type: R package
   name: rdbnomics
   url: https://git.nomics.world/dbnomics/rdbnomics
   description: Access to the [DB.nomics database](https://next.nomics.world/) which
     provide macroeconomic data from 38 official providers such as INSEE, Eurostat,
-    Wolrd bank, etc.
+    World bank, etc.
   gsbpm_name: Access to official statistics
   gsbpm_number: '7.4'
+  standard:
+  access_to:
+  - DBnomics
 - type: R package
   name: readabs
   url: https://cran.r-project.org/package=readabs
   description: Download data from the Australian Bureau of Statistics.
   gsbpm_name: Access to official statistics
   gsbpm_number: '7.4'
+  standard:
+  access_to:
+  - ABS
 - type: R package
   name: statcanR
   url: https://cran.r-project.org/package=statcanR
@@ -760,6 +848,9 @@
     data (formerly CANSIM tables) are accessible as a data frame in the R environment.
   gsbpm_name: Access to official statistics
   gsbpm_number: '7.4'
+  standard:
+  access_to:
+  - STATCAN
 - type: R package
   name: cdlTools
   url: https://cran.r-project.org/package=cdlTools
@@ -767,13 +858,19 @@
     data for a specified state.
   gsbpm_name: Access to official statistics
   gsbpm_number: '7.4'
-- type: Java package
+  standard:
+  access_to:
+  - USDA
+- type: Java application
   name: SDMX_Connectors
   url: https://github.com/amattioc/SDMX
   description: Browse SDMX data providers, build your queries and get data directly
     in your favourite tool (R, SAS, Matlab, Stata and Excel). By Banca d'Italia.
   gsbpm_name: Access to official statistics
   gsbpm_number: '7.4'
+  standard: SDMX
+  access_to:
+  - all SDMX
 - type: Node.js package
   name: sdmx-rest
   url: https://www.npmjs.com/package/sdmx-rest
@@ -781,12 +878,18 @@
     from a JavaScript client application.
   gsbpm_name: Access to official statistics
   gsbpm_number: '7.4'
+  standard: SDMX
+  access_to:
+  - all SDMX
 - type: R package
   name: csodata
   url: https://cran.r-project.org/package=csodata
   description: Download data from Central Statistics Office (CSO) of Ireland.
   gsbpm_name: Access to official statistics
   gsbpm_number: '7.4'
+  standard: PX
+  access_to:
+  - CSO
 - type: R package
   name: iriR
   url: https://cran.r-project.org/package=iriR
@@ -794,12 +897,18 @@
     (IRI)
   gsbpm_name: Access to official statistics
   gsbpm_number: '7.4'
+  standard:
+  access_to:
+  - IRI
 - type: R package
   name: czso
   url: https://cran.r-project.org/package=czso
   description: Access open data from the Czech Statistical Office.
   gsbpm_name: Access to official statistics
   gsbpm_number: '7.4'
+  standard:
+  access_to:
+  - CZSO
 - type: R package
   name: ipumsr
   url: https://cran.r-project.org/package=ipumsr
@@ -807,6 +916,9 @@
     (international censuses, harmonized U.S. data).
   gsbpm_name: Access to official statistics
   gsbpm_number: '7.4'
+  standard:
+  access_to:
+  - IPUMS
 - type: R package
   name: eph
   url: https://cran.r-project.org/package=eph
@@ -814,3 +926,24 @@
     from Argentina (EPH is the Spanish acronym for Permanent Household Survey)
   gsbpm_name: Access to official statistics
   gsbpm_number: '7.4'
+  standard:
+  access_to:
+  - Argentina HHS
+- type: R package
+  name: blsR
+  url: https://cran.r-project.org/package=blsR
+  description: Make Requests to the BLS (Bureau of Labor Statistics) API
+  gsbpm_name: Access to official statistics
+  gsbpm_number: '7.4'
+  standard:
+  access_to:
+  - BLS
+- type: R package
+  name: danstat
+  url: https://cran.r-project.org/package=danstat
+  description: R Client for the Statistics Denmark Databank API
+  gsbpm_name: Access to official statistics
+  gsbpm_number: '7.4'
+  standard:
+  access_to:
+  - Denmark

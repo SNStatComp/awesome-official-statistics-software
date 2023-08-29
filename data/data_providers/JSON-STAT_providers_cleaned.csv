@@ -1,0 +1,24 @@
+name;url
+Norway;https://data.ssb.no/api/?lang=en
+UK;https://www.nomisweb.co.uk/api/v01/help
+Sweden;https://www.scb.se/en/About-us/about-the-website-and-terms-of-use/open-data-api/api-for-the-statistical-database/
+Denmark;https://www.dst.dk/en/Statistik/statistikbanken/api
+Greenland;https://bank.stat.gl/pxweb/en/Greenland/
+Finland;https://pxnet2.stat.fi/api1.html
+Ireland;https://www.cso.ie/webserviceclient/
+UNECE;http://w3.unece.org/PXWeb/en
+ESTAT;https://ec.europa.eu/eurostat/web/json-and-unicode-web-services/about-this-service
+Iceland;https://px.hagstofa.is/pxen/pxweb/en/
+Faroe Islands;https://statbank.hagstova.fo/pxweb/en/H2/
+Switzerland;https://www.pxweb.bfs.admin.ch/pxweb/en/
+Croatia;https://www.dzs.hr/default_e.htm
+Latvia;https://data1.csb.gov.lv/pxweb/en/
+Armenia;http://armstatbank.am/pxweb/en/ArmStatBank/
+Macedonia;http://www.stat.gov.mk/OtvoreniPodatociApi_en.aspx
+Spain;https://www.ine.es/dyngs/DataLab/en/manual.html?cid=1259945948443
+Bulgaria;http://www.nsi.bg/opendata/
+Slovenia;https://www.stat.si/StatWeb/en
+Bank of Portugal;https://bpstat.bportugal.pt/data/docs
+World Bank;https://datahelpdesk.worldbank.org/knowledgebase/articles/1886674-new-features-and-enhancements-in-the-v2-api
+Catalonia;https://www.idescat.cat/?lang=en
+Japan;https://dashboard.e-stat.go.jp/en/static/api

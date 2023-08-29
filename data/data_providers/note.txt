@@ -1,0 +1,3 @@
+PX providers from https://www.scb.se/en/services/statistical-programs-for-px-files/px-web/pxweb-examples/
+JSON-STAT providers from https://json-stat.org
+SDMX providers from rsdmx
