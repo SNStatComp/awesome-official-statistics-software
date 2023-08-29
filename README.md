@@ -28,6 +28,8 @@ We prefer software that is easy to install and use, has at least one stable vers
 [![GSBPM use](viz/GSBPM_Small.png)](https://observablehq.com/@olavtenbosch/visualizing-awesomeofficialstatistics-org#GSBPM)
 [![clickable version](viz/ClickableAwesomeSmall.png)](https://observablehq.com/@olavtenbosch/clickable-awesomeofficialstatistics-org)
 [![word cloud](viz/wordCloudSmall.png)](https://observablehq.com/@olavtenbosch/visualizing-awesomeofficialstatistics-org#wordCloud)
+[![Access to offstats](viz/Access.PNG)](https://observablehq.com/@olavtenbosch/access-to-official-statistics-from-r)
+
 
 
 *****
@@ -256,9 +258,9 @@ R package [PantaRhei](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;Pan
 #### Access to official statistics ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 7.4)
 
 - <img src="badges/rsdmx/version.svg"></img> <img src="badges/rsdmx/latest.svg"></img> <img src="badges/rsdmx/license.svg"></img>\
-R package [rsdmx](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;rsdmx). Easy access to data from statistical organisations that support SDMX webservices. The package contains a list of SDMX access points of various national and international statistical institutes.
+R package [rsdmx](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;rsdmx). Access to data or metadata from statistical organisations that support SDMX webservices. The package contains a list of SDMX access points of various national and international statistical institutes.
 - <img src="badges/readsdmx/version.svg"></img> <img src="badges/readsdmx/latest.svg"></img> <img src="badges/readsdmx/license.svg"></img>\
-R package and C++ [readsdmx](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;readsdmx). Read SDMX into dataframes from local SDMX-ML file or web-service. By OECD.
+R package [readsdmx](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;readsdmx). Read SDMX into dataframes from local SDMX-ML file or web-service. Parts in C++. By OECD.
 - <img src="badges/sdmx/version.svg"></img> <img src="badges/sdmx/latest.svg"></img> <img src="badges/sdmx/license.svg"></img>\
 Python [sdmx](https:&#x2F;&#x2F;github.com&#x2F;khaeru&#x2F;sdmx). Python library that implements SDMX 2.1 to explore data from SDMX data providers, parse data and metadata and convert it into Pandas objects.
 - <img src="badges/rjstat/version.svg"></img> <img src="badges/rjstat/latest.svg"></img> <img src="badges/rjstat/license.svg"></img>\
@@ -266,7 +268,7 @@ R package [rjstat](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;rjstat
 - <img src="badges/pyjstat/version.svg"></img> <img src="badges/pyjstat/latest.svg"></img> <img src="badges/pyjstat/license.svg"></img>\
 Python package [pyjstat](https:&#x2F;&#x2F;pypi.org&#x2F;project&#x2F;pyjstat&#x2F;). Read and write JSON-stat.
 - <img src="badges/json-stat.java/version.svg"></img> <img src="badges/json-stat.java/latest.svg"></img> <img src="badges/json-stat.java/license.svg"></img>\
-Java module [json-stat.java](https:&#x2F;&#x2F;github.com&#x2F;statisticsnorway&#x2F;json-stat.java). Read and write JSON-stat. By Statistics Norway.
+Java application [json-stat.java](https:&#x2F;&#x2F;github.com&#x2F;statisticsnorway&#x2F;json-stat.java). Read and write JSON-stat. By Statistics Norway.
 - <img src="badges/oecd/version.svg"></img> <img src="badges/oecd/latest.svg"></img> <img src="badges/oecd/license.svg"></img>\
 R package [oecd](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;OECD). Search and Extract Data from the OECD
 - <img src="badges/sorvi/version.svg"></img> <img src="badges/sorvi/latest.svg"></img> <img src="badges/sorvi/license.svg"></img>\
@@ -281,6 +283,8 @@ R package [acs](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;acs). Dow
 R package [inegiR](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;inegiR). Access to data published by [INEGI](http:&#x2F;&#x2F;www.inegi.org.mx&#x2F;), Mexico&#39;s official statistics agency.
 - <img src="badges/cbsodataR/version.svg"></img> <img src="badges/cbsodataR/latest.svg"></img> <img src="badges/cbsodataR/license.svg"></img>\
 R package [cbsodataR](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;cbsodataR). Access to Statistics Netherlands&#39; ([CBS](http:&#x2F;&#x2F;www.CBS.nl)) open data API from R.
+- <img src="badges/cbsodata4/version.svg"></img> <img src="badges/cbsodata4/latest.svg"></img> <img src="badges/cbsodata4/license.svg"></img>\
+R package [cbsodata4](https:&#x2F;&#x2F;github.com&#x2F;statistiekcbs&#x2F;cbsodata4). Access to OData4 interface of Statistics Netherlands&#39; ([CBS](http:&#x2F;&#x2F;www.CBS.nl)) open data.
 - <img src="badges/cbsodata.js/version.svg"></img> <img src="badges/cbsodata.js/latest.svg"></img> <img src="badges/cbsodata.js/license.svg"></img>\
 Node.js package [cbsodata.js](https:&#x2F;&#x2F;github.com&#x2F;statmine&#x2F;cbsodata.js). Access to Statistics Netherlands&#39; ([CBS](http:&#x2F;&#x2F;www.CBS.nl)) open data API from js.
 - <img src="badges/cbsodata.py/version.svg"></img> <img src="badges/cbsodata.py/latest.svg"></img> <img src="badges/cbsodata.py/license.svg"></img>\
@@ -300,7 +304,7 @@ R package [PxWebApiData](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;
 - <img src="badges/pxR/version.svg"></img> <img src="badges/pxR/latest.svg"></img> <img src="badges/pxR/license.svg"></img>\
 R package [pxR](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;pxR). Functions for reading and writing PC-Axis files.
 - <img src="badges/rdbnomics/version.svg"></img> <img src="badges/rdbnomics/latest.svg"></img> <img src="badges/rdbnomics/license.svg"></img>\
-R package [rdbnomics](https:&#x2F;&#x2F;git.nomics.world&#x2F;dbnomics&#x2F;rdbnomics). Access to the [DB.nomics database](https:&#x2F;&#x2F;next.nomics.world&#x2F;) which provide macroeconomic data from 38 official providers such as INSEE, Eurostat, Wolrd bank, etc.
+R package [rdbnomics](https:&#x2F;&#x2F;git.nomics.world&#x2F;dbnomics&#x2F;rdbnomics). Access to the [DB.nomics database](https:&#x2F;&#x2F;next.nomics.world&#x2F;) which provide macroeconomic data from 38 official providers such as INSEE, Eurostat, World bank, etc.
 - <img src="badges/readabs/version.svg"></img> <img src="badges/readabs/latest.svg"></img> <img src="badges/readabs/license.svg"></img>\
 R package [readabs](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;readabs). Download data from the Australian Bureau of Statistics.
 - <img src="badges/statcanR/version.svg"></img> <img src="badges/statcanR/latest.svg"></img> <img src="badges/statcanR/license.svg"></img>\
@@ -308,7 +312,7 @@ R package [statcanR](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;stat
 - <img src="badges/cdlTools/version.svg"></img> <img src="badges/cdlTools/latest.svg"></img> <img src="badges/cdlTools/license.svg"></img>\
 R package [cdlTools](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;cdlTools). Downloads USDA National Agricultural Statistics Service (NASS) cropscape data for a specified state.
 - <img src="badges/SDMX_Connectors/version.svg"></img> <img src="badges/SDMX_Connectors/latest.svg"></img> <img src="badges/SDMX_Connectors/license.svg"></img>\
-Java package [SDMX_Connectors](https:&#x2F;&#x2F;github.com&#x2F;amattioc&#x2F;SDMX). Browse SDMX data providers, build your queries and get data directly in your favourite tool (R, SAS, Matlab, Stata and Excel). By Banca d&#39;Italia.
+Java application [SDMX_Connectors](https:&#x2F;&#x2F;github.com&#x2F;amattioc&#x2F;SDMX). Browse SDMX data providers, build your queries and get data directly in your favourite tool (R, SAS, Matlab, Stata and Excel). By Banca d&#39;Italia.
 - <img src="badges/sdmx-rest/version.svg"></img> <img src="badges/sdmx-rest/latest.svg"></img> <img src="badges/sdmx-rest/license.svg"></img>\
 Node.js package [sdmx-rest](https:&#x2F;&#x2F;www.npmjs.com&#x2F;package&#x2F;sdmx-rest). This library allows to easily create and execute SDMX REST queries from a JavaScript client application.
 - <img src="badges/csodata/version.svg"></img> <img src="badges/csodata/latest.svg"></img> <img src="badges/csodata/license.svg"></img>\
@@ -321,6 +325,10 @@ R package [czso](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;czso). A
 R package [ipumsr](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;ipumsr). Access to the Integrated Public Use Microdata Series archive ipums.org (international censuses, harmonized U.S. data).
 - <img src="badges/eph/version.svg"></img> <img src="badges/eph/latest.svg"></img> <img src="badges/eph/license.svg"></img>\
 R package [eph](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;eph). Tools to download and manipulate the [EPH-INDEC](https:&#x2F;&#x2F;www.indec.gob.ar&#x2F;) from Argentina (EPH is the Spanish acronym for Permanent Household Survey)
+- <img src="badges/blsR/version.svg"></img> <img src="badges/blsR/latest.svg"></img> <img src="badges/blsR/license.svg"></img>\
+R package [blsR](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;blsR). Make Requests to the BLS (Bureau of Labor Statistics) API
+- <img src="badges/danstat/version.svg"></img> <img src="badges/danstat/latest.svg"></img> <img src="badges/danstat/license.svg"></img>\
+R package [danstat](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;danstat). R Client for the Statistics Denmark Databank API
 
 
 <!-- END OF GENERATED LIST -->
