@@ -28,6 +28,8 @@ We prefer software that is easy to install and use, has at least one stable vers
 [![GSBPM use](viz/GSBPM_Small.png)](https://observablehq.com/@olavtenbosch/visualizing-awesomeofficialstatistics-org#GSBPM)
 [![clickable version](viz/ClickableAwesomeSmall.png)](https://observablehq.com/@olavtenbosch/clickable-awesomeofficialstatistics-org)
 [![word cloud](viz/wordCloudSmall.png)](https://observablehq.com/@olavtenbosch/visualizing-awesomeofficialstatistics-org#wordCloud)
+[![Access to offstats](viz/Access.PNG)](https://observablehq.com/@olavtenbosch/access-to-official-statistics-from-r)
+
 
 
 *****
