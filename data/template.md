@@ -7,7 +7,7 @@
 We prefer software that is easy to install and use, has at least one stable version, and is actively maintained. [Contributions](#contributions) welcome.
 
 #### News
-- Aug 2023: Table added on software for access, standards and endpoints.
+- Aug 2023: [Table](https://observablehq.com/@olavtenbosch/access-to-official-statistics-from-r) added on standards in software for access to offstats
 - Jun 2023: List highlighted in session on moving to OS in [71th CES conference](https://unece.org/statistics/events/CES2023)
 - Jan 2023: International OSS principles using awesome list experiences: [ESS principles on OSS](https://os4os.pages.code-europa-eu.gitlab.host/pbbp/principles.html)
 - Dec 2022: Badges added, will be updated weekly
