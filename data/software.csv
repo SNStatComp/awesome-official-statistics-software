@@ -41,6 +41,7 @@
 "R package","mcmcsae","https://cran.r-project.org/package=mcmcsae","Small area estimation based on Markov Chain Monte Carlo simulation.","Estimation and weighting","5.6 | 5.7"
 "R package","rsae","https://cran.r-project.org/package=rsae","Small area estimation based on (robust) maximum likelihood estimation.","Estimation and weighting","5.6 | 5.7"
 "R package","CalibrateSSB","https://cran.r-project.org/package=CalibrateSSB","Calculate weighs and estimates for panel data with non-response.","Estimation and weighting","5.6 | 5.7"
+"R package","jointCalib","https://cran.r-project.org/package=jointCalib","Performs calibration of quantiles and a joint calibration of totals and quantiles.","Estimation and weighting","5.6 | 5.7"
 "R package","PriceIndices","https://cran.r-project.org/package=PriceIndices","Calculating Bilateral and Multilateral Price Indexes.","Estimation and weighting","5.6 | 5.7"
 "R package","ReGenesees","https://github.com/DiegoZardetto/ReGenesees","Like [survey](https://CRAN.r-project.org/package=survey), but with specific features (e.g. partitioned calibration) that make it fit for processing large-scale surveys. Implements different estimators with sampling errors, and ships with a dedicated GUI (package [ReGenesees.GUI](https://github.com/DiegoZardetto/ReGenesees.GUI)).","Estimation and weighting","5.6 | 5.7"
 "R package","vardpoor","https://cran.r-project.org/package=vardpoor","Linearization of non-linear statistics and variance estimation.","Estimation and weighting","5.6 | 5.7"
