@@ -504,6 +504,12 @@
     data explorers, or lightweight reporting platforms. [Documentation](https://sis-cc.gitlab.io/dotstatsuite-documentation). By [SIS-CC](https://siscc.org).
   gsbpm_name: Statistical Dissemination
   gsbpm_number: '7.2'
+- type: JavaScript and other
+  name: .Stat_Suite
+  url: https://sdmxistattoolkit.github.io
+  description: Toolkit to facilitate the standardization and industrialization of statistical dissemination and reporting based on SDMX. By ISTAT.
+  gsbpm_name: Statistical Dissemination
+  gsbpm_number: '7.2'
 - type: JSON
   name: SDMX-JSON
   url: https://github.com/sdmx-twg/sdmx-json
