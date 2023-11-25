@@ -1,26 +1,25 @@
-
 ## Awesome official statistics software [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-An awesome list of open source software for official statistics.
 
-#### An item on this list is awesome because it is
+#### An item on this list is awesome because it is:
 1. free, open source, and available for download and
-2. used in the production of official statistics by at least one institute or provides access to official statistics.
+2. used in the production of, or provides access to, official statistics.
 
 We prefer software that is easy to install and use, has at least one stable version, and is actively maintained. [Contributions](#contributions) welcome.
 
 #### News
-- Jun 2023: The list highlighted in session on moving to OS in [71th CES conference](https://unece.org/statistics/events/CES2023)
+- Aug 2023: [Table](https://observablehq.com/@olavtenbosch/access-to-official-statistics-from-r) added on standards in software for access to offstats
+- Jun 2023: List highlighted in session on moving to OS in [71th CES conference](https://unece.org/statistics/events/CES2023)
 - Jan 2023: International OSS principles using awesome list experiences: [ESS principles on OSS](https://os4os.pages.code-europa-eu.gitlab.host/pbbp/principles.html)
-- Dec 2022: Badges added, they will be updated weekly
-- Oct 2022: The list mentioned in [UNECE SDE 2022](https://unece.org/statistics/events/SDE2022)
-- Mar 2022: The list in Trusted Smart Statistics meeting: [slides](ppts/20220311_olav_ten_bosch_awesome_list.pdf)
-- Nov 2021: The list in keynote Edwin de Jonge at **[uRos2021](http://r-project.ro/conference2021.html#Edwin_de_Jonge)**
-- Nov 2021: The list in **[Int. Conf. on Data Science and Official Statistics (ICDSOS)](https://icdsos.stis.ac.id/)**: [slides](https://drive.google.com/file/d/1Hp4TJUvkOOn1duXHPImjD74Kh394untx/view?usp=sharing)
-- Oct 2021: The list in **[Px-meeting 2021](https://www.scb.se/px-meeting-2021)**: [slides](https://www.scb.se/globalassets/vara-tjanster/px-programmen/2021-10-21-multilingual-px-files-with-r-and-pxjob-.pdf)
-- Jan 2021: The list in **[10th EG meeting on SDMX](https://www.imf.org/en/News/Seminars/Conferences/2021/01/25/10th-statistical-data-and-metadata-exchange)**: [slides](https://www.imf.org/-/media/Files/News/Seminars/2021/SDMX/siv-presentation-01-stocktaking-of-sdmx-tools.ashx)
-- Dec 2020: The list presented at **uRos2020**: [slides](https://r-project.ro/conference2020-presentations.html#Olav_TEN_BOSCH,_Mark_VAN_DER_LOO_and_Alexander_KOWARIK)
+- Dec 2022: Badges added, will be updated weekly
+- Oct 2022: List mentioned in [UNECE SDE 2022](https://unece.org/statistics/events/SDE2022)
+- Mar 2022: List in Trusted Smart Statistics meeting: [slides](ppts/20220311_olav_ten_bosch_awesome_list.pdf)
+- Nov 2021: List in keynote Edwin de Jonge at **[uRos2021](http://r-project.ro/conference2021.html#Edwin_de_Jonge)**
+- Nov 2021: List in **[Int. Conf. on Data Science and Official Statistics (ICDSOS)](https://icdsos.stis.ac.id/)**: [slides](https://drive.google.com/file/d/1Hp4TJUvkOOn1duXHPImjD74Kh394untx/view?usp=sharing)
+- Oct 2021: List in **[Px-meeting 2021](https://www.scb.se/px-meeting-2021)**: [slides](https://www.scb.se/globalassets/vara-tjanster/px-programmen/2021-10-21-multilingual-px-files-with-r-and-pxjob-.pdf)
+- Jan 2021: List in **[10th EG meeting on SDMX](https://www.imf.org/en/News/Seminars/Conferences/2021/01/25/10th-statistical-data-and-metadata-exchange)**: [slides](https://www.imf.org/-/media/Files/News/Seminars/2021/SDMX/siv-presentation-01-stocktaking-of-sdmx-tools.ashx)
+- Dec 2020: List presented at **uRos2020**: [slides](https://r-project.ro/conference2020-presentations.html#Olav_TEN_BOSCH,_Mark_VAN_DER_LOO_and_Alexander_KOWARIK)
 - Dec 2019: **100  items on the list!!!**
-- Jun 2019: The list presented at **Modernstats World**: [slides](https://www.unece.org/fileadmin/DAM/stats/documents/ece/ces/ge.58/2019/mtg2/MWW2019_Soapbox_Netherlands_ten_Bosch.pdf)
+- Jun 2019: List presented at **Modernstats World**: [slides](https://www.unece.org/fileadmin/DAM/stats/documents/ece/ces/ge.58/2019/mtg2/MWW2019_Soapbox_Netherlands_ten_Bosch.pdf)
 - Dec 2017: List started during UNECE SDE 2017
 
 
@@ -28,6 +27,8 @@ We prefer software that is easy to install and use, has at least one stable vers
 [![GSBPM use](viz/GSBPM_Small.png)](https://observablehq.com/@olavtenbosch/visualizing-awesomeofficialstatistics-org#GSBPM)
 [![clickable version](viz/ClickableAwesomeSmall.png)](https://observablehq.com/@olavtenbosch/clickable-awesomeofficialstatistics-org)
 [![word cloud](viz/wordCloudSmall.png)](https://observablehq.com/@olavtenbosch/visualizing-awesomeofficialstatistics-org#wordCloud)
+[![Access to offstats](viz/Access.PNG)](https://observablehq.com/@olavtenbosch/access-to-official-statistics-from-r)
+
 
 
 *****
@@ -149,6 +150,8 @@ R package [mcmcsae](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;mcmcs
 R package [rsae](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;rsae). Small area estimation based on (robust) maximum likelihood estimation.
 - <img src="badges/CalibrateSSB/version.svg"></img> <img src="badges/CalibrateSSB/latest.svg"></img> <img src="badges/CalibrateSSB/license.svg"></img>\
 R package [CalibrateSSB](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;CalibrateSSB). Calculate weighs and estimates for panel data with non-response.
+- <img src="badges/jointCalib/version.svg"></img> <img src="badges/jointCalib/latest.svg"></img> <img src="badges/jointCalib/license.svg"></img>\
+R package [jointCalib](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;jointCalib). Performs calibration of quantiles and a joint calibration of totals and quantiles.
 - <img src="badges/PriceIndices/version.svg"></img> <img src="badges/PriceIndices/latest.svg"></img> <img src="badges/PriceIndices/license.svg"></img>\
 R package [PriceIndices](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;PriceIndices). Calculating Bilateral and Multilateral Price Indexes.
 - <img src="badges/ReGenesees/version.svg"></img> <img src="badges/ReGenesees/latest.svg"></img> <img src="badges/ReGenesees/license.svg"></img>\
@@ -256,9 +259,9 @@ R package [PantaRhei](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;Pan
 #### Access to official statistics ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 7.4)
 
 - <img src="badges/rsdmx/version.svg"></img> <img src="badges/rsdmx/latest.svg"></img> <img src="badges/rsdmx/license.svg"></img>\
-R package [rsdmx](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;rsdmx). Easy access to data from statistical organisations that support SDMX webservices. The package contains a list of SDMX access points of various national and international statistical institutes.
+R package [rsdmx](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;rsdmx). Access to data or metadata from statistical organisations that support SDMX webservices. The package contains a list of SDMX access points of various national and international statistical institutes.
 - <img src="badges/readsdmx/version.svg"></img> <img src="badges/readsdmx/latest.svg"></img> <img src="badges/readsdmx/license.svg"></img>\
-R package and C++ [readsdmx](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;readsdmx). Read SDMX into dataframes from local SDMX-ML file or web-service. By OECD.
+R package [readsdmx](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;readsdmx). Read SDMX into dataframes from local SDMX-ML file or web-service. Parts in C++. By OECD.
 - <img src="badges/sdmx/version.svg"></img> <img src="badges/sdmx/latest.svg"></img> <img src="badges/sdmx/license.svg"></img>\
 Python [sdmx](https:&#x2F;&#x2F;github.com&#x2F;khaeru&#x2F;sdmx). Python library that implements SDMX 2.1 to explore data from SDMX data providers, parse data and metadata and convert it into Pandas objects.
 - <img src="badges/rjstat/version.svg"></img> <img src="badges/rjstat/latest.svg"></img> <img src="badges/rjstat/license.svg"></img>\
@@ -266,7 +269,7 @@ R package [rjstat](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;rjstat
 - <img src="badges/pyjstat/version.svg"></img> <img src="badges/pyjstat/latest.svg"></img> <img src="badges/pyjstat/license.svg"></img>\
 Python package [pyjstat](https:&#x2F;&#x2F;pypi.org&#x2F;project&#x2F;pyjstat&#x2F;). Read and write JSON-stat.
 - <img src="badges/json-stat.java/version.svg"></img> <img src="badges/json-stat.java/latest.svg"></img> <img src="badges/json-stat.java/license.svg"></img>\
-Java module [json-stat.java](https:&#x2F;&#x2F;github.com&#x2F;statisticsnorway&#x2F;json-stat.java). Read and write JSON-stat. By Statistics Norway.
+Java application [json-stat.java](https:&#x2F;&#x2F;github.com&#x2F;statisticsnorway&#x2F;json-stat.java). Read and write JSON-stat. By Statistics Norway.
 - <img src="badges/oecd/version.svg"></img> <img src="badges/oecd/latest.svg"></img> <img src="badges/oecd/license.svg"></img>\
 R package [oecd](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;OECD). Search and Extract Data from the OECD
 - <img src="badges/sorvi/version.svg"></img> <img src="badges/sorvi/latest.svg"></img> <img src="badges/sorvi/license.svg"></img>\
@@ -281,6 +284,8 @@ R package [acs](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;acs). Dow
 R package [inegiR](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;inegiR). Access to data published by [INEGI](http:&#x2F;&#x2F;www.inegi.org.mx&#x2F;), Mexico&#39;s official statistics agency.
 - <img src="badges/cbsodataR/version.svg"></img> <img src="badges/cbsodataR/latest.svg"></img> <img src="badges/cbsodataR/license.svg"></img>\
 R package [cbsodataR](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;cbsodataR). Access to Statistics Netherlands&#39; ([CBS](http:&#x2F;&#x2F;www.CBS.nl)) open data API from R.
+- <img src="badges/cbsodata4/version.svg"></img> <img src="badges/cbsodata4/latest.svg"></img> <img src="badges/cbsodata4/license.svg"></img>\
+R package [cbsodata4](https:&#x2F;&#x2F;github.com&#x2F;statistiekcbs&#x2F;cbsodata4). Access to OData4 interface of Statistics Netherlands&#39; ([CBS](http:&#x2F;&#x2F;www.CBS.nl)) open data.
 - <img src="badges/cbsodata.js/version.svg"></img> <img src="badges/cbsodata.js/latest.svg"></img> <img src="badges/cbsodata.js/license.svg"></img>\
 Node.js package [cbsodata.js](https:&#x2F;&#x2F;github.com&#x2F;statmine&#x2F;cbsodata.js). Access to Statistics Netherlands&#39; ([CBS](http:&#x2F;&#x2F;www.CBS.nl)) open data API from js.
 - <img src="badges/cbsodata.py/version.svg"></img> <img src="badges/cbsodata.py/latest.svg"></img> <img src="badges/cbsodata.py/license.svg"></img>\
@@ -300,7 +305,7 @@ R package [PxWebApiData](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;
 - <img src="badges/pxR/version.svg"></img> <img src="badges/pxR/latest.svg"></img> <img src="badges/pxR/license.svg"></img>\
 R package [pxR](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;pxR). Functions for reading and writing PC-Axis files.
 - <img src="badges/rdbnomics/version.svg"></img> <img src="badges/rdbnomics/latest.svg"></img> <img src="badges/rdbnomics/license.svg"></img>\
-R package [rdbnomics](https:&#x2F;&#x2F;git.nomics.world&#x2F;dbnomics&#x2F;rdbnomics). Access to the [DB.nomics database](https:&#x2F;&#x2F;next.nomics.world&#x2F;) which provide macroeconomic data from 38 official providers such as INSEE, Eurostat, Wolrd bank, etc.
+R package [rdbnomics](https:&#x2F;&#x2F;git.nomics.world&#x2F;dbnomics&#x2F;rdbnomics). Access to the [DB.nomics database](https:&#x2F;&#x2F;next.nomics.world&#x2F;) which provide macroeconomic data from 38 official providers such as INSEE, Eurostat, World bank, etc.
 - <img src="badges/readabs/version.svg"></img> <img src="badges/readabs/latest.svg"></img> <img src="badges/readabs/license.svg"></img>\
 R package [readabs](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;readabs). Download data from the Australian Bureau of Statistics.
 - <img src="badges/statcanR/version.svg"></img> <img src="badges/statcanR/latest.svg"></img> <img src="badges/statcanR/license.svg"></img>\
@@ -308,7 +313,7 @@ R package [statcanR](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;stat
 - <img src="badges/cdlTools/version.svg"></img> <img src="badges/cdlTools/latest.svg"></img> <img src="badges/cdlTools/license.svg"></img>\
 R package [cdlTools](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;cdlTools). Downloads USDA National Agricultural Statistics Service (NASS) cropscape data for a specified state.
 - <img src="badges/SDMX_Connectors/version.svg"></img> <img src="badges/SDMX_Connectors/latest.svg"></img> <img src="badges/SDMX_Connectors/license.svg"></img>\
-Java package [SDMX_Connectors](https:&#x2F;&#x2F;github.com&#x2F;amattioc&#x2F;SDMX). Browse SDMX data providers, build your queries and get data directly in your favourite tool (R, SAS, Matlab, Stata and Excel). By Banca d&#39;Italia.
+Java application [SDMX_Connectors](https:&#x2F;&#x2F;github.com&#x2F;amattioc&#x2F;SDMX). Browse SDMX data providers, build your queries and get data directly in your favourite tool (R, SAS, Matlab, Stata and Excel). By Banca d&#39;Italia.
 - <img src="badges/sdmx-rest/version.svg"></img> <img src="badges/sdmx-rest/latest.svg"></img> <img src="badges/sdmx-rest/license.svg"></img>\
 Node.js package [sdmx-rest](https:&#x2F;&#x2F;www.npmjs.com&#x2F;package&#x2F;sdmx-rest). This library allows to easily create and execute SDMX REST queries from a JavaScript client application.
 - <img src="badges/csodata/version.svg"></img> <img src="badges/csodata/latest.svg"></img> <img src="badges/csodata/license.svg"></img>\
@@ -321,6 +326,10 @@ R package [czso](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;czso). A
 R package [ipumsr](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;ipumsr). Access to the Integrated Public Use Microdata Series archive ipums.org (international censuses, harmonized U.S. data).
 - <img src="badges/eph/version.svg"></img> <img src="badges/eph/latest.svg"></img> <img src="badges/eph/license.svg"></img>\
 R package [eph](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;eph). Tools to download and manipulate the [EPH-INDEC](https:&#x2F;&#x2F;www.indec.gob.ar&#x2F;) from Argentina (EPH is the Spanish acronym for Permanent Household Survey)
+- <img src="badges/blsR/version.svg"></img> <img src="badges/blsR/latest.svg"></img> <img src="badges/blsR/license.svg"></img>\
+R package [blsR](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;blsR). Make Requests to the BLS (Bureau of Labor Statistics) API
+- <img src="badges/danstat/version.svg"></img> <img src="badges/danstat/latest.svg"></img> <img src="badges/danstat/license.svg"></img>\
+R package [danstat](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;danstat). R Client for the Statistics Denmark Databank API
 
 
 <!-- END OF GENERATED LIST -->
@@ -340,6 +349,8 @@ Awesome contributions are welcome, here are ways to do it:
   [issue tracker](https://github.com/SNStatComp/awesome-official-statistics-software/issues)
 issue tracker. (you need a GH account)
 - Send an e-mail to `mark dot vanderloo at gmail dot com` or `olav dot tenbosch at gmail dot com` or tweet [\@olavtenbosch](https://twitter.com/olavtenbosch) or [\@markvdloo](https://twitter.com/markvdloo)
+
+We deserve the right to remove items that do not work or install any more or are not actively maintained.
 
 **Wear the badge.** Authors of software that is mentioned on this list gain the right to wear the [mentioned in awesome](https://github.com/sindresorhus/awesome/blob/master/awesome.md#awesome-mentioned-badge) badge on their website or GH repository. Please use the following code (or equivalent) to do so for your project.
 ```

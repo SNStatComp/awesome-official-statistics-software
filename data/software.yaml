@@ -295,6 +295,12 @@
   gsbpm_name: Estimation and weighting
   gsbpm_number: 5.6 | 5.7
 - type: R package
+  name: jointCalib
+  url: https://cran.r-project.org/package=jointCalib
+  description: Performs calibration of quantiles and a joint calibration of totals and quantiles.
+  gsbpm_name: Estimation and weighting
+  gsbpm_number: 5.6 | 5.7
+- type: R package
   name: PriceIndices
   url: https://cran.r-project.org/package=PriceIndices
   description: Calculating Bilateral and Multilateral Price Indexes.
