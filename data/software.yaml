@@ -511,7 +511,7 @@
   gsbpm_name: Statistical Dissemination
   gsbpm_number: '7.2'
 - type: JavaScript and other
-  name: .Stat_Suite
+  name: ISTAT Statkit
   url: https://sdmxistattoolkit.github.io
   description: Toolkit to facilitate the standardization and industrialization of statistical dissemination and reporting based on SDMX. By ISTAT.
   gsbpm_name: Statistical Dissemination
