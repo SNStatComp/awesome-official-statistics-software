@@ -62,12 +62,13 @@ Awesome contributions are welcome, here are ways to do it:
 - Add an item to the [issue tracker](https://github.com/SNStatComp/awesome-official-statistics-software/issues)
 - Send an e-mail to `mark dot vanderloo at gmail dot com` or `olav dot tenbosch at gmail dot com`
 
-We deserve the right to remove items that do not work or install any more or are not actively maintained.
-
-**Wear the badge.** Authors of software that is mentioned on this list gain the right to wear the [mentioned in awesome](https://github.com/sindresorhus/awesome/blob/master/awesome.md#awesome-mentioned-badge) badge on their website or GH repository. Please use the following code (or equivalent) to do so for your project.
+**Wear the badge.** Authors of software mentioned on this list gain the right to wear the [mentioned in awesome](https://github.com/sindresorhus/awesome/blob/master/awesome.md#awesome-mentioned-badge) badge on their website or GH repository.
+Use the following code (or equivalent) to do so:
 ```
 [![Mentioned in Awesome Official Statistics ](https://awesome.re/mentioned-badge.svg)](http://www.awesomeofficialstatistics.org)
 ```
+## Maintenance
+We deserve the right to remove items that do not work or install anymore or are not actively maintained, to change package descriptions if needed and to do any other editing that improves this list.  
 
 ## License
 
