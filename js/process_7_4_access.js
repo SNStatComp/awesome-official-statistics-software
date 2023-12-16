@@ -39,7 +39,7 @@ for (const o of PX_data_providers.data) {
 // Generate matrix:
 for (const o of software) {
 	if (o.gsbpm_number != '7.4') continue
-	if (o.type != 'R package') continue
+	//if (o.type != 'R package') continue
 	cnt++
 	
 	if (o.access_to && o.access_to != []) {
