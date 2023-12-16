@@ -80,14 +80,16 @@ Python [urlfinding](https:&#x2F;&#x2F;github.com&#x2F;SNStatComp&#x2F;urlfinding
 
 #### Process ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 5)
 
-- <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;badges/blaise/version.svg"></img> <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;badges/blaise/latest.svg"></img> <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;badges/blaise/license.svg"></img>\
-R package [blaise](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;blaise). Reading and writing Files in the Blaise Format from R. By Statistics Netherlands.
-- <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;badges/Java-VTL/version.svg"></img> <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;badges/Java-VTL/latest.svg"></img> <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;badges/Java-VTL/license.svg"></img>\
-Java application [Java-VTL](https:&#x2F;&#x2F;github.com&#x2F;statisticsnorway&#x2F;java-vtl). A partial implementation of the Validation Transformation Language, based on the VTL 1.1 draft specification. By Statistics Norway.
-- <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;badges/ADaMSoft/version.svg"></img> <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;badges/ADaMSoft/latest.svg"></img> <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;badges/ADaMSoft/license.svg"></img>\
-Java application [ADaMSoft](http:&#x2F;&#x2F;adamsoft.sourceforge.net). implements procedures for data analysis, data, web and text mining. Also contains procedures for data validation and imputation, based on the principle of Fellegi and Holt.
 - <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;badges/dcmodify/version.svg"></img> <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;badges/dcmodify/latest.svg"></img> <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;badges/dcmodify/license.svg"></img>\
 R package [dcmodify](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;dcmodify). Derive new variables or modify data using externally defined data modification rules.
+- <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;badges/Trevas/version.svg"></img> <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;badges/Trevas/latest.svg"></img> <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;badges/Trevas/license.svg"></img>\
+Java application [Trevas](hhttps:&#x2F;&#x2F;github.com&#x2F;InseeFr&#x2F;Trevas). Java engine for the Validation and Transformation Language (VTL). By INSEE.
+- <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;badges/Java-VTL/version.svg"></img> <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;badges/Java-VTL/latest.svg"></img> <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;badges/Java-VTL/license.svg"></img>\
+Java application [Java-VTL](https:&#x2F;&#x2F;github.com&#x2F;statisticsnorway&#x2F;java-vtl). A partial implementation of the Validation Transformation Language, based on the VTL 1.1 draft specification. By Statistics Norway.
+- <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;badges/blaise/version.svg"></img> <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;badges/blaise/latest.svg"></img> <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;badges/blaise/license.svg"></img>\
+R package [blaise](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;blaise). Reading and writing Files in the Blaise Format from R. By Statistics Netherlands.
+- <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;badges/ADaMSoft/version.svg"></img> <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;badges/ADaMSoft/latest.svg"></img> <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;badges/ADaMSoft/license.svg"></img>\
+Java application [ADaMSoft](http:&#x2F;&#x2F;adamsoft.sourceforge.net). implements procedures for data analysis, data, web and text mining. Also contains procedures for data validation and imputation, based on the principle of Fellegi and Holt.
 
 
 #### Data integration and record linkage ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 5.1)
@@ -346,18 +348,17 @@ R package [danstat](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;danst
 
 Awesome contributions are welcome, here are ways to do it:
 
-- The GitHub way: send us a [pull request](https://help.github.com/articles/creating-a-pull-request/) on data/software.yaml.
-- Add an item to the
-  [issue tracker](https://github.com/SNStatComp/awesome-official-statistics-software/issues)
-issue tracker. (you need a GH account)
-- Send an e-mail to `mark dot vanderloo at gmail dot com` or `olav dot tenbosch at gmail dot com` or tweet [\@olavtenbosch](https://twitter.com/olavtenbosch) or [\@markvdloo](https://twitter.com/markvdloo)
+- Send us a [pull request](https://help.github.com/articles/creating-a-pull-request/) on data/software.yaml
+- Add an item to the [issue tracker](https://github.com/SNStatComp/awesome-official-statistics-software/issues)
+- Send an e-mail to `mark dot vanderloo at gmail dot com` or `olav dot tenbosch at gmail dot com`
 
-We deserve the right to remove items that do not work or install any more or are not actively maintained.
-
-**Wear the badge.** Authors of software that is mentioned on this list gain the right to wear the [mentioned in awesome](https://github.com/sindresorhus/awesome/blob/master/awesome.md#awesome-mentioned-badge) badge on their website or GH repository. Please use the following code (or equivalent) to do so for your project.
+**Wear the badge.** Authors of software mentioned on this list gain the right to wear the [mentioned in awesome](https://github.com/sindresorhus/awesome/blob/master/awesome.md#awesome-mentioned-badge) badge on their website or GH repository.
+Use the following code (or equivalent) to do so:
 ```
 [![Mentioned in Awesome Official Statistics ](https://awesome.re/mentioned-badge.svg)](http://www.awesomeofficialstatistics.org)
 ```
+## Maintenance
+We deserve the right to remove items that do not work or install anymore or are not actively maintained, to change package descriptions if needed and to do any other editing that improves this list.  
 
 ## License
 
