@@ -58,11 +58,9 @@ We prefer software that is easy to install and use, has at least one stable vers
 
 Awesome contributions are welcome, here are ways to do it:
 
-- The GitHub way: send us a [pull request](https://help.github.com/articles/creating-a-pull-request/) on data/software.yaml.
-- Add an item to the
-  [issue tracker](https://github.com/SNStatComp/awesome-official-statistics-software/issues)
-issue tracker. (you need a GH account)
-- Send an e-mail to `mark dot vanderloo at gmail dot com` or `olav dot tenbosch at gmail dot com` or tweet [\@olavtenbosch](https://twitter.com/olavtenbosch) or [\@markvdloo](https://twitter.com/markvdloo)
+- Send us a [pull request](https://help.github.com/articles/creating-a-pull-request/) on data/software.yaml
+- Add an item to the [issue tracker](https://github.com/SNStatComp/awesome-official-statistics-software/issues)
+- Send an e-mail to `mark dot vanderloo at gmail dot com` or `olav dot tenbosch at gmail dot com`
 
 We deserve the right to remove items that do not work or install any more or are not actively maintained.
 
