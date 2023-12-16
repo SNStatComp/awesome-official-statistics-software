@@ -96,7 +96,7 @@
   gsbpm_number: '5'
 - type: Java application
   name: Trevas
-  url: hhttps://github.com/InseeFr/Trevas
+  url: https://github.com/InseeFr/Trevas
   description: Java engine for the Validation and Transformation Language (VTL). By INSEE.
   gsbpm_name: Process
   gsbpm_number: '5'
