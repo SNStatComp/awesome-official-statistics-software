@@ -7,6 +7,10 @@ const papa = require('papaparse')
 const template = fs.readFileSync('./../data/template.md', 'utf8')
 const data = yaml.load(fs.readFileSync('./../data/software.yaml', 'utf8'))
 
+//const badgeURL = '' // relative in case of local run
+const badgeURL = 'https://raw.githubusercontent.com/SNStatComp/awesome-official-statistics-software/master/'  // in case of GitHub
+
+
 // build json structure for Mustache:
 let json_mustache = data.reduce((a, c) => {
 	let group = a.groups.find((item) => item.number == c.gsbpm_number)
@@ -20,8 +24,10 @@ let json_mustache = data.reduce((a, c) => {
 		})
 	return a
 }, {groups: []} )
+json_mustache.badgeURL = badgeURL
 
-//fs.writeFileSync("test.json", JSON.stringify(res))
+// For testing:
+//fs.writeFileSync("test.json", JSON.stringify(json_mustache))
 
 // Generate readme:
 let readme = Mustache.render(template, json_mustache)
