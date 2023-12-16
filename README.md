@@ -36,7 +36,7 @@ We prefer software that is easy to install and use, has at least one stable vers
 <!-- THE LIST OF APPS IS GENERATED FROM data/software.yaml -->
  
 
-#### Design frame and sample ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 2.1)
+#### Design frame and sample ([GSBPM](https://unece.org/statistics/modernstats/gsbpm) 2.1)
 
 - <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;badges/SamplingStrata/version.svg"></img> <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;badges/SamplingStrata/latest.svg"></img> <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;badges/SamplingStrata/license.svg"></img>\
 R package [SamplingStrata](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;SamplingStrata). Optimal Stratification of Sampling Frames for Multipurpose Sampling Surveys.
@@ -44,13 +44,13 @@ R package [SamplingStrata](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3
 R package [R2BEAT](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;R2BEAT). Multistage Sampling Allocation and PSU Selection.
 
 
-#### Design variable descriptions ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 2.2)
+#### Design variable descriptions ([GSBPM](https://unece.org/statistics/modernstats/gsbpm) 2.2)
 
 - <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;badges/SDMX_Matrix_Generator/version.svg"></img> <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;badges/SDMX_Matrix_Generator/latest.svg"></img> <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;badges/SDMX_Matrix_Generator/license.svg"></img>\
 Excel [SDMX_Matrix_Generator](https:&#x2F;&#x2F;gitlab.com&#x2F;sis-cc&#x2F;sdmx-tools&#x2F;sdmx-matrix-generator). Excel-based visual SDMX artefact authoring tool which generates SDMX-ML for upload into an SDMX repository such as a registry. By OECD.
 
 
-#### Sampling ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 4.1)
+#### Sampling ([GSBPM](https://unece.org/statistics/modernstats/gsbpm) 4.1)
 
 - <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;badges/sampling/version.svg"></img> <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;badges/sampling/latest.svg"></img> <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;badges/sampling/license.svg"></img>\
 R package [sampling](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;sampling). Several algorithms for drawing survey samples, including a variety of unequal probabiltiy sampling designs (high entropy, systematic, Rao-Sampford, etc.), and calibrating design weights.
@@ -62,7 +62,7 @@ R package [PracTools](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;Pra
 R package [prnsamplr](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;prnsamplr). Coordinated stratified sampling using permanent random numbers (PRN&#39;s). Supports simple random sampling and probability-proportional-to-size sampling and includes a function for transforming PRN&#39;s to control the sample overlap.
 
 
-#### Scraping for Statistics ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 4.3)
+#### Scraping for Statistics ([GSBPM](https://unece.org/statistics/modernstats/gsbpm) 4.3)
 
 - <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;badges/GUrlSearcher/version.svg"></img> <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;badges/GUrlSearcher/latest.svg"></img> <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;badges/GUrlSearcher/license.svg"></img>\
 Java application [GUrlSearcher](https:&#x2F;&#x2F;github.com&#x2F;SummaIstat&#x2F;GUrlSearcher). An application for searching Urls via Google. Can be used to find websites of enterprise. By ISTAT.
@@ -78,7 +78,7 @@ Python [Sustainability_Reporting](https:&#x2F;&#x2F;github.com&#x2F;AlessandraSo
 Python [urlfinding](https:&#x2F;&#x2F;github.com&#x2F;SNStatComp&#x2F;urlfinding). Software for finding websites of enterprises using a search engine and machine learning. By [Statistics Netherlands](https:www.cbs.nl).
 
 
-#### Process ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 5)
+#### Process ([GSBPM](https://unece.org/statistics/modernstats/gsbpm) 5)
 
 - <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;badges/dcmodify/version.svg"></img> <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;badges/dcmodify/latest.svg"></img> <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;badges/dcmodify/license.svg"></img>\
 R package [dcmodify](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;dcmodify). Derive new variables or modify data using externally defined data modification rules.
@@ -92,7 +92,7 @@ R package [blaise](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;blaise
 Java application [ADaMSoft](http:&#x2F;&#x2F;adamsoft.sourceforge.net). implements procedures for data analysis, data, web and text mining. Also contains procedures for data validation and imputation, based on the principle of Fellegi and Holt.
 
 
-#### Data integration and record linkage ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 5.1)
+#### Data integration and record linkage ([GSBPM](https://unece.org/statistics/modernstats/gsbpm) 5.1)
 
 - <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;badges/reclin2/version.svg"></img> <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;badges/reclin2/latest.svg"></img> <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;badges/reclin2/license.svg"></img>\
 R package [reclin2](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;reclin2). Functions to assist in performing probabilistic record linkage and deduplication: generating pairs, comparing records, em-algorithm for estimating m- and u-probabilities, forcing one-to-one matching. Can also be used for pre- and post-processing for machine learning methods for record linkage.
@@ -112,7 +112,7 @@ R Java MySQL [RELAIS](https:&#x2F;&#x2F;joinup.ec.europa.eu&#x2F;solution&#x2F;r
 R package [XBRL](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;XBRL). Extraction of Business Financial Information from [XBRL](https:&#x2F;&#x2F;www.xbrl.org&#x2F;).
 
 
-#### Statistical data editing and imputation ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 5.3 | 5.4)
+#### Statistical data editing and imputation ([GSBPM](https://unece.org/statistics/modernstats/gsbpm) 5.3 | 5.4)
 
 - <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;badges/validate/version.svg"></img> <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;badges/validate/latest.svg"></img> <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;badges/validate/license.svg"></img>\
 R package [validate](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;validate). Data validation checks such as on length, format, range, missingness, availability, uniqueness, multivariate checks, statistical checks and checks on SDMX codelist. See [Cookbook](https:&#x2F;&#x2F;data-cleaning.github.io&#x2F;validate&#x2F;). By Statistics Netherlands.
@@ -140,7 +140,7 @@ R package [rspa](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;rspa). A
 R package [mice](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;mice). Multiple imputation by chained equations, aka fully conditional specification, accompanied by [van Buuren (2018) _Flexible Imputation of Missing Data_](https:&#x2F;&#x2F;stefvanbuuren.name&#x2F;fimd&#x2F;).
 
 
-#### Estimation and weighting ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 5.6 | 5.7)
+#### Estimation and weighting ([GSBPM](https://unece.org/statistics/modernstats/gsbpm) 5.6 | 5.7)
 
 - <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;badges/survey/version.svg"></img> <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;badges/survey/latest.svg"></img> <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;badges/survey/license.svg"></img>\
 R package [survey](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;survey). Weighting and estimation for complex survey designs, possibly under nonresponse. Also computes estimator variance. See also R package [srvyr](https::&#x2F;&#x2F;CRAN.R-project.org&#x2F;package&#x3D;survey) for integration with [tidy tools](https:&#x2F;&#x2F;cran.r-project.org&#x2F;web&#x2F;packages&#x2F;tidyverse&#x2F;vignettes&#x2F;manifesto.html).
@@ -186,13 +186,13 @@ R package [RJDemetra](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;RJD
 R package [tempdisagg](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;tempdisagg). Methods for temporal disaggregation and interpolation of time series.
 
 
-#### Output validation ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 6.2)
+#### Output validation ([GSBPM](https://unece.org/statistics/modernstats/gsbpm) 6.2)
 
 - <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;badges/validate/version.svg"></img> <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;badges/validate/latest.svg"></img> <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;badges/validate/license.svg"></img>\
 R package [validate](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;validate). Rule management and data validation.
 
 
-#### Statistical disclosure control ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 6.4)
+#### Statistical disclosure control ([GSBPM](https://unece.org/statistics/modernstats/gsbpm) 6.4)
 
 - <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;badges/Mu-ARGUS/version.svg"></img> <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;badges/Mu-ARGUS/latest.svg"></img> <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;badges/Mu-ARGUS/license.svg"></img>\
 Java and C++ application [Mu-ARGUS](https:&#x2F;&#x2F;github.com&#x2F;sdcTools&#x2F;muargus). Tool to create safe micro-data files. See also the [casc page](http:&#x2F;&#x2F;research.cbs.nl&#x2F;casc&#x2F;).
@@ -218,7 +218,7 @@ R package [sdcSpatial](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;sd
 R package [synthpop](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;synthpop). Produce synthetic versions of microdata containing confidential information so that they are safe to be released to users for exploratory analysis.
 
 
-#### Statistical Dissemination ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 7.2)
+#### Statistical Dissemination ([GSBPM](https://unece.org/statistics/modernstats/gsbpm) 7.2)
 
 - <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;badges/SDMX_Converter/version.svg"></img> <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;badges/SDMX_Converter/latest.svg"></img> <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;badges/SDMX_Converter/license.svg"></img>\
 Java application [SDMX_Converter](https:&#x2F;&#x2F;ec.europa.eu&#x2F;eurostat&#x2F;cros&#x2F;content&#x2F;sdmx-converter-0_en). Converts between SDMX versions and formats like CSV, FLR etc. By Eurostat.
@@ -260,7 +260,7 @@ JavaScript [Visual](https:&#x2F;&#x2F;github.com&#x2F;idescat&#x2F;visual). Java
 R package [PantaRhei](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;PantaRhei). Sankey plots suited for (circulair) economical systems such as energy systems, material flow accounts and water accounts. Supports loops. 
 
 
-#### Access to official statistics ([GSBPM](https://statswiki.unece.org/display/GSBPM/) 7.4)
+#### Access to official statistics ([GSBPM](https://unece.org/statistics/modernstats/gsbpm) 7.4)
 
 - <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;badges/rsdmx/version.svg"></img> <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;badges/rsdmx/latest.svg"></img> <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;badges/rsdmx/license.svg"></img>\
 R package [rsdmx](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;rsdmx). Access to data or metadata from statistical organisations that support SDMX webservices. The package contains a list of SDMX access points of various national and international statistical institutes.
