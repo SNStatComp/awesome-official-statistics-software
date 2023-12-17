@@ -7,12 +7,11 @@
 We prefer software that is easy to install and use and actively maintained. [Contributions](#contributions) welcome.
 
 #### News
-- Aug 2023: [Table](https://observablehq.com/@olavtenbosch/access-to-official-statistics-from-r) added on standards in software for access to offstats
+- Dec 2023: **uRos2023**: [*Access to official statistics from R: an overview*](https://olavtenbosch.github.io/pdf/2023_Uros_tenBosch_Access.pdf) [slides](https://olavtenbosch.github.io/pdf/2023_Uros_tenBosch_Access_slides.pdf),[Table](https://observablehq.com/@olavtenbosch/access-to-official-statistics-from-r)
 - Jun 2023: List highlighted in [71th CES conference](https://unece.org/statistics/events/CES2023)
-- Jan 2023: *ESS principles on open source software* based on experiences from this list: [ESS principles on OSS](https://os4os.pages.code-europa-eu.gitlab.host/pbbp/principles.html)
-- Dec 2022: Badges added to the list
+- Jan 2023: *ESS principles on open source software* building on this list: [ESS principles on OSS](https://os4os.pages.code-europa-eu.gitlab.host/pbbp/principles.html)
 - Oct 2022: List mentioned in [UNECE SDE 2022](https://unece.org/statistics/events/SDE2022)
-- Mar 2022: Talk *The awesome list of official statistics software & FOSS best practices* [slides](https://doi.org/10.5281/zenodo.7665189)
+- Mar 2022: *The awesome list of official statistics software & FOSS best practices* [slides](https://doi.org/10.5281/zenodo.7665189)
 - Nov 2021: List in keynote Edwin de Jonge at **[uRos2021](http://r-project.ro/conference2021.html#Edwin_de_Jonge)**
 - Nov 2021: List in **[ICDSOS2021](https://icdsos.stis.ac.id/2021/)**
 - Oct 2021: List in **[Px-meeting 2021](https://www.scb.se/en/services/statistical-programs-for-px-files/px-web/px-meeting-2021/)**: [slides](https://www.scb.se/globalassets/vara-tjanster/px-programmen/2021-10-21-multilingual-px-files-with-r-and-pxjob-.pdf)
