@@ -378,7 +378,7 @@
 - type: R package
   name: piar
   url: https://cran.r-project.org/package=piar
-  description: provides tools to make price indexes that aggregate a collection of elemental
+  description: Provides tools to make price indexes that aggregate a collection of elemental
     indexes according to a hierarchical structure. Includes methods to flexibly build indexes
     from multiple sources of data, chain indexes over time, and construct product contributions. 
   gsbpm_name: Estimation and weighting
