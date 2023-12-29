@@ -48,6 +48,14 @@
   gsbpm_name: Sampling
   gsbpm_number: '4.1'
   #used in Cyprus
+- type: R package
+  name: sps
+  url: https://cran.r-project.org/package=sps
+  description: Implements the sequential Poisson method for drawing probability-proportional-to-size
+    samples. Includes tools to coordinate samples with permanent random numbers, draw stratified
+    samples, and use other order-sampling methods.
+  gsbpm_name: Sampling
+  gsbpm_number: '4.1'
 - type: Java application
   name: GUrlSearcher
   url: https://github.com/SummaIstat/GUrlSearcher
@@ -365,6 +373,14 @@
   name: inca
   url: https://cran.r-project.org/package=inca
   description: Calibration weighting with integer weights.
+  gsbpm_name: Estimation and weighting
+  gsbpm_number: 5.6 | 5.7
+- type: R package
+  name: piar
+  url: https://cran.r-project.org/package=piar
+  description: provides tools to make price indexes that aggregate a collection of elemental
+    indexes according to a hierarchical structure. Includes methods to flexibly build indexes
+    from multiple sources of data, chain indexes over time, and construct product contributions. 
   gsbpm_name: Estimation and weighting
   gsbpm_number: 5.6 | 5.7
 - type: Fortran
