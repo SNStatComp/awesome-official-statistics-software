@@ -981,3 +981,21 @@
   standard:
   access_to:
   - Denmark
+- type: R package
+  name: restatis
+  url: https://cran.r-project.org/package=restatis
+  description: R API Client for the German Federal Statistical Office Database
+  gsbpm_name: Access to official statistics
+  gsbpm_number: '7.4'
+  standard:
+  access_to:
+  - Germany
+- type: Python library
+  name: pystatis
+  url: https://pypi.org/project/pystatis/
+  description: Python wrapper for GENESIS web service interface (API) of the Federal Statistical Office
+  gsbpm_name: Access to official statistics
+  gsbpm_number: '7.4'
+  standard:
+  access_to:
+  - Germany
