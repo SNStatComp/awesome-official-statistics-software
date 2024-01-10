@@ -127,3 +127,5 @@
 "R package","eph","https://cran.r-project.org/package=eph","Tools to download and manipulate the [EPH-INDEC](https://www.indec.gob.ar/) from Argentina (EPH is the Spanish acronym for Permanent Household Survey)","Access to official statistics","7.4"
 "R package","blsR","https://cran.r-project.org/package=blsR","Make Requests to the BLS (Bureau of Labor Statistics) API","Access to official statistics","7.4"
 "R package","danstat","https://cran.r-project.org/package=danstat","R Client for the Statistics Denmark Databank API","Access to official statistics","7.4"
+"R package","restatis","https://cran.r-project.org/package=restatis","R API Client for the German Federal Statistical Office Database","Access to official statistics","7.4"
+"Python library","pystatis","https://pypi.org/project/pystatis/","Python wrapper for GENESIS web service interface (API) of the Federal Statistical Office","Access to official statistics","7.4"
