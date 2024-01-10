@@ -68,7 +68,7 @@
   description: Gives a rule based score to scraped documents in a Solr database. By ISTAT.
   gsbpm_name: Scraping for Statistics
   gsbpm_number: '4.3'
-- type: Node.js tool
+- type: Node.js
   name: RobotTool
   url: https://github.com/SNStatComp/RobotTool
   description: A tool for checking (price) changes on the web. By Statistics Netherlands.
@@ -666,7 +666,7 @@
   standard: JSON-STAT
   access_to:
   - all JSON-STAT
-- type: Python package
+- type: Python
   name: pyjstat
   url: https://pypi.org/project/pyjstat/
   description: Read and write JSON-stat.
@@ -760,7 +760,7 @@
   standard: ODATA
   access_to:
   - CBS
-- type: Node.js package
+- type: Node.js
   name: cbsodata.js
   url: https://github.com/statmine/cbsodata.js
   description: Access to Statistics Netherlands' ([CBS](http://www.CBS.nl)) open data
@@ -770,7 +770,7 @@
   standard: ODATA
   access_to:
   - CBS
-- type: Python package
+- type: Python
   name: cbsodata.py
   url: https://github.com/J535D165/cbsodata
   description: Access to Statistics Netherlands' ([CBS](http://www.CBS.nl)) open data
@@ -815,7 +815,7 @@
   standard:
   access_to:
   - STATCAN
-- type: Python package
+- type: Python
   name: pyscbwrapper
   url: https://github.com/kirajcg/pyscbwrapper
   description: Access to the open data API of the Swedish Statistical Institute
@@ -905,7 +905,7 @@
   standard: SDMX
   access_to:
   - all SDMX
-- type: Node.js package
+- type: Node.js
   name: sdmx-rest
   url: https://www.npmjs.com/package/sdmx-rest
   description: This library allows to easily create and execute SDMX REST queries
@@ -990,7 +990,7 @@
   standard:
   access_to:
   - Germany
-- type: Python library
+- type: Python
   name: pystatis
   url: https://pypi.org/project/pystatis/
   description: Python wrapper for GENESIS web service interface (API) of the Federal Statistical Office
