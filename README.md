@@ -347,9 +347,11 @@ Python [pystatis](https:&#x2F;&#x2F;pypi.org&#x2F;project&#x2F;pystatis&#x2F;). 
 
 
 ## Other lists
-- [CSPA Service catalogue](https://www.statistical-services.org)
-- [Code from NTTS 2021 publications](https://github.com/NTTSConf/NTTS21)
 - [CRAN Task View: Official Statistics & Survey Statistics](https://cran.r-project.org/web/views/OfficialStatistics.html)
+- [Code from NTTS 2021 publications](https://github.com/NTTSConf/NTTS21)
+- [Awesome statistics](https://github.com/erikgahner/awesome-statistics)
+- [CSPA Service catalogue](https://www.statistical-services.org)
+
 
 ## Contributions
 
