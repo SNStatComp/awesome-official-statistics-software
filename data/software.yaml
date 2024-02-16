@@ -626,6 +626,13 @@
     systems, material flow accounts and water accounts. Supports loops. '
   gsbpm_name: Visualisation
   gsbpm_number: '7.2'
+- type: Python
+  name: SDMX Dashboard Generator
+  url: https://github.com/bis-med-it/SDMX-dashboard-generator/
+  description: 'Open-source web application for SDMX data and metadata rendering
+    based on Dash.'
+  gsbpm_name: Visualisation
+  gsbpm_number: '7.2'
 - type: R package
   name: rsdmx
   url: https://cran.r-project.org/package=rsdmx
