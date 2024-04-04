@@ -56,6 +56,12 @@
     samples, and use other order-sampling methods.
   gsbpm_name: Sampling
   gsbpm_number: '4.1'
+- type: R package
+  name: samplingin
+  url: https://cran.r-project.org/package=samplingin
+  description: Sampling using systematic and PPS (Probability Proportional to Size) methods. It can also allocate predetermined allocations to smaller levels. by Statistics Indonesia
+  gsbpm_name: Sampling
+  gsbpm_number: '4.1'
 - type: Java application
   name: GUrlSearcher
   url: https://github.com/SummaIstat/GUrlSearcher
