@@ -26,7 +26,7 @@ We prefer software that is easy to install and use and actively maintained. [Con
 [![GSBPM use](viz/GSBPM_Small.png)](https://observablehq.com/@olavtenbosch/visualizing-awesomeofficialstatistics-org#GSBPM)
 [![clickable version](viz/ClickableAwesomeSmall.png)](https://observablehq.com/@olavtenbosch/clickable-awesomeofficialstatistics-org)
 [![word cloud](viz/wordCloudSmall.png)](https://observablehq.com/@olavtenbosch/visualizing-awesomeofficialstatistics-org#wordCloud)
-[![Access to offstats](viz/Access.PNG)](https://observablehq.com/@olavtenbosch/access_to_official_statistics)
+[![Access to offstats](viz/Access2.PNG)](https://observablehq.com/@olavtenbosch/access_to_official_statistics)
 
 
 
