@@ -26,7 +26,7 @@ We prefer software that is easy to install and use and actively maintained. [Con
 [![GSBPM use](viz/GSBPM_Small.png)](https://observablehq.com/@olavtenbosch/visualizing-awesomeofficialstatistics-org#GSBPM)
 [![clickable version](viz/ClickableAwesomeSmall.png)](https://observablehq.com/@olavtenbosch/clickable-awesomeofficialstatistics-org)
 [![word cloud](viz/wordCloudSmall.png)](https://observablehq.com/@olavtenbosch/visualizing-awesomeofficialstatistics-org#wordCloud)
-[![Access to offstats](viz/Access.PNG)](https://observablehq.com/@olavtenbosch/access-to-official-statistics-from-r)
+[![Access to offstats](viz/Access.PNG)](https://observablehq.com/@olavtenbosch/access_to_official_statistics)
 
 
 
@@ -356,7 +356,6 @@ Python [pystatis](https:&#x2F;&#x2F;pypi.org&#x2F;project&#x2F;pystatis&#x2F;). 
 - [CRAN Task View: Official Statistics & Survey Statistics](https://cran.r-project.org/web/views/OfficialStatistics.html)
 - [Code from NTTS 2021 publications](https://github.com/NTTSConf/NTTS21)
 - [Awesome statistics](https://github.com/erikgahner/awesome-statistics)
-- [CSPA Service catalogue](https://www.statistical-services.org)
 
 
 ## Contributions
