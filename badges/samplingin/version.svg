@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="169" height="20" aria-label="CRAN 1.1.0 – 17 days ago">
+<svg xmlns="http://www.w3.org/2000/svg" width="169" height="20" aria-label="CRAN 1.1.0 – 23 days ago">
   <linearGradient id="b" x2="0" y2="100%">
     <stop offset="0" stop-color="#bbb" stop-opacity=".1"/>
     <stop offset="1" stop-opacity=".1"/>
@@ -20,10 +20,10 @@
       CRAN
     </text>
     <text x="105" y="15" fill="#010101" fill-opacity=".3">
-      1.1.0 – 17 days ago
+      1.1.0 – 23 days ago
     </text>
     <text x="105" y="14">
-      1.1.0 – 17 days ago
+      1.1.0 – 23 days ago
     </text>
   </g>
 </svg>
