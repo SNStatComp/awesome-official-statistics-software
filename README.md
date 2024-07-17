@@ -11,7 +11,7 @@ We prefer software that is easy to install and use and actively maintained. [Con
 - Dec 2023: List presented at **uRos2023**: [abstract](https://olavtenbosch.github.io/pdf/2023_Uros_tenBosch_Access.pdf), [slides](https://olavtenbosch.github.io/pdf/2023_Uros_tenBosch_Access_slides.pdf)
 - Jun 2023: List highlighted in [71th CES conference](https://unece.org/statistics/events/CES2023)
 - Jan 2023: *ESS principles on open source software* building on this list: [ESS principles on OSS](https://os4os.pages.code-europa-eu.gitlab.host/pbbp/principles.html)
-- [more](news.md)
+- [all news](news.md)
 
 
 #### Visuals
