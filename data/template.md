@@ -42,9 +42,8 @@ We prefer software that is easy to install and use and actively maintained. [Con
 
 ## Other lists
 - [CRAN Task View: Official Statistics & Survey Statistics](https://cran.r-project.org/web/views/OfficialStatistics.html)
-- [Code from NTTS 2021 publications](https://github.com/NTTSConf/NTTS21)
 - [Awesome statistics](https://github.com/erikgahner/awesome-statistics)
-
+- [Code from NTTS 2021 publications](https://github.com/NTTSConf/NTTS21)
 
 ## Contributions
 
