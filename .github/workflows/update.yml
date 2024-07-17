@@ -32,11 +32,11 @@ jobs:
       - name: get_badges
         run: node get_badges.js
         
-      # run getbadges
+      # generate readme
       - name: generate_readme_csv
         run: node generate_readme_csv.js
         
-      # push changes:
+      # Commit files:
       - name: Commit files
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
@@ -44,7 +44,7 @@ jobs:
           git add ../badges/
           git commit -a -m "Add changes"
         
-      # push badges to repo
+      # push changes:
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
