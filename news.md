@@ -1,15 +1,16 @@
 ## News
 - July 2024: The list promoted by **UNECE HLG-MOS**: [LinkedIn](https://www.linkedin.com/posts/unece-modernisation-of-official-statistics_gsbpm-opensource-awesomelist-activity-7218604090577092608-DdvQ)
 - Dec 2023: List presented at **uRos2023**: [abstract](https://olavtenbosch.github.io/pdf/2023_Uros_tenBosch_Access.pdf), [slides](https://olavtenbosch.github.io/pdf/2023_Uros_tenBosch_Access_slides.pdf)
-- Jun 2023: List highlighted in [71th CES conference](https://unece.org/statistics/events/CES2023)
-- Jan 2023: *ESS principles on open source software* building on this list: [ESS principles on OSS](https://os4os.pages.code-europa-eu.gitlab.host/pbbp/principles.html)
-- Oct 2022: List mentioned in [UNECE SDE 2022](https://unece.org/statistics/events/SDE2022)
-- Mar 2022: *The awesome list of official statistics software & FOSS best practices* [slides](https://doi.org/10.5281/zenodo.7665189)
-- Nov 2021: List in keynote Edwin de Jonge at **[uRos2021](http://r-project.ro/conference2021.html#Edwin_de_Jonge)**
-- Nov 2021: List in **[ICDSOS2021](https://icdsos.stis.ac.id/2021/)**
-- Oct 2021: List in **[Px-meeting 2021](https://www.scb.se/en/services/statistical-programs-for-px-files/px-web/px-meeting-2021/)**: [slides](https://www.scb.se/globalassets/vara-tjanster/px-programmen/2021-10-21-multilingual-px-files-with-r-and-pxjob-.pdf)
-- Jan 2021: List in **[10th Expert Group meeting on SDMX](https://www.imf.org/en/News/Seminars/Conferences/2021/01/25/10th-statistical-data-and-metadata-exchange)**: [slides](https://www.imf.org/-/media/Files/News/Seminars/2021/SDMX/siv-presentation-01-stocktaking-of-sdmx-tools.ashx)
-- Dec 2020: List presented at **uRos2020**: [slides](https://r-project.ro/conference2020-presentations.html#Olav_TEN_BOSCH,_Mark_VAN_DER_LOO_and_Alexander_KOWARIK)
+- Jun 2023: The list highlighted in session on moving to OS in [71th CES conference](https://unece.org/statistics/events/CES2023)
+- Jan 2023: *ESS principles on open source software* created, building on experiences from this awesome list: [ESS principles on OSS](https://os4os.pages.code-europa-eu.gitlab.host/pbbp/principles.html)
+- Dec 2022: Badges added, they will be updated weekly
+- Oct 2022: This awesome list mentioned in data editing conference [UNECE SDE 2022](https://unece.org/statistics/events/SDE2022)
+- Mar 2022: This list presented in International Trusted Smart Statistics meeting: *The awesome list of official statistics software & FOSS best practices* [slides](https://doi.org/10.5281/zenodo.7665189)
+- Nov 2021: The list is dominantly mentioned in the keynote of Edwin de Jonge at **[uRos2021](http://r-project.ro/conference2021.html#Edwin_de_Jonge)**
+- Nov 2021: The list is highlighted in the **[ICDSOS2021](https://icdsos.stis.ac.id/2021/)**
+- Oct 2021: The list is named in a presentation in the **[Px-meeting 2021](https://www.scb.se/en/services/statistical-programs-for-px-files/px-web/px-meeting-2021/)**: [slides](https://www.scb.se/globalassets/vara-tjanster/px-programmen/2021-10-21-multilingual-px-files-with-r-and-pxjob-.pdf)
+- Jan 2021: The list highlighted in the **[10th Expert Group meeting on SDMX](https://www.imf.org/en/News/Seminars/Conferences/2021/01/25/10th-statistical-data-and-metadata-exchange)**: [slides](https://www.imf.org/-/media/Files/News/Seminars/2021/SDMX/siv-presentation-01-stocktaking-of-sdmx-tools.ashx)
+- Dec 2020: The list was presented at the **uRos2020**: [slides](https://r-project.ro/conference2020-presentations.html#Olav_TEN_BOSCH,_Mark_VAN_DER_LOO_and_Alexander_KOWARIK)
 - Dec 2019: **100  items on the list!!!**
-- Jun 2019: List presented at **UNECE Modernstats World**: [slides](https://www.unece.org/fileadmin/DAM/stats/documents/ece/ces/ge.58/2019/mtg2/MWW2019_Soapbox_Netherlands_ten_Bosch.pdf)
-- Dec 2017: List started during UNECE SDE 2017
+- Jun 2019: The list presented at the **UNECE Modernstats World**: [slides](https://www.unece.org/fileadmin/DAM/stats/documents/ece/ces/ge.58/2019/mtg2/MWW2019_Soapbox_Netherlands_ten_Bosch.pdf)
+- Dec 2017: This awesome list was started during the UNECE data editing conference [UNECE SDE 2017](https://unece.org/statistics/events/SDE2017)
