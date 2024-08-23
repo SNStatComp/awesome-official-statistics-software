@@ -85,7 +85,7 @@
 "R package","tabplot","https://cran.r-project.org/package=tabplot","Compare up to about 10-20 variables simultaneously using a [tableplot](https://cran.r-project.org/web/packages/tabplot/vignettes/tabplot-vignette.html). See also [tabplotd3](https://CRAN.R-project.org/package=tabplot) for a web-based GUI. Note: 2022-03-03: Temporarily not on Cran but expected to be back in 2022.","Visualisation","7.2"
 "R package","tmap","https://cran.r-project.org/package=tmap","Thematic geographic maps, including bubble charts, choropleths, and more.","Visualisation","7.2"
 "R package","oceanis","https://cran.r-project.org/package=oceanis","To create maps for statistical analysis such as proportional circles, chroropleth, typology and flows. By INSEE.","Visualisation","7.2"
-"GeoJSON/TopoJSON","cartomap","https://github.com/cartomap","A (growing) list of simplified maps useful for web cartography for World, Europe and countries.","Visualisation","7.2"
+"GeoJSON/TopoJSON","cartomap","https://github.com/cartomap/world","A (growing) list of simplified maps useful for web cartography for World, Europe and countries.","Visualisation","7.2"
 "GeoJSON/TopoJSON","Nuts2json","https://github.com/eurostat/Nuts2json","Simplified geometries for web maps of European NUTS regions. By Eurostat.","Visualisation","7.2"
 "R package","treemap","https://cran.r-project.org/package=treemap","Space-filling visualisation of hierarchical data.","Visualisation","7.2"
 "R package","btb","https://cran.r-project.org/package=btb","Conservative kernel smoothing method for spatial analysis.","Visualisation","7.2"
