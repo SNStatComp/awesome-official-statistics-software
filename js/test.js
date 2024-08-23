@@ -1,1 +1,1 @@
-console.log(process.env.GH_API_TOKEN)
+console.log("length:"+GH_API_TOKEN.length)
