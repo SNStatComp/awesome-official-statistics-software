@@ -97,7 +97,10 @@ function download_svg(url, path) {
 	})
 }
 function none_svg(path) {
-	fs.writeFile(path, `<?xml version="1.0" encoding="UTF-8"?><svg xmlns="http://www.w3.org/2000/svg" width="1" height="1"/>`, (err) => {
-		if (err) throw err;
-	})
+	try {
+		fs.writeFileSync(path, `<?xml version="1.0" encoding="UTF-8"?><svg xmlns="http://www.w3.org/2000/svg" width="1" height="1"/>`)
+		console.log(path+' successful')
+	} catch (error) {
+		console.error('error writing :', path)
+	}
 }
