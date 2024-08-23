@@ -3,7 +3,7 @@ import fs from "fs"
 import https from 'https'
 import yaml from "js-yaml"
 
-const badgedir = "../badges2"
+const badgedir = "../badges"
 if (!fs.existsSync(badgedir)) fs.mkdirSync(badgedir)
 	
 try {
