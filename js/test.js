@@ -1,0 +1,1 @@
+console.log(process.env.GH_API_TOKEN)

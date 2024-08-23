@@ -588,7 +588,7 @@
   gsbpm_number: '7.2'
 - type: GeoJSON/TopoJSON
   name: cartomap
-  url: https://github.com/cartomap
+  url: https://github.com/cartomap/world
   description: A (growing) list of simplified maps useful for web cartography for
     World, Europe and countries.
   gsbpm_name: Visualisation
