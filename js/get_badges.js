@@ -1,9 +1,9 @@
 "use strict"
-const fs = require('fs')
-const https = require('https')
-const yaml = require('js-yaml')
+import fs from "fs"
+import https from 'https'
+import yaml from "js-yaml"
 
-const badgedir = "../badges"
+const badgedir = "../badges2"
 if (!fs.existsSync(badgedir)) fs.mkdirSync(badgedir)
 	
 try {
