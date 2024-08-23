@@ -1,8 +1,8 @@
 "use strict"
-const fs = require('fs')
-const yaml = require('js-yaml')
-const Mustache = require('mustache')
-const papa = require('papaparse')
+import fs from "fs"
+import yaml from "js-yaml"
+import Mustache from "mustache"
+import papa from "papaparse"
 
 const template = fs.readFileSync('./../data/template.md', 'utf8')
 const data = yaml.load(fs.readFileSync('./../data/software.yaml', 'utf8'))

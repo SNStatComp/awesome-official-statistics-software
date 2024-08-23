@@ -11,6 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "js-yaml": "^4.1.0",
-    "octokit": "^4.0.2"
+    "mustache": "^4.2.0",
+    "octokit": "^4.0.2",
+    "papaparse": "^5.4.1"
   }
 }
