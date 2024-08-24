@@ -7,6 +7,7 @@
     "gsbpm_name": "Design frame and sample",
     "gsbpm_number": "2.1",
     "license": "GPL (>= 2)",
+    "licenseSimple": "GPL",
     "platform": "CRAN"
   },
   {
@@ -17,6 +18,7 @@
     "gsbpm_name": "Design frame and sample",
     "gsbpm_number": "2.1",
     "license": "EUPL",
+    "licenseSimple": "EUPL",
     "platform": "CRAN"
   },
   {
@@ -27,6 +29,7 @@
     "gsbpm_name": "Design variable descriptions",
     "gsbpm_number": "2.2",
     "license": "MIT",
+    "licenseSimple": "MIT",
     "platform": "GitLab"
   },
   {
@@ -37,6 +40,7 @@
     "gsbpm_name": "Sampling",
     "gsbpm_number": "4.1",
     "license": "GPL (>= 2)",
+    "licenseSimple": "GPL",
     "platform": "CRAN"
   },
   {
@@ -47,6 +51,7 @@
     "gsbpm_name": "Sampling",
     "gsbpm_number": "4.1",
     "license": "GPL (>= 2)",
+    "licenseSimple": "GPL",
     "platform": "CRAN"
   },
   {
@@ -57,6 +62,7 @@
     "gsbpm_name": "Sampling",
     "gsbpm_number": "4.1",
     "license": "GPL-3",
+    "licenseSimple": "GPL",
     "platform": "CRAN"
   },
   {
@@ -67,6 +73,7 @@
     "gsbpm_name": "Sampling",
     "gsbpm_number": "4.1",
     "license": "MIT + file LICENSE",
+    "licenseSimple": "MIT",
     "platform": "CRAN"
   },
   {
@@ -77,6 +84,7 @@
     "gsbpm_name": "Sampling",
     "gsbpm_number": "4.1",
     "license": "MIT + file LICENSE",
+    "licenseSimple": "MIT",
     "platform": "CRAN"
   },
   {
@@ -87,6 +95,7 @@
     "gsbpm_name": "Sampling",
     "gsbpm_number": "4.1",
     "license": "MIT + file LICENSE",
+    "licenseSimple": "MIT",
     "platform": "CRAN"
   },
   {
@@ -97,6 +106,7 @@
     "gsbpm_name": "Scraping for Statistics",
     "gsbpm_number": "4.3",
     "license": "EUPL-1.2",
+    "licenseSimple": "EUPL",
     "platform": "GitHub"
   },
   {
@@ -107,6 +117,7 @@
     "gsbpm_name": "Scraping for Statistics",
     "gsbpm_number": "4.3",
     "license": "EUPL-1.2",
+    "licenseSimple": "EUPL",
     "platform": "GitHub"
   },
   {
@@ -117,6 +128,7 @@
     "gsbpm_name": "Scraping for Statistics",
     "gsbpm_number": "4.3",
     "license": "EUPL-1.2",
+    "licenseSimple": "EUPL",
     "platform": "GitHub"
   },
   {
@@ -127,6 +139,7 @@
     "gsbpm_name": "Scraping for Statistics",
     "gsbpm_number": "4.3",
     "license": "none",
+    "licenseSimple": "none",
     "platform": "GitHub"
   },
   {
@@ -137,6 +150,7 @@
     "gsbpm_name": "Scraping for Statistics",
     "gsbpm_number": "4.3",
     "license": "MIT",
+    "licenseSimple": "MIT",
     "platform": "GitHub"
   },
   {
@@ -147,6 +161,7 @@
     "gsbpm_name": "Scraping for Statistics",
     "gsbpm_number": "4.3",
     "license": "EUPL-1.2",
+    "licenseSimple": "EUPL",
     "platform": "GitHub"
   },
   {
@@ -157,6 +172,7 @@
     "gsbpm_name": "Process",
     "gsbpm_number": "5",
     "license": "GPL-3",
+    "licenseSimple": "GPL",
     "platform": "CRAN"
   },
   {
@@ -167,6 +183,7 @@
     "gsbpm_name": "Process",
     "gsbpm_number": "5",
     "license": "MIT",
+    "licenseSimple": "MIT",
     "platform": "GitHub"
   },
   {
@@ -177,6 +194,7 @@
     "gsbpm_name": "Process",
     "gsbpm_number": "5",
     "license": "Apache-2.0",
+    "licenseSimple": "Apache",
     "platform": "GitHub"
   },
   {
@@ -187,6 +205,7 @@
     "gsbpm_name": "Process",
     "gsbpm_number": "5",
     "license": "GPL-3",
+    "licenseSimple": "GPL",
     "platform": "CRAN"
   },
   {
@@ -196,7 +215,8 @@
     "description": "implements procedures for data analysis, data, web and text mining. Also contains procedures for data validation and imputation, based on the principle of Fellegi and Holt.",
     "gsbpm_name": "Process",
     "gsbpm_number": "5",
-    "license": "GPL2",
+    "license": "GPL-2",
+    "licenseSimple": "GPL",
     "platform": "other"
   },
   {
@@ -207,6 +227,7 @@
     "gsbpm_name": "Data integration and record linkage",
     "gsbpm_number": "5.1",
     "license": "GPL-3",
+    "licenseSimple": "GPL",
     "platform": "CRAN"
   },
   {
@@ -217,6 +238,7 @@
     "gsbpm_name": "Data integration and record linkage",
     "gsbpm_number": "5.1",
     "license": "GPL (>= 2)",
+    "licenseSimple": "GPL",
     "platform": "CRAN"
   },
   {
@@ -227,6 +249,7 @@
     "gsbpm_name": "Data integration and record linkage",
     "gsbpm_number": "5.1",
     "license": "GPL (>= 2)",
+    "licenseSimple": "GPL",
     "platform": "CRAN"
   },
   {
@@ -237,6 +260,7 @@
     "gsbpm_name": "Data integration and record linkage",
     "gsbpm_number": "5.1",
     "license": "GPL (>= 3)",
+    "licenseSimple": "GPL",
     "platform": "CRAN"
   },
   {
@@ -247,6 +271,7 @@
     "gsbpm_name": "Data integration and record linkage",
     "gsbpm_number": "5.1",
     "license": "GPL-3",
+    "licenseSimple": "GPL",
     "platform": "CRAN"
   },
   {
@@ -257,6 +282,7 @@
     "gsbpm_name": "Data integration and record linkage",
     "gsbpm_number": "5.1",
     "license": "MIT + file LICENSE",
+    "licenseSimple": "MIT",
     "platform": "CRAN"
   },
   {
@@ -267,6 +293,7 @@
     "gsbpm_name": "Data integration and record linkage",
     "gsbpm_number": "5.1",
     "license": "EUPL-1.2",
+    "licenseSimple": "EUPL",
     "platform": "other"
   },
   {
@@ -277,6 +304,7 @@
     "gsbpm_name": "Data integration and record linkage",
     "gsbpm_number": "5.1",
     "license": "GPL (>= 2)",
+    "licenseSimple": "GPL",
     "platform": "CRAN"
   },
   {
@@ -287,6 +315,7 @@
     "gsbpm_name": "Statistical data editing and imputation",
     "gsbpm_number": "5.3 | 5.4",
     "license": "GPL-3",
+    "licenseSimple": "GPL",
     "platform": "CRAN"
   },
   {
@@ -297,6 +326,7 @@
     "gsbpm_name": "Statistical data editing and imputation",
     "gsbpm_number": "5.3 | 5.4",
     "license": "GPL-3",
+    "licenseSimple": "GPL",
     "platform": "CRAN"
   },
   {
@@ -307,6 +337,7 @@
     "gsbpm_name": "Statistical data editing and imputation",
     "gsbpm_number": "5.3 | 5.4",
     "license": "MIT + file LICENSE",
+    "licenseSimple": "MIT",
     "platform": "CRAN"
   },
   {
@@ -317,6 +348,7 @@
     "gsbpm_name": "Statistical data editing and imputation",
     "gsbpm_number": "5.3 | 5.4",
     "license": "GPL-3",
+    "licenseSimple": "GPL",
     "platform": "CRAN"
   },
   {
@@ -327,6 +359,7 @@
     "gsbpm_name": "Statistical data editing and imputation",
     "gsbpm_number": "5.3 | 5.4",
     "license": "GPL (>= 2)",
+    "licenseSimple": "GPL",
     "platform": "CRAN"
   },
   {
@@ -337,6 +370,7 @@
     "gsbpm_name": "Statistical data editing and imputation",
     "gsbpm_number": "5.3 | 5.4",
     "license": "GPL-3",
+    "licenseSimple": "GPL",
     "platform": "CRAN"
   },
   {
@@ -347,6 +381,7 @@
     "gsbpm_name": "Statistical data editing and imputation",
     "gsbpm_number": "5.3 | 5.4",
     "license": "EUPL",
+    "licenseSimple": "EUPL",
     "platform": "CRAN"
   },
   {
@@ -357,6 +392,7 @@
     "gsbpm_name": "Statistical data editing and imputation",
     "gsbpm_number": "5.3 | 5.4",
     "license": "GPL (>= 2)",
+    "licenseSimple": "GPL",
     "platform": "CRAN"
   },
   {
@@ -367,6 +403,7 @@
     "gsbpm_name": "Statistical data editing and imputation",
     "gsbpm_number": "5.3 | 5.4",
     "license": "GPL-2",
+    "licenseSimple": "GPL",
     "platform": "CRAN"
   },
   {
@@ -377,6 +414,7 @@
     "gsbpm_name": "Statistical data editing and imputation",
     "gsbpm_number": "5.3 | 5.4",
     "license": "GPL-3",
+    "licenseSimple": "GPL",
     "platform": "CRAN"
   },
   {
@@ -387,6 +425,7 @@
     "gsbpm_name": "Statistical data editing and imputation",
     "gsbpm_number": "5.3 | 5.4",
     "license": "GPL-3",
+    "licenseSimple": "GPL",
     "platform": "CRAN"
   },
   {
@@ -397,6 +436,7 @@
     "gsbpm_name": "Statistical data editing and imputation",
     "gsbpm_number": "5.3 | 5.4",
     "license": "GPL (>= 2)",
+    "licenseSimple": "GPL",
     "platform": "CRAN"
   },
   {
@@ -407,6 +447,7 @@
     "gsbpm_name": "Estimation and weighting",
     "gsbpm_number": "5.6 | 5.7",
     "license": "GPL-2 | GPL-3",
+    "licenseSimple": "GPL",
     "platform": "CRAN"
   },
   {
@@ -417,6 +458,7 @@
     "gsbpm_name": "Estimation and weighting",
     "gsbpm_number": "5.6 | 5.7",
     "license": "GPL-3",
+    "licenseSimple": "GPL",
     "platform": "CRAN"
   },
   {
@@ -427,6 +469,7 @@
     "gsbpm_name": "Estimation and weighting",
     "gsbpm_number": "5.6 | 5.7",
     "license": "GPL-3",
+    "licenseSimple": "GPL",
     "platform": "CRAN"
   },
   {
@@ -437,6 +480,7 @@
     "gsbpm_name": "Estimation and weighting",
     "gsbpm_number": "5.6 | 5.7",
     "license": "GPL-3",
+    "licenseSimple": "GPL",
     "platform": "CRAN"
   },
   {
@@ -447,6 +491,7 @@
     "gsbpm_name": "Estimation and weighting",
     "gsbpm_number": "5.6 | 5.7",
     "license": "GPL-2",
+    "licenseSimple": "GPL",
     "platform": "CRAN"
   },
   {
@@ -457,6 +502,7 @@
     "gsbpm_name": "Estimation and weighting",
     "gsbpm_number": "5.6 | 5.7",
     "license": "GPL-3",
+    "licenseSimple": "GPL",
     "platform": "CRAN"
   },
   {
@@ -467,6 +513,7 @@
     "gsbpm_name": "Estimation and weighting",
     "gsbpm_number": "5.6 | 5.7",
     "license": "GPL-3",
+    "licenseSimple": "GPL",
     "platform": "CRAN"
   },
   {
@@ -477,6 +524,7 @@
     "gsbpm_name": "Estimation and weighting",
     "gsbpm_number": "5.6 | 5.7",
     "license": "none",
+    "licenseSimple": "none",
     "platform": "GitHub"
   },
   {
@@ -487,6 +535,7 @@
     "gsbpm_name": "Estimation and weighting",
     "gsbpm_number": "5.6 | 5.7",
     "license": "EUPL | file LICENSE",
+    "licenseSimple": "EUPL",
     "platform": "CRAN"
   },
   {
@@ -497,6 +546,7 @@
     "gsbpm_name": "Estimation and weighting",
     "gsbpm_number": "5.6 | 5.7",
     "license": "GPL-3",
+    "licenseSimple": "GPL",
     "platform": "CRAN"
   },
   {
@@ -507,6 +557,7 @@
     "gsbpm_name": "Estimation and weighting",
     "gsbpm_number": "5.6 | 5.7",
     "license": "GPL-3",
+    "licenseSimple": "GPL",
     "platform": "CRAN"
   },
   {
@@ -517,6 +568,7 @@
     "gsbpm_name": "Estimation and weighting",
     "gsbpm_number": "5.6 | 5.7",
     "license": "GPL-3",
+    "licenseSimple": "GPL",
     "platform": "CRAN"
   },
   {
@@ -527,6 +579,7 @@
     "gsbpm_name": "Estimation and weighting",
     "gsbpm_number": "5.6 | 5.7",
     "license": "EUPL",
+    "licenseSimple": "EUPL",
     "platform": "CRAN"
   },
   {
@@ -537,6 +590,7 @@
     "gsbpm_name": "Estimation and weighting",
     "gsbpm_number": "5.6 | 5.7",
     "license": "GPL (>= 2)",
+    "licenseSimple": "GPL",
     "platform": "CRAN"
   },
   {
@@ -547,6 +601,7 @@
     "gsbpm_name": "Estimation and weighting",
     "gsbpm_number": "5.6 | 5.7",
     "license": "GPL (>= 2)",
+    "licenseSimple": "GPL",
     "platform": "CRAN"
   },
   {
@@ -557,6 +612,7 @@
     "gsbpm_name": "Estimation and weighting",
     "gsbpm_number": "5.6 | 5.7",
     "license": "MIT + file LICENSE",
+    "licenseSimple": "MIT",
     "platform": "CRAN"
   },
   {
@@ -567,6 +623,7 @@
     "gsbpm_name": "Time series and seasonal adjustment",
     "gsbpm_number": "5.6 | 5.7",
     "license": "other",
+    "licenseSimple": "other",
     "platform": "other"
   },
   {
@@ -577,6 +634,7 @@
     "gsbpm_name": "Time series and seasonal adjustment",
     "gsbpm_number": "5.6 | 5.7",
     "license": "GPL-3",
+    "licenseSimple": "GPL",
     "platform": "CRAN"
   },
   {
@@ -587,6 +645,7 @@
     "gsbpm_name": "Time series and seasonal adjustment",
     "gsbpm_number": "5.6 | 5.7",
     "license": "GPL (>= 2)",
+    "licenseSimple": "GPL",
     "platform": "CRAN"
   },
   {
@@ -597,6 +656,7 @@
     "gsbpm_name": "Time series and seasonal adjustment",
     "gsbpm_number": "5.6 | 5.7",
     "license": "EUPL-1.2",
+    "licenseSimple": "EUPL",
     "platform": "GitHub"
   },
   {
@@ -607,6 +667,7 @@
     "gsbpm_name": "Time series and seasonal adjustment",
     "gsbpm_number": "5.6 | 5.7",
     "license": "EUPL",
+    "licenseSimple": "EUPL",
     "platform": "CRAN"
   },
   {
@@ -617,6 +678,7 @@
     "gsbpm_name": "Time series and seasonal adjustment",
     "gsbpm_number": "5.6 | 5.7",
     "license": "GPL-3",
+    "licenseSimple": "GPL",
     "platform": "CRAN"
   },
   {
@@ -627,6 +689,7 @@
     "gsbpm_name": "Output validation",
     "gsbpm_number": "6.2",
     "license": "GPL-3",
+    "licenseSimple": "GPL",
     "platform": "CRAN"
   },
   {
@@ -637,6 +700,7 @@
     "gsbpm_name": "Statistical disclosure control",
     "gsbpm_number": "6.4",
     "license": "EUPL-1.2",
+    "licenseSimple": "EUPL",
     "platform": "GitHub"
   },
   {
@@ -647,6 +711,7 @@
     "gsbpm_name": "Statistical disclosure control",
     "gsbpm_number": "6.4",
     "license": "EUPL-1.2",
+    "licenseSimple": "EUPL",
     "platform": "GitHub"
   },
   {
@@ -657,6 +722,7 @@
     "gsbpm_name": "Statistical disclosure control",
     "gsbpm_number": "6.4",
     "license": "GPL-2",
+    "licenseSimple": "GPL",
     "platform": "CRAN"
   },
   {
@@ -667,6 +733,7 @@
     "gsbpm_name": "Statistical disclosure control",
     "gsbpm_number": "6.4",
     "license": "GPL (>= 2)",
+    "licenseSimple": "GPL",
     "platform": "CRAN"
   },
   {
@@ -677,6 +744,7 @@
     "gsbpm_name": "Statistical disclosure control",
     "gsbpm_number": "6.4",
     "license": "Apache License 2.0 | file LICENSE",
+    "licenseSimple": "Apache",
     "platform": "CRAN"
   },
   {
@@ -687,6 +755,7 @@
     "gsbpm_name": "Statistical disclosure control",
     "gsbpm_number": "6.4",
     "license": "MIT + file LICENSE",
+    "licenseSimple": "MIT",
     "platform": "CRAN"
   },
   {
@@ -697,6 +766,7 @@
     "gsbpm_name": "Statistical disclosure control",
     "gsbpm_number": "6.4",
     "license": "GPL-3",
+    "licenseSimple": "GPL",
     "platform": "CRAN"
   },
   {
@@ -707,6 +777,7 @@
     "gsbpm_name": "Statistical disclosure control",
     "gsbpm_number": "6.4",
     "license": "Apache License 2.0",
+    "licenseSimple": "Apache",
     "platform": "CRAN"
   },
   {
@@ -717,6 +788,7 @@
     "gsbpm_name": "Statistical disclosure control",
     "gsbpm_number": "6.4",
     "license": "GPL (>= 2)",
+    "licenseSimple": "GPL",
     "platform": "CRAN"
   },
   {
@@ -727,6 +799,7 @@
     "gsbpm_name": "Statistical disclosure control",
     "gsbpm_number": "6.4",
     "license": "GPL-2",
+    "licenseSimple": "GPL",
     "platform": "CRAN"
   },
   {
@@ -737,6 +810,7 @@
     "gsbpm_name": "Statistical disclosure control",
     "gsbpm_number": "6.4",
     "license": "GPL-2 | GPL-3",
+    "licenseSimple": "GPL",
     "platform": "CRAN"
   },
   {
@@ -747,6 +821,7 @@
     "gsbpm_name": "Statistical Dissemination",
     "gsbpm_number": "7.2",
     "license": "EUPL-1.0",
+    "licenseSimple": "EUPL",
     "platform": "other"
   },
   {
@@ -757,6 +832,7 @@
     "gsbpm_name": "Statistical Dissemination",
     "gsbpm_number": "7.2",
     "license": "unknown",
+    "licenseSimple": "unknown",
     "platform": "other"
   },
   {
@@ -767,6 +843,7 @@
     "gsbpm_name": "Statistical Dissemination",
     "gsbpm_number": "7.2",
     "license": "MIT",
+    "licenseSimple": "MIT",
     "platform": "GitHub"
   },
   {
@@ -777,6 +854,7 @@
     "gsbpm_name": "Statistical Dissemination",
     "gsbpm_number": "7.2",
     "license": "Apache-2.0",
+    "licenseSimple": "Apache",
     "platform": "GitHub"
   },
   {
@@ -787,6 +865,7 @@
     "gsbpm_name": "Statistical Dissemination",
     "gsbpm_number": "7.2",
     "license": "MIT",
+    "licenseSimple": "MIT",
     "platform": "GitLab"
   },
   {
@@ -797,6 +876,7 @@
     "gsbpm_name": "Statistical Dissemination",
     "gsbpm_number": "7.2",
     "license": "EUPL-1.0",
+    "licenseSimple": "EUPL",
     "platform": "other"
   },
   {
@@ -807,6 +887,7 @@
     "gsbpm_name": "Statistical Dissemination",
     "gsbpm_number": "7.2",
     "license": "none",
+    "licenseSimple": "none",
     "platform": "GitHub"
   },
   {
@@ -817,6 +898,7 @@
     "gsbpm_name": "Statistical Dissemination",
     "gsbpm_number": "7.2",
     "license": "unknown",
+    "licenseSimple": "unknown",
     "platform": "other"
   },
   {
@@ -827,6 +909,7 @@
     "gsbpm_name": "Statistical Dissemination",
     "gsbpm_number": "7.2",
     "license": "GPL-3",
+    "licenseSimple": "GPL",
     "platform": "CRAN"
   },
   {
@@ -837,6 +920,7 @@
     "gsbpm_name": "Visualisation",
     "gsbpm_number": "7.2",
     "license": "GPL-3",
+    "licenseSimple": "GPL",
     "platform": "CRAN"
   },
   {
@@ -847,6 +931,7 @@
     "gsbpm_name": "Visualisation",
     "gsbpm_number": "7.2",
     "license": "GPL-3",
+    "licenseSimple": "GPL",
     "platform": "CRAN"
   },
   {
@@ -857,6 +942,7 @@
     "gsbpm_name": "Visualisation",
     "gsbpm_number": "7.2",
     "license": "GPL (>= 2.0) | file LICENSE",
+    "licenseSimple": "GPL",
     "platform": "CRAN"
   },
   {
@@ -867,6 +953,7 @@
     "gsbpm_name": "Visualisation",
     "gsbpm_number": "7.2",
     "license": "none",
+    "licenseSimple": "none",
     "platform": "GitHub"
   },
   {
@@ -877,6 +964,7 @@
     "gsbpm_name": "Visualisation",
     "gsbpm_number": "7.2",
     "license": "EUPL-1.2",
+    "licenseSimple": "EUPL",
     "platform": "GitHub"
   },
   {
@@ -887,6 +975,7 @@
     "gsbpm_name": "Visualisation",
     "gsbpm_number": "7.2",
     "license": "GPL-3",
+    "licenseSimple": "GPL",
     "platform": "CRAN"
   },
   {
@@ -897,6 +986,7 @@
     "gsbpm_name": "Visualisation",
     "gsbpm_number": "7.2",
     "license": "GPL (>= 2)",
+    "licenseSimple": "GPL",
     "platform": "CRAN"
   },
   {
@@ -907,6 +997,7 @@
     "gsbpm_name": "Visualisation",
     "gsbpm_number": "7.2",
     "license": "none",
+    "licenseSimple": "none",
     "platform": "GitHub"
   },
   {
@@ -917,6 +1008,7 @@
     "gsbpm_name": "Visualisation",
     "gsbpm_number": "7.2",
     "license": "NOASSERTION",
+    "licenseSimple": "NOASSERTION",
     "platform": "GitHub"
   },
   {
@@ -927,6 +1019,7 @@
     "gsbpm_name": "Visualisation",
     "gsbpm_number": "7.2",
     "license": "EUPL",
+    "licenseSimple": "EUPL",
     "platform": "CRAN"
   },
   {
@@ -937,6 +1030,7 @@
     "gsbpm_name": "Visualisation",
     "gsbpm_number": "7.2",
     "license": "Apache-2.0",
+    "licenseSimple": "Apache",
     "platform": "GitHub"
   },
   {
@@ -951,6 +1045,7 @@
       "all SDMX"
     ],
     "license": "GPL (>= 2)",
+    "licenseSimple": "GPL",
     "platform": "CRAN"
   },
   {
@@ -965,6 +1060,7 @@
       "all SDMX"
     ],
     "license": "GPL-3",
+    "licenseSimple": "GPL",
     "platform": "CRAN"
   },
   {
@@ -979,6 +1075,7 @@
       "all SDMX"
     ],
     "license": "Apache-2.0",
+    "licenseSimple": "Apache",
     "platform": "GitHub"
   },
   {
@@ -993,6 +1090,7 @@
       "all JSON-STAT"
     ],
     "license": "MIT + file LICENSE",
+    "licenseSimple": "MIT",
     "platform": "CRAN"
   },
   {
@@ -1007,6 +1105,7 @@
       "all JSON-STAT"
     ],
     "license": "Apache-2.0",
+    "licenseSimple": "Apache",
     "platform": "PyPI"
   },
   {
@@ -1021,6 +1120,7 @@
       "all JSON-STAT"
     ],
     "license": "MIT",
+    "licenseSimple": "MIT",
     "platform": "GitHub"
   },
   {
@@ -1035,6 +1135,7 @@
       "OECD"
     ],
     "license": "CC0",
+    "licenseSimple": "CC0",
     "platform": "CRAN"
   },
   {
@@ -1049,6 +1150,7 @@
       "Finland"
     ],
     "license": "BSD_2_clause + file LICENSE",
+    "licenseSimple": "BSD",
     "platform": "CRAN"
   },
   {
@@ -1063,6 +1165,7 @@
       "ESTAT"
     ],
     "license": "BSD_2_clause + file LICENSE",
+    "licenseSimple": "BSD",
     "platform": "CRAN"
   },
   {
@@ -1077,6 +1180,7 @@
       "ESTAT"
     ],
     "license": "EUPL",
+    "licenseSimple": "EUPL",
     "platform": "CRAN"
   },
   {
@@ -1091,6 +1195,7 @@
       "US Census Bureau"
     ],
     "license": "GPL-3",
+    "licenseSimple": "GPL",
     "platform": "CRAN"
   },
   {
@@ -1105,6 +1210,7 @@
       "INEGI"
     ],
     "license": "CC0",
+    "licenseSimple": "CC0",
     "platform": "CRAN"
   },
   {
@@ -1119,6 +1225,7 @@
       "CBS"
     ],
     "license": "GPL-2",
+    "licenseSimple": "GPL",
     "platform": "CRAN"
   },
   {
@@ -1133,6 +1240,7 @@
       "CBS"
     ],
     "license": "GPL-3.0",
+    "licenseSimple": "GPL",
     "platform": "GitHub"
   },
   {
@@ -1147,6 +1255,7 @@
       "CBS"
     ],
     "license": "none",
+    "licenseSimple": "none",
     "platform": "GitHub"
   },
   {
@@ -1161,6 +1270,7 @@
       "CBS"
     ],
     "license": "MIT",
+    "licenseSimple": "MIT",
     "platform": "GitHub"
   },
   {
@@ -1175,6 +1285,7 @@
       "US Census Bureau"
     ],
     "license": "GPL-3",
+    "licenseSimple": "GPL",
     "platform": "CRAN"
   },
   {
@@ -1194,6 +1305,7 @@
       "STATCAN"
     ],
     "license": "EUPL-1.1",
+    "licenseSimple": "EUPL",
     "platform": "GitHub"
   },
   {
@@ -1208,6 +1320,7 @@
       "STATCAN"
     ],
     "license": "GPL-3",
+    "licenseSimple": "GPL",
     "platform": "CRAN"
   },
   {
@@ -1222,6 +1335,7 @@
       "Sweden"
     ],
     "license": "MIT",
+    "licenseSimple": "MIT",
     "platform": "GitHub"
   },
   {
@@ -1236,6 +1350,7 @@
       "all PX"
     ],
     "license": "BSD_2_clause + file LICENSE",
+    "licenseSimple": "BSD",
     "platform": "CRAN"
   },
   {
@@ -1252,6 +1367,7 @@
       "Finland"
     ],
     "license": "Apache License 2.0 | file LICENSE",
+    "licenseSimple": "Apache",
     "platform": "CRAN"
   },
   {
@@ -1266,6 +1382,7 @@
       "all PX"
     ],
     "license": "GPL-3",
+    "licenseSimple": "GPL",
     "platform": "CRAN"
   },
   {
@@ -1280,6 +1397,7 @@
       "DBnomics"
     ],
     "license": "unknown",
+    "licenseSimple": "unknown",
     "platform": "other"
   },
   {
@@ -1294,6 +1412,7 @@
       "ABS"
     ],
     "license": "MIT + file LICENSE",
+    "licenseSimple": "MIT",
     "platform": "CRAN"
   },
   {
@@ -1308,6 +1427,7 @@
       "STATCAN"
     ],
     "license": "MIT + file LICENSE",
+    "licenseSimple": "MIT",
     "platform": "CRAN"
   },
   {
@@ -1322,6 +1442,7 @@
       "USDA"
     ],
     "license": "Unlimited",
+    "licenseSimple": "Unlimited",
     "platform": "CRAN"
   },
   {
@@ -1336,6 +1457,7 @@
       "all SDMX"
     ],
     "license": "EUPL-1.2",
+    "licenseSimple": "EUPL",
     "platform": "GitHub"
   },
   {
@@ -1350,6 +1472,7 @@
       "all SDMX"
     ],
     "license": "unknown",
+    "licenseSimple": "unknown",
     "platform": "npm"
   },
   {
@@ -1364,6 +1487,7 @@
       "CSO"
     ],
     "license": "GPL-3",
+    "licenseSimple": "GPL",
     "platform": "CRAN"
   },
   {
@@ -1378,6 +1502,7 @@
       "IRI"
     ],
     "license": "MIT + file LICENSE",
+    "licenseSimple": "MIT",
     "platform": "CRAN"
   },
   {
@@ -1392,6 +1517,7 @@
       "CZSO"
     ],
     "license": "MIT + file LICENSE",
+    "licenseSimple": "MIT",
     "platform": "CRAN"
   },
   {
@@ -1406,6 +1532,7 @@
       "IPUMS"
     ],
     "license": "Mozilla Public License 2.0",
+    "licenseSimple": "Mozilla",
     "platform": "CRAN"
   },
   {
@@ -1420,6 +1547,7 @@
       "Argentina HHS"
     ],
     "license": "MIT + file LICENSE",
+    "licenseSimple": "MIT",
     "platform": "CRAN"
   },
   {
@@ -1434,6 +1562,7 @@
       "BLS"
     ],
     "license": "MIT + file LICENSE",
+    "licenseSimple": "MIT",
     "platform": "CRAN"
   },
   {
@@ -1448,6 +1577,7 @@
       "Denmark"
     ],
     "license": "MIT + file LICENSE",
+    "licenseSimple": "MIT",
     "platform": "CRAN"
   },
   {
@@ -1462,6 +1592,7 @@
       "Germany"
     ],
     "license": "MIT + file LICENSE",
+    "licenseSimple": "MIT",
     "platform": "CRAN"
   },
   {
@@ -1476,6 +1607,7 @@
       "Germany"
     ],
     "license": "unknown",
+    "licenseSimple": "unknown",
     "platform": "PyPI"
   },
   {
@@ -1486,6 +1618,7 @@
     "gsbpm_name": "Estimation and weighting",
     "gsbpm_number": "5.6 | 5.7",
     "license": "MIT + file LICENSE",
+    "licenseSimple": "MIT",
     "platform": "CRAN"
   }
 ]
