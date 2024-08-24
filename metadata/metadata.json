@@ -1,0 +1,1491 @@
+[
+  {
+    "type": "R package",
+    "name": "SamplingStrata",
+    "url": "https://cran.r-project.org/package=SamplingStrata",
+    "description": "Optimal Stratification of Sampling Frames for Multipurpose Sampling Surveys.",
+    "gsbpm_name": "Design frame and sample",
+    "gsbpm_number": "2.1",
+    "license": "GPL (>= 2)",
+    "platform": "CRAN"
+  },
+  {
+    "type": "R package",
+    "name": "R2BEAT",
+    "url": "https://cran.r-project.org/package=R2BEAT",
+    "description": "Multistage Sampling Allocation and PSU Selection.",
+    "gsbpm_name": "Design frame and sample",
+    "gsbpm_number": "2.1",
+    "license": "EUPL",
+    "platform": "CRAN"
+  },
+  {
+    "type": "Excel",
+    "name": "SDMX_Matrix_Generator",
+    "url": "https://gitlab.com/sis-cc/sdmx-tools/sdmx-matrix-generator",
+    "description": "Excel-based visual SDMX artefact authoring tool which generates SDMX-ML for upload into an SDMX repository such as a registry. By OECD.",
+    "gsbpm_name": "Design variable descriptions",
+    "gsbpm_number": "2.2",
+    "license": "MIT",
+    "platform": "GitLab"
+  },
+  {
+    "type": "R package",
+    "name": "sampling",
+    "url": "https://cran.r-project.org/package=sampling",
+    "description": "Several algorithms for drawing survey samples, including a variety of unequal probabiltiy sampling designs (high entropy, systematic, Rao-Sampford, etc.), and calibrating design weights.",
+    "gsbpm_name": "Sampling",
+    "gsbpm_number": "4.1",
+    "license": "GPL (>= 2)",
+    "platform": "CRAN"
+  },
+  {
+    "type": "R package",
+    "name": "surveyplanning",
+    "url": "https://cran.r-project.org/package=surveyplanning",
+    "description": "Tools for sample survey planning, including sample size calculation, estimation of expected precision for the estimates of totals, and calculation of optimal sample size allocation.",
+    "gsbpm_name": "Sampling",
+    "gsbpm_number": "4.1",
+    "license": "GPL (>= 2)",
+    "platform": "CRAN"
+  },
+  {
+    "type": "R package",
+    "name": "PracTools",
+    "url": "https://cran.r-project.org/package=PracTools",
+    "description": "Functions and datasets related to Valliant, Dever, and Kreuter (2018 2nd ed), [*Practical Tools for Designing and Weighting Survey Samples*](https://doi.org/10.1007/978-3-319-93632-1).",
+    "gsbpm_name": "Sampling",
+    "gsbpm_number": "4.1",
+    "license": "GPL-3",
+    "platform": "CRAN"
+  },
+  {
+    "type": "R package",
+    "name": "prnsamplr",
+    "url": "https://cran.r-project.org/package=prnsamplr",
+    "description": "Coordinated stratified sampling using permanent random numbers (PRN's). Supports simple random sampling and probability-proportional-to-size sampling and includes a function for transforming PRN's to control the sample overlap.",
+    "gsbpm_name": "Sampling",
+    "gsbpm_number": "4.1",
+    "license": "MIT + file LICENSE",
+    "platform": "CRAN"
+  },
+  {
+    "type": "R package",
+    "name": "sps",
+    "url": "https://cran.r-project.org/package=sps",
+    "description": "Implements the sequential Poisson method for drawing probability-proportional-to-size samples. Includes tools to coordinate samples with permanent random numbers, draw stratified samples, and use other order-sampling methods.",
+    "gsbpm_name": "Sampling",
+    "gsbpm_number": "4.1",
+    "license": "MIT + file LICENSE",
+    "platform": "CRAN"
+  },
+  {
+    "type": "R package",
+    "name": "samplingin",
+    "url": "https://cran.r-project.org/package=samplingin",
+    "description": "Sampling using systematic and PPS (Probability Proportional to Size) methods. It can also allocate predetermined allocations to smaller levels. by Statistics Indonesia",
+    "gsbpm_name": "Sampling",
+    "gsbpm_number": "4.1",
+    "license": "MIT + file LICENSE",
+    "platform": "CRAN"
+  },
+  {
+    "type": "Java application",
+    "name": "GUrlSearcher",
+    "url": "https://github.com/SummaIstat/GUrlSearcher",
+    "description": "An application for searching Urls via Google. Can be used to find websites of enterprise. By ISTAT.",
+    "gsbpm_name": "Scraping for Statistics",
+    "gsbpm_number": "4.3",
+    "license": "EUPL-1.2",
+    "platform": "GitHub"
+  },
+  {
+    "type": "Java application",
+    "name": "Url_scorer",
+    "url": "https://github.com/SummaIstat/Url_scorer",
+    "description": "Gives a rule based score to scraped documents in a Solr database. By ISTAT.",
+    "gsbpm_name": "Scraping for Statistics",
+    "gsbpm_number": "4.3",
+    "license": "EUPL-1.2",
+    "platform": "GitHub"
+  },
+  {
+    "type": "Node.js",
+    "name": "RobotTool",
+    "url": "https://github.com/SNStatComp/RobotTool",
+    "description": "A tool for checking (price) changes on the web. By Statistics Netherlands.",
+    "gsbpm_name": "Scraping for Statistics",
+    "gsbpm_number": "4.3",
+    "license": "EUPL-1.2",
+    "platform": "GitHub"
+  },
+  {
+    "type": "Python",
+    "name": "Social-Media-Presence",
+    "url": "https://github.com/jmaslankowski/WP2-Social-Media-Presence",
+    "description": "A script for detecting social media presence on enterprises websites. By Statistics Poland.",
+    "gsbpm_name": "Scraping for Statistics",
+    "gsbpm_number": "4.3",
+    "license": "none",
+    "platform": "GitHub"
+  },
+  {
+    "type": "Python",
+    "name": "Sustainability_Reporting",
+    "url": "https://github.com/AlessandraSozzi/MSc-dissertation",
+    "description": "A script for measuring sustainability reporting from enterprises websites. By ONS.",
+    "gsbpm_name": "Scraping for Statistics",
+    "gsbpm_number": "4.3",
+    "license": "MIT",
+    "platform": "GitHub"
+  },
+  {
+    "type": "Python",
+    "name": "urlfinding",
+    "url": "https://github.com/SNStatComp/urlfinding",
+    "description": "Software for finding websites of enterprises using a search engine and machine learning. By [Statistics Netherlands](https:www.cbs.nl).",
+    "gsbpm_name": "Scraping for Statistics",
+    "gsbpm_number": "4.3",
+    "license": "EUPL-1.2",
+    "platform": "GitHub"
+  },
+  {
+    "type": "R package",
+    "name": "dcmodify",
+    "url": "https://cran.r-project.org/package=dcmodify",
+    "description": "Derive new variables or modify data using externally defined data modification rules.",
+    "gsbpm_name": "Process",
+    "gsbpm_number": "5",
+    "license": "GPL-3",
+    "platform": "CRAN"
+  },
+  {
+    "type": "Java application",
+    "name": "Trevas",
+    "url": "https://github.com/InseeFr/Trevas",
+    "description": "Java engine for the Validation and Transformation Language (VTL). By INSEE.",
+    "gsbpm_name": "Process",
+    "gsbpm_number": "5",
+    "license": "MIT",
+    "platform": "GitHub"
+  },
+  {
+    "type": "Java application",
+    "name": "Java-VTL",
+    "url": "https://github.com/statisticsnorway/java-vtl",
+    "description": "A partial implementation of the Validation Transformation Language, based on the VTL 1.1 draft specification. By Statistics Norway.",
+    "gsbpm_name": "Process",
+    "gsbpm_number": "5",
+    "license": "Apache-2.0",
+    "platform": "GitHub"
+  },
+  {
+    "type": "R package",
+    "name": "blaise",
+    "url": "https://cran.r-project.org/package=blaise",
+    "description": "Reading and writing Files in the Blaise Format from R. By Statistics Netherlands.",
+    "gsbpm_name": "Process",
+    "gsbpm_number": "5",
+    "license": "GPL-3",
+    "platform": "CRAN"
+  },
+  {
+    "type": "Java application",
+    "name": "ADaMSoft",
+    "url": "http://adamsoft.sourceforge.net",
+    "description": "implements procedures for data analysis, data, web and text mining. Also contains procedures for data validation and imputation, based on the principle of Fellegi and Holt.",
+    "gsbpm_name": "Process",
+    "gsbpm_number": "5",
+    "license": "GPL2",
+    "platform": "other"
+  },
+  {
+    "type": "R package",
+    "name": "reclin2",
+    "url": "https://cran.r-project.org/package=reclin2",
+    "description": "Functions to assist in performing probabilistic record linkage and deduplication: generating pairs, comparing records, em-algorithm for estimating m- and u-probabilities, forcing one-to-one matching. Can also be used for pre- and post-processing for machine learning methods for record linkage.",
+    "gsbpm_name": "Data integration and record linkage",
+    "gsbpm_number": "5.1",
+    "license": "GPL-3",
+    "platform": "CRAN"
+  },
+  {
+    "type": "R package",
+    "name": "RecordLinkage",
+    "url": "https://cran.r-project.org/package=RecordLinkage",
+    "description": "Implementation of the Fellegi-Sunter method for record linkage.",
+    "gsbpm_name": "Data integration and record linkage",
+    "gsbpm_number": "5.1",
+    "license": "GPL (>= 2)",
+    "platform": "CRAN"
+  },
+  {
+    "type": "R package",
+    "name": "StatMatch",
+    "url": "https://cran.r-project.org/package=StatMatch",
+    "description": "Statistical Matching or Data Fusion",
+    "gsbpm_name": "Data integration and record linkage",
+    "gsbpm_number": "5.1",
+    "license": "GPL (>= 2)",
+    "platform": "CRAN"
+  },
+  {
+    "type": "R package",
+    "name": "fastLink",
+    "url": "https://cran.r-project.org/package=fastLink",
+    "description": "Implements a Fellegi-Sunter probabilistic record linkage model that allows for missing data and the inclusion of auxiliary information. [Documentation](http://imai.princeton.edu/research/linkage.html).",
+    "gsbpm_name": "Data integration and record linkage",
+    "gsbpm_number": "5.1",
+    "license": "GPL (>= 3)",
+    "platform": "CRAN"
+  },
+  {
+    "type": "R packages",
+    "name": "stringdist",
+    "url": "https://cran.r-project.org/package=stringdist",
+    "description": "Approximate string matching. Supports various string distances (Damerau-Levenshtein, Hamming, Levenshtein, optimal sting alignment), qgrams (q- gram, cosine, jaccard distance) and heuristic metrics (Jaro, Jaro-Winkler). An implementation of soundex is provided as well.",
+    "gsbpm_name": "Data integration and record linkage",
+    "gsbpm_number": "5.1",
+    "license": "GPL-3",
+    "platform": "CRAN"
+  },
+  {
+    "type": "R packages",
+    "name": "fuzzyjoin",
+    "url": "https://cran.r-project.org/package=fuzzyjoin",
+    "description": "Join tables based on exact or similar matches. Allows for matching records based on inaccurate keys.",
+    "gsbpm_name": "Data integration and record linkage",
+    "gsbpm_number": "5.1",
+    "license": "MIT + file LICENSE",
+    "platform": "CRAN"
+  },
+  {
+    "type": "R Java MySQL",
+    "name": "RELAIS",
+    "url": "https://joinup.ec.europa.eu/solution/relais-record-linkage-istat/releases",
+    "description": "A toolkit providing techniques for dealing with record linkage. The purpose is to identify the same real world entity that can be differently represented in data sources. By Istat.",
+    "gsbpm_name": "Data integration and record linkage",
+    "gsbpm_number": "5.1",
+    "license": "EUPL-1.2",
+    "platform": "other"
+  },
+  {
+    "type": "R package",
+    "name": "XBRL",
+    "url": "https://cran.r-project.org/package=XBRL",
+    "description": "Extraction of Business Financial Information from [XBRL](https://www.xbrl.org/).",
+    "gsbpm_name": "Data integration and record linkage",
+    "gsbpm_number": "5.1",
+    "license": "GPL (>= 2)",
+    "platform": "CRAN"
+  },
+  {
+    "type": "R package",
+    "name": "validate",
+    "url": "https://cran.r-project.org/package=validate",
+    "description": "Data validation checks such as on length, format, range, missingness, availability, uniqueness, multivariate checks, statistical checks and checks on SDMX codelist. See [Cookbook](https://data-cleaning.github.io/validate/). By Statistics Netherlands.",
+    "gsbpm_name": "Statistical data editing and imputation",
+    "gsbpm_number": "5.3 | 5.4",
+    "license": "GPL-3",
+    "platform": "CRAN"
+  },
+  {
+    "type": "R package",
+    "name": "validatedb",
+    "url": "https://cran.r-project.org/package=validatedb",
+    "description": "[validate](https://CRAN.R-project.org/package=validate) on a SQL database, providing validation on bigger data.",
+    "gsbpm_name": "Statistical data editing and imputation",
+    "gsbpm_number": "5.3 | 5.4",
+    "license": "GPL-3",
+    "platform": "CRAN"
+  },
+  {
+    "type": "R package",
+    "name": "validatetools",
+    "url": "https://cran.r-project.org/package=validatetools",
+    "description": "Checking validation rules on redundancies and contradictions. Useful if your validation rule set grows in complexity.",
+    "gsbpm_name": "Statistical data editing and imputation",
+    "gsbpm_number": "5.3 | 5.4",
+    "license": "MIT + file LICENSE",
+    "platform": "CRAN"
+  },
+  {
+    "type": "R package",
+    "name": "errorlocate",
+    "url": "https://cran.r-project.org/package=errorlocate",
+    "description": "Error localisation based on Fellegi and Holt, supporting categorical and/or numeric data, linear equalities, inequalities and conditional rules and MIP-based error localization.",
+    "gsbpm_name": "Statistical data editing and imputation",
+    "gsbpm_number": "5.3 | 5.4",
+    "license": "GPL-3",
+    "platform": "CRAN"
+  },
+  {
+    "type": "R package",
+    "name": "VIM",
+    "url": "https://cran.r-project.org/package=VIM",
+    "description": "Visualisation and imputation of missing data. Imputation using (robust) linear regression methods or donor-based methods (kNN, hot-deck).",
+    "gsbpm_name": "Statistical data editing and imputation",
+    "gsbpm_number": "5.3 | 5.4",
+    "license": "GPL (>= 2)",
+    "platform": "CRAN"
+  },
+  {
+    "type": "R package",
+    "name": "simputation",
+    "url": "https://cran.r-project.org/package=simputation",
+    "description": "Front-end to (combinations of) advanced imputation methods following the [tidy tools manifesto](https://cran.r-project.org/web/packages/tidyverse/vignettes/manifesto.html). Supports regression (standard, M-estimation, ridge/lasso/elasticnet), hot-deck methods (powered by [VIM](https://CRAN.R-project.org/package=VIM)), randomForest, EM-based, and iterative randomForest imputation. Reuse of fitted models and definition of simple user-defined methods are supported as well.",
+    "gsbpm_name": "Statistical data editing and imputation",
+    "gsbpm_number": "5.3 | 5.4",
+    "license": "GPL-3",
+    "platform": "CRAN"
+  },
+  {
+    "type": "R package",
+    "name": "SeleMix",
+    "url": "https://cran.r-project.org/package=SeleMix",
+    "description": "Detection of outliers and influential errors using a latent variable model for selective editing.",
+    "gsbpm_name": "Statistical data editing and imputation",
+    "gsbpm_number": "5.3 | 5.4",
+    "license": "EUPL",
+    "platform": "CRAN"
+  },
+  {
+    "type": "R package",
+    "name": "univOutl",
+    "url": "https://cran.r-project.org/package=univOutl",
+    "description": "Various methods for detecting univariate outliers.",
+    "gsbpm_name": "Statistical data editing and imputation",
+    "gsbpm_number": "5.3 | 5.4",
+    "license": "GPL (>= 2)",
+    "platform": "CRAN"
+  },
+  {
+    "type": "R package",
+    "name": "extremevalues",
+    "url": "https://cran.r-project.org/package=extremevalues",
+    "description": "Detection of univariate outliers based on modeling the bulk distribution.",
+    "gsbpm_name": "Statistical data editing and imputation",
+    "gsbpm_number": "5.3 | 5.4",
+    "license": "GPL-2",
+    "platform": "CRAN"
+  },
+  {
+    "type": "R package",
+    "name": "deductive",
+    "url": "https://cran.r-project.org/package=deductive",
+    "description": "Deductive correction and imputation using edit rules and (partially) complete data.",
+    "gsbpm_name": "Statistical data editing and imputation",
+    "gsbpm_number": "5.3 | 5.4",
+    "license": "GPL-3",
+    "platform": "CRAN"
+  },
+  {
+    "type": "R package",
+    "name": "rspa",
+    "url": "https://cran.r-project.org/package=rspa",
+    "description": "Adapt Numerical Records to Fit (in)Equality Restrictions.",
+    "gsbpm_name": "Statistical data editing and imputation",
+    "gsbpm_number": "5.3 | 5.4",
+    "license": "GPL-3",
+    "platform": "CRAN"
+  },
+  {
+    "type": "R package",
+    "name": "mice",
+    "url": "https://cran.r-project.org/package=mice",
+    "description": "Multiple imputation by chained equations, aka fully conditional specification, accompanied by [van Buuren (2018) _Flexible Imputation of Missing Data_](https://stefvanbuuren.name/fimd/).",
+    "gsbpm_name": "Statistical data editing and imputation",
+    "gsbpm_number": "5.3 | 5.4",
+    "license": "GPL (>= 2)",
+    "platform": "CRAN"
+  },
+  {
+    "type": "R package",
+    "name": "survey",
+    "url": "https://cran.r-project.org/package=survey",
+    "description": "Weighting and estimation for complex survey designs, possibly under nonresponse. Also computes estimator variance. See also R package [srvyr](https:://CRAN.R-project.org/package=survey) for integration with [tidy tools](https://cran.r-project.org/web/packages/tidyverse/vignettes/manifesto.html).",
+    "gsbpm_name": "Estimation and weighting",
+    "gsbpm_number": "5.6 | 5.7",
+    "license": "GPL-2 | GPL-3",
+    "platform": "CRAN"
+  },
+  {
+    "type": "R package",
+    "name": "hbsae",
+    "url": "https://cran.r-project.org/package=hbsae",
+    "description": "Small area estimation based on hierarchical Bayesian models.",
+    "gsbpm_name": "Estimation and weighting",
+    "gsbpm_number": "5.6 | 5.7",
+    "license": "GPL-3",
+    "platform": "CRAN"
+  },
+  {
+    "type": "R package",
+    "name": "mcmcsae",
+    "url": "https://cran.r-project.org/package=mcmcsae",
+    "description": "Small area estimation based on Markov Chain Monte Carlo simulation.",
+    "gsbpm_name": "Estimation and weighting",
+    "gsbpm_number": "5.6 | 5.7",
+    "license": "GPL-3",
+    "platform": "CRAN"
+  },
+  {
+    "type": "R package",
+    "name": "rsae",
+    "url": "https://cran.r-project.org/package=rsae",
+    "description": "Small area estimation based on (robust) maximum likelihood estimation.",
+    "gsbpm_name": "Estimation and weighting",
+    "gsbpm_number": "5.6 | 5.7",
+    "license": "GPL-3",
+    "platform": "CRAN"
+  },
+  {
+    "type": "R package",
+    "name": "CalibrateSSB",
+    "url": "https://cran.r-project.org/package=CalibrateSSB",
+    "description": "Calculate weighs and estimates for panel data with non-response.",
+    "gsbpm_name": "Estimation and weighting",
+    "gsbpm_number": "5.6 | 5.7",
+    "license": "GPL-2",
+    "platform": "CRAN"
+  },
+  {
+    "type": "R package",
+    "name": "jointCalib",
+    "url": "https://cran.r-project.org/package=jointCalib",
+    "description": "Performs calibration of quantiles and a joint calibration of totals and quantiles.",
+    "gsbpm_name": "Estimation and weighting",
+    "gsbpm_number": "5.6 | 5.7",
+    "license": "GPL-3",
+    "platform": "CRAN"
+  },
+  {
+    "type": "R package",
+    "name": "PriceIndices",
+    "url": "https://cran.r-project.org/package=PriceIndices",
+    "description": "Calculating Bilateral and Multilateral Price Indexes.",
+    "gsbpm_name": "Estimation and weighting",
+    "gsbpm_number": "5.6 | 5.7",
+    "license": "GPL-3",
+    "platform": "CRAN"
+  },
+  {
+    "type": "R package",
+    "name": "ReGenesees",
+    "url": "https://github.com/DiegoZardetto/ReGenesees",
+    "description": "Like [survey](https://CRAN.r-project.org/package=survey), but with specific features (e.g. partitioned calibration) that make it fit for processing large-scale surveys. Implements different estimators with sampling errors, and ships with a dedicated GUI (package [ReGenesees.GUI](https://github.com/DiegoZardetto/ReGenesees.GUI)).",
+    "gsbpm_name": "Estimation and weighting",
+    "gsbpm_number": "5.6 | 5.7",
+    "license": "none",
+    "platform": "GitHub"
+  },
+  {
+    "type": "R package",
+    "name": "vardpoor",
+    "url": "https://cran.r-project.org/package=vardpoor",
+    "description": "Linearization of non-linear statistics and variance estimation.",
+    "gsbpm_name": "Estimation and weighting",
+    "gsbpm_number": "5.6 | 5.7",
+    "license": "EUPL | file LICENSE",
+    "platform": "CRAN"
+  },
+  {
+    "type": "R package",
+    "name": "convey",
+    "url": "https://cran.r-project.org/package=convey",
+    "description": "Variance estimation on indicators of income concentration and poverty using complex sample survey designs. Wrapper around the survey package.",
+    "gsbpm_name": "Estimation and weighting",
+    "gsbpm_number": "5.6 | 5.7",
+    "license": "GPL-3",
+    "platform": "CRAN"
+  },
+  {
+    "type": "R package",
+    "name": "icarus",
+    "url": "https://cran.r-project.org/package=icarus",
+    "description": "Provides detailed tools for performing calibration and several of its varitations, in a familiar setting for Calmar users in SAS.",
+    "gsbpm_name": "Estimation and weighting",
+    "gsbpm_number": "5.6 | 5.7",
+    "license": "GPL-3",
+    "platform": "CRAN"
+  },
+  {
+    "type": "R package",
+    "name": "gustave",
+    "url": "https://cran.r-project.org/package=gustave",
+    "description": "Provides a toolkit for analytical variance estimation in survey sampling.",
+    "gsbpm_name": "Estimation and weighting",
+    "gsbpm_number": "5.6 | 5.7",
+    "license": "GPL-3",
+    "platform": "CRAN"
+  },
+  {
+    "type": "R package",
+    "name": "rtrim",
+    "url": "https://cran.r-project.org/package=rtrim",
+    "description": "Trends and Indices for Monitoring data. Provides tools for estimating animal/plant populations based on site counts, including occurrence of missing data.",
+    "gsbpm_name": "Estimation and weighting",
+    "gsbpm_number": "5.6 | 5.7",
+    "license": "EUPL",
+    "platform": "CRAN"
+  },
+  {
+    "type": "R package",
+    "name": "surveysd",
+    "url": "https://cran.r-project.org/package=surveysd",
+    "description": "Calibration, bootstrap and error estimation for complex surveys.",
+    "gsbpm_name": "Estimation and weighting",
+    "gsbpm_number": "5.6 | 5.7",
+    "license": "GPL (>= 2)",
+    "platform": "CRAN"
+  },
+  {
+    "type": "R package",
+    "name": "inca",
+    "url": "https://cran.r-project.org/package=inca",
+    "description": "Calibration weighting with integer weights.",
+    "gsbpm_name": "Estimation and weighting",
+    "gsbpm_number": "5.6 | 5.7",
+    "license": "GPL (>= 2)",
+    "platform": "CRAN"
+  },
+  {
+    "type": "R package",
+    "name": "piar",
+    "url": "https://cran.r-project.org/package=piar",
+    "description": "Provides tools to make price indexes that aggregate a collection of elemental indexes according to a hierarchical structure. Includes methods to flexibly build indexes from multiple sources of data, chain indexes over time, and construct product contributions.",
+    "gsbpm_name": "Estimation and weighting",
+    "gsbpm_number": "5.6 | 5.7",
+    "license": "MIT + file LICENSE",
+    "platform": "CRAN"
+  },
+  {
+    "type": "Fortran",
+    "name": "X-13ARIMA-SEATS",
+    "url": "https://www.census.gov/data/software/x13as.X-13ARIMA-SEATS.html",
+    "description": "seasonal adjustment software, by Census Bureau produced maintained and distributed by the US Census Bureau.",
+    "gsbpm_name": "Time series and seasonal adjustment",
+    "gsbpm_number": "5.6 | 5.7",
+    "license": "other",
+    "platform": "other"
+  },
+  {
+    "type": "R package",
+    "name": "seasonal",
+    "url": "https://cran.r-project.org/package=seasonal",
+    "description": "Interface to the `X13-ARIMA-SEATS` program from R with a very nice shiny GUI.",
+    "gsbpm_name": "Time series and seasonal adjustment",
+    "gsbpm_number": "5.6 | 5.7",
+    "license": "GPL-3",
+    "platform": "CRAN"
+  },
+  {
+    "type": "R package",
+    "name": "x12",
+    "url": "https://cran.r-project.org/package=x12",
+    "description": "Alternative interface to the `X13-ARIMA-SEATS` program from R with a focus on batch processing time series.",
+    "gsbpm_name": "Time series and seasonal adjustment",
+    "gsbpm_number": "5.6 | 5.7",
+    "license": "GPL (>= 2)",
+    "platform": "CRAN"
+  },
+  {
+    "type": "Java application",
+    "name": "JDemetra+",
+    "url": "https://github.com/jdemetra/jdemetra-app",
+    "description": "The seasonal adjustment software officially recommended for the European Statistical System.",
+    "gsbpm_name": "Time series and seasonal adjustment",
+    "gsbpm_number": "5.6 | 5.7",
+    "license": "EUPL-1.2",
+    "platform": "GitHub"
+  },
+  {
+    "type": "R package",
+    "name": "RJDemetra",
+    "url": "https://cran.r-project.org/package=RJDemetra",
+    "description": "R interface to JDemetra+.",
+    "gsbpm_name": "Time series and seasonal adjustment",
+    "gsbpm_number": "5.6 | 5.7",
+    "license": "EUPL",
+    "platform": "CRAN"
+  },
+  {
+    "type": "R package",
+    "name": "tempdisagg",
+    "url": "https://cran.r-project.org/package=tempdisagg",
+    "description": "Methods for temporal disaggregation and interpolation of time series.",
+    "gsbpm_name": "Time series and seasonal adjustment",
+    "gsbpm_number": "5.6 | 5.7",
+    "license": "GPL-3",
+    "platform": "CRAN"
+  },
+  {
+    "type": "R package",
+    "name": "validate",
+    "url": "https://cran.r-project.org/package=validate",
+    "description": "Rule management and data validation.",
+    "gsbpm_name": "Output validation",
+    "gsbpm_number": "6.2",
+    "license": "GPL-3",
+    "platform": "CRAN"
+  },
+  {
+    "type": "Java and C++ application",
+    "name": "Mu-ARGUS",
+    "url": "https://github.com/sdcTools/muargus",
+    "description": "Tool to create safe micro-data files. See also the [casc page](http://research.cbs.nl/casc/).",
+    "gsbpm_name": "Statistical disclosure control",
+    "gsbpm_number": "6.4",
+    "license": "EUPL-1.2",
+    "platform": "GitHub"
+  },
+  {
+    "type": "Java C++ Fortran and Delphi application",
+    "name": "T-ARGUS",
+    "url": "https://github.com/sdcTools/tauargus",
+    "description": "Tool to protect statistical tables. See also the [casc page](http://research.cbs.nl/casc/).",
+    "gsbpm_name": "Statistical disclosure control",
+    "gsbpm_number": "6.4",
+    "license": "EUPL-1.2",
+    "platform": "GitHub"
+  },
+  {
+    "type": "R package",
+    "name": "sdcMicro",
+    "url": "https://cran.r-project.org/package=sdcMicro",
+    "description": "Disclosure control for statistical microdata.",
+    "gsbpm_name": "Statistical disclosure control",
+    "gsbpm_number": "6.4",
+    "license": "GPL-2",
+    "platform": "CRAN"
+  },
+  {
+    "type": "R package",
+    "name": "sdcTable",
+    "url": "https://cran.r-project.org/package=sdcTable",
+    "description": "Disclosure control for tabulated data.",
+    "gsbpm_name": "Statistical disclosure control",
+    "gsbpm_number": "6.4",
+    "license": "GPL (>= 2)",
+    "platform": "CRAN"
+  },
+  {
+    "type": "R package",
+    "name": "easySdcTable",
+    "url": "https://cran.r-project.org/package=easySdcTable",
+    "description": "Provides an interface to the package sdcTable.",
+    "gsbpm_name": "Statistical disclosure control",
+    "gsbpm_number": "6.4",
+    "license": "Apache License 2.0 | file LICENSE",
+    "platform": "CRAN"
+  },
+  {
+    "type": "R package",
+    "name": "GaussSuppression",
+    "url": "https://cran.r-project.org/package=GaussSuppression",
+    "description": "Tabular data suppression using the Gaussian elimination secondary suppression algorithm.",
+    "gsbpm_name": "Statistical disclosure control",
+    "gsbpm_number": "6.4",
+    "license": "MIT + file LICENSE",
+    "platform": "CRAN"
+  },
+  {
+    "type": "R package",
+    "name": "sdcHierarchies",
+    "url": "https://cran.r-project.org/package=sdcHierarchies",
+    "description": "Allows to generate, modify and export nested hierarchies.",
+    "gsbpm_name": "Statistical disclosure control",
+    "gsbpm_number": "6.4",
+    "license": "GPL-3",
+    "platform": "CRAN"
+  },
+  {
+    "type": "R package",
+    "name": "SmallCountRounding",
+    "url": "https://cran.r-project.org/package=SmallCountRounding",
+    "description": "Can be used to protect frequency tables by rounding necessary inner cells so that cross-classifications to be published are safe.",
+    "gsbpm_name": "Statistical disclosure control",
+    "gsbpm_number": "6.4",
+    "license": "Apache License 2.0",
+    "platform": "CRAN"
+  },
+  {
+    "type": "R package",
+    "name": "simPop",
+    "url": "https://cran.r-project.org/package=simPop",
+    "description": "Simulation of synthetic populations from census/survey data considering auxiliary information.",
+    "gsbpm_name": "Statistical disclosure control",
+    "gsbpm_number": "6.4",
+    "license": "GPL (>= 2)",
+    "platform": "CRAN"
+  },
+  {
+    "type": "R package",
+    "name": "sdcSpatial",
+    "url": "https://cran.r-project.org/package=sdcSpatial",
+    "description": "Create privacy protected density maps from location data. Includes visual sensitivity assessment and several protection methods.",
+    "gsbpm_name": "Statistical disclosure control",
+    "gsbpm_number": "6.4",
+    "license": "GPL-2",
+    "platform": "CRAN"
+  },
+  {
+    "type": "R package",
+    "name": "synthpop",
+    "url": "https://cran.r-project.org/package=synthpop",
+    "description": "Produce synthetic versions of microdata containing confidential information so that they are safe to be released to users for exploratory analysis.",
+    "gsbpm_name": "Statistical disclosure control",
+    "gsbpm_number": "6.4",
+    "license": "GPL-2 | GPL-3",
+    "platform": "CRAN"
+  },
+  {
+    "type": "Java application",
+    "name": "SDMX_Converter",
+    "url": "https://ec.europa.eu/eurostat/cros/content/sdmx-converter-0_en",
+    "description": "Converts between SDMX versions and formats like CSV, FLR etc. By Eurostat.",
+    "gsbpm_name": "Statistical Dissemination",
+    "gsbpm_number": "7.2",
+    "license": "EUPL-1.0",
+    "platform": "other"
+  },
+  {
+    "type": "Java application",
+    "name": "SDMX-RI",
+    "url": "https://ec.europa.eu/eurostat/cros/content/sdmx-ri_en",
+    "description": "Framework for disseminating data in SDMX webservices. By Eurostat.",
+    "gsbpm_name": "Statistical Dissemination",
+    "gsbpm_number": "7.2",
+    "license": "unknown",
+    "platform": "other"
+  },
+  {
+    "type": "C# HTML5 JavaScript",
+    "name": "PxStat",
+    "url": "https://github.com/CSOIreland/PxStat",
+    "description": "Data Dissemination Management System for creating and publishing Statistics over the Web with focus on Accessibility and LOD. By [CSO](https://www.cso.ie/).",
+    "gsbpm_name": "Statistical Dissemination",
+    "gsbpm_number": "7.2",
+    "license": "MIT",
+    "platform": "GitHub"
+  },
+  {
+    "type": "C# VB.NET ASP.NET",
+    "name": "PxWeb_",
+    "url": "https://github.com/statisticssweden/PxWeb",
+    "description": "Web application for dissemination of statistical tables in [Px format](https://www.scb.se/en/services/statistical-programs-for-px-files/px-file-format/) or SQL data in the [Nordic Data Model](https://www.scb.se/en/services/statistical-programs-for-px-files/px-web/px-web-med-sql-databas/).",
+    "gsbpm_name": "Statistical Dissemination",
+    "gsbpm_number": "7.2",
+    "license": "Apache-2.0",
+    "platform": "GitHub"
+  },
+  {
+    "type": "Node.js and other",
+    "name": ".Stat_Suite",
+    "url": "https://gitlab.com/sis-cc/.stat-suite/dotstatsuite-data-explorer",
+    "description": "An SDMX-based platform to build tailored data portals, topical or regional data explorers, or lightweight reporting platforms. [Documentation](https://sis-cc.gitlab.io/dotstatsuite-documentation). By [SIS-CC](https://siscc.org).",
+    "gsbpm_name": "Statistical Dissemination",
+    "gsbpm_number": "7.2",
+    "license": "MIT",
+    "platform": "GitLab"
+  },
+  {
+    "type": "JavaScript and other",
+    "name": "ISTAT Statkit",
+    "url": "https://sdmxistattoolkit.github.io",
+    "description": "A toolkit to facilitate the standardization and industrialization of statistical dissemination and reporting based on SDMX. By ISTAT.",
+    "gsbpm_name": "Statistical Dissemination",
+    "gsbpm_number": "7.2",
+    "license": "EUPL-1.0",
+    "platform": "other"
+  },
+  {
+    "type": "JSON",
+    "name": "SDMX-JSON",
+    "url": "https://github.com/sdmx-twg/sdmx-json",
+    "description": "JSON variant of SDMX. Works together with the [SDMX-REST API](https://github.com/sdmx-twg/sdmx-rest).",
+    "gsbpm_name": "Statistical Dissemination",
+    "gsbpm_number": "7.2",
+    "license": "none",
+    "platform": "GitHub"
+  },
+  {
+    "type": "JSON",
+    "name": "JSON-stat",
+    "url": "https://json-stat.org/",
+    "description": "Simple lightweight JSON format for statistical dissemination. Based on a Cube model with dimensions organised in categories.",
+    "gsbpm_name": "Statistical Dissemination",
+    "gsbpm_number": "7.2",
+    "license": "unknown",
+    "platform": "other"
+  },
+  {
+    "type": "R package",
+    "name": "cols4all",
+    "url": "https://cran.r-project.org/package=cols4all",
+    "description": "Color palettes generation and analysis with support for color-blind-friendliness and fairness. Supports categorical, sequential, diverging and bivariate color palettes and colors for missing values.",
+    "gsbpm_name": "Statistical Dissemination",
+    "gsbpm_number": "7.2",
+    "license": "GPL-3",
+    "platform": "CRAN"
+  },
+  {
+    "type": "R package",
+    "name": "tabplot",
+    "url": "https://cran.r-project.org/package=tabplot",
+    "description": "Compare up to about 10-20 variables simultaneously using a [tableplot](https://cran.r-project.org/web/packages/tabplot/vignettes/tabplot-vignette.html). See also [tabplotd3](https://CRAN.R-project.org/package=tabplot) for a web-based GUI. Note: 2022-03-03: Temporarily not on Cran but expected to be back in 2022.",
+    "gsbpm_name": "Visualisation",
+    "gsbpm_number": "7.2",
+    "license": "GPL-3",
+    "platform": "CRAN"
+  },
+  {
+    "type": "R package",
+    "name": "tmap",
+    "url": "https://cran.r-project.org/package=tmap",
+    "description": "Thematic geographic maps, including bubble charts, choropleths, and more.",
+    "gsbpm_name": "Visualisation",
+    "gsbpm_number": "7.2",
+    "license": "GPL-3",
+    "platform": "CRAN"
+  },
+  {
+    "type": "R package",
+    "name": "oceanis",
+    "url": "https://cran.r-project.org/package=oceanis",
+    "description": "To create maps for statistical analysis such as proportional circles, chroropleth, typology and flows. By INSEE.",
+    "gsbpm_name": "Visualisation",
+    "gsbpm_number": "7.2",
+    "license": "GPL (>= 2.0) | file LICENSE",
+    "platform": "CRAN"
+  },
+  {
+    "type": "GeoJSON/TopoJSON",
+    "name": "cartomap",
+    "url": "https://github.com/cartomap/world",
+    "description": "A (growing) list of simplified maps useful for web cartography for World, Europe and countries.",
+    "gsbpm_name": "Visualisation",
+    "gsbpm_number": "7.2",
+    "license": "none",
+    "platform": "GitHub"
+  },
+  {
+    "type": "GeoJSON/TopoJSON",
+    "name": "Nuts2json",
+    "url": "https://github.com/eurostat/Nuts2json",
+    "description": "Simplified geometries for web maps of European NUTS regions. By Eurostat.",
+    "gsbpm_name": "Visualisation",
+    "gsbpm_number": "7.2",
+    "license": "EUPL-1.2",
+    "platform": "GitHub"
+  },
+  {
+    "type": "R package",
+    "name": "treemap",
+    "url": "https://cran.r-project.org/package=treemap",
+    "description": "Space-filling visualisation of hierarchical data.",
+    "gsbpm_name": "Visualisation",
+    "gsbpm_number": "7.2",
+    "license": "GPL-3",
+    "platform": "CRAN"
+  },
+  {
+    "type": "R package",
+    "name": "btb",
+    "url": "https://cran.r-project.org/package=btb",
+    "description": "Conservative kernel smoothing method for spatial analysis.",
+    "gsbpm_name": "Visualisation",
+    "gsbpm_number": "7.2",
+    "license": "GPL (>= 2)",
+    "platform": "CRAN"
+  },
+  {
+    "type": "Node.js",
+    "name": "StatMiner",
+    "url": "https://github.com/statmine/statminer",
+    "description": "Experimental visualization framework from Statistics Netherlands.",
+    "gsbpm_name": "Visualisation",
+    "gsbpm_number": "7.2",
+    "license": "none",
+    "platform": "GitHub"
+  },
+  {
+    "type": "JavaScript",
+    "name": "Visual",
+    "url": "https://github.com/idescat/visual",
+    "description": "Javascript library for data visualization that encapsulates complexity supporting chart types such as bar, rank, pie, time series bar/line, population pyramid, scatterplots and Choropleth maps. By Idescat.",
+    "gsbpm_name": "Visualisation",
+    "gsbpm_number": "7.2",
+    "license": "NOASSERTION",
+    "platform": "GitHub"
+  },
+  {
+    "type": "R package",
+    "name": "PantaRhei",
+    "url": "https://cran.r-project.org/package=PantaRhei",
+    "description": "Sankey plots suited for (circulair) economical systems such as energy systems, material flow accounts and water accounts. Supports loops. ",
+    "gsbpm_name": "Visualisation",
+    "gsbpm_number": "7.2",
+    "license": "EUPL",
+    "platform": "CRAN"
+  },
+  {
+    "type": "Python",
+    "name": "SDMX Dashboard Generator",
+    "url": "https://github.com/bis-med-it/SDMX-dashboard-generator/",
+    "description": "Open-source web application for SDMX data and metadata rendering based on Dash.",
+    "gsbpm_name": "Visualisation",
+    "gsbpm_number": "7.2",
+    "license": "Apache-2.0",
+    "platform": "GitHub"
+  },
+  {
+    "type": "R package",
+    "name": "rsdmx",
+    "url": "https://cran.r-project.org/package=rsdmx",
+    "description": "Access to data or metadata from statistical organisations that support SDMX webservices. The package contains a list of SDMX access points of various national and international statistical institutes.",
+    "gsbpm_name": "Access to official statistics",
+    "gsbpm_number": "7.4",
+    "standard": "SDMX",
+    "access_to": [
+      "all SDMX"
+    ],
+    "license": "GPL (>= 2)",
+    "platform": "CRAN"
+  },
+  {
+    "type": "R package",
+    "name": "readsdmx",
+    "url": "https://cran.r-project.org/package=readsdmx",
+    "description": "Read SDMX into dataframes from local SDMX-ML file or web-service. Parts in C++. By OECD.",
+    "gsbpm_name": "Access to official statistics",
+    "gsbpm_number": "7.4",
+    "standard": "SDMX",
+    "access_to": [
+      "all SDMX"
+    ],
+    "license": "GPL-3",
+    "platform": "CRAN"
+  },
+  {
+    "type": "Python",
+    "name": "sdmx",
+    "url": "https://github.com/khaeru/sdmx",
+    "description": "Python library that implements SDMX 2.1 to explore data from SDMX data providers, parse data and metadata and convert it into Pandas objects.",
+    "gsbpm_name": "Access to official statistics",
+    "gsbpm_number": "7.4",
+    "standard": "SDMX",
+    "access_to": [
+      "all SDMX"
+    ],
+    "license": "Apache-2.0",
+    "platform": "GitHub"
+  },
+  {
+    "type": "R package",
+    "name": "rjstat",
+    "url": "https://cran.r-project.org/package=rjstat",
+    "description": "Read and write data sets in the JSON-stat format.",
+    "gsbpm_name": "Access to official statistics",
+    "gsbpm_number": "7.4",
+    "standard": "JSON-STAT",
+    "access_to": [
+      "all JSON-STAT"
+    ],
+    "license": "MIT + file LICENSE",
+    "platform": "CRAN"
+  },
+  {
+    "type": "Python",
+    "name": "pyjstat",
+    "url": "https://pypi.org/project/pyjstat/",
+    "description": "Read and write JSON-stat.",
+    "gsbpm_name": "Access to official statistics",
+    "gsbpm_number": "7.4",
+    "standard": "JSON-STAT",
+    "access_to": [
+      "all JSON-STAT"
+    ],
+    "license": "Apache-2.0",
+    "platform": "PyPI"
+  },
+  {
+    "type": "Java application",
+    "name": "json-stat.java",
+    "url": "https://github.com/statisticsnorway/json-stat.java",
+    "description": "Read and write JSON-stat. By Statistics Norway.",
+    "gsbpm_name": "Access to official statistics",
+    "gsbpm_number": "7.4",
+    "standard": "JSON-STAT",
+    "access_to": [
+      "all JSON-STAT"
+    ],
+    "license": "MIT",
+    "platform": "GitHub"
+  },
+  {
+    "type": "R package",
+    "name": "oecd",
+    "url": "https://cran.r-project.org/package=OECD",
+    "description": "Search and Extract Data from the OECD",
+    "gsbpm_name": "Access to official statistics",
+    "gsbpm_number": "7.4",
+    "standard": null,
+    "access_to": [
+      "OECD"
+    ],
+    "license": "CC0",
+    "platform": "CRAN"
+  },
+  {
+    "type": "R package",
+    "name": "sorvi",
+    "url": "https://cran.r-project.org/package=sorvi",
+    "description": "Finnish Open Government Data Toolkit",
+    "gsbpm_name": "Access to official statistics",
+    "gsbpm_number": "7.4",
+    "standard": null,
+    "access_to": [
+      "Finland"
+    ],
+    "license": "BSD_2_clause + file LICENSE",
+    "platform": "CRAN"
+  },
+  {
+    "type": "R package",
+    "name": "eurostat",
+    "url": "https://cran.r-project.org/package=eurostat",
+    "description": "Tools to download data from the Eurostat database together with search and manipulation utilities.",
+    "gsbpm_name": "Access to official statistics",
+    "gsbpm_number": "7.4",
+    "standard": null,
+    "access_to": [
+      "ESTAT"
+    ],
+    "license": "BSD_2_clause + file LICENSE",
+    "platform": "CRAN"
+  },
+  {
+    "type": "R package",
+    "name": "restatapi",
+    "url": "https://cran.r-project.org/package=restatapi",
+    "description": "Search and retrieve data from Eurostat database, by Eurostat.",
+    "gsbpm_name": "Access to official statistics",
+    "gsbpm_number": "7.4",
+    "standard": "SDMX",
+    "access_to": [
+      "ESTAT"
+    ],
+    "license": "EUPL",
+    "platform": "CRAN"
+  },
+  {
+    "type": "R package",
+    "name": "acs",
+    "url": "https://cran.r-project.org/package=acs",
+    "description": "Download, Manipulate, and Present American Community Survey and Decennial Data from the US Census.",
+    "gsbpm_name": "Access to official statistics",
+    "gsbpm_number": "7.4",
+    "standard": null,
+    "access_to": [
+      "US Census Bureau"
+    ],
+    "license": "GPL-3",
+    "platform": "CRAN"
+  },
+  {
+    "type": "R package",
+    "name": "inegiR",
+    "url": "https://cran.r-project.org/package=inegiR",
+    "description": "Access to data published by [INEGI](http://www.inegi.org.mx/), Mexico's official statistics agency.",
+    "gsbpm_name": "Access to official statistics",
+    "gsbpm_number": "7.4",
+    "standard": "PX",
+    "access_to": [
+      "INEGI"
+    ],
+    "license": "CC0",
+    "platform": "CRAN"
+  },
+  {
+    "type": "R package",
+    "name": "cbsodataR",
+    "url": "https://cran.r-project.org/package=cbsodataR",
+    "description": "Access to Statistics Netherlands' ([CBS](http://www.CBS.nl)) open data API from R.",
+    "gsbpm_name": "Access to official statistics",
+    "gsbpm_number": "7.4",
+    "standard": "ODATA",
+    "access_to": [
+      "CBS"
+    ],
+    "license": "GPL-2",
+    "platform": "CRAN"
+  },
+  {
+    "type": "R package",
+    "name": "cbsodata4",
+    "url": "https://github.com/statistiekcbs/cbsodata4",
+    "description": "Access to OData4 interface of Statistics Netherlands' ([CBS](http://www.CBS.nl)) open data.",
+    "gsbpm_name": "Access to official statistics",
+    "gsbpm_number": "7.4",
+    "standard": "ODATA",
+    "access_to": [
+      "CBS"
+    ],
+    "license": "GPL-3.0",
+    "platform": "GitHub"
+  },
+  {
+    "type": "Node.js",
+    "name": "cbsodata.js",
+    "url": "https://github.com/statmine/cbsodata.js",
+    "description": "Access to Statistics Netherlands' ([CBS](http://www.CBS.nl)) open data API from js.",
+    "gsbpm_name": "Access to official statistics",
+    "gsbpm_number": "7.4",
+    "standard": "ODATA",
+    "access_to": [
+      "CBS"
+    ],
+    "license": "none",
+    "platform": "GitHub"
+  },
+  {
+    "type": "Python",
+    "name": "cbsodata.py",
+    "url": "https://github.com/J535D165/cbsodata",
+    "description": "Access to Statistics Netherlands' ([CBS](http://www.CBS.nl)) open data API from Python.",
+    "gsbpm_name": "Access to official statistics",
+    "gsbpm_number": "7.4",
+    "standard": "ODATA",
+    "access_to": [
+      "CBS"
+    ],
+    "license": "MIT",
+    "platform": "GitHub"
+  },
+  {
+    "type": "R package",
+    "name": "censusapi",
+    "url": "https://cran.r-project.org/package=censusapi",
+    "description": "A wrapper for the U.S. Census Bureau APIs that returns data frames of Census data and metadata.",
+    "gsbpm_name": "Access to official statistics",
+    "gsbpm_number": "7.4",
+    "standard": null,
+    "access_to": [
+      "US Census Bureau"
+    ],
+    "license": "GPL-3",
+    "platform": "CRAN"
+  },
+  {
+    "type": "R package",
+    "name": "nsoApi",
+    "url": "https://github.com/bowerth/nsoApi",
+    "description": "Builds on other packages to access data from official statistics and tries to harmonize the API.",
+    "gsbpm_name": "Access to official statistics",
+    "gsbpm_number": "7.4",
+    "standard": null,
+    "access_to": [
+      "CBS",
+      "Destatis",
+      "UK",
+      "Norway",
+      "Austria",
+      "STATCAN"
+    ],
+    "license": "EUPL-1.1",
+    "platform": "GitHub"
+  },
+  {
+    "type": "R package",
+    "name": "CANSIM2R",
+    "url": "https://cran.r-project.org/package=CANSIM2R",
+    "description": "Extract CANSIM (Statistics Canada) tables and transform them into readily usable data.",
+    "gsbpm_name": "Access to official statistics",
+    "gsbpm_number": "7.4",
+    "standard": null,
+    "access_to": [
+      "STATCAN"
+    ],
+    "license": "GPL-3",
+    "platform": "CRAN"
+  },
+  {
+    "type": "Python",
+    "name": "pyscbwrapper",
+    "url": "https://github.com/kirajcg/pyscbwrapper",
+    "description": "Access to the open data API of the Swedish Statistical Institute",
+    "gsbpm_name": "Access to official statistics",
+    "gsbpm_number": "7.4",
+    "standard": null,
+    "access_to": [
+      "Sweden"
+    ],
+    "license": "MIT",
+    "platform": "GitHub"
+  },
+  {
+    "type": "R package",
+    "name": "pxweb",
+    "url": "https://cran.r-project.org/package=pxweb",
+    "description": "Generic interface for the PX-Web/PC-Axis API used by many National Statistical Agencies.",
+    "gsbpm_name": "Access to official statistics",
+    "gsbpm_number": "7.4",
+    "standard": "PX",
+    "access_to": [
+      "all PX"
+    ],
+    "license": "BSD_2_clause + file LICENSE",
+    "platform": "CRAN"
+  },
+  {
+    "type": "R package",
+    "name": "PxWebApiData",
+    "url": "https://cran.r-project.org/package=PxWebApiData",
+    "description": "Easy API access to e.g. Statistics Norway, Statistics Sweden and Statistics Finland.",
+    "gsbpm_name": "Access to official statistics",
+    "gsbpm_number": "7.4",
+    "standard": "PX",
+    "access_to": [
+      "Norway",
+      "Sweden",
+      "Finland"
+    ],
+    "license": "Apache License 2.0 | file LICENSE",
+    "platform": "CRAN"
+  },
+  {
+    "type": "R package",
+    "name": "pxR",
+    "url": "https://cran.r-project.org/package=pxR",
+    "description": "Functions for reading and writing PC-Axis files.",
+    "gsbpm_name": "Access to official statistics",
+    "gsbpm_number": "7.4",
+    "standard": "PX",
+    "access_to": [
+      "all PX"
+    ],
+    "license": "GPL-3",
+    "platform": "CRAN"
+  },
+  {
+    "type": "R package",
+    "name": "rdbnomics",
+    "url": "https://git.nomics.world/dbnomics/rdbnomics",
+    "description": "Access to the [DB.nomics database](https://next.nomics.world/) which provide macroeconomic data from 38 official providers such as INSEE, Eurostat, World bank, etc.",
+    "gsbpm_name": "Access to official statistics",
+    "gsbpm_number": "7.4",
+    "standard": null,
+    "access_to": [
+      "DBnomics"
+    ],
+    "license": "unknown",
+    "platform": "other"
+  },
+  {
+    "type": "R package",
+    "name": "readabs",
+    "url": "https://cran.r-project.org/package=readabs",
+    "description": "Download data from the Australian Bureau of Statistics.",
+    "gsbpm_name": "Access to official statistics",
+    "gsbpm_number": "7.4",
+    "standard": null,
+    "access_to": [
+      "ABS"
+    ],
+    "license": "MIT + file LICENSE",
+    "platform": "CRAN"
+  },
+  {
+    "type": "R package",
+    "name": "statcanR",
+    "url": "https://cran.r-project.org/package=statcanR",
+    "description": "An R connection to Statistics Canada's Web Data Service. Open economic data (formerly CANSIM tables) are accessible as a data frame in the R environment.",
+    "gsbpm_name": "Access to official statistics",
+    "gsbpm_number": "7.4",
+    "standard": null,
+    "access_to": [
+      "STATCAN"
+    ],
+    "license": "MIT + file LICENSE",
+    "platform": "CRAN"
+  },
+  {
+    "type": "R package",
+    "name": "cdlTools",
+    "url": "https://cran.r-project.org/package=cdlTools",
+    "description": "Downloads USDA National Agricultural Statistics Service (NASS) cropscape data for a specified state.",
+    "gsbpm_name": "Access to official statistics",
+    "gsbpm_number": "7.4",
+    "standard": null,
+    "access_to": [
+      "USDA"
+    ],
+    "license": "Unlimited",
+    "platform": "CRAN"
+  },
+  {
+    "type": "Java application",
+    "name": "SDMX_Connectors",
+    "url": "https://github.com/amattioc/SDMX",
+    "description": "Browse SDMX data providers, build your queries and get data directly in your favourite tool (R, SAS, Matlab, Stata and Excel). By Banca d'Italia.",
+    "gsbpm_name": "Access to official statistics",
+    "gsbpm_number": "7.4",
+    "standard": "SDMX",
+    "access_to": [
+      "all SDMX"
+    ],
+    "license": "EUPL-1.2",
+    "platform": "GitHub"
+  },
+  {
+    "type": "Node.js",
+    "name": "sdmx-rest",
+    "url": "https://www.npmjs.com/package/sdmx-rest",
+    "description": "This library allows to easily create and execute SDMX REST queries from a JavaScript client application.",
+    "gsbpm_name": "Access to official statistics",
+    "gsbpm_number": "7.4",
+    "standard": "SDMX",
+    "access_to": [
+      "all SDMX"
+    ],
+    "license": "unknown",
+    "platform": "npm"
+  },
+  {
+    "type": "R package",
+    "name": "csodata",
+    "url": "https://cran.r-project.org/package=csodata",
+    "description": "Download data from Central Statistics Office (CSO) of Ireland.",
+    "gsbpm_name": "Access to official statistics",
+    "gsbpm_number": "7.4",
+    "standard": "PX",
+    "access_to": [
+      "CSO"
+    ],
+    "license": "GPL-3",
+    "platform": "CRAN"
+  },
+  {
+    "type": "R package",
+    "name": "iriR",
+    "url": "https://cran.r-project.org/package=iriR",
+    "description": "Client for the European Commission’s Industrial R&D Investment Scoreboard (IRI)",
+    "gsbpm_name": "Access to official statistics",
+    "gsbpm_number": "7.4",
+    "standard": null,
+    "access_to": [
+      "IRI"
+    ],
+    "license": "MIT + file LICENSE",
+    "platform": "CRAN"
+  },
+  {
+    "type": "R package",
+    "name": "czso",
+    "url": "https://cran.r-project.org/package=czso",
+    "description": "Access open data from the Czech Statistical Office.",
+    "gsbpm_name": "Access to official statistics",
+    "gsbpm_number": "7.4",
+    "standard": null,
+    "access_to": [
+      "CZSO"
+    ],
+    "license": "MIT + file LICENSE",
+    "platform": "CRAN"
+  },
+  {
+    "type": "R package",
+    "name": "ipumsr",
+    "url": "https://cran.r-project.org/package=ipumsr",
+    "description": "Access to the Integrated Public Use Microdata Series archive ipums.org (international censuses, harmonized U.S. data).",
+    "gsbpm_name": "Access to official statistics",
+    "gsbpm_number": "7.4",
+    "standard": null,
+    "access_to": [
+      "IPUMS"
+    ],
+    "license": "Mozilla Public License 2.0",
+    "platform": "CRAN"
+  },
+  {
+    "type": "R package",
+    "name": "eph",
+    "url": "https://cran.r-project.org/package=eph",
+    "description": "Tools to download and manipulate the [EPH-INDEC](https://www.indec.gob.ar/) from Argentina (EPH is the Spanish acronym for Permanent Household Survey)",
+    "gsbpm_name": "Access to official statistics",
+    "gsbpm_number": "7.4",
+    "standard": null,
+    "access_to": [
+      "Argentina HHS"
+    ],
+    "license": "MIT + file LICENSE",
+    "platform": "CRAN"
+  },
+  {
+    "type": "R package",
+    "name": "blsR",
+    "url": "https://cran.r-project.org/package=blsR",
+    "description": "Make Requests to the BLS (Bureau of Labor Statistics) API",
+    "gsbpm_name": "Access to official statistics",
+    "gsbpm_number": "7.4",
+    "standard": null,
+    "access_to": [
+      "BLS"
+    ],
+    "license": "MIT + file LICENSE",
+    "platform": "CRAN"
+  },
+  {
+    "type": "R package",
+    "name": "danstat",
+    "url": "https://cran.r-project.org/package=danstat",
+    "description": "R Client for the Statistics Denmark Databank API",
+    "gsbpm_name": "Access to official statistics",
+    "gsbpm_number": "7.4",
+    "standard": null,
+    "access_to": [
+      "Denmark"
+    ],
+    "license": "MIT + file LICENSE",
+    "platform": "CRAN"
+  },
+  {
+    "type": "R package",
+    "name": "restatis",
+    "url": "https://cran.r-project.org/package=restatis",
+    "description": "R API Client for the German Federal Statistical Office Database",
+    "gsbpm_name": "Access to official statistics",
+    "gsbpm_number": "7.4",
+    "standard": null,
+    "access_to": [
+      "Germany"
+    ],
+    "license": "MIT + file LICENSE",
+    "platform": "CRAN"
+  },
+  {
+    "type": "Python",
+    "name": "pystatis",
+    "url": "https://pypi.org/project/pystatis/",
+    "description": "Python wrapper for GENESIS web service interface (API) of the Federal Statistical Office",
+    "gsbpm_name": "Access to official statistics",
+    "gsbpm_number": "7.4",
+    "standard": null,
+    "access_to": [
+      "Germany"
+    ],
+    "license": "unknown",
+    "platform": "PyPI"
+  },
+  {
+    "type": "R package",
+    "name": "nonprobsvy",
+    "url": "https://cran.r-project.org/package=nonprobsvy",
+    "description": "Statistical inference with non-probability samples when auxiliary information is available from external sources such as probability samples or population totals or means. The package implements inverse probability weighting, mass imputation and doubly robust estimators possibly with high-dimensional covariates.",
+    "gsbpm_name": "Estimation and weighting",
+    "gsbpm_number": "5.6 | 5.7",
+    "license": "MIT + file LICENSE",
+    "platform": "CRAN"
+  }
+]
