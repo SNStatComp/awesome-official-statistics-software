@@ -18,6 +18,7 @@
     for upload into an SDMX repository such as a registry. By OECD.
   gsbpm_name: Design variable descriptions
   gsbpm_number: '2.2'
+  license: 'MIT'
 - type: R package
   name: sampling
   url: https://cran.r-project.org/package=sampling
@@ -136,6 +137,7 @@
     of Fellegi and Holt.
   gsbpm_name: Process
   gsbpm_number: '5'
+  license: 'GPL2'
 - type: R package
   name: reclin2
   url: https://cran.r-project.org/package=reclin2
@@ -188,6 +190,7 @@
     in data sources. By Istat.
   gsbpm_name: Data integration and record linkage
   gsbpm_number: '5.1'
+  license: 'EUPL-1.2'
 - type: R package
   name: XBRL
   url: https://cran.r-project.org/package=XBRL
@@ -396,6 +399,7 @@
     distributed by the US Census Bureau.
   gsbpm_name: Time series and seasonal adjustment
   gsbpm_number: 5.6 | 5.7
+  license: "other"
 - type: R package
   name: seasonal
   url: https://cran.r-project.org/package=seasonal
@@ -511,6 +515,7 @@
   description: Converts between SDMX versions and formats like CSV, FLR etc. By Eurostat.
   gsbpm_name: Statistical Dissemination
   gsbpm_number: '7.2'
+  license: 'EUPL-1.0'
 - type: Java application
   name: SDMX-RI
   url: https://ec.europa.eu/eurostat/cros/content/sdmx-ri_en
@@ -538,12 +543,14 @@
     data explorers, or lightweight reporting platforms. [Documentation](https://sis-cc.gitlab.io/dotstatsuite-documentation). By [SIS-CC](https://siscc.org).
   gsbpm_name: Statistical Dissemination
   gsbpm_number: '7.2'
+  license: 'MIT'
 - type: JavaScript and other
   name: ISTAT Statkit
   url: https://sdmxistattoolkit.github.io
   description: A toolkit to facilitate the standardization and industrialization of statistical dissemination and reporting based on SDMX. By ISTAT.
   gsbpm_name: Statistical Dissemination
   gsbpm_number: '7.2'
+  license: 'EUPL-1.0'
 - type: JSON
   name: SDMX-JSON
   url: https://github.com/sdmx-twg/sdmx-json
@@ -688,6 +695,7 @@
   standard: JSON-STAT
   access_to:
   - all JSON-STAT
+  license: 'Apache-2.0'
 - type: Java application
   name: json-stat.java
   url: https://github.com/statisticsnorway/json-stat.java

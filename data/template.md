@@ -31,7 +31,7 @@ We prefer software that is easy to install and use and actively maintained. [Con
 #### {{name}} ([GSBPM](https://unece.org/statistics/modernstats/gsbpm) {{number}})
 
 {{#items}}
-- <img src="{{badgeURL}}badges/{{name}}/version.svg"></img> <img src="{{badgeURL}}badges/{{name}}/latest.svg"></img> <img src="{{badgeURL}}badges/{{name}}/license.svg"></img>\
+- <img src="{{badgeURL}}metadata/{{name}}/version.svg"></img> <img src="{{badgeURL}}metadata/{{name}}/latest.svg"></img> <img src="{{badgeURL}}metadata/{{name}}/license.svg"></img>\
 {{type}} [{{name}}]({{url}}). {{description}}
 {{/items}}
 
@@ -61,8 +61,9 @@ Use the following code (or equivalent) to do so:
 ## Maintenance
 We deserve the right to remove items that do not work or install anymore or are not actively maintained, to change package descriptions if needed and to do any other editing that improves this list.  
 
-## License
+## License and citation
 
 [![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)  
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
+Cite as: Olav ten Bosch. (2022, March 10). The awesome list of official statistics software & FOSS best practices. Zenodo. https://doi.org/10.5281/zenodo.7665189

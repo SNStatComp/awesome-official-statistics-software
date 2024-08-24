@@ -28,16 +28,16 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      # test
-      - name: test
-        run: node test.js
+      # retrieve pkg metadata
+      - name: get_metadata
+        run: node get_metadata.js
         env:
           GH_API_TOKEN: ${{ secrets.GH_API_TOKEN }}
-      
-      # run getbadges
-      - name: get_badges
-        run: node get_badges.js
-        
+
+      # aggregate metadata
+      - name: aggregate_metadata
+        run: node aggregate_metadata.js
+
       # generate readme
       - name: generate_readme_csv
         run: node generate_readme_csv.js
