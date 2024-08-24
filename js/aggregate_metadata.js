@@ -17,8 +17,8 @@ function process_data(data) {
         
         let meta = JSON.parse(fs.readFileSync(`${metadatadir}/${item.name}/pkg.json`))
         item.license = meta.license
+        item.licenseSimple = item.license.split(/[_ -]/)[0]
         item.platform = meta.platform
-
     }
 
 	// Write a json file with original and derived data in metadata folder, for visualisations and derived work:

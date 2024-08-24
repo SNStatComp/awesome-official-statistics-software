@@ -137,7 +137,7 @@
     of Fellegi and Holt.
   gsbpm_name: Process
   gsbpm_number: '5'
-  license: 'GPL2'
+  license: 'GPL-2'
 - type: R package
   name: reclin2
   url: https://cran.r-project.org/package=reclin2
