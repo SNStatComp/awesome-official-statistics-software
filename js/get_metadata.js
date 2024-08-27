@@ -43,7 +43,7 @@ function process_data(data) {
 						fs.writeFileSync(`${item.metadatadir}/pkg.json`, JSON.stringify({
 							name: item.name,
 							platform: 'CRAN',
-							license: item?.license || pkg_cran?.License || "none"
+							license: item?.license || pkg_cran?.License || "unknown"
 						}), 'utf8')
 				})
 
@@ -65,7 +65,7 @@ function process_data(data) {
 					fs.writeFileSync(`${item.metadatadir}/pkg.json`, JSON.stringify({
 						name: item.name,
 						platform: 'GitHub',
-						license: item?.license || pkg_gh?.data?.license?.spdx_id || 'none'
+						license: item?.license || pkg_gh?.data?.license?.spdx_id || 'unknown'
 					}), 'utf8')
 				})
 

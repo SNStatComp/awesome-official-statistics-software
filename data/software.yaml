@@ -399,7 +399,6 @@
     distributed by the US Census Bureau.
   gsbpm_name: Time series and seasonal adjustment
   gsbpm_number: 5.6 | 5.7
-  license: "other"
 - type: R package
   name: seasonal
   url: https://cran.r-project.org/package=seasonal
