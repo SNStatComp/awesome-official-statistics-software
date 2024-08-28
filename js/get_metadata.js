@@ -8,6 +8,8 @@ let GH_API_TOKEN = process.env.GH_API_TOKEN  // in shell: export GH_API_TOKEN=<t
 console.log(GH_API_TOKEN.length)
 const octokit = new Octokit({ auth: GH_API_TOKEN })
 
+const languageFilter = ['Makefile', 'TeX', 'HTML'] // do not mention these as programming languages
+
 const metadatadir = "../metadata"
 if (!fs.existsSync(metadatadir)) fs.mkdirSync(metadatadir)
 	
@@ -71,7 +73,7 @@ function process_data(data) {
 					// calculate languages above threshold:
 					let arr = res_lang?.data || []
 					let total = 0; for (const l in arr) {total += arr[l]}
-					let languages=[]; for (const l in arr) if (arr[l] > total*0.2) languages.push(l)
+					let languages=[]; for (const l in arr) if (languageFilter.indexOf(l) == -1 && arr[l] > total*0.2) languages.push(l)
 
 					// write selected info to pkg.json
 					fs.writeFileSync(`${item.metadatadir}/pkg.json`, JSON.stringify({
