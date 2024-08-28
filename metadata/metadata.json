@@ -1133,11 +1133,7 @@
     "license": "unknown",
     "licenseSimple": "unknown",
     "platform": "GitHub",
-    "languages": [
-      "Makefile",
-      "HTML",
-      "TeX"
-    ]
+    "languages": []
   },
   {
     "type": "JSON",
@@ -1291,8 +1287,7 @@
     "licenseSimple": "NOASSERTION",
     "platform": "GitHub",
     "languages": [
-      "JavaScript",
-      "HTML"
+      "JavaScript"
     ]
   },
   {
