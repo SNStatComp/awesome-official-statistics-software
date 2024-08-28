@@ -19,6 +19,7 @@ function process_data(data) {
         item.license = meta.license
         item.licenseSimple = item.license.split(/[_ -]/)[0]
         item.platform = meta.platform
+        item.languages = meta.languages
     }
 
 	// Write a json file with original and derived data in metadata folder, for visualisations and derived work:

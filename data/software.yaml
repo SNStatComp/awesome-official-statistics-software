@@ -19,6 +19,7 @@
   gsbpm_name: Design variable descriptions
   gsbpm_number: '2.2'
   license: 'MIT'
+  languages: ['Excel']
 - type: R package
   name: sampling
   url: https://cran.r-project.org/package=sampling
@@ -543,6 +544,7 @@
   gsbpm_name: Statistical Dissemination
   gsbpm_number: '7.2'
   license: 'MIT'
+  languages: ['JavaScript', 'Docker']
 - type: JavaScript and other
   name: ISTAT Statkit
   url: https://sdmxistattoolkit.github.io

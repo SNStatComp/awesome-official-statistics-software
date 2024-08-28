@@ -43,7 +43,8 @@ function process_data(data) {
 						fs.writeFileSync(`${item.metadatadir}/pkg.json`, JSON.stringify({
 							name: item.name,
 							platform: 'CRAN',
-							license: item?.license || pkg_cran?.License || "unknown"
+							license: item?.license || pkg_cran?.License || "unknown",
+							languages: ['R']	// note: we ignore that some parts might be written in C/C++ as this is not visible to a package user
 						}), 'utf8')
 				})
 
@@ -59,14 +60,27 @@ function process_data(data) {
 				download_svg(`https://img.shields.io/github/license/${user}/${repo}?style=plastic`, `${item.metadatadir}/license.svg`)
 				
 				// pkg metadata:
-				let res = download_GH_repometa(user, repo)
-				res.then((pkg_gh) => {
-					fs.writeFileSync(`${item.metadatadir}/pkg_gh.json`, JSON.stringify(pkg_gh), 'utf8')
+				let p1 = GH_meta(user, repo)
+				let p2 = GH_languages(user, repo)
+				Promise.all([p1, p2]).then(([res_meta, res_lang]) => {
+					//pkg meta
+					fs.writeFileSync(`${item.metadatadir}/pkg_gh.json`, JSON.stringify(res_meta), 'utf8')
+
+					// pkg languages
+					fs.writeFileSync(`${item.metadatadir}/pkg_gh_languages.json`, JSON.stringify(res_lang), 'utf8')
+					// calculate languages above threshold:
+					let arr = res_lang?.data || []
+					let total = 0; for (const l in arr) {total += arr[l]}
+					let languages=[]; for (const l in arr) if (arr[l] > total*0.2) languages.push(l)
+
+					// write selected info to pkg.json
 					fs.writeFileSync(`${item.metadatadir}/pkg.json`, JSON.stringify({
 						name: item.name,
 						platform: 'GitHub',
-						license: item?.license || pkg_gh?.data?.license?.spdx_id || 'unknown'
+						license: item?.license || res_meta?.data?.license?.spdx_id || 'unknown',
+						languages: languages
 					}), 'utf8')
+
 				})
 
                 break
@@ -85,7 +99,8 @@ function process_data(data) {
 				fs.writeFileSync(`${item.metadatadir}/pkg.json`, JSON.stringify({
 					name: item.name,
 					platform: 'GitLab',
-					license: item?.license || 'unknown'
+					license: item?.license || 'unknown',
+					languages: item?.languages || 'unknown'
 				}), 'utf8')
 
                 break
@@ -103,7 +118,8 @@ function process_data(data) {
 				fs.writeFileSync(`${item.metadatadir}/pkg.json`, JSON.stringify({
 					name: item.name,
 					platform: 'PyPI',
-					license: item?.license || 'unknown'
+					license: item?.license || 'unknown',
+					languages: ['Python']
 				}), 'utf8')
 
                 break
@@ -121,7 +137,8 @@ function process_data(data) {
 				fs.writeFileSync(`${item.metadatadir}/pkg.json`, JSON.stringify({
 					name: item.name,
 					platform: 'npm',
-					license: item?.license || 'unknown'
+					license: item?.license || 'unknown',
+					languages: ['JavaScript']
 				}), 'utf8')
 
                 break
@@ -138,7 +155,8 @@ function process_data(data) {
 				fs.writeFileSync(`${item.metadatadir}/pkg.json`, JSON.stringify({
 					name: item.name,
 					platform: 'other',
-					license: item?.license || 'unknown'
+					license: item?.license || 'unknown',
+					languages: ['unknown']
 				}), 'utf8')
 
                 break
@@ -161,8 +179,18 @@ function none_svg(path) {
 		console.error('error writing :', path)
 	}
 }
-async function download_GH_repometa(owner, repo) {
+async function GH_meta(owner, repo) {
 	let res = await octokit.request('GET /repos/{owner}/{repo}', {
+		owner: owner,
+		repo: repo,
+		headers: {
+			'X-GitHub-Api-Version': '2022-11-28'
+		}
+	})
+	return(res)
+}
+async function GH_languages(owner, repo) {
+	let res = await octokit.request('GET /repos/{owner}/{repo}/languages', {
 		owner: owner,
 		repo: repo,
 		headers: {
