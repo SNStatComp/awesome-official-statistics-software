@@ -138,8 +138,8 @@
     "description": "A script for detecting social media presence on enterprises websites. By Statistics Poland.",
     "gsbpm_name": "Scraping for Statistics",
     "gsbpm_number": "4.3",
-    "license": "none",
-    "licenseSimple": "none",
+    "license": "unknown",
+    "licenseSimple": "unknown",
     "platform": "GitHub"
   },
   {
@@ -523,8 +523,8 @@
     "description": "Like [survey](https://CRAN.r-project.org/package=survey), but with specific features (e.g. partitioned calibration) that make it fit for processing large-scale surveys. Implements different estimators with sampling errors, and ships with a dedicated GUI (package [ReGenesees.GUI](https://github.com/DiegoZardetto/ReGenesees.GUI)).",
     "gsbpm_name": "Estimation and weighting",
     "gsbpm_number": "5.6 | 5.7",
-    "license": "none",
-    "licenseSimple": "none",
+    "license": "unknown",
+    "licenseSimple": "unknown",
     "platform": "GitHub"
   },
   {
@@ -622,8 +622,8 @@
     "description": "seasonal adjustment software, by Census Bureau produced maintained and distributed by the US Census Bureau.",
     "gsbpm_name": "Time series and seasonal adjustment",
     "gsbpm_number": "5.6 | 5.7",
-    "license": "other",
-    "licenseSimple": "other",
+    "license": "unknown",
+    "licenseSimple": "unknown",
     "platform": "other"
   },
   {
@@ -886,8 +886,8 @@
     "description": "JSON variant of SDMX. Works together with the [SDMX-REST API](https://github.com/sdmx-twg/sdmx-rest).",
     "gsbpm_name": "Statistical Dissemination",
     "gsbpm_number": "7.2",
-    "license": "none",
-    "licenseSimple": "none",
+    "license": "unknown",
+    "licenseSimple": "unknown",
     "platform": "GitHub"
   },
   {
@@ -952,8 +952,8 @@
     "description": "A (growing) list of simplified maps useful for web cartography for World, Europe and countries.",
     "gsbpm_name": "Visualisation",
     "gsbpm_number": "7.2",
-    "license": "none",
-    "licenseSimple": "none",
+    "license": "unknown",
+    "licenseSimple": "unknown",
     "platform": "GitHub"
   },
   {
@@ -996,8 +996,8 @@
     "description": "Experimental visualization framework from Statistics Netherlands.",
     "gsbpm_name": "Visualisation",
     "gsbpm_number": "7.2",
-    "license": "none",
-    "licenseSimple": "none",
+    "license": "unknown",
+    "licenseSimple": "unknown",
     "platform": "GitHub"
   },
   {
@@ -1254,8 +1254,8 @@
     "access_to": [
       "CBS"
     ],
-    "license": "none",
-    "licenseSimple": "none",
+    "license": "unknown",
+    "licenseSimple": "unknown",
     "platform": "GitHub"
   },
   {
