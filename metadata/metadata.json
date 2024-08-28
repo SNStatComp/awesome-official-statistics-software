@@ -8,7 +8,10 @@
     "gsbpm_number": "2.1",
     "license": "GPL (>= 2)",
     "licenseSimple": "GPL",
-    "platform": "CRAN"
+    "platform": "CRAN",
+    "languages": [
+      "R"
+    ]
   },
   {
     "type": "R package",
@@ -19,7 +22,10 @@
     "gsbpm_number": "2.1",
     "license": "EUPL",
     "licenseSimple": "EUPL",
-    "platform": "CRAN"
+    "platform": "CRAN",
+    "languages": [
+      "R"
+    ]
   },
   {
     "type": "Excel",
@@ -29,6 +35,9 @@
     "gsbpm_name": "Design variable descriptions",
     "gsbpm_number": "2.2",
     "license": "MIT",
+    "languages": [
+      "Excel"
+    ],
     "licenseSimple": "MIT",
     "platform": "GitLab"
   },
@@ -41,7 +50,10 @@
     "gsbpm_number": "4.1",
     "license": "GPL (>= 2)",
     "licenseSimple": "GPL",
-    "platform": "CRAN"
+    "platform": "CRAN",
+    "languages": [
+      "R"
+    ]
   },
   {
     "type": "R package",
@@ -52,7 +64,10 @@
     "gsbpm_number": "4.1",
     "license": "GPL (>= 2)",
     "licenseSimple": "GPL",
-    "platform": "CRAN"
+    "platform": "CRAN",
+    "languages": [
+      "R"
+    ]
   },
   {
     "type": "R package",
@@ -63,7 +78,10 @@
     "gsbpm_number": "4.1",
     "license": "GPL-3",
     "licenseSimple": "GPL",
-    "platform": "CRAN"
+    "platform": "CRAN",
+    "languages": [
+      "R"
+    ]
   },
   {
     "type": "R package",
@@ -74,7 +92,10 @@
     "gsbpm_number": "4.1",
     "license": "MIT + file LICENSE",
     "licenseSimple": "MIT",
-    "platform": "CRAN"
+    "platform": "CRAN",
+    "languages": [
+      "R"
+    ]
   },
   {
     "type": "R package",
@@ -85,7 +106,10 @@
     "gsbpm_number": "4.1",
     "license": "MIT + file LICENSE",
     "licenseSimple": "MIT",
-    "platform": "CRAN"
+    "platform": "CRAN",
+    "languages": [
+      "R"
+    ]
   },
   {
     "type": "R package",
@@ -96,7 +120,10 @@
     "gsbpm_number": "4.1",
     "license": "MIT + file LICENSE",
     "licenseSimple": "MIT",
-    "platform": "CRAN"
+    "platform": "CRAN",
+    "languages": [
+      "R"
+    ]
   },
   {
     "type": "Java application",
@@ -107,7 +134,10 @@
     "gsbpm_number": "4.3",
     "license": "EUPL-1.2",
     "licenseSimple": "EUPL",
-    "platform": "GitHub"
+    "platform": "GitHub",
+    "languages": [
+      "Python"
+    ]
   },
   {
     "type": "Java application",
@@ -118,7 +148,10 @@
     "gsbpm_number": "4.3",
     "license": "EUPL-1.2",
     "licenseSimple": "EUPL",
-    "platform": "GitHub"
+    "platform": "GitHub",
+    "languages": [
+      "Python"
+    ]
   },
   {
     "type": "Node.js",
@@ -129,7 +162,10 @@
     "gsbpm_number": "4.3",
     "license": "EUPL-1.2",
     "licenseSimple": "EUPL",
-    "platform": "GitHub"
+    "platform": "GitHub",
+    "languages": [
+      "JavaScript"
+    ]
   },
   {
     "type": "Python",
@@ -140,7 +176,10 @@
     "gsbpm_number": "4.3",
     "license": "unknown",
     "licenseSimple": "unknown",
-    "platform": "GitHub"
+    "platform": "GitHub",
+    "languages": [
+      "Python"
+    ]
   },
   {
     "type": "Python",
@@ -151,7 +190,10 @@
     "gsbpm_number": "4.3",
     "license": "MIT",
     "licenseSimple": "MIT",
-    "platform": "GitHub"
+    "platform": "GitHub",
+    "languages": [
+      "Python"
+    ]
   },
   {
     "type": "Python",
@@ -162,7 +204,10 @@
     "gsbpm_number": "4.3",
     "license": "EUPL-1.2",
     "licenseSimple": "EUPL",
-    "platform": "GitHub"
+    "platform": "GitHub",
+    "languages": [
+      "Python"
+    ]
   },
   {
     "type": "R package",
@@ -173,7 +218,10 @@
     "gsbpm_number": "5",
     "license": "GPL-3",
     "licenseSimple": "GPL",
-    "platform": "CRAN"
+    "platform": "CRAN",
+    "languages": [
+      "R"
+    ]
   },
   {
     "type": "Java application",
@@ -184,7 +232,10 @@
     "gsbpm_number": "5",
     "license": "MIT",
     "licenseSimple": "MIT",
-    "platform": "GitHub"
+    "platform": "GitHub",
+    "languages": [
+      "Java"
+    ]
   },
   {
     "type": "Java application",
@@ -195,7 +246,10 @@
     "gsbpm_number": "5",
     "license": "Apache-2.0",
     "licenseSimple": "Apache",
-    "platform": "GitHub"
+    "platform": "GitHub",
+    "languages": [
+      "Java"
+    ]
   },
   {
     "type": "R package",
@@ -206,7 +260,10 @@
     "gsbpm_number": "5",
     "license": "GPL-3",
     "licenseSimple": "GPL",
-    "platform": "CRAN"
+    "platform": "CRAN",
+    "languages": [
+      "R"
+    ]
   },
   {
     "type": "Java application",
@@ -217,7 +274,10 @@
     "gsbpm_number": "5",
     "license": "GPL-2",
     "licenseSimple": "GPL",
-    "platform": "other"
+    "platform": "other",
+    "languages": [
+      "unknown"
+    ]
   },
   {
     "type": "R package",
@@ -228,7 +288,10 @@
     "gsbpm_number": "5.1",
     "license": "GPL-3",
     "licenseSimple": "GPL",
-    "platform": "CRAN"
+    "platform": "CRAN",
+    "languages": [
+      "R"
+    ]
   },
   {
     "type": "R package",
@@ -239,7 +302,10 @@
     "gsbpm_number": "5.1",
     "license": "GPL (>= 2)",
     "licenseSimple": "GPL",
-    "platform": "CRAN"
+    "platform": "CRAN",
+    "languages": [
+      "R"
+    ]
   },
   {
     "type": "R package",
@@ -250,7 +316,10 @@
     "gsbpm_number": "5.1",
     "license": "GPL (>= 2)",
     "licenseSimple": "GPL",
-    "platform": "CRAN"
+    "platform": "CRAN",
+    "languages": [
+      "R"
+    ]
   },
   {
     "type": "R package",
@@ -261,7 +330,10 @@
     "gsbpm_number": "5.1",
     "license": "GPL (>= 3)",
     "licenseSimple": "GPL",
-    "platform": "CRAN"
+    "platform": "CRAN",
+    "languages": [
+      "R"
+    ]
   },
   {
     "type": "R packages",
@@ -272,7 +344,10 @@
     "gsbpm_number": "5.1",
     "license": "GPL-3",
     "licenseSimple": "GPL",
-    "platform": "CRAN"
+    "platform": "CRAN",
+    "languages": [
+      "R"
+    ]
   },
   {
     "type": "R packages",
@@ -283,7 +358,10 @@
     "gsbpm_number": "5.1",
     "license": "MIT + file LICENSE",
     "licenseSimple": "MIT",
-    "platform": "CRAN"
+    "platform": "CRAN",
+    "languages": [
+      "R"
+    ]
   },
   {
     "type": "R Java MySQL",
@@ -294,7 +372,10 @@
     "gsbpm_number": "5.1",
     "license": "EUPL-1.2",
     "licenseSimple": "EUPL",
-    "platform": "other"
+    "platform": "other",
+    "languages": [
+      "unknown"
+    ]
   },
   {
     "type": "R package",
@@ -305,7 +386,10 @@
     "gsbpm_number": "5.1",
     "license": "GPL (>= 2)",
     "licenseSimple": "GPL",
-    "platform": "CRAN"
+    "platform": "CRAN",
+    "languages": [
+      "R"
+    ]
   },
   {
     "type": "R package",
@@ -316,7 +400,10 @@
     "gsbpm_number": "5.3 | 5.4",
     "license": "GPL-3",
     "licenseSimple": "GPL",
-    "platform": "CRAN"
+    "platform": "CRAN",
+    "languages": [
+      "R"
+    ]
   },
   {
     "type": "R package",
@@ -327,7 +414,10 @@
     "gsbpm_number": "5.3 | 5.4",
     "license": "GPL-3",
     "licenseSimple": "GPL",
-    "platform": "CRAN"
+    "platform": "CRAN",
+    "languages": [
+      "R"
+    ]
   },
   {
     "type": "R package",
@@ -338,7 +428,10 @@
     "gsbpm_number": "5.3 | 5.4",
     "license": "MIT + file LICENSE",
     "licenseSimple": "MIT",
-    "platform": "CRAN"
+    "platform": "CRAN",
+    "languages": [
+      "R"
+    ]
   },
   {
     "type": "R package",
@@ -349,7 +442,10 @@
     "gsbpm_number": "5.3 | 5.4",
     "license": "GPL-3",
     "licenseSimple": "GPL",
-    "platform": "CRAN"
+    "platform": "CRAN",
+    "languages": [
+      "R"
+    ]
   },
   {
     "type": "R package",
@@ -360,7 +456,10 @@
     "gsbpm_number": "5.3 | 5.4",
     "license": "GPL (>= 2)",
     "licenseSimple": "GPL",
-    "platform": "CRAN"
+    "platform": "CRAN",
+    "languages": [
+      "R"
+    ]
   },
   {
     "type": "R package",
@@ -371,7 +470,10 @@
     "gsbpm_number": "5.3 | 5.4",
     "license": "GPL-3",
     "licenseSimple": "GPL",
-    "platform": "CRAN"
+    "platform": "CRAN",
+    "languages": [
+      "R"
+    ]
   },
   {
     "type": "R package",
@@ -382,7 +484,10 @@
     "gsbpm_number": "5.3 | 5.4",
     "license": "EUPL",
     "licenseSimple": "EUPL",
-    "platform": "CRAN"
+    "platform": "CRAN",
+    "languages": [
+      "R"
+    ]
   },
   {
     "type": "R package",
@@ -393,7 +498,10 @@
     "gsbpm_number": "5.3 | 5.4",
     "license": "GPL (>= 2)",
     "licenseSimple": "GPL",
-    "platform": "CRAN"
+    "platform": "CRAN",
+    "languages": [
+      "R"
+    ]
   },
   {
     "type": "R package",
@@ -404,7 +512,10 @@
     "gsbpm_number": "5.3 | 5.4",
     "license": "GPL-2",
     "licenseSimple": "GPL",
-    "platform": "CRAN"
+    "platform": "CRAN",
+    "languages": [
+      "R"
+    ]
   },
   {
     "type": "R package",
@@ -415,7 +526,10 @@
     "gsbpm_number": "5.3 | 5.4",
     "license": "GPL-3",
     "licenseSimple": "GPL",
-    "platform": "CRAN"
+    "platform": "CRAN",
+    "languages": [
+      "R"
+    ]
   },
   {
     "type": "R package",
@@ -426,7 +540,10 @@
     "gsbpm_number": "5.3 | 5.4",
     "license": "GPL-3",
     "licenseSimple": "GPL",
-    "platform": "CRAN"
+    "platform": "CRAN",
+    "languages": [
+      "R"
+    ]
   },
   {
     "type": "R package",
@@ -437,7 +554,10 @@
     "gsbpm_number": "5.3 | 5.4",
     "license": "GPL (>= 2)",
     "licenseSimple": "GPL",
-    "platform": "CRAN"
+    "platform": "CRAN",
+    "languages": [
+      "R"
+    ]
   },
   {
     "type": "R package",
@@ -448,7 +568,10 @@
     "gsbpm_number": "5.6 | 5.7",
     "license": "GPL-2 | GPL-3",
     "licenseSimple": "GPL",
-    "platform": "CRAN"
+    "platform": "CRAN",
+    "languages": [
+      "R"
+    ]
   },
   {
     "type": "R package",
@@ -459,7 +582,10 @@
     "gsbpm_number": "5.6 | 5.7",
     "license": "GPL-3",
     "licenseSimple": "GPL",
-    "platform": "CRAN"
+    "platform": "CRAN",
+    "languages": [
+      "R"
+    ]
   },
   {
     "type": "R package",
@@ -470,7 +596,10 @@
     "gsbpm_number": "5.6 | 5.7",
     "license": "GPL-3",
     "licenseSimple": "GPL",
-    "platform": "CRAN"
+    "platform": "CRAN",
+    "languages": [
+      "R"
+    ]
   },
   {
     "type": "R package",
@@ -481,7 +610,10 @@
     "gsbpm_number": "5.6 | 5.7",
     "license": "GPL-3",
     "licenseSimple": "GPL",
-    "platform": "CRAN"
+    "platform": "CRAN",
+    "languages": [
+      "R"
+    ]
   },
   {
     "type": "R package",
@@ -492,7 +624,10 @@
     "gsbpm_number": "5.6 | 5.7",
     "license": "GPL-2",
     "licenseSimple": "GPL",
-    "platform": "CRAN"
+    "platform": "CRAN",
+    "languages": [
+      "R"
+    ]
   },
   {
     "type": "R package",
@@ -503,7 +638,10 @@
     "gsbpm_number": "5.6 | 5.7",
     "license": "GPL-3",
     "licenseSimple": "GPL",
-    "platform": "CRAN"
+    "platform": "CRAN",
+    "languages": [
+      "R"
+    ]
   },
   {
     "type": "R package",
@@ -514,7 +652,10 @@
     "gsbpm_number": "5.6 | 5.7",
     "license": "GPL-3",
     "licenseSimple": "GPL",
-    "platform": "CRAN"
+    "platform": "CRAN",
+    "languages": [
+      "R"
+    ]
   },
   {
     "type": "R package",
@@ -525,7 +666,10 @@
     "gsbpm_number": "5.6 | 5.7",
     "license": "unknown",
     "licenseSimple": "unknown",
-    "platform": "GitHub"
+    "platform": "GitHub",
+    "languages": [
+      "R"
+    ]
   },
   {
     "type": "R package",
@@ -536,7 +680,10 @@
     "gsbpm_number": "5.6 | 5.7",
     "license": "EUPL | file LICENSE",
     "licenseSimple": "EUPL",
-    "platform": "CRAN"
+    "platform": "CRAN",
+    "languages": [
+      "R"
+    ]
   },
   {
     "type": "R package",
@@ -547,7 +694,10 @@
     "gsbpm_number": "5.6 | 5.7",
     "license": "GPL-3",
     "licenseSimple": "GPL",
-    "platform": "CRAN"
+    "platform": "CRAN",
+    "languages": [
+      "R"
+    ]
   },
   {
     "type": "R package",
@@ -558,7 +708,10 @@
     "gsbpm_number": "5.6 | 5.7",
     "license": "GPL-3",
     "licenseSimple": "GPL",
-    "platform": "CRAN"
+    "platform": "CRAN",
+    "languages": [
+      "R"
+    ]
   },
   {
     "type": "R package",
@@ -569,7 +722,10 @@
     "gsbpm_number": "5.6 | 5.7",
     "license": "GPL-3",
     "licenseSimple": "GPL",
-    "platform": "CRAN"
+    "platform": "CRAN",
+    "languages": [
+      "R"
+    ]
   },
   {
     "type": "R package",
@@ -580,7 +736,10 @@
     "gsbpm_number": "5.6 | 5.7",
     "license": "EUPL",
     "licenseSimple": "EUPL",
-    "platform": "CRAN"
+    "platform": "CRAN",
+    "languages": [
+      "R"
+    ]
   },
   {
     "type": "R package",
@@ -591,7 +750,10 @@
     "gsbpm_number": "5.6 | 5.7",
     "license": "GPL (>= 2)",
     "licenseSimple": "GPL",
-    "platform": "CRAN"
+    "platform": "CRAN",
+    "languages": [
+      "R"
+    ]
   },
   {
     "type": "R package",
@@ -602,7 +764,10 @@
     "gsbpm_number": "5.6 | 5.7",
     "license": "GPL (>= 2)",
     "licenseSimple": "GPL",
-    "platform": "CRAN"
+    "platform": "CRAN",
+    "languages": [
+      "R"
+    ]
   },
   {
     "type": "R package",
@@ -613,7 +778,10 @@
     "gsbpm_number": "5.6 | 5.7",
     "license": "MIT + file LICENSE",
     "licenseSimple": "MIT",
-    "platform": "CRAN"
+    "platform": "CRAN",
+    "languages": [
+      "R"
+    ]
   },
   {
     "type": "Fortran",
@@ -624,7 +792,10 @@
     "gsbpm_number": "5.6 | 5.7",
     "license": "unknown",
     "licenseSimple": "unknown",
-    "platform": "other"
+    "platform": "other",
+    "languages": [
+      "unknown"
+    ]
   },
   {
     "type": "R package",
@@ -635,7 +806,10 @@
     "gsbpm_number": "5.6 | 5.7",
     "license": "GPL-3",
     "licenseSimple": "GPL",
-    "platform": "CRAN"
+    "platform": "CRAN",
+    "languages": [
+      "R"
+    ]
   },
   {
     "type": "R package",
@@ -646,7 +820,10 @@
     "gsbpm_number": "5.6 | 5.7",
     "license": "GPL (>= 2)",
     "licenseSimple": "GPL",
-    "platform": "CRAN"
+    "platform": "CRAN",
+    "languages": [
+      "R"
+    ]
   },
   {
     "type": "Java application",
@@ -657,7 +834,10 @@
     "gsbpm_number": "5.6 | 5.7",
     "license": "EUPL-1.2",
     "licenseSimple": "EUPL",
-    "platform": "GitHub"
+    "platform": "GitHub",
+    "languages": [
+      "Java"
+    ]
   },
   {
     "type": "R package",
@@ -668,7 +848,10 @@
     "gsbpm_number": "5.6 | 5.7",
     "license": "EUPL",
     "licenseSimple": "EUPL",
-    "platform": "CRAN"
+    "platform": "CRAN",
+    "languages": [
+      "R"
+    ]
   },
   {
     "type": "R package",
@@ -679,7 +862,10 @@
     "gsbpm_number": "5.6 | 5.7",
     "license": "GPL-3",
     "licenseSimple": "GPL",
-    "platform": "CRAN"
+    "platform": "CRAN",
+    "languages": [
+      "R"
+    ]
   },
   {
     "type": "R package",
@@ -690,7 +876,10 @@
     "gsbpm_number": "6.2",
     "license": "GPL-3",
     "licenseSimple": "GPL",
-    "platform": "CRAN"
+    "platform": "CRAN",
+    "languages": [
+      "R"
+    ]
   },
   {
     "type": "Java and C++ application",
@@ -701,7 +890,11 @@
     "gsbpm_number": "6.4",
     "license": "EUPL-1.2",
     "licenseSimple": "EUPL",
-    "platform": "GitHub"
+    "platform": "GitHub",
+    "languages": [
+      "Java",
+      "AGS Script"
+    ]
   },
   {
     "type": "Java C++ Fortran and Delphi application",
@@ -712,7 +905,10 @@
     "gsbpm_number": "6.4",
     "license": "EUPL-1.2",
     "licenseSimple": "EUPL",
-    "platform": "GitHub"
+    "platform": "GitHub",
+    "languages": [
+      "Java"
+    ]
   },
   {
     "type": "R package",
@@ -723,7 +919,10 @@
     "gsbpm_number": "6.4",
     "license": "GPL-2",
     "licenseSimple": "GPL",
-    "platform": "CRAN"
+    "platform": "CRAN",
+    "languages": [
+      "R"
+    ]
   },
   {
     "type": "R package",
@@ -734,7 +933,10 @@
     "gsbpm_number": "6.4",
     "license": "GPL (>= 2)",
     "licenseSimple": "GPL",
-    "platform": "CRAN"
+    "platform": "CRAN",
+    "languages": [
+      "R"
+    ]
   },
   {
     "type": "R package",
@@ -745,7 +947,10 @@
     "gsbpm_number": "6.4",
     "license": "Apache License 2.0 | file LICENSE",
     "licenseSimple": "Apache",
-    "platform": "CRAN"
+    "platform": "CRAN",
+    "languages": [
+      "R"
+    ]
   },
   {
     "type": "R package",
@@ -756,7 +961,10 @@
     "gsbpm_number": "6.4",
     "license": "MIT + file LICENSE",
     "licenseSimple": "MIT",
-    "platform": "CRAN"
+    "platform": "CRAN",
+    "languages": [
+      "R"
+    ]
   },
   {
     "type": "R package",
@@ -767,7 +975,10 @@
     "gsbpm_number": "6.4",
     "license": "GPL-3",
     "licenseSimple": "GPL",
-    "platform": "CRAN"
+    "platform": "CRAN",
+    "languages": [
+      "R"
+    ]
   },
   {
     "type": "R package",
@@ -778,7 +989,10 @@
     "gsbpm_number": "6.4",
     "license": "Apache License 2.0",
     "licenseSimple": "Apache",
-    "platform": "CRAN"
+    "platform": "CRAN",
+    "languages": [
+      "R"
+    ]
   },
   {
     "type": "R package",
@@ -789,7 +1003,10 @@
     "gsbpm_number": "6.4",
     "license": "GPL (>= 2)",
     "licenseSimple": "GPL",
-    "platform": "CRAN"
+    "platform": "CRAN",
+    "languages": [
+      "R"
+    ]
   },
   {
     "type": "R package",
@@ -800,7 +1017,10 @@
     "gsbpm_number": "6.4",
     "license": "GPL-2",
     "licenseSimple": "GPL",
-    "platform": "CRAN"
+    "platform": "CRAN",
+    "languages": [
+      "R"
+    ]
   },
   {
     "type": "R package",
@@ -811,7 +1031,10 @@
     "gsbpm_number": "6.4",
     "license": "GPL-2 | GPL-3",
     "licenseSimple": "GPL",
-    "platform": "CRAN"
+    "platform": "CRAN",
+    "languages": [
+      "R"
+    ]
   },
   {
     "type": "Java application",
@@ -822,7 +1045,10 @@
     "gsbpm_number": "7.2",
     "license": "EUPL-1.0",
     "licenseSimple": "EUPL",
-    "platform": "other"
+    "platform": "other",
+    "languages": [
+      "unknown"
+    ]
   },
   {
     "type": "Java application",
@@ -833,7 +1059,10 @@
     "gsbpm_number": "7.2",
     "license": "unknown",
     "licenseSimple": "unknown",
-    "platform": "other"
+    "platform": "other",
+    "languages": [
+      "unknown"
+    ]
   },
   {
     "type": "C# HTML5 JavaScript",
@@ -844,7 +1073,11 @@
     "gsbpm_number": "7.2",
     "license": "MIT",
     "licenseSimple": "MIT",
-    "platform": "GitHub"
+    "platform": "GitHub",
+    "languages": [
+      "C#",
+      "JavaScript"
+    ]
   },
   {
     "type": "C# VB.NET ASP.NET",
@@ -855,7 +1088,11 @@
     "gsbpm_number": "7.2",
     "license": "Apache-2.0",
     "licenseSimple": "Apache",
-    "platform": "GitHub"
+    "platform": "GitHub",
+    "languages": [
+      "C#",
+      "Visual Basic .NET"
+    ]
   },
   {
     "type": "Node.js and other",
@@ -865,6 +1102,10 @@
     "gsbpm_name": "Statistical Dissemination",
     "gsbpm_number": "7.2",
     "license": "MIT",
+    "languages": [
+      "JavaScript",
+      "Docker"
+    ],
     "licenseSimple": "MIT",
     "platform": "GitLab"
   },
@@ -877,7 +1118,10 @@
     "gsbpm_number": "7.2",
     "license": "EUPL-1.0",
     "licenseSimple": "EUPL",
-    "platform": "other"
+    "platform": "other",
+    "languages": [
+      "unknown"
+    ]
   },
   {
     "type": "JSON",
@@ -888,7 +1132,12 @@
     "gsbpm_number": "7.2",
     "license": "unknown",
     "licenseSimple": "unknown",
-    "platform": "GitHub"
+    "platform": "GitHub",
+    "languages": [
+      "Makefile",
+      "HTML",
+      "TeX"
+    ]
   },
   {
     "type": "JSON",
@@ -899,7 +1148,10 @@
     "gsbpm_number": "7.2",
     "license": "unknown",
     "licenseSimple": "unknown",
-    "platform": "other"
+    "platform": "other",
+    "languages": [
+      "unknown"
+    ]
   },
   {
     "type": "R package",
@@ -910,7 +1162,10 @@
     "gsbpm_number": "7.2",
     "license": "GPL-3",
     "licenseSimple": "GPL",
-    "platform": "CRAN"
+    "platform": "CRAN",
+    "languages": [
+      "R"
+    ]
   },
   {
     "type": "R package",
@@ -921,7 +1176,10 @@
     "gsbpm_number": "7.2",
     "license": "GPL-3",
     "licenseSimple": "GPL",
-    "platform": "CRAN"
+    "platform": "CRAN",
+    "languages": [
+      "R"
+    ]
   },
   {
     "type": "R package",
@@ -932,7 +1190,10 @@
     "gsbpm_number": "7.2",
     "license": "GPL-3",
     "licenseSimple": "GPL",
-    "platform": "CRAN"
+    "platform": "CRAN",
+    "languages": [
+      "R"
+    ]
   },
   {
     "type": "R package",
@@ -943,7 +1204,10 @@
     "gsbpm_number": "7.2",
     "license": "GPL (>= 2.0) | file LICENSE",
     "licenseSimple": "GPL",
-    "platform": "CRAN"
+    "platform": "CRAN",
+    "languages": [
+      "R"
+    ]
   },
   {
     "type": "GeoJSON/TopoJSON",
@@ -954,7 +1218,11 @@
     "gsbpm_number": "7.2",
     "license": "unknown",
     "licenseSimple": "unknown",
-    "platform": "GitHub"
+    "platform": "GitHub",
+    "languages": [
+      "Shell",
+      "R"
+    ]
   },
   {
     "type": "GeoJSON/TopoJSON",
@@ -965,7 +1233,10 @@
     "gsbpm_number": "7.2",
     "license": "EUPL-1.2",
     "licenseSimple": "EUPL",
-    "platform": "GitHub"
+    "platform": "GitHub",
+    "languages": [
+      "Python"
+    ]
   },
   {
     "type": "R package",
@@ -976,7 +1247,10 @@
     "gsbpm_number": "7.2",
     "license": "GPL-3",
     "licenseSimple": "GPL",
-    "platform": "CRAN"
+    "platform": "CRAN",
+    "languages": [
+      "R"
+    ]
   },
   {
     "type": "R package",
@@ -987,7 +1261,10 @@
     "gsbpm_number": "7.2",
     "license": "GPL (>= 2)",
     "licenseSimple": "GPL",
-    "platform": "CRAN"
+    "platform": "CRAN",
+    "languages": [
+      "R"
+    ]
   },
   {
     "type": "Node.js",
@@ -998,7 +1275,10 @@
     "gsbpm_number": "7.2",
     "license": "unknown",
     "licenseSimple": "unknown",
-    "platform": "GitHub"
+    "platform": "GitHub",
+    "languages": [
+      "JavaScript"
+    ]
   },
   {
     "type": "JavaScript",
@@ -1009,7 +1289,11 @@
     "gsbpm_number": "7.2",
     "license": "NOASSERTION",
     "licenseSimple": "NOASSERTION",
-    "platform": "GitHub"
+    "platform": "GitHub",
+    "languages": [
+      "JavaScript",
+      "HTML"
+    ]
   },
   {
     "type": "R package",
@@ -1020,7 +1304,10 @@
     "gsbpm_number": "7.2",
     "license": "EUPL",
     "licenseSimple": "EUPL",
-    "platform": "CRAN"
+    "platform": "CRAN",
+    "languages": [
+      "R"
+    ]
   },
   {
     "type": "Python",
@@ -1031,7 +1318,10 @@
     "gsbpm_number": "7.2",
     "license": "Apache-2.0",
     "licenseSimple": "Apache",
-    "platform": "GitHub"
+    "platform": "GitHub",
+    "languages": [
+      "Python"
+    ]
   },
   {
     "type": "R package",
@@ -1046,7 +1336,10 @@
     ],
     "license": "GPL (>= 2)",
     "licenseSimple": "GPL",
-    "platform": "CRAN"
+    "platform": "CRAN",
+    "languages": [
+      "R"
+    ]
   },
   {
     "type": "R package",
@@ -1061,7 +1354,10 @@
     ],
     "license": "GPL-3",
     "licenseSimple": "GPL",
-    "platform": "CRAN"
+    "platform": "CRAN",
+    "languages": [
+      "R"
+    ]
   },
   {
     "type": "Python",
@@ -1076,7 +1372,10 @@
     ],
     "license": "Apache-2.0",
     "licenseSimple": "Apache",
-    "platform": "GitHub"
+    "platform": "GitHub",
+    "languages": [
+      "Python"
+    ]
   },
   {
     "type": "R package",
@@ -1091,7 +1390,10 @@
     ],
     "license": "MIT + file LICENSE",
     "licenseSimple": "MIT",
-    "platform": "CRAN"
+    "platform": "CRAN",
+    "languages": [
+      "R"
+    ]
   },
   {
     "type": "Python",
@@ -1106,7 +1408,10 @@
     ],
     "license": "Apache-2.0",
     "licenseSimple": "Apache",
-    "platform": "PyPI"
+    "platform": "PyPI",
+    "languages": [
+      "Python"
+    ]
   },
   {
     "type": "Java application",
@@ -1121,7 +1426,10 @@
     ],
     "license": "MIT",
     "licenseSimple": "MIT",
-    "platform": "GitHub"
+    "platform": "GitHub",
+    "languages": [
+      "Java"
+    ]
   },
   {
     "type": "R package",
@@ -1136,7 +1444,10 @@
     ],
     "license": "CC0",
     "licenseSimple": "CC0",
-    "platform": "CRAN"
+    "platform": "CRAN",
+    "languages": [
+      "R"
+    ]
   },
   {
     "type": "R package",
@@ -1151,7 +1462,10 @@
     ],
     "license": "BSD_2_clause + file LICENSE",
     "licenseSimple": "BSD",
-    "platform": "CRAN"
+    "platform": "CRAN",
+    "languages": [
+      "R"
+    ]
   },
   {
     "type": "R package",
@@ -1166,7 +1480,10 @@
     ],
     "license": "BSD_2_clause + file LICENSE",
     "licenseSimple": "BSD",
-    "platform": "CRAN"
+    "platform": "CRAN",
+    "languages": [
+      "R"
+    ]
   },
   {
     "type": "R package",
@@ -1181,7 +1498,10 @@
     ],
     "license": "EUPL",
     "licenseSimple": "EUPL",
-    "platform": "CRAN"
+    "platform": "CRAN",
+    "languages": [
+      "R"
+    ]
   },
   {
     "type": "R package",
@@ -1196,7 +1516,10 @@
     ],
     "license": "GPL-3",
     "licenseSimple": "GPL",
-    "platform": "CRAN"
+    "platform": "CRAN",
+    "languages": [
+      "R"
+    ]
   },
   {
     "type": "R package",
@@ -1211,7 +1534,10 @@
     ],
     "license": "CC0",
     "licenseSimple": "CC0",
-    "platform": "CRAN"
+    "platform": "CRAN",
+    "languages": [
+      "R"
+    ]
   },
   {
     "type": "R package",
@@ -1226,7 +1552,10 @@
     ],
     "license": "GPL-2",
     "licenseSimple": "GPL",
-    "platform": "CRAN"
+    "platform": "CRAN",
+    "languages": [
+      "R"
+    ]
   },
   {
     "type": "R package",
@@ -1241,7 +1570,10 @@
     ],
     "license": "GPL-3.0",
     "licenseSimple": "GPL",
-    "platform": "GitHub"
+    "platform": "GitHub",
+    "languages": [
+      "R"
+    ]
   },
   {
     "type": "Node.js",
@@ -1256,7 +1588,10 @@
     ],
     "license": "unknown",
     "licenseSimple": "unknown",
-    "platform": "GitHub"
+    "platform": "GitHub",
+    "languages": [
+      "CoffeeScript"
+    ]
   },
   {
     "type": "Python",
@@ -1271,7 +1606,10 @@
     ],
     "license": "MIT",
     "licenseSimple": "MIT",
-    "platform": "GitHub"
+    "platform": "GitHub",
+    "languages": [
+      "Python"
+    ]
   },
   {
     "type": "R package",
@@ -1286,7 +1624,10 @@
     ],
     "license": "GPL-3",
     "licenseSimple": "GPL",
-    "platform": "CRAN"
+    "platform": "CRAN",
+    "languages": [
+      "R"
+    ]
   },
   {
     "type": "R package",
@@ -1306,7 +1647,10 @@
     ],
     "license": "EUPL-1.1",
     "licenseSimple": "EUPL",
-    "platform": "GitHub"
+    "platform": "GitHub",
+    "languages": [
+      "R"
+    ]
   },
   {
     "type": "R package",
@@ -1321,7 +1665,10 @@
     ],
     "license": "GPL-3",
     "licenseSimple": "GPL",
-    "platform": "CRAN"
+    "platform": "CRAN",
+    "languages": [
+      "R"
+    ]
   },
   {
     "type": "Python",
@@ -1336,7 +1683,10 @@
     ],
     "license": "MIT",
     "licenseSimple": "MIT",
-    "platform": "GitHub"
+    "platform": "GitHub",
+    "languages": [
+      "Jupyter Notebook"
+    ]
   },
   {
     "type": "R package",
@@ -1351,7 +1701,10 @@
     ],
     "license": "BSD_2_clause + file LICENSE",
     "licenseSimple": "BSD",
-    "platform": "CRAN"
+    "platform": "CRAN",
+    "languages": [
+      "R"
+    ]
   },
   {
     "type": "R package",
@@ -1368,7 +1721,10 @@
     ],
     "license": "Apache License 2.0 | file LICENSE",
     "licenseSimple": "Apache",
-    "platform": "CRAN"
+    "platform": "CRAN",
+    "languages": [
+      "R"
+    ]
   },
   {
     "type": "R package",
@@ -1383,7 +1739,10 @@
     ],
     "license": "GPL-3",
     "licenseSimple": "GPL",
-    "platform": "CRAN"
+    "platform": "CRAN",
+    "languages": [
+      "R"
+    ]
   },
   {
     "type": "R package",
@@ -1398,7 +1757,10 @@
     ],
     "license": "unknown",
     "licenseSimple": "unknown",
-    "platform": "other"
+    "platform": "other",
+    "languages": [
+      "unknown"
+    ]
   },
   {
     "type": "R package",
@@ -1413,7 +1775,10 @@
     ],
     "license": "MIT + file LICENSE",
     "licenseSimple": "MIT",
-    "platform": "CRAN"
+    "platform": "CRAN",
+    "languages": [
+      "R"
+    ]
   },
   {
     "type": "R package",
@@ -1428,7 +1793,10 @@
     ],
     "license": "MIT + file LICENSE",
     "licenseSimple": "MIT",
-    "platform": "CRAN"
+    "platform": "CRAN",
+    "languages": [
+      "R"
+    ]
   },
   {
     "type": "R package",
@@ -1443,7 +1811,10 @@
     ],
     "license": "Unlimited",
     "licenseSimple": "Unlimited",
-    "platform": "CRAN"
+    "platform": "CRAN",
+    "languages": [
+      "R"
+    ]
   },
   {
     "type": "Java application",
@@ -1458,7 +1829,10 @@
     ],
     "license": "EUPL-1.2",
     "licenseSimple": "EUPL",
-    "platform": "GitHub"
+    "platform": "GitHub",
+    "languages": [
+      "Java"
+    ]
   },
   {
     "type": "Node.js",
@@ -1473,7 +1847,10 @@
     ],
     "license": "unknown",
     "licenseSimple": "unknown",
-    "platform": "npm"
+    "platform": "npm",
+    "languages": [
+      "JavaScript"
+    ]
   },
   {
     "type": "R package",
@@ -1488,7 +1865,10 @@
     ],
     "license": "GPL-3",
     "licenseSimple": "GPL",
-    "platform": "CRAN"
+    "platform": "CRAN",
+    "languages": [
+      "R"
+    ]
   },
   {
     "type": "R package",
@@ -1503,7 +1883,10 @@
     ],
     "license": "MIT + file LICENSE",
     "licenseSimple": "MIT",
-    "platform": "CRAN"
+    "platform": "CRAN",
+    "languages": [
+      "R"
+    ]
   },
   {
     "type": "R package",
@@ -1518,7 +1901,10 @@
     ],
     "license": "MIT + file LICENSE",
     "licenseSimple": "MIT",
-    "platform": "CRAN"
+    "platform": "CRAN",
+    "languages": [
+      "R"
+    ]
   },
   {
     "type": "R package",
@@ -1533,7 +1919,10 @@
     ],
     "license": "Mozilla Public License 2.0",
     "licenseSimple": "Mozilla",
-    "platform": "CRAN"
+    "platform": "CRAN",
+    "languages": [
+      "R"
+    ]
   },
   {
     "type": "R package",
@@ -1548,7 +1937,10 @@
     ],
     "license": "MIT + file LICENSE",
     "licenseSimple": "MIT",
-    "platform": "CRAN"
+    "platform": "CRAN",
+    "languages": [
+      "R"
+    ]
   },
   {
     "type": "R package",
@@ -1563,7 +1955,10 @@
     ],
     "license": "MIT + file LICENSE",
     "licenseSimple": "MIT",
-    "platform": "CRAN"
+    "platform": "CRAN",
+    "languages": [
+      "R"
+    ]
   },
   {
     "type": "R package",
@@ -1578,7 +1973,10 @@
     ],
     "license": "MIT + file LICENSE",
     "licenseSimple": "MIT",
-    "platform": "CRAN"
+    "platform": "CRAN",
+    "languages": [
+      "R"
+    ]
   },
   {
     "type": "R package",
@@ -1593,7 +1991,10 @@
     ],
     "license": "MIT + file LICENSE",
     "licenseSimple": "MIT",
-    "platform": "CRAN"
+    "platform": "CRAN",
+    "languages": [
+      "R"
+    ]
   },
   {
     "type": "Python",
@@ -1608,7 +2009,10 @@
     ],
     "license": "unknown",
     "licenseSimple": "unknown",
-    "platform": "PyPI"
+    "platform": "PyPI",
+    "languages": [
+      "Python"
+    ]
   },
   {
     "type": "R package",
@@ -1619,6 +2023,9 @@
     "gsbpm_number": "5.6 | 5.7",
     "license": "MIT + file LICENSE",
     "licenseSimple": "MIT",
-    "platform": "CRAN"
+    "platform": "CRAN",
+    "languages": [
+      "R"
+    ]
   }
 ]
