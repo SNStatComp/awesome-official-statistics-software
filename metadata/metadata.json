@@ -987,8 +987,8 @@
     "description": "Can be used to protect frequency tables by rounding necessary inner cells so that cross-classifications to be published are safe.",
     "gsbpm_name": "Statistical disclosure control",
     "gsbpm_number": "6.4",
-    "license": "Apache License 2.0",
-    "licenseSimple": "Apache",
+    "license": "MIT + file LICENSE",
+    "licenseSimple": "MIT",
     "platform": "CRAN",
     "languages": [
       "R"
