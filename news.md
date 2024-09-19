@@ -12,5 +12,5 @@
 - Jan 2021: The list highlighted in the **[10th Expert Group meeting on SDMX](https://www.imf.org/en/News/Seminars/Conferences/2021/01/25/10th-statistical-data-and-metadata-exchange)**: [slides](https://www.imf.org/-/media/Files/News/Seminars/2021/SDMX/siv-presentation-01-stocktaking-of-sdmx-tools.ashx)
 - Dec 2020: The list was presented at the **uRos2020**: [slides](https://r-project.ro/conference2020-presentations.html#Olav_TEN_BOSCH,_Mark_VAN_DER_LOO_and_Alexander_KOWARIK)
 - Dec 2019: **100  items on the list!!!**
-- Jun 2019: The list presented at the **UNECE Modernstats World**: [slides](https://www.unece.org/fileadmin/DAM/stats/documents/ece/ces/ge.58/2019/mtg2/MWW2019_Soapbox_Netherlands_ten_Bosch.pdf)
+- Jun 2019: The list presented at the **UNECE Modernstats World**: [slides](https://www.unece.org/fileadmin/DAM/stats/documents/ece/ces/ge.58/2019/mtg2/MWW2019_Soapbox_Netherlands_ten_Bosch.pdf) and [poster](viz/20190644_NL_Awesome_Poster.pdf)
 - Dec 2017: This awesome list was **started** during the UNECE data editing conference [UNECE SDE 2017](https://unece.org/statistics/events/SDE2017)

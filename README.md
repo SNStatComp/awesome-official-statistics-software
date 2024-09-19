@@ -136,6 +136,12 @@ R package [rspa](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;rspa). A
 R package [mice](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;mice). Multiple imputation by chained equations, aka fully conditional specification, accompanied by [van Buuren (2018) _Flexible Imputation of Missing Data_](https:&#x2F;&#x2F;stefvanbuuren.name&#x2F;fimd&#x2F;).
 
 
+#### Estimation and Weighting ([GSBPM](https://unece.org/statistics/modernstats/gsbpm) 5.6)
+
+- <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/svrep/version.svg"></img> <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/svrep/latest.svg"></img> <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/svrep/license.svg"></img>\
+R package [svrep](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;svrep). R package creating and working with survey replicate weights, extending functionality of the &#39;survey&#39; package in R. Creates replicate weights using bootstrap, generalized bootstrap, generalized replication, and random-group jackknife methods. Facilitates sample-based calibration and nonresponse adjustment methods.
+
+
 #### Estimation and weighting ([GSBPM](https://unece.org/statistics/modernstats/gsbpm) 5.6 | 5.7)
 
 - <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/survey/version.svg"></img> <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/survey/latest.svg"></img> <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/survey/license.svg"></img>\
@@ -342,12 +348,6 @@ R package [danstat](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;danst
 R package [restatis](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;restatis). R API Client for the German Federal Statistical Office Database
 - <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/pystatis/version.svg"></img> <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/pystatis/latest.svg"></img> <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/pystatis/license.svg"></img>\
 Python [pystatis](https:&#x2F;&#x2F;pypi.org&#x2F;project&#x2F;pystatis&#x2F;). Python wrapper for GENESIS web service interface (API) of the Federal Statistical Office
-
-
-#### Estimation and Weighting ([GSBPM](https://unece.org/statistics/modernstats/gsbpm) 5.6)
-
-- <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/svrep/version.svg"></img> <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/svrep/latest.svg"></img> <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/svrep/license.svg"></img>\
-R package [svrep](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;svrep). R package creating and working with survey replicate weights, extending functionality of the &#39;survey&#39; package in R. Creates replicate weights using bootstrap, generalized bootstrap, generalized replication, and random-group jackknife methods. Facilitates sample-based calibration and nonresponse adjustment methods.
 
 
 <!-- END OF GENERATED LIST -->

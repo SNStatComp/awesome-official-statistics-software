@@ -561,6 +561,20 @@
   },
   {
     "type": "R package",
+    "name": "svrep",
+    "url": "https://cran.r-project.org/package=svrep",
+    "description": "R package creating and working with survey replicate weights, extending functionality of the 'survey' package in R. Creates replicate weights using bootstrap, generalized bootstrap, generalized replication, and random-group jackknife methods. Facilitates sample-based calibration and nonresponse adjustment methods.",
+    "gsbpm_name": "Estimation and Weighting",
+    "gsbpm_number": "5.6",
+    "license": "GPL (>= 3)",
+    "licenseSimple": "GPL",
+    "platform": "CRAN",
+    "languages": [
+      "R"
+    ]
+  },
+  {
+    "type": "R package",
     "name": "survey",
     "url": "https://cran.r-project.org/package=survey",
     "description": "Weighting and estimation for complex survey designs, possibly under nonresponse. Also computes estimator variance. See also R package [srvyr](https:://CRAN.R-project.org/package=survey) for integration with [tidy tools](https://cran.r-project.org/web/packages/tidyverse/vignettes/manifesto.html).",
@@ -2018,20 +2032,6 @@
     "gsbpm_number": "5.6 | 5.7",
     "license": "MIT + file LICENSE",
     "licenseSimple": "MIT",
-    "platform": "CRAN",
-    "languages": [
-      "R"
-    ]
-  },
-  {
-    "type": "R package",
-    "name": "svrep",
-    "url": "https://cran.r-project.org/package=svrep",
-    "description": "R package creating and working with survey replicate weights, extending functionality of the 'survey' package in R. Creates replicate weights using bootstrap, generalized bootstrap, generalized replication, and random-group jackknife methods. Facilitates sample-based calibration and nonresponse adjustment methods.",
-    "gsbpm_name": "Estimation and Weighting",
-    "gsbpm_number": "5.6",
-    "license": "GPL (>= 3)",
-    "licenseSimple": "GPL",
     "platform": "CRAN",
     "languages": [
       "R"
