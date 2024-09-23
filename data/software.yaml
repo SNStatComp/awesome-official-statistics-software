@@ -84,7 +84,7 @@
   gsbpm_number: '4.3'
 - type: Python
   name: Social-Media-Presence
-  url: hhttps://github.com/EnterpriseCharacteristicsESSnetBigData/StarterKit
+  url: https://github.com/EnterpriseCharacteristicsESSnetBigData/StarterKit
   description: A script for detecting social media presence on enterprises websites.
     By Statistics Poland.
   gsbpm_name: Scraping for Statistics
