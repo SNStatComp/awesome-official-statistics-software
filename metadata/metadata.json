@@ -170,15 +170,15 @@
   {
     "type": "Python",
     "name": "Social-Media-Presence",
-    "url": "https://github.com/jmaslankowski/WP2-Social-Media-Presence",
+    "url": "hhttps://github.com/EnterpriseCharacteristicsESSnetBigData/StarterKit",
     "description": "A script for detecting social media presence on enterprises websites. By Statistics Poland.",
     "gsbpm_name": "Scraping for Statistics",
     "gsbpm_number": "4.3",
-    "license": "unknown",
-    "licenseSimple": "unknown",
+    "license": "GPL-3.0",
+    "licenseSimple": "GPL",
     "platform": "GitHub",
     "languages": [
-      "Python"
+      "Jupyter Notebook"
     ]
   },
   {
