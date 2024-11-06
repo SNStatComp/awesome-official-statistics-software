@@ -1728,8 +1728,8 @@
       "Sweden",
       "Finland"
     ],
-    "license": "Apache License 2.0 | file LICENSE",
-    "licenseSimple": "Apache",
+    "license": "MIT + file LICENSE",
+    "licenseSimple": "MIT",
     "platform": "CRAN",
     "languages": [
       "R"
