@@ -715,7 +715,7 @@
   access_to:
   - all JSON-STAT
 - type: R package
-  name: oecd
+  name: OECD
   url: https://cran.r-project.org/package=OECD
   description: Search and Extract Data from the OECD
   gsbpm_name: Access to official statistics
