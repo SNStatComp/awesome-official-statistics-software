@@ -1032,16 +1032,7 @@
 - type: R package
   name: TEMPO
   url: https://github.com/RProjectRomania/TEMPO
-  description: An R-package to access the TEMPO Online database from the Romanian [National Institute of Statistics](https://insse.ro)
-  gsbpm_name: Access to official statistics
-  gsbpm_number: '7.4'
-  standard:
-  access_to:
-  - Romania
-- type: R package
-  name: TEMPO
-  url: https://github.com/RProjectRomania/TEMPO
-  description: Provides access to TEMPO, the Online database from the Romanian [National Institute of Statistics](https://insse.ro)
+  description: Provides access to the Online database from the Romanian [National Institute of Statistics](https://insse.ro)
   gsbpm_name: Access to official statistics
   gsbpm_number: '7.4'
   standard:
