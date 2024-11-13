@@ -679,8 +679,8 @@
 - type: Python
   name: sdmx
   url: https://github.com/khaeru/sdmx
-  description: Python library that implements SDMX 2.1 to explore data from SDMX data
-    providers, parse data and metadata and convert it into Pandas objects.
+  description: Python library (called ‘sdmx1’ on PyPI) implementing SDMX 2.1 and 3.0 to access SDMX data
+    providers and convert it into Pandas objects.
   gsbpm_name: Access to official statistics
   gsbpm_number: '7.4'
   standard: SDMX

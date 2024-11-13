@@ -1,0 +1,20 @@
+id,url,name
+ABS,https://api.data.abs.gov.au,Australian Bureau of Statistics
+BBK,https://api.statistiken.bundesbank.de/rest,German Federal Bank
+BIS,https://stats.bis.org/api/v1,Bank for International Settlements
+ECB,https://data-api.ecb.europa.eu/service,European Central Bank
+ESTAT,https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1,Eurostat
+ILO,http://sdmx.ilo.org/rest,International Labor Organization
+IMF,https://sdmxcentral.imf.org/ws/public/sdmxapi/rest,International Monetary Fund
+INEGI,http://sdmx.snieg.mx/service/rest,Instituto Nacional de Estadística y Geografía (MX)
+INSEE,https://www.bdm.insee.fr/series/sdmx,Institut national de la statistique et des études économiques (FR)
+ISTAT,https://esploradati.istat.it/SDMXWS/rest,Instituto Nationale di Statistica (IT)
+Lithuania,https://osp-rs.stat.gov.lt/rest_xml,Statistics Lithuania
+NBB,https://stat.nbb.be/sdmx-json,National Bank of Belgium
+OECD,https://sdmx.oecd.org/public/rest,Organisation for Economic Co-operation and Development
+PDH,https://stats-nsi-stable.pacificdata.org/rest,Pacific Data Hub DotStat by The Pacific Community (SPC)
+Estonia,http://andmebaas.stat.ee/sdmx-json,Statistics Estonia
+UNESCO,http://api.uis.unesco.org/sdmx,"UN Educational, Scientific and Cultural Organization"
+UNICEF,https://sdmx.data.unicef.org/ws/public/sdmxapi/rest,UN Children's Fund
+UNSD,http://data.un.org/WS/rest,United Nations Statistics Division
+World Bank,https://wits.worldbank.org/API/V1/SDMX/V21/rest,World Bank World Integrated Trade Solution

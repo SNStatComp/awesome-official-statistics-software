@@ -1,7 +1,7 @@
 "use strict"
-const fs = require('fs')
-const yaml = require('js-yaml')
-var papa = require('papaparse')
+import fs from "fs"
+import yaml from "js-yaml"
+import papa from "papaparse"
 
 let matrix = []
 let cnt = 0
@@ -17,6 +17,10 @@ let rsdmx_data_providers = papa.parse(
 	fs.readFileSync('./../data/data_providers/rsdmx_data_providers_cleaned.csv', {encoding: 'utf8'}),
 	{delimiter: ",", header: true, 	skipEmptyLines: true}
 )
+let Psdmx_data_providers = papa.parse(
+	fs.readFileSync('./../data/data_providers/Python_sdmx_data_providers_cleaned.csv', {encoding: 'utf8'}),
+	{delimiter: ",", header: true, 	skipEmptyLines: true}
+)
 let PX_data_providers = papa.parse(
 	fs.readFileSync('./../data/data_providers/PX_providers_cleaned.csv', {encoding: 'utf8'}),
 	{delimiter: ";", header: true, 	skipEmptyLines: true}
@@ -30,11 +34,15 @@ for (const o of json_stat_providers.data) {
 for (const o of rsdmx_data_providers.data) {
 	dataproviders.push({name: o.agencyId, standard: "SDMX", url: null})
 }
+for (const o of Psdmx_data_providers.data) {
+	if (!dataproviders.find((el) => el.name == o.id && el.standard == "SDMX"))
+		dataproviders.push({name: o.id, standard: "SDMX", url: o.url})
+}
 for (const o of PX_data_providers.data) {
 	dataproviders.push({name: o.name, standard: "PX", url: o.url})
 }
-// todo: merge providers from sdmx4rest
-// todo: merge providers who are registries
+// Merge providers from sdmx4rest: they overlap, doesnt add anything
+// Merge providers who are registries: no, special category, no dataprovider usually
 
 // Generate matrix:
 for (const o of software) {

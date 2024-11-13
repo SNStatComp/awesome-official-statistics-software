@@ -1,0 +1,30 @@
+id,url,name
+ABS,https://api.data.abs.gov.au,Australian Bureau of Statistics
+ABS_JSON,https://api.data.abs.gov.au,Australian Bureau of Statistics
+BBK,https://api.statistiken.bundesbank.de/rest,German Federal Bank
+BIS,https://stats.bis.org/api/v1,Bank for International Settlements
+COMP,https://webgate.ec.europa.eu/comp/redisstat/api/dissemination/sdmx/2.1,European Commission Directorate General for Competition
+ECB,https://data-api.ecb.europa.eu/service,European Central Bank
+EMPL,https://webgate.ec.europa.eu/empl/redisstat/api/dissemination/sdmx/2.1,"European Commission Directorate General for Employment, Social Affairs, and Inclusion"
+ESTAT,https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1,Eurostat
+ESTAT3,https://ec.europa.eu/eurostat/api/dissemination/sdmx/3.0,Eurostat (SDMX 3.0)
+ESTAT_COMEXT,https://ec.europa.eu/eurostat/api/comext/dissemination/sdmx/2.1,Eurostat (Comext and Prodcom datasets)
+GROW,https://webgate.ec.europa.eu/grow/redisstat/api/dissemination/sdmx/2.1,"European Commission Directorate General for Internal Market, Industry, Entrepreneurship and SMEs"
+ILO,http://sdmx.ilo.org/rest,International Labor Organization
+IMF,https://sdmxcentral.imf.org/ws/public/sdmxapi/rest,International Monetary Fund
+INEGI,http://sdmx.snieg.mx/service/rest,Instituto Nacional de Estadística y Geografía (MX)
+INSEE,https://www.bdm.insee.fr/series/sdmx,Institut national de la statistique et des études économiques (FR)
+ISTAT,https://esploradati.istat.it/SDMXWS/rest,Instituto Nationale di Statistica (IT)
+LSD,https://osp-rs.stat.gov.lt/rest_xml,Statistics Lithuania
+NB,https://data.norges-bank.no/api,Norges Bank (NO)
+NBB,https://stat.nbb.be/sdmx-json,National Bank of Belgium
+OECD,https://sdmx.oecd.org/public/rest,Organisation for Economic Co-operation and Development
+OECD_JSON,https://stats.oecd.org/SDMX-JSON,Organisation for Economic Co-operation and Development
+SGR,https://registry.sdmx.org/ws/rest,SDMX Global Registry
+SPC,https://stats-nsi-stable.pacificdata.org/rest,Pacific Data Hub DotStat by The Pacific Community (SPC)
+STAT_EE,http://andmebaas.stat.ee/sdmx-json,Statistics Estonia
+UNESCO,http://api.uis.unesco.org/sdmx,"UN Educational, Scientific and Cultural Organization"
+UNICEF,https://sdmx.data.unicef.org/ws/public/sdmxapi/rest,UN Children's Fund
+UNSD,http://data.un.org/WS/rest,United Nations Statistics Division
+WB,https://wits.worldbank.org/API/V1/SDMX/V21/rest,World Bank World Integrated Trade Solution
+WB_WDI,https://api.worldbank.org/v2/sdmx/rest,World Bank World Development Indicators

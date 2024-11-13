@@ -1,3 +1,9 @@
 PX providers from https://www.scb.se/en/services/statistical-programs-for-px-files/px-web/pxweb-examples/
 JSON-STAT providers from https://json-stat.org
-SDMX providers from rsdmx
+SDMX providers from
+- preconfigured datasources in rsdmx
+- preconfigured datasources in Python sdmx (sdmx1 on PyPI) 
+https://raw.githubusercontent.com/khaeru/sdmx/refs/heads/main/sdmx/sources.json
+
+Note:
+Another source could be preconfigured datasources in sdmx-rest but they overlap, we leave it

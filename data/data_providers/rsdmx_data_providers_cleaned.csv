@@ -18,4 +18,4 @@
 "LSD","Statistics Lithuania","national","LTU","SDMXREST21RequestBuilder","TRUE"
 "NCSI","Sultanate of Oman - National Center for Statistics & Information","national","OMN","SDMXRequestBuilder","FALSE"
 "STAT_EE","Statistics Estonia database","national","EST","SDMXDotStatRequestBuilder","FALSE"
-"BKK","Bundesbank","national","DEU","SDMXRequestBuilder","FALSE"
+"BBK","Bundesbank","national","DEU","SDMXRequestBuilder","FALSE"
