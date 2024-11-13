@@ -1,0 +1,8 @@
+- type: Java
+  name: Fusion Metadata registry
+  url: https://www.sdmx.io/resources/download/fmr/
+  description: SDMX structural metadata registry with structure maintenance UI and data processing services. By BIS.
+  gsbpm_name: Design variable descriptions
+  gsbpm_number: '2.2'
+  license: 'unknown'
+  languages: ['Java', 'Docker']
