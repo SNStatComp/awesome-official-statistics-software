@@ -1053,7 +1053,7 @@
   description: Access UK Census and LFS statistics from the 'Nomis' database
   gsbpm_name: Access to official statistics
   gsbpm_number: '7.4'
-  standard:
+  standard: SDMX
   access_to:
   - UK
 - type: R package
@@ -1062,7 +1062,7 @@
   description: Search and Extract Data from the OECD
   gsbpm_name: Access to official statistics
   gsbpm_number: '7.4'
-  standard:
+  standard: SDMX
   access_to:
   - OECD
 - type: R package
@@ -1071,7 +1071,7 @@
   description: Access to the INSEE 'bdm' macroeconomic database
   gsbpm_name: Access to official statistics
   gsbpm_number: '7.4'
-  standard:
+  standard: SDMX
   access_to:
   - France
 - type: R package
