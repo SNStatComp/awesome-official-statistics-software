@@ -134,7 +134,6 @@
 "Python","pystatis","https://pypi.org/project/pystatis/","Python wrapper for GENESIS web service interface (API) of the Federal Statistical Office","Access to official statistics","7.4"
 "R package","TEMPO","https://github.com/RProjectRomania/TEMPO","Provides access to the Online database from the Romanian [National Institute of Statistics](https://insse.ro)","Access to official statistics","7.4"
 "R package","cancensus","https://cran.r-project.org/package=cancensus","Access to Canadian Census Data and Geography","Access to official statistics","7.4"
-"R package","cancensus","https://cran.r-project.org/package=cancensus","Access to Canadian Census Data and Geography","Access to official statistics","7.4"
 "R package","nomisr","https://cran.r-project.org/package=nomisr","Access UK Census and LFS statistics from the 'Nomis' database","Access to official statistics","7.4"
 "R package","OECD","https://cran.r-project.org/package=OECD","Search and Extract Data from the OECD","Access to official statistics","7.4"
 "R package","insee","https://cran.r-project.org/package=insee","Access to the INSEE 'bdm' macroeconomic database","Access to official statistics","7.4"

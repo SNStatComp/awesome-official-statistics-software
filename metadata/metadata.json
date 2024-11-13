@@ -2061,24 +2061,6 @@
   },
   {
     "type": "R package",
-    "name": "cancensus",
-    "url": "https://cran.r-project.org/package=cancensus",
-    "description": "Access to Canadian Census Data and Geography",
-    "gsbpm_name": "Access to official statistics",
-    "gsbpm_number": "7.4",
-    "standard": null,
-    "access_to": [
-      "Canada"
-    ],
-    "license": "MIT + file LICENSE",
-    "licenseSimple": "MIT",
-    "platform": "CRAN",
-    "languages": [
-      "R"
-    ]
-  },
-  {
-    "type": "R package",
     "name": "nomisr",
     "url": "https://cran.r-project.org/package=nomisr",
     "description": "Access UK Census and LFS statistics from the 'Nomis' database",
