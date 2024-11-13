@@ -2043,6 +2043,114 @@
   },
   {
     "type": "R package",
+    "name": "TEMPO",
+    "url": "https://github.com/RProjectRomania/TEMPO",
+    "description": "Provides access to TEMPO, the Online database from the Romanian [National Institute of Statistics](https://insse.ro)",
+    "gsbpm_name": "Access to official statistics",
+    "gsbpm_number": "7.4",
+    "standard": null,
+    "access_to": [
+      "Romania"
+    ],
+    "license": "unknown",
+    "licenseSimple": "unknown",
+    "platform": "GitHub",
+    "languages": [
+      "R"
+    ]
+  },
+  {
+    "type": "R package",
+    "name": "cancensus",
+    "url": "https://cran.r-project.org/package=cancensus",
+    "description": "Access to Canadian Census Data and Geography",
+    "gsbpm_name": "Access to official statistics",
+    "gsbpm_number": "7.4",
+    "standard": null,
+    "access_to": [
+      "Canada"
+    ],
+    "license": "MIT + file LICENSE",
+    "licenseSimple": "MIT",
+    "platform": "CRAN",
+    "languages": [
+      "R"
+    ]
+  },
+  {
+    "type": "R package",
+    "name": "cancensus",
+    "url": "https://cran.r-project.org/package=cancensus",
+    "description": "Access to Canadian Census Data and Geography",
+    "gsbpm_name": "Access to official statistics",
+    "gsbpm_number": "7.4",
+    "standard": null,
+    "access_to": [
+      "Canada"
+    ],
+    "license": "MIT + file LICENSE",
+    "licenseSimple": "MIT",
+    "platform": "CRAN",
+    "languages": [
+      "R"
+    ]
+  },
+  {
+    "type": "R package",
+    "name": "nomisr",
+    "url": "https://cran.r-project.org/package=nomisr",
+    "description": "Access UK Census and LFS statistics from the 'Nomis' database",
+    "gsbpm_name": "Access to official statistics",
+    "gsbpm_number": "7.4",
+    "standard": null,
+    "access_to": [
+      "UK"
+    ],
+    "license": "MIT + file LICENSE",
+    "licenseSimple": "MIT",
+    "platform": "CRAN",
+    "languages": [
+      "R"
+    ]
+  },
+  {
+    "type": "R package",
+    "name": "OECD",
+    "url": "https://cran.r-project.org/package=OECD",
+    "description": "Search and Extract Data from the OECD",
+    "gsbpm_name": "Access to official statistics",
+    "gsbpm_number": "7.4",
+    "standard": null,
+    "access_to": [
+      "OECD"
+    ],
+    "license": "CC0",
+    "licenseSimple": "CC0",
+    "platform": "CRAN",
+    "languages": [
+      "R"
+    ]
+  },
+  {
+    "type": "R package",
+    "name": "insee",
+    "url": "https://cran.r-project.org/package=insee",
+    "description": "Access to the INSEE 'bdm' macroeconomic database",
+    "gsbpm_name": "Access to official statistics",
+    "gsbpm_number": "7.4",
+    "standard": null,
+    "access_to": [
+      "France"
+    ],
+    "license": "MIT + file LICENSE",
+    "licenseSimple": "MIT",
+    "platform": "CRAN",
+    "languages": [
+      "R"
+    ]
+  },
+  {
+    "type": "R package",
     "name": "nonprobsvy",
     "url": "https://cran.r-project.org/package=nonprobsvy",
     "description": "Statistical inference with non-probability samples when auxiliary information is available from external sources such as probability samples or population totals or means. The package implements inverse probability weighting, mass imputation and doubly robust estimators possibly with high-dimensional covariates.",
