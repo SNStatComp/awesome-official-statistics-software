@@ -1057,15 +1057,6 @@
   access_to:
   - UK
 - type: R package
-  name: OECD
-  url: https://cran.r-project.org/package=OECD
-  description: Search and Extract Data from the OECD
-  gsbpm_name: Access to official statistics
-  gsbpm_number: '7.4'
-  standard: SDMX
-  access_to:
-  - OECD
-- type: R package
   name: insee
   url: https://cran.r-project.org/package=insee
   description: Access to the INSEE 'bdm' macroeconomic database
