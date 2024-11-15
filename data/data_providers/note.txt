@@ -4,6 +4,8 @@ SDMX providers from
 - preconfigured datasources in rsdmx
 - preconfigured datasources in Python sdmx (sdmx1 on PyPI) 
 https://raw.githubusercontent.com/khaeru/sdmx/refs/heads/main/sdmx/sources.json
+- organisations list from SIS_CC:
+https://sis-cc.gitlab.io/dotstatsuite-documentation/about/powered-by/
 
 Note:
 Another source could be preconfigured datasources in sdmx-rest but they overlap, we leave it

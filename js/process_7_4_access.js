@@ -21,6 +21,10 @@ let Psdmx_data_providers = papa.parse(
 	fs.readFileSync('./../data/data_providers/Python_sdmx_data_providers_cleaned.csv', {encoding: 'utf8'}),
 	{delimiter: ",", header: true, 	skipEmptyLines: true}
 )
+let SISCC_data_providers = papa.parse(
+	fs.readFileSync('./../data/data_providers/SIS_CC_providers_cleaned.csv', {encoding: 'utf8'}),
+	{delimiter: ";", header: true, 	skipEmptyLines: true}
+)
 let PX_data_providers = papa.parse(
 	fs.readFileSync('./../data/data_providers/PX_providers_cleaned.csv', {encoding: 'utf8'}),
 	{delimiter: ";", header: true, 	skipEmptyLines: true}
@@ -37,6 +41,10 @@ for (const o of rsdmx_data_providers.data) {
 for (const o of Psdmx_data_providers.data) {
 	if (!dataproviders.find((el) => el.name == o.id && el.standard == "SDMX"))
 		dataproviders.push({name: o.id, standard: "SDMX", url: o.url})
+}
+for (const o of SISCC_data_providers.data) {
+	if (!dataproviders.find((el) => el.name == o.name && el.standard == "SDMX"))
+		dataproviders.push({name: o.name, standard: "SDMX", url: o.url})
 }
 for (const o of PX_data_providers.data) {
 	dataproviders.push({name: o.name, standard: "PX", url: o.url})
