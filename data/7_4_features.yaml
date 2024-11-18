@@ -1,0 +1,11 @@
+---
+  features:
+  - to_df
+  - endpoint_hiding
+  - catalogue_retrieval
+  - search
+  - endpoint_queries
+  - local_queries
+  - caching
+  - cartographic queries
+  - registry_access

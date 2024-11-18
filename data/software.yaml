@@ -676,6 +676,8 @@
   standard: SDMX
   access_to:
   - all SDMX
+  features:
+  - to_df
 - type: Python
   name: sdmx
   url: https://github.com/khaeru/sdmx
@@ -695,6 +697,8 @@
   standard: JSON-STAT
   access_to:
   - all JSON-STAT
+  features:
+  - to_df
 - type: Python
   name: pyjstat
   url: https://pypi.org/project/pyjstat/
@@ -723,6 +727,11 @@
   standard:
   access_to:
   - OECD
+  features:
+  - to_df
+  - endpoint_hiding
+  - catalogue_retrieval
+  - search
 - type: R package
   name: sorvi
   url: https://cran.r-project.org/package=sorvi
@@ -732,6 +741,8 @@
   standard:
   access_to:
   - Finland
+  features:
+  - cartographic queries
 - type: R package
   name: eurostat
   url: https://cran.r-project.org/package=eurostat
@@ -742,6 +753,13 @@
   standard:
   access_to:
   - ESTAT
+  features:
+  - to_df
+  - endpoint_hiding
+  - catalogue_retrieval
+  - search
+  - caching
+  - cartographic queries
 - type: R package
   name: restatapi
   url: https://cran.r-project.org/package=restatapi
@@ -751,6 +769,13 @@
   standard: SDMX
   access_to:
   - ESTAT
+  features:
+  - to_df
+  - endpoint_hiding
+  - catalogue_retrieval
+  - search
+  - local_queries
+  - caching
 - type: R package
   name: acs
   url: https://cran.r-project.org/package=acs
@@ -761,6 +786,10 @@
   standard:
   access_to:
   - US Census Bureau
+  features:
+  - to_df
+  - endpoint_hiding
+  - cartographic queries
 - type: R package
   name: inegiR
   url: https://cran.r-project.org/package=inegiR
@@ -771,6 +800,10 @@
   standard: PX
   access_to:
   - INEGI
+  features:
+  - to_df
+  - endpoint_hiding
+  - cartographic queries
 - type: R package
   name: cbsodataR
   url: https://cran.r-project.org/package=cbsodataR
@@ -781,6 +814,14 @@
   standard: ODATA
   access_to:
   - CBS
+  features:
+  - to_df
+  - endpoint_hiding
+  - catalogue_retrieval
+  - search
+  - endpoint_queries
+  - caching
+  - cartographic queries
 - type: R package
   name: cbsodata4
   url: https://github.com/statistiekcbs/cbsodata4
@@ -790,6 +831,10 @@
   standard: ODATA
   access_to:
   - CBS
+  features:
+  - to_df
+  - endpoint_hiding
+  - catalogue_retrieval
 - type: Node.js
   name: cbsodata.js
   url: https://github.com/statmine/cbsodata.js
@@ -820,21 +865,10 @@
   standard:
   access_to:
   - US Census Bureau
-- type: R package
-  name: nsoApi
-  url: https://github.com/bowerth/nsoApi
-  description: Builds on other packages to access data from official statistics and
-    tries to harmonize the API.
-  gsbpm_name: Access to official statistics
-  gsbpm_number: '7.4'
-  standard:
-  access_to:
-  - CBS
-  - Destatis
-  - UK
-  - Norway
-  - Austria
-  - STATCAN
+  features:
+  - to_df
+  - endpoint_hiding
+  - catalogue_retrieval
 - type: R package
   name: CANSIM2R
   url: https://cran.r-project.org/package=CANSIM2R
@@ -845,6 +879,9 @@
   standard:
   access_to:
   - STATCAN
+  features:
+  - to_df
+  - endpoint_hiding
 - type: Python
   name: pyscbwrapper
   url: https://github.com/kirajcg/pyscbwrapper
@@ -864,6 +901,9 @@
   standard: PX
   access_to:
   - all PX
+  features:
+  - to_df
+  - endpoint_queries
 - type: R package
   name: PxWebApiData
   url: https://cran.r-project.org/package=PxWebApiData
@@ -876,6 +916,8 @@
   - Norway
   - Sweden
   - Finland
+  features:
+  - to_df
 - type: R package
   name: pxR
   url: https://cran.r-project.org/package=pxR
@@ -885,9 +927,11 @@
   standard: PX
   access_to:
   - all PX
+  features:
+  - to_df
 - type: R package
   name: rdbnomics
-  url: https://git.nomics.world/dbnomics/rdbnomics
+  url: https://cran.r-project.org/package=rdbnomics
   description: Access to the [DB.nomics database](https://next.nomics.world/) which
     provide macroeconomic data from 38 official providers such as INSEE, Eurostat,
     World bank, etc.
@@ -896,6 +940,9 @@
   standard:
   access_to:
   - DBnomics
+  features:
+  - to_df
+  - catalogue_retrieval
 - type: R package
   name: readabs
   url: https://cran.r-project.org/package=readabs
@@ -905,6 +952,11 @@
   standard:
   access_to:
   - ABS
+  features:
+  - to_df
+  - endpoint_hiding
+  - catalogue_retrieval
+  - search
 - type: R package
   name: statcanR
   url: https://cran.r-project.org/package=statcanR
@@ -915,6 +967,10 @@
   standard:
   access_to:
   - STATCAN
+  features:
+  - to_df
+  - endpoint_hiding
+  - search
 - type: R package
   name: cdlTools
   url: https://cran.r-project.org/package=cdlTools
@@ -925,6 +981,11 @@
   standard:
   access_to:
   - USDA
+  features:
+  - to_df
+  - endpoint_hiding
+  - catalogue_retrieval
+  - cartographic queries
 - type: Java application
   name: SDMX_Connectors
   url: https://github.com/amattioc/SDMX
@@ -954,6 +1015,12 @@
   standard: PX
   access_to:
   - CSO
+  features:
+  - to_df
+  - endpoint_hiding
+  - search
+  - caching
+  - cartographic queries
 - type: R package
   name: iriR
   url: https://cran.r-project.org/package=iriR
@@ -973,6 +1040,10 @@
   standard:
   access_to:
   - CZSO
+  features:
+  - to_df
+  - endpoint_hiding
+  - catalogue_retrieval
 - type: R package
   name: ipumsr
   url: https://cran.r-project.org/package=ipumsr
@@ -983,6 +1054,10 @@
   standard:
   access_to:
   - IPUMS
+  features:
+  - to_df
+  - endpoint_hiding
+  - catalogue_retrieval
 - type: R package
   name: eph
   url: https://cran.r-project.org/package=eph
@@ -993,6 +1068,9 @@
   standard:
   access_to:
   - Argentina HHS
+  features:
+  - to_df
+  - endpoint_hiding
 - type: R package
   name: blsR
   url: https://cran.r-project.org/package=blsR
@@ -1002,6 +1080,10 @@
   standard:
   access_to:
   - BLS
+  features:
+  - to_df
+  - endpoint_hiding
+  - catalogue_retrieval
 - type: R package
   name: danstat
   url: https://cran.r-project.org/package=danstat
@@ -1011,6 +1093,10 @@
   standard:
   access_to:
   - Denmark
+  features:
+  - to_df
+  - endpoint_hiding
+  - catalogue_retrieval
 - type: R package
   name: restatis
   url: https://cran.r-project.org/package=restatis
@@ -1020,6 +1106,11 @@
   standard:
   access_to:
   - Germany
+  features:
+  - to_df
+  - endpoint_hiding
+  - catalogue_retrieval
+  - search
 - type: Python
   name: pystatis
   url: https://pypi.org/project/pystatis/
@@ -1038,6 +1129,9 @@
   standard:
   access_to:
   - Romania
+  features:
+  - to_df
+  - endpoint_hiding
 - type: R package
   name: cancensus
   url: https://cran.r-project.org/package=cancensus
@@ -1047,6 +1141,13 @@
   standard:
   access_to:
   - Canada
+  features:
+  - to_df
+  - endpoint_hiding
+  - catalogue_retrieval
+  - search
+  - caching
+  - cartographic queries
 - type: R package
   name: nomisr
   url: https://cran.r-project.org/package=nomisr
@@ -1056,6 +1157,11 @@
   standard: SDMX
   access_to:
   - UK
+  features:
+  - to_df
+  - endpoint_hiding
+  - catalogue_retrieval
+  - search
 - type: R package
   name: insee
   url: https://cran.r-project.org/package=insee
@@ -1065,6 +1171,11 @@
   standard: SDMX
   access_to:
   - France
+  features:
+  - to_df
+  - endpoint_hiding
+  - catalogue_retrieval
+  - search
 - type: R package
   name: nonprobsvy
   url: https://cran.r-project.org/package=nonprobsvy

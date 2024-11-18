@@ -1,0 +1,27 @@
+- type: R package
+  name: nsoApi
+  url: https://github.com/bowerth/nsoApi
+  description: Builds on other packages to access data from official statistics and
+    tries to harmonize the API.
+  gsbpm_name: Access to official statistics
+  gsbpm_number: '7.4'
+  standard:
+  access_to:
+  - CBS
+  - Destatis
+  - UK
+  - Norway
+  - Austria
+  - STATCAN
+  removal_reason: not mainained; documentation outofdate
+- type: R package
+  name: iriR
+  url: https://cran.r-project.org/package=iriR
+  description: Client for the European Commission’s Industrial R&D Investment Scoreboard
+    (IRI)
+  gsbpm_name: Access to official statistics
+  gsbpm_number: '7.4'
+  standard:
+  access_to:
+  - IRI
+  removal_reason: removed from CRAN
