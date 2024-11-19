@@ -1361,6 +1361,9 @@
     "access_to": [
       "all SDMX"
     ],
+    "features": [
+      "to_df"
+    ],
     "license": "GPL-3",
     "licenseSimple": "GPL",
     "platform": "CRAN",
@@ -1372,7 +1375,7 @@
     "type": "Python",
     "name": "sdmx",
     "url": "https://github.com/khaeru/sdmx",
-    "description": "Python library that implements SDMX 2.1 to explore data from SDMX data providers, parse data and metadata and convert it into Pandas objects.",
+    "description": "Python library (called ‘sdmx1’ on PyPI) implementing SDMX 2.1 and 3.0 to access SDMX data providers and convert it into Pandas objects.",
     "gsbpm_name": "Access to official statistics",
     "gsbpm_number": "7.4",
     "standard": "SDMX",
@@ -1396,6 +1399,9 @@
     "standard": "JSON-STAT",
     "access_to": [
       "all JSON-STAT"
+    ],
+    "features": [
+      "to_df"
     ],
     "license": "MIT + file LICENSE",
     "licenseSimple": "MIT",
@@ -1442,7 +1448,7 @@
   },
   {
     "type": "R package",
-    "name": "oecd",
+    "name": "OECD",
     "url": "https://cran.r-project.org/package=OECD",
     "description": "Search and Extract Data from the OECD",
     "gsbpm_name": "Access to official statistics",
@@ -1450,6 +1456,12 @@
     "standard": null,
     "access_to": [
       "OECD"
+    ],
+    "features": [
+      "to_df",
+      "endpoint_hiding",
+      "catalogue_retrieval",
+      "search"
     ],
     "license": "CC0",
     "licenseSimple": "CC0",
@@ -1469,6 +1481,9 @@
     "access_to": [
       "Finland"
     ],
+    "features": [
+      "cartographic queries"
+    ],
     "license": "BSD_2_clause + file LICENSE",
     "licenseSimple": "BSD",
     "platform": "CRAN",
@@ -1486,6 +1501,14 @@
     "standard": null,
     "access_to": [
       "ESTAT"
+    ],
+    "features": [
+      "to_df",
+      "endpoint_hiding",
+      "catalogue_retrieval",
+      "search",
+      "caching",
+      "cartographic queries"
     ],
     "license": "BSD_2_clause + file LICENSE",
     "licenseSimple": "BSD",
@@ -1505,6 +1528,14 @@
     "access_to": [
       "ESTAT"
     ],
+    "features": [
+      "to_df",
+      "endpoint_hiding",
+      "catalogue_retrieval",
+      "search",
+      "local_queries",
+      "caching"
+    ],
     "license": "EUPL",
     "licenseSimple": "EUPL",
     "platform": "CRAN",
@@ -1522,6 +1553,11 @@
     "standard": null,
     "access_to": [
       "US Census Bureau"
+    ],
+    "features": [
+      "to_df",
+      "endpoint_hiding",
+      "cartographic queries"
     ],
     "license": "GPL-3",
     "licenseSimple": "GPL",
@@ -1541,6 +1577,11 @@
     "access_to": [
       "INEGI"
     ],
+    "features": [
+      "to_df",
+      "endpoint_hiding",
+      "cartographic queries"
+    ],
     "license": "CC0",
     "licenseSimple": "CC0",
     "platform": "CRAN",
@@ -1559,6 +1600,15 @@
     "access_to": [
       "CBS"
     ],
+    "features": [
+      "to_df",
+      "endpoint_hiding",
+      "catalogue_retrieval",
+      "search",
+      "endpoint_queries",
+      "caching",
+      "cartographic queries"
+    ],
     "license": "GPL-2",
     "licenseSimple": "GPL",
     "platform": "CRAN",
@@ -1576,6 +1626,11 @@
     "standard": "ODATA",
     "access_to": [
       "CBS"
+    ],
+    "features": [
+      "to_df",
+      "endpoint_hiding",
+      "catalogue_retrieval"
     ],
     "license": "GPL-3.0",
     "licenseSimple": "GPL",
@@ -1631,32 +1686,14 @@
     "access_to": [
       "US Census Bureau"
     ],
+    "features": [
+      "to_df",
+      "endpoint_hiding",
+      "catalogue_retrieval"
+    ],
     "license": "GPL-3",
     "licenseSimple": "GPL",
     "platform": "CRAN",
-    "languages": [
-      "R"
-    ]
-  },
-  {
-    "type": "R package",
-    "name": "nsoApi",
-    "url": "https://github.com/bowerth/nsoApi",
-    "description": "Builds on other packages to access data from official statistics and tries to harmonize the API.",
-    "gsbpm_name": "Access to official statistics",
-    "gsbpm_number": "7.4",
-    "standard": null,
-    "access_to": [
-      "CBS",
-      "Destatis",
-      "UK",
-      "Norway",
-      "Austria",
-      "STATCAN"
-    ],
-    "license": "EUPL-1.1",
-    "licenseSimple": "EUPL",
-    "platform": "GitHub",
     "languages": [
       "R"
     ]
@@ -1671,6 +1708,10 @@
     "standard": null,
     "access_to": [
       "STATCAN"
+    ],
+    "features": [
+      "to_df",
+      "endpoint_hiding"
     ],
     "license": "GPL-3",
     "licenseSimple": "GPL",
@@ -1708,6 +1749,10 @@
     "access_to": [
       "all PX"
     ],
+    "features": [
+      "to_df",
+      "endpoint_queries"
+    ],
     "license": "BSD_2_clause + file LICENSE",
     "licenseSimple": "BSD",
     "platform": "CRAN",
@@ -1728,6 +1773,9 @@
       "Sweden",
       "Finland"
     ],
+    "features": [
+      "to_df"
+    ],
     "license": "MIT + file LICENSE",
     "licenseSimple": "MIT",
     "platform": "CRAN",
@@ -1746,6 +1794,9 @@
     "access_to": [
       "all PX"
     ],
+    "features": [
+      "to_df"
+    ],
     "license": "GPL-3",
     "licenseSimple": "GPL",
     "platform": "CRAN",
@@ -1756,7 +1807,7 @@
   {
     "type": "R package",
     "name": "rdbnomics",
-    "url": "https://git.nomics.world/dbnomics/rdbnomics",
+    "url": "https://cran.r-project.org/package=rdbnomics",
     "description": "Access to the [DB.nomics database](https://next.nomics.world/) which provide macroeconomic data from 38 official providers such as INSEE, Eurostat, World bank, etc.",
     "gsbpm_name": "Access to official statistics",
     "gsbpm_number": "7.4",
@@ -1764,11 +1815,15 @@
     "access_to": [
       "DBnomics"
     ],
-    "license": "unknown",
-    "licenseSimple": "unknown",
-    "platform": "other",
+    "features": [
+      "to_df",
+      "catalogue_retrieval"
+    ],
+    "license": "AGPL-3",
+    "licenseSimple": "AGPL",
+    "platform": "CRAN",
     "languages": [
-      "unknown"
+      "R"
     ]
   },
   {
@@ -1781,6 +1836,12 @@
     "standard": null,
     "access_to": [
       "ABS"
+    ],
+    "features": [
+      "to_df",
+      "endpoint_hiding",
+      "catalogue_retrieval",
+      "search"
     ],
     "license": "MIT + file LICENSE",
     "licenseSimple": "MIT",
@@ -1800,6 +1861,11 @@
     "access_to": [
       "STATCAN"
     ],
+    "features": [
+      "to_df",
+      "endpoint_hiding",
+      "search"
+    ],
     "license": "MIT + file LICENSE",
     "licenseSimple": "MIT",
     "platform": "CRAN",
@@ -1817,6 +1883,12 @@
     "standard": null,
     "access_to": [
       "USDA"
+    ],
+    "features": [
+      "to_df",
+      "endpoint_hiding",
+      "catalogue_retrieval",
+      "cartographic queries"
     ],
     "license": "Unlimited",
     "licenseSimple": "Unlimited",
@@ -1872,6 +1944,13 @@
     "access_to": [
       "CSO"
     ],
+    "features": [
+      "to_df",
+      "endpoint_hiding",
+      "search",
+      "caching",
+      "cartographic queries"
+    ],
     "license": "GPL-3",
     "licenseSimple": "GPL",
     "platform": "CRAN",
@@ -1908,6 +1987,11 @@
     "access_to": [
       "CZSO"
     ],
+    "features": [
+      "to_df",
+      "endpoint_hiding",
+      "catalogue_retrieval"
+    ],
     "license": "MIT + file LICENSE",
     "licenseSimple": "MIT",
     "platform": "CRAN",
@@ -1925,6 +2009,11 @@
     "standard": null,
     "access_to": [
       "IPUMS"
+    ],
+    "features": [
+      "to_df",
+      "endpoint_hiding",
+      "catalogue_retrieval"
     ],
     "license": "Mozilla Public License 2.0",
     "licenseSimple": "Mozilla",
@@ -1944,6 +2033,10 @@
     "access_to": [
       "Argentina HHS"
     ],
+    "features": [
+      "to_df",
+      "endpoint_hiding"
+    ],
     "license": "MIT + file LICENSE",
     "licenseSimple": "MIT",
     "platform": "CRAN",
@@ -1961,6 +2054,11 @@
     "standard": null,
     "access_to": [
       "BLS"
+    ],
+    "features": [
+      "to_df",
+      "endpoint_hiding",
+      "catalogue_retrieval"
     ],
     "license": "MIT + file LICENSE",
     "licenseSimple": "MIT",
@@ -1980,6 +2078,11 @@
     "access_to": [
       "Denmark"
     ],
+    "features": [
+      "to_df",
+      "endpoint_hiding",
+      "catalogue_retrieval"
+    ],
     "license": "MIT + file LICENSE",
     "licenseSimple": "MIT",
     "platform": "CRAN",
@@ -1997,6 +2100,12 @@
     "standard": null,
     "access_to": [
       "Germany"
+    ],
+    "features": [
+      "to_df",
+      "endpoint_hiding",
+      "catalogue_retrieval",
+      "search"
     ],
     "license": "MIT + file LICENSE",
     "licenseSimple": "MIT",
@@ -2034,6 +2143,10 @@
     "access_to": [
       "Romania"
     ],
+    "features": [
+      "to_df",
+      "endpoint_hiding"
+    ],
     "license": "unknown",
     "licenseSimple": "unknown",
     "platform": "GitHub",
@@ -2052,6 +2165,14 @@
     "access_to": [
       "Canada"
     ],
+    "features": [
+      "to_df",
+      "endpoint_hiding",
+      "catalogue_retrieval",
+      "search",
+      "caching",
+      "cartographic queries"
+    ],
     "license": "MIT + file LICENSE",
     "licenseSimple": "MIT",
     "platform": "CRAN",
@@ -2066,30 +2187,18 @@
     "description": "Access UK Census and LFS statistics from the 'Nomis' database",
     "gsbpm_name": "Access to official statistics",
     "gsbpm_number": "7.4",
-    "standard": null,
+    "standard": "SDMX",
     "access_to": [
       "UK"
     ],
+    "features": [
+      "to_df",
+      "endpoint_hiding",
+      "catalogue_retrieval",
+      "search"
+    ],
     "license": "MIT + file LICENSE",
     "licenseSimple": "MIT",
-    "platform": "CRAN",
-    "languages": [
-      "R"
-    ]
-  },
-  {
-    "type": "R package",
-    "name": "OECD",
-    "url": "https://cran.r-project.org/package=OECD",
-    "description": "Search and Extract Data from the OECD",
-    "gsbpm_name": "Access to official statistics",
-    "gsbpm_number": "7.4",
-    "standard": null,
-    "access_to": [
-      "OECD"
-    ],
-    "license": "CC0",
-    "licenseSimple": "CC0",
     "platform": "CRAN",
     "languages": [
       "R"
@@ -2102,9 +2211,15 @@
     "description": "Access to the INSEE 'bdm' macroeconomic database",
     "gsbpm_name": "Access to official statistics",
     "gsbpm_number": "7.4",
-    "standard": null,
+    "standard": "SDMX",
     "access_to": [
       "France"
+    ],
+    "features": [
+      "to_df",
+      "endpoint_hiding",
+      "catalogue_retrieval",
+      "search"
     ],
     "license": "MIT + file LICENSE",
     "licenseSimple": "MIT",
