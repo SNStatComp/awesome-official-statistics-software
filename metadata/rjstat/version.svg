@@ -1,29 +1,60 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="163" height="20" aria-label="CRAN 0.4.3 – a year ago">
-  <linearGradient id="b" x2="0" y2="100%">
-    <stop offset="0" stop-color="#bbb" stop-opacity=".1"/>
-    <stop offset="1" stop-opacity=".1"/>
-  </linearGradient>
-  <mask id="a">
-    <rect width="163" height="20" rx="3" fill="#fff"/>
-  </mask>
-  <g mask="url(#a)">
-    <path fill="#555" d="M0 0h43v20H0z"/>
-    <path fill="#4c1" d="M43 0h141v20H43z"/>
-    <path fill="url(#b)" d="M0 0h163v20H0z"/>
-  </g>
-  <g fill="#fff" text-anchor="middle"
-     font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="11">
-    <text x="21.5" y="15" fill="#010101" fill-opacity=".3">
-      CRAN
-    </text>
-    <text x="21.5" y="14">
-      CRAN
-    </text>
-    <text x="102" y="15" fill="#010101" fill-opacity=".3">
-      0.4.3 – a year ago
-    </text>
-    <text x="102" y="14">
-      0.4.3 – a year ago
-    </text>
-  </g>
-</svg>
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Page Not Found</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+
+        * {
+            line-height: 1.2;
+            margin: 0;
+        }
+
+        html {
+            color: #888;
+            display: table;
+            font-family: sans-serif;
+            height: 100%;
+            text-align: center;
+            width: 100%;
+        }
+
+        body {
+            display: table-cell;
+            vertical-align: middle;
+            margin: 2em auto;
+        }
+
+        h1 {
+            color: #555;
+            font-size: 2em;
+            font-weight: 400;
+        }
+
+        p {
+            margin: 0 auto;
+            width: 280px;
+        }
+
+        @media only screen and (max-width: 280px) {
+
+            body, p {
+                width: 95%;
+            }
+
+            h1 {
+                font-size: 1.5em;
+                margin: 0 0 0.3em;
+            }
+
+        }
+
+    </style>
+</head>
+<body>
+    <h1>Page Not Found</h1>
+    <p>Sorry, but the page you were trying to view does not exist.</p>
+</body>
+</html>
+<!-- IE needs 512+ bytes: http://blogs.msdn.com/b/ieinternals/archive/2010/08/19/http-error-pages-in-internet-explorer.aspx -->

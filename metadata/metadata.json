@@ -883,12 +883,40 @@
   },
   {
     "type": "R package",
+    "name": "nonprobsvy",
+    "url": "https://cran.r-project.org/package=nonprobsvy",
+    "description": "Statistical inference with non-probability samples when auxiliary information is available from external sources such as probability samples or population totals or means. The package implements inverse probability weighting, mass imputation and doubly robust estimators possibly with high-dimensional covariates.",
+    "gsbpm_name": "Estimation and weighting",
+    "gsbpm_number": "5.6 | 5.7",
+    "license": "MIT + file LICENSE",
+    "licenseSimple": "MIT",
+    "platform": "CRAN",
+    "languages": [
+      "R"
+    ]
+  },
+  {
+    "type": "R package",
     "name": "validate",
     "url": "https://cran.r-project.org/package=validate",
     "description": "Rule management and data validation.",
     "gsbpm_name": "Output validation",
     "gsbpm_number": "6.2",
     "license": "GPL-3",
+    "licenseSimple": "GPL",
+    "platform": "CRAN",
+    "languages": [
+      "R"
+    ]
+  },
+  {
+    "type": "R package",
+    "name": "nrba",
+    "url": "https://cran.r-project.org/package=nrba",
+    "description": "Facilitates nonresponse bias analysis (NRBA) and nonresponse adjustments for survey data.",
+    "gsbpm_name": "Validate outputs",
+    "gsbpm_number": "6.2",
+    "license": "GPL (>= 3)",
     "licenseSimple": "GPL",
     "platform": "CRAN",
     "languages": [
@@ -973,8 +1001,8 @@
     "description": "Tabular data suppression using the Gaussian elimination secondary suppression algorithm.",
     "gsbpm_name": "Statistical disclosure control",
     "gsbpm_number": "6.4",
-    "license": "MIT + file LICENSE",
-    "licenseSimple": "MIT",
+    "license": "unknown",
+    "licenseSimple": "unknown",
     "platform": "CRAN",
     "languages": [
       "R"
@@ -987,8 +1015,8 @@
     "description": "Allows to generate, modify and export nested hierarchies.",
     "gsbpm_name": "Statistical disclosure control",
     "gsbpm_number": "6.4",
-    "license": "GPL-3",
-    "licenseSimple": "GPL",
+    "license": "unknown",
+    "licenseSimple": "unknown",
     "platform": "CRAN",
     "languages": [
       "R"
@@ -1001,8 +1029,8 @@
     "description": "Can be used to protect frequency tables by rounding necessary inner cells so that cross-classifications to be published are safe.",
     "gsbpm_name": "Statistical disclosure control",
     "gsbpm_number": "6.4",
-    "license": "MIT + file LICENSE",
-    "licenseSimple": "MIT",
+    "license": "unknown",
+    "licenseSimple": "unknown",
     "platform": "CRAN",
     "languages": [
       "R"
@@ -1184,8 +1212,8 @@
     "description": "Compare up to about 10-20 variables simultaneously using a [tableplot](https://cran.r-project.org/web/packages/tabplot/vignettes/tabplot-vignette.html). See also [tabplotd3](https://CRAN.R-project.org/package=tabplot) for a web-based GUI. Note: 2022-03-03: Temporarily not on Cran but expected to be back in 2022.",
     "gsbpm_name": "Visualisation",
     "gsbpm_number": "7.2",
-    "license": "GPL-3",
-    "licenseSimple": "GPL",
+    "license": "unknown",
+    "licenseSimple": "unknown",
     "platform": "CRAN",
     "languages": [
       "R"
@@ -1255,8 +1283,8 @@
     "description": "Space-filling visualisation of hierarchical data.",
     "gsbpm_name": "Visualisation",
     "gsbpm_number": "7.2",
-    "license": "GPL-3",
-    "licenseSimple": "GPL",
+    "license": "unknown",
+    "licenseSimple": "unknown",
     "platform": "CRAN",
     "languages": [
       "R"
@@ -1269,8 +1297,8 @@
     "description": "Conservative kernel smoothing method for spatial analysis.",
     "gsbpm_name": "Visualisation",
     "gsbpm_number": "7.2",
-    "license": "GPL (>= 2)",
-    "licenseSimple": "GPL",
+    "license": "unknown",
+    "licenseSimple": "unknown",
     "platform": "CRAN",
     "languages": [
       "R"
@@ -1311,8 +1339,8 @@
     "description": "Sankey plots suited for (circulair) economical systems such as energy systems, material flow accounts and water accounts. Supports loops. ",
     "gsbpm_name": "Visualisation",
     "gsbpm_number": "7.2",
-    "license": "EUPL",
-    "licenseSimple": "EUPL",
+    "license": "unknown",
+    "licenseSimple": "unknown",
     "platform": "CRAN",
     "languages": [
       "R"
@@ -1343,8 +1371,15 @@
     "access_to": [
       "all SDMX"
     ],
-    "license": "GPL (>= 2)",
-    "licenseSimple": "GPL",
+    "features": [
+      "to_df",
+      "endpoint_hiding",
+      "catalogue_retrieval",
+      "endpoint_queries",
+      "registry_access"
+    ],
+    "license": "unknown",
+    "licenseSimple": "unknown",
     "platform": "CRAN",
     "languages": [
       "R"
@@ -1364,8 +1399,8 @@
     "features": [
       "to_df"
     ],
-    "license": "GPL-3",
-    "licenseSimple": "GPL",
+    "license": "unknown",
+    "licenseSimple": "unknown",
     "platform": "CRAN",
     "languages": [
       "R"
@@ -1403,8 +1438,8 @@
     "features": [
       "to_df"
     ],
-    "license": "MIT + file LICENSE",
-    "licenseSimple": "MIT",
+    "license": "unknown",
+    "licenseSimple": "unknown",
     "platform": "CRAN",
     "languages": [
       "R"
@@ -1474,7 +1509,7 @@
     "type": "R package",
     "name": "sorvi",
     "url": "https://cran.r-project.org/package=sorvi",
-    "description": "Finnish Open Government Data Toolkit",
+    "description": "Finnish Open Government Data Toolkit, historical maps",
     "gsbpm_name": "Access to official statistics",
     "gsbpm_number": "7.4",
     "standard": null,
@@ -1484,8 +1519,8 @@
     "features": [
       "cartographic queries"
     ],
-    "license": "BSD_2_clause + file LICENSE",
-    "licenseSimple": "BSD",
+    "license": "unknown",
+    "licenseSimple": "unknown",
     "platform": "CRAN",
     "languages": [
       "R"
@@ -1510,8 +1545,8 @@
       "caching",
       "cartographic queries"
     ],
-    "license": "BSD_2_clause + file LICENSE",
-    "licenseSimple": "BSD",
+    "license": "unknown",
+    "licenseSimple": "unknown",
     "platform": "CRAN",
     "languages": [
       "R"
@@ -1536,8 +1571,8 @@
       "local_queries",
       "caching"
     ],
-    "license": "EUPL",
-    "licenseSimple": "EUPL",
+    "license": "unknown",
+    "licenseSimple": "unknown",
     "platform": "CRAN",
     "languages": [
       "R"
@@ -1559,8 +1594,8 @@
       "endpoint_hiding",
       "cartographic queries"
     ],
-    "license": "GPL-3",
-    "licenseSimple": "GPL",
+    "license": "unknown",
+    "licenseSimple": "unknown",
     "platform": "CRAN",
     "languages": [
       "R"
@@ -1582,8 +1617,8 @@
       "endpoint_hiding",
       "cartographic queries"
     ],
-    "license": "CC0",
-    "licenseSimple": "CC0",
+    "license": "unknown",
+    "licenseSimple": "unknown",
     "platform": "CRAN",
     "languages": [
       "R"
@@ -1609,8 +1644,8 @@
       "caching",
       "cartographic queries"
     ],
-    "license": "GPL-2",
-    "licenseSimple": "GPL",
+    "license": "unknown",
+    "licenseSimple": "unknown",
     "platform": "CRAN",
     "languages": [
       "R"
@@ -1689,7 +1724,8 @@
     "features": [
       "to_df",
       "endpoint_hiding",
-      "catalogue_retrieval"
+      "catalogue_retrieval",
+      "cartographic queries"
     ],
     "license": "GPL-3",
     "licenseSimple": "GPL",
@@ -1753,8 +1789,8 @@
       "to_df",
       "endpoint_queries"
     ],
-    "license": "BSD_2_clause + file LICENSE",
-    "licenseSimple": "BSD",
+    "license": "unknown",
+    "licenseSimple": "unknown",
     "platform": "CRAN",
     "languages": [
       "R"
@@ -1774,7 +1810,8 @@
       "Finland"
     ],
     "features": [
-      "to_df"
+      "to_df",
+      "endpoint_queries"
     ],
     "license": "MIT + file LICENSE",
     "licenseSimple": "MIT",
@@ -1887,11 +1924,10 @@
     "features": [
       "to_df",
       "endpoint_hiding",
-      "catalogue_retrieval",
       "cartographic queries"
     ],
-    "license": "Unlimited",
-    "licenseSimple": "Unlimited",
+    "license": "unknown",
+    "licenseSimple": "unknown",
     "platform": "CRAN",
     "languages": [
       "R"
@@ -1947,30 +1983,13 @@
     "features": [
       "to_df",
       "endpoint_hiding",
+      "catalogue_retrieval",
       "search",
       "caching",
       "cartographic queries"
     ],
-    "license": "GPL-3",
-    "licenseSimple": "GPL",
-    "platform": "CRAN",
-    "languages": [
-      "R"
-    ]
-  },
-  {
-    "type": "R package",
-    "name": "iriR",
-    "url": "https://cran.r-project.org/package=iriR",
-    "description": "Client for the European Commission’s Industrial R&D Investment Scoreboard (IRI)",
-    "gsbpm_name": "Access to official statistics",
-    "gsbpm_number": "7.4",
-    "standard": null,
-    "access_to": [
-      "IRI"
-    ],
-    "license": "MIT + file LICENSE",
-    "licenseSimple": "MIT",
+    "license": "unknown",
+    "licenseSimple": "unknown",
     "platform": "CRAN",
     "languages": [
       "R"
@@ -1992,8 +2011,8 @@
       "endpoint_hiding",
       "catalogue_retrieval"
     ],
-    "license": "MIT + file LICENSE",
-    "licenseSimple": "MIT",
+    "license": "unknown",
+    "licenseSimple": "unknown",
     "platform": "CRAN",
     "languages": [
       "R"
@@ -2015,8 +2034,8 @@
       "endpoint_hiding",
       "catalogue_retrieval"
     ],
-    "license": "Mozilla Public License 2.0",
-    "licenseSimple": "Mozilla",
+    "license": "unknown",
+    "licenseSimple": "unknown",
     "platform": "CRAN",
     "languages": [
       "R"
@@ -2037,8 +2056,8 @@
       "to_df",
       "endpoint_hiding"
     ],
-    "license": "MIT + file LICENSE",
-    "licenseSimple": "MIT",
+    "license": "unknown",
+    "licenseSimple": "unknown",
     "platform": "CRAN",
     "languages": [
       "R"
@@ -2060,8 +2079,8 @@
       "endpoint_hiding",
       "catalogue_retrieval"
     ],
-    "license": "MIT + file LICENSE",
-    "licenseSimple": "MIT",
+    "license": "unknown",
+    "licenseSimple": "unknown",
     "platform": "CRAN",
     "languages": [
       "R"
@@ -2107,8 +2126,8 @@
       "catalogue_retrieval",
       "search"
     ],
-    "license": "MIT + file LICENSE",
-    "licenseSimple": "MIT",
+    "license": "unknown",
+    "licenseSimple": "unknown",
     "platform": "CRAN",
     "languages": [
       "R"
@@ -2173,8 +2192,8 @@
       "caching",
       "cartographic queries"
     ],
-    "license": "MIT + file LICENSE",
-    "licenseSimple": "MIT",
+    "license": "unknown",
+    "licenseSimple": "unknown",
     "platform": "CRAN",
     "languages": [
       "R"
@@ -2197,8 +2216,8 @@
       "catalogue_retrieval",
       "search"
     ],
-    "license": "MIT + file LICENSE",
-    "licenseSimple": "MIT",
+    "license": "unknown",
+    "licenseSimple": "unknown",
     "platform": "CRAN",
     "languages": [
       "R"
@@ -2221,36 +2240,8 @@
       "catalogue_retrieval",
       "search"
     ],
-    "license": "MIT + file LICENSE",
-    "licenseSimple": "MIT",
-    "platform": "CRAN",
-    "languages": [
-      "R"
-    ]
-  },
-  {
-    "type": "R package",
-    "name": "nonprobsvy",
-    "url": "https://cran.r-project.org/package=nonprobsvy",
-    "description": "Statistical inference with non-probability samples when auxiliary information is available from external sources such as probability samples or population totals or means. The package implements inverse probability weighting, mass imputation and doubly robust estimators possibly with high-dimensional covariates.",
-    "gsbpm_name": "Estimation and weighting",
-    "gsbpm_number": "5.6 | 5.7",
-    "license": "MIT + file LICENSE",
-    "licenseSimple": "MIT",
-    "platform": "CRAN",
-    "languages": [
-      "R"
-    ]
-  },
-  {
-    "type": "R package",
-    "name": "nrba",
-    "url": "https://cran.r-project.org/package=nrba",
-    "description": "Facilitates nonresponse bias analysis (NRBA) and nonresponse adjustments for survey data.",
-    "gsbpm_name": "Validate outputs",
-    "gsbpm_number": "6.2",
-    "license": "GPL (>= 3)",
-    "licenseSimple": "GPL",
+    "license": "unknown",
+    "licenseSimple": "unknown",
     "platform": "CRAN",
     "languages": [
       "R"
