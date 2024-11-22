@@ -13,28 +13,19 @@ for (const o of data) {
 	// Only R packages in "access_to":
 	if (o.gsbpm_number != "7.4") continue
 	if (o.type != "R package") continue
-
+	
 	// Only if it has features:
 	if (!o.features) continue
 
-	// Add features to matrix:
-	for (const f of o.features) {
-		console.log(f)
+	// Add item to matrix with all its features:
+	cnt++
+	for (const f of o.features) 
 		matrix.push({software: o.name, type: o.type, feature: f})
-	}
 
-}
-
-// Adds cell to matrix, if not already in matrix:
-function add_cell(software, type, standard, provider) {
-	for (const el in matrix) if (el.software == software && el.provider == provider) return
-	matrix.push({software: software, type: type, standard: standard || "other", provider: provider})
 }
 
 // statistics:
 console.log("# pkgs: "+ cnt)
-
-
 
 // Write matrix:
 fs.writeFileSync('./../data/7_4_feature_x_package.json', JSON.stringify(matrix));
