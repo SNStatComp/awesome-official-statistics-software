@@ -1001,8 +1001,8 @@
     "description": "Tabular data suppression using the Gaussian elimination secondary suppression algorithm.",
     "gsbpm_name": "Statistical disclosure control",
     "gsbpm_number": "6.4",
-    "license": "unknown",
-    "licenseSimple": "unknown",
+    "license": "MIT + file LICENSE",
+    "licenseSimple": "MIT",
     "platform": "CRAN",
     "languages": [
       "R"
@@ -1015,8 +1015,8 @@
     "description": "Allows to generate, modify and export nested hierarchies.",
     "gsbpm_name": "Statistical disclosure control",
     "gsbpm_number": "6.4",
-    "license": "unknown",
-    "licenseSimple": "unknown",
+    "license": "GPL-3",
+    "licenseSimple": "GPL",
     "platform": "CRAN",
     "languages": [
       "R"
@@ -1029,8 +1029,8 @@
     "description": "Can be used to protect frequency tables by rounding necessary inner cells so that cross-classifications to be published are safe.",
     "gsbpm_name": "Statistical disclosure control",
     "gsbpm_number": "6.4",
-    "license": "unknown",
-    "licenseSimple": "unknown",
+    "license": "MIT + file LICENSE",
+    "licenseSimple": "MIT",
     "platform": "CRAN",
     "languages": [
       "R"
@@ -1212,8 +1212,8 @@
     "description": "Compare up to about 10-20 variables simultaneously using a [tableplot](https://cran.r-project.org/web/packages/tabplot/vignettes/tabplot-vignette.html). See also [tabplotd3](https://CRAN.R-project.org/package=tabplot) for a web-based GUI. Note: 2022-03-03: Temporarily not on Cran but expected to be back in 2022.",
     "gsbpm_name": "Visualisation",
     "gsbpm_number": "7.2",
-    "license": "unknown",
-    "licenseSimple": "unknown",
+    "license": "GPL-3",
+    "licenseSimple": "GPL",
     "platform": "CRAN",
     "languages": [
       "R"
@@ -1283,8 +1283,8 @@
     "description": "Space-filling visualisation of hierarchical data.",
     "gsbpm_name": "Visualisation",
     "gsbpm_number": "7.2",
-    "license": "unknown",
-    "licenseSimple": "unknown",
+    "license": "GPL-3",
+    "licenseSimple": "GPL",
     "platform": "CRAN",
     "languages": [
       "R"
@@ -1297,8 +1297,8 @@
     "description": "Conservative kernel smoothing method for spatial analysis.",
     "gsbpm_name": "Visualisation",
     "gsbpm_number": "7.2",
-    "license": "unknown",
-    "licenseSimple": "unknown",
+    "license": "GPL (>= 2)",
+    "licenseSimple": "GPL",
     "platform": "CRAN",
     "languages": [
       "R"
@@ -1339,8 +1339,8 @@
     "description": "Sankey plots suited for (circulair) economical systems such as energy systems, material flow accounts and water accounts. Supports loops. ",
     "gsbpm_name": "Visualisation",
     "gsbpm_number": "7.2",
-    "license": "unknown",
-    "licenseSimple": "unknown",
+    "license": "EUPL",
+    "licenseSimple": "EUPL",
     "platform": "CRAN",
     "languages": [
       "R"
@@ -1378,8 +1378,8 @@
       "endpoint_queries",
       "registry_access"
     ],
-    "license": "unknown",
-    "licenseSimple": "unknown",
+    "license": "GPL (>= 2)",
+    "licenseSimple": "GPL",
     "platform": "CRAN",
     "languages": [
       "R"
@@ -1399,8 +1399,8 @@
     "features": [
       "to_df"
     ],
-    "license": "unknown",
-    "licenseSimple": "unknown",
+    "license": "GPL-3",
+    "licenseSimple": "GPL",
     "platform": "CRAN",
     "languages": [
       "R"
@@ -1438,8 +1438,8 @@
     "features": [
       "to_df"
     ],
-    "license": "unknown",
-    "licenseSimple": "unknown",
+    "license": "MIT + file LICENSE",
+    "licenseSimple": "MIT",
     "platform": "CRAN",
     "languages": [
       "R"
@@ -1519,8 +1519,8 @@
     "features": [
       "cartographic queries"
     ],
-    "license": "unknown",
-    "licenseSimple": "unknown",
+    "license": "BSD_2_clause + file LICENSE",
+    "licenseSimple": "BSD",
     "platform": "CRAN",
     "languages": [
       "R"
@@ -1545,8 +1545,8 @@
       "caching",
       "cartographic queries"
     ],
-    "license": "unknown",
-    "licenseSimple": "unknown",
+    "license": "BSD_2_clause + file LICENSE",
+    "licenseSimple": "BSD",
     "platform": "CRAN",
     "languages": [
       "R"
@@ -1571,8 +1571,8 @@
       "local_queries",
       "caching"
     ],
-    "license": "unknown",
-    "licenseSimple": "unknown",
+    "license": "EUPL",
+    "licenseSimple": "EUPL",
     "platform": "CRAN",
     "languages": [
       "R"
@@ -1594,8 +1594,8 @@
       "endpoint_hiding",
       "cartographic queries"
     ],
-    "license": "unknown",
-    "licenseSimple": "unknown",
+    "license": "GPL-3",
+    "licenseSimple": "GPL",
     "platform": "CRAN",
     "languages": [
       "R"
@@ -1617,8 +1617,8 @@
       "endpoint_hiding",
       "cartographic queries"
     ],
-    "license": "unknown",
-    "licenseSimple": "unknown",
+    "license": "CC0",
+    "licenseSimple": "CC0",
     "platform": "CRAN",
     "languages": [
       "R"
@@ -1644,8 +1644,8 @@
       "caching",
       "cartographic queries"
     ],
-    "license": "unknown",
-    "licenseSimple": "unknown",
+    "license": "GPL-2",
+    "licenseSimple": "GPL",
     "platform": "CRAN",
     "languages": [
       "R"
@@ -1789,8 +1789,8 @@
       "to_df",
       "endpoint_queries"
     ],
-    "license": "unknown",
-    "licenseSimple": "unknown",
+    "license": "BSD_2_clause + file LICENSE",
+    "licenseSimple": "BSD",
     "platform": "CRAN",
     "languages": [
       "R"
@@ -1926,8 +1926,8 @@
       "endpoint_hiding",
       "cartographic queries"
     ],
-    "license": "unknown",
-    "licenseSimple": "unknown",
+    "license": "Unlimited",
+    "licenseSimple": "Unlimited",
     "platform": "CRAN",
     "languages": [
       "R"
@@ -1988,8 +1988,8 @@
       "caching",
       "cartographic queries"
     ],
-    "license": "unknown",
-    "licenseSimple": "unknown",
+    "license": "GPL-3",
+    "licenseSimple": "GPL",
     "platform": "CRAN",
     "languages": [
       "R"
@@ -2011,8 +2011,8 @@
       "endpoint_hiding",
       "catalogue_retrieval"
     ],
-    "license": "unknown",
-    "licenseSimple": "unknown",
+    "license": "MIT + file LICENSE",
+    "licenseSimple": "MIT",
     "platform": "CRAN",
     "languages": [
       "R"
@@ -2034,8 +2034,8 @@
       "endpoint_hiding",
       "catalogue_retrieval"
     ],
-    "license": "unknown",
-    "licenseSimple": "unknown",
+    "license": "Mozilla Public License 2.0",
+    "licenseSimple": "Mozilla",
     "platform": "CRAN",
     "languages": [
       "R"
@@ -2056,8 +2056,8 @@
       "to_df",
       "endpoint_hiding"
     ],
-    "license": "unknown",
-    "licenseSimple": "unknown",
+    "license": "MIT + file LICENSE",
+    "licenseSimple": "MIT",
     "platform": "CRAN",
     "languages": [
       "R"
@@ -2079,8 +2079,8 @@
       "endpoint_hiding",
       "catalogue_retrieval"
     ],
-    "license": "unknown",
-    "licenseSimple": "unknown",
+    "license": "MIT + file LICENSE",
+    "licenseSimple": "MIT",
     "platform": "CRAN",
     "languages": [
       "R"
@@ -2126,8 +2126,8 @@
       "catalogue_retrieval",
       "search"
     ],
-    "license": "unknown",
-    "licenseSimple": "unknown",
+    "license": "MIT + file LICENSE",
+    "licenseSimple": "MIT",
     "platform": "CRAN",
     "languages": [
       "R"
@@ -2192,8 +2192,8 @@
       "caching",
       "cartographic queries"
     ],
-    "license": "unknown",
-    "licenseSimple": "unknown",
+    "license": "MIT + file LICENSE",
+    "licenseSimple": "MIT",
     "platform": "CRAN",
     "languages": [
       "R"
@@ -2216,8 +2216,8 @@
       "catalogue_retrieval",
       "search"
     ],
-    "license": "unknown",
-    "licenseSimple": "unknown",
+    "license": "MIT + file LICENSE",
+    "licenseSimple": "MIT",
     "platform": "CRAN",
     "languages": [
       "R"
@@ -2240,8 +2240,8 @@
       "catalogue_retrieval",
       "search"
     ],
-    "license": "unknown",
-    "licenseSimple": "unknown",
+    "license": "MIT + file LICENSE",
+    "licenseSimple": "MIT",
     "platform": "CRAN",
     "languages": [
       "R"
