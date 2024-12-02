@@ -136,3 +136,4 @@
 "R package","cancensus","https://cran.r-project.org/package=cancensus","Access to Canadian Census Data and Geography","Access to official statistics","7.4"
 "R package","nomisr","https://cran.r-project.org/package=nomisr","Access UK Census and LFS statistics from the 'Nomis' database","Access to official statistics","7.4"
 "R package","insee","https://cran.r-project.org/package=insee","Access to the INSEE 'bdm' macroeconomic database","Access to official statistics","7.4"
+"R package","STATcubeR","https://cran.r-project.org/package=STATcubeR","Access to STATcube, the statistical database of Statistics Austria and the open data portal of Statistics Austria.","Access to official statistics","7.4"

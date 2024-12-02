@@ -2246,5 +2246,30 @@
     "languages": [
       "R"
     ]
+  },
+  {
+    "type": "R package",
+    "name": "STATcubeR",
+    "url": "https://cran.r-project.org/package=STATcubeR",
+    "description": "Access to STATcube, the statistical database of Statistics Austria and the open data portal of Statistics Austria.",
+    "gsbpm_name": "Access to official statistics",
+    "gsbpm_number": "7.4",
+    "standard": "OGD, SuperWeb2 Open Data API",
+    "access_to": [
+      "Austria"
+    ],
+    "features": [
+      "to_df",
+      "endpoint_hiding",
+      "catalogue_retrieval",
+      "endpoint_queries",
+      "caching"
+    ],
+    "license": "GPL (>= 2)",
+    "licenseSimple": "GPL",
+    "platform": "CRAN",
+    "languages": [
+      "R"
+    ]
   }
 ]

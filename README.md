@@ -352,6 +352,8 @@ R package [cancensus](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;can
 R package [nomisr](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;nomisr). Access UK Census and LFS statistics from the &#39;Nomis&#39; database
 - <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/insee/version.svg"></img> <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/insee/latest.svg"></img> <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/insee/license.svg"></img>\
 R package [insee](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;insee). Access to the INSEE &#39;bdm&#39; macroeconomic database
+- <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/STATcubeR/version.svg"></img> <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/STATcubeR/latest.svg"></img> <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/STATcubeR/license.svg"></img>\
+R package [STATcubeR](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;STATcubeR). Access to STATcube, the statistical database of Statistics Austria and the open data portal of Statistics Austria.
 
 
 <!-- END OF GENERATED LIST -->
