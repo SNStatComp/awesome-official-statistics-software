@@ -855,17 +855,15 @@
   },
   {
     "type": "R package",
-    "name": "RJDemetra",
-    "url": "https://cran.r-project.org/package=RJDemetra",
-    "description": "R interface to JDemetra+.",
+    "name": "rjdverse",
+    "url": "https://github.com/rjdverse",
+    "description": "ecosystem of R-packages around JDemetra+ such as [RJDemetra](https://github.com/rjdverse/rjdemetra) for v2 and rjd3* packages for v3",
     "gsbpm_name": "Time series and seasonal adjustment",
     "gsbpm_number": "5.6 | 5.7",
-    "license": "EUPL",
-    "licenseSimple": "EUPL",
-    "platform": "CRAN",
-    "languages": [
-      "R"
-    ]
+    "license": "unknown",
+    "licenseSimple": "unknown",
+    "platform": "GitHub",
+    "languages": []
   },
   {
     "type": "R package",
@@ -2242,6 +2240,31 @@
     ],
     "license": "MIT + file LICENSE",
     "licenseSimple": "MIT",
+    "platform": "CRAN",
+    "languages": [
+      "R"
+    ]
+  },
+  {
+    "type": "R package",
+    "name": "STATcubeR",
+    "url": "https://cran.r-project.org/package=STATcubeR",
+    "description": "Access to STATcube, the statistical database of Statistics Austria and the open data portal of Statistics Austria",
+    "gsbpm_name": "Access to official statistics",
+    "gsbpm_number": "7.4",
+    "standard": "SuperWeb2",
+    "access_to": [
+      "Austria"
+    ],
+    "features": [
+      "to_df",
+      "endpoint_hiding",
+      "catalogue_retrieval",
+      "endpoint_queries",
+      "caching"
+    ],
+    "license": "GPL (>= 2)",
+    "licenseSimple": "GPL",
     "platform": "CRAN",
     "languages": [
       "R"
