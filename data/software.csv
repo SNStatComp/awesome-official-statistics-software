@@ -60,7 +60,7 @@
 "R package","seasonal","https://cran.r-project.org/package=seasonal","Interface to the `X13-ARIMA-SEATS` program from R with a very nice shiny GUI.","Time series and seasonal adjustment","5.6 | 5.7"
 "R package","x12","https://cran.r-project.org/package=x12","Alternative interface to the `X13-ARIMA-SEATS` program from R with a focus on batch processing time series.","Time series and seasonal adjustment","5.6 | 5.7"
 "Java application","JDemetra+","https://github.com/jdemetra/jdemetra-app","The seasonal adjustment software officially recommended for the European Statistical System.","Time series and seasonal adjustment","5.6 | 5.7"
-"R package","RJDemetra","https://cran.r-project.org/package=RJDemetra","R interface to JDemetra+.","Time series and seasonal adjustment","5.6 | 5.7"
+"R package","rjdverse","https://github.com/rjdverse","ecosystem of R-packages around JDemetra+ such as [RJDemetra](https://github.com/rjdverse/rjdemetra) for v2 and rjd3* packages for v3","Time series and seasonal adjustment","5.6 | 5.7"
 "R package","tempdisagg","https://cran.r-project.org/package=tempdisagg","Methods for temporal disaggregation and interpolation of time series.","Time series and seasonal adjustment","5.6 | 5.7"
 "R package","nonprobsvy","https://cran.r-project.org/package=nonprobsvy","Statistical inference with non-probability samples when auxiliary information is available from external sources such as probability samples or population totals or means. The package implements inverse probability weighting, mass imputation and doubly robust estimators possibly with high-dimensional covariates.","Estimation and weighting","5.6 | 5.7"
 "R package","validate","https://cran.r-project.org/package=validate","Rule management and data validation.","Output validation","6.2"
@@ -136,3 +136,4 @@
 "R package","cancensus","https://cran.r-project.org/package=cancensus","Access to Canadian Census Data and Geography","Access to official statistics","7.4"
 "R package","nomisr","https://cran.r-project.org/package=nomisr","Access UK Census and LFS statistics from the 'Nomis' database","Access to official statistics","7.4"
 "R package","insee","https://cran.r-project.org/package=insee","Access to the INSEE 'bdm' macroeconomic database","Access to official statistics","7.4"
+"R package","STATcubeR","https://cran.r-project.org/package=STATcubeR","Access to STATcube, the statistical database of Statistics Austria and the open data portal of Statistics Austria","Access to official statistics","7.4"
