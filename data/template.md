@@ -7,6 +7,8 @@
 We prefer software that is easy to install and use and actively maintained. [Contributions](#contributions) welcome.
 
 #### News
+- Nov 2024: The list in keynote Sandra Baragain and other presentations at the **uRos2024**: [link](http://r-project.ro/conference2024.html)
+- Oct 2024: List highlighted at **SDMX EG meeting**: [session](https://cros.ec.europa.eu/book-page/sdmx-and-interoperability-standards)
 - July 2024: The list promoted by **UNECE HLG-MOS**: [LinkedIn](https://www.linkedin.com/posts/unece-modernisation-of-official-statistics_gsbpm-opensource-awesomelist-activity-7218604090577092608-DdvQ)
 - Dec 2023: List presented at **uRos2023**: [abstract](https://olavtenbosch.github.io/pdf/2023_Uros_tenBosch_Access.pdf), [slides](https://olavtenbosch.github.io/pdf/2023_Uros_tenBosch_Access_slides.pdf)
 - Jun 2023: List highlighted in [71th CES conference](https://unece.org/statistics/events/CES2023)
