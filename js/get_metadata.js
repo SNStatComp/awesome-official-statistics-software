@@ -53,11 +53,16 @@ function process_data(data) {
 				break
 			}
 			case 'github.com': {
-				// TODO: handle github organisations: parts.length == 4
-				// Then: no regular badges, only github badge and metadata that is derivable 
-
 				const user = parts[3], repo = parts[4]
 				console.log('GH: ',user,repo)
+				
+				// If GitHub organization, only one github badge for now: 
+				if (parts.length == 4) {
+					download_svg(`https://img.shields.io/badge/GitHub-organization-blue&style=plastic`, `${item.metadatadir}/version.svg`)
+					none_svg(`${item.metadatadir}/latest.svg`)
+					none_svg(`${item.metadatadir}/license.svg`)
+					break
+				}
 
 				// badges:
 				download_svg(`https://img.shields.io/github/v/release/${user}/${repo}?display_name=tag&label=GitHub&include_prereleases&style=plastic`, `${item.metadatadir}/version.svg`)
