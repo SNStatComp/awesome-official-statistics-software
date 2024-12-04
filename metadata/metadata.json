@@ -883,12 +883,40 @@
   },
   {
     "type": "R package",
+    "name": "nonprobsvy",
+    "url": "https://cran.r-project.org/package=nonprobsvy",
+    "description": "Statistical inference with non-probability samples when auxiliary information is available from external sources such as probability samples or population totals or means. The package implements inverse probability weighting, mass imputation and doubly robust estimators possibly with high-dimensional covariates.",
+    "gsbpm_name": "Estimation and weighting",
+    "gsbpm_number": "5.6 | 5.7",
+    "license": "MIT + file LICENSE",
+    "licenseSimple": "MIT",
+    "platform": "CRAN",
+    "languages": [
+      "R"
+    ]
+  },
+  {
+    "type": "R package",
     "name": "validate",
     "url": "https://cran.r-project.org/package=validate",
     "description": "Rule management and data validation.",
     "gsbpm_name": "Output validation",
     "gsbpm_number": "6.2",
     "license": "GPL-3",
+    "licenseSimple": "GPL",
+    "platform": "CRAN",
+    "languages": [
+      "R"
+    ]
+  },
+  {
+    "type": "R package",
+    "name": "nrba",
+    "url": "https://cran.r-project.org/package=nrba",
+    "description": "Facilitates nonresponse bias analysis (NRBA) and nonresponse adjustments for survey data.",
+    "gsbpm_name": "Validate outputs",
+    "gsbpm_number": "6.2",
+    "license": "GPL (>= 3)",
     "licenseSimple": "GPL",
     "platform": "CRAN",
     "languages": [
@@ -1343,6 +1371,13 @@
     "access_to": [
       "all SDMX"
     ],
+    "features": [
+      "to_df",
+      "endpoint_hiding",
+      "catalogue_retrieval",
+      "endpoint_queries",
+      "registry_access"
+    ],
     "license": "GPL (>= 2)",
     "licenseSimple": "GPL",
     "platform": "CRAN",
@@ -1474,7 +1509,7 @@
     "type": "R package",
     "name": "sorvi",
     "url": "https://cran.r-project.org/package=sorvi",
-    "description": "Finnish Open Government Data Toolkit",
+    "description": "Finnish Open Government Data Toolkit, historical maps",
     "gsbpm_name": "Access to official statistics",
     "gsbpm_number": "7.4",
     "standard": null,
@@ -1689,7 +1724,8 @@
     "features": [
       "to_df",
       "endpoint_hiding",
-      "catalogue_retrieval"
+      "catalogue_retrieval",
+      "cartographic queries"
     ],
     "license": "GPL-3",
     "licenseSimple": "GPL",
@@ -1774,7 +1810,8 @@
       "Finland"
     ],
     "features": [
-      "to_df"
+      "to_df",
+      "endpoint_queries"
     ],
     "license": "MIT + file LICENSE",
     "licenseSimple": "MIT",
@@ -1887,7 +1924,6 @@
     "features": [
       "to_df",
       "endpoint_hiding",
-      "catalogue_retrieval",
       "cartographic queries"
     ],
     "license": "Unlimited",
@@ -1947,30 +1983,13 @@
     "features": [
       "to_df",
       "endpoint_hiding",
+      "catalogue_retrieval",
       "search",
       "caching",
       "cartographic queries"
     ],
     "license": "GPL-3",
     "licenseSimple": "GPL",
-    "platform": "CRAN",
-    "languages": [
-      "R"
-    ]
-  },
-  {
-    "type": "R package",
-    "name": "iriR",
-    "url": "https://cran.r-project.org/package=iriR",
-    "description": "Client for the European Commission’s Industrial R&D Investment Scoreboard (IRI)",
-    "gsbpm_name": "Access to official statistics",
-    "gsbpm_number": "7.4",
-    "standard": null,
-    "access_to": [
-      "IRI"
-    ],
-    "license": "MIT + file LICENSE",
-    "licenseSimple": "MIT",
     "platform": "CRAN",
     "languages": [
       "R"
@@ -2223,34 +2242,6 @@
     ],
     "license": "MIT + file LICENSE",
     "licenseSimple": "MIT",
-    "platform": "CRAN",
-    "languages": [
-      "R"
-    ]
-  },
-  {
-    "type": "R package",
-    "name": "nonprobsvy",
-    "url": "https://cran.r-project.org/package=nonprobsvy",
-    "description": "Statistical inference with non-probability samples when auxiliary information is available from external sources such as probability samples or population totals or means. The package implements inverse probability weighting, mass imputation and doubly robust estimators possibly with high-dimensional covariates.",
-    "gsbpm_name": "Estimation and weighting",
-    "gsbpm_number": "5.6 | 5.7",
-    "license": "MIT + file LICENSE",
-    "licenseSimple": "MIT",
-    "platform": "CRAN",
-    "languages": [
-      "R"
-    ]
-  },
-  {
-    "type": "R package",
-    "name": "nrba",
-    "url": "https://cran.r-project.org/package=nrba",
-    "description": "Facilitates nonresponse bias analysis (NRBA) and nonresponse adjustments for survey data.",
-    "gsbpm_name": "Validate outputs",
-    "gsbpm_number": "6.2",
-    "license": "GPL (>= 3)",
-    "licenseSimple": "GPL",
     "platform": "CRAN",
     "languages": [
       "R"
