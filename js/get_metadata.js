@@ -182,22 +182,30 @@ function none_svg(path) {
 	}
 }
 async function GH_meta(owner, repo) {
-	let res = await octokit.request('GET /repos/{owner}/{repo}', {
-		owner: owner,
-		repo: repo,
-		headers: {
-			'X-GitHub-Api-Version': '2022-11-28'
-		}
-	})
-	return(res)
+	try {
+		let res = await octokit.request('GET /repos/{owner}/{repo}', {
+			owner: owner,
+			repo: repo,
+			headers: {
+				'X-GitHub-Api-Version': '2022-11-28'
+			}
+		})
+		return(res)
+	} catch(error) {
+		return(null)
+	}
 }
 async function GH_languages(owner, repo) {
-	let res = await octokit.request('GET /repos/{owner}/{repo}/languages', {
-		owner: owner,
-		repo: repo,
-		headers: {
-			'X-GitHub-Api-Version': '2022-11-28'
-		}
-	})
-	return(res)
+	try {
+		let res = await octokit.request('GET /repos/{owner}/{repo}/languages', {
+			owner: owner,
+			repo: repo,
+			headers: {
+				'X-GitHub-Api-Version': '2022-11-28'
+			}
+		})
+		return(res)
+	} catch (error) {
+		return(null)
+	}
 }
