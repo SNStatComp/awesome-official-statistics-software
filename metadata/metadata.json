@@ -854,10 +854,10 @@
     ]
   },
   {
-    "type": "R package",
+    "type": "R packages",
     "name": "rjdverse",
     "url": "https://github.com/rjdverse",
-    "description": "ecosystem of R-packages around JDemetra+ such as [RJDemetra](https://github.com/rjdverse/rjdemetra) for v2 and rjd3* packages for v3",
+    "description": "ecosystem of R-packages around JDemetra+ such as [RJDemetra](https://github.com/rjdverse/rjdemetra) for v2 and rjd3* for v3",
     "gsbpm_name": "Time series and seasonal adjustment",
     "gsbpm_number": "5.6 | 5.7",
     "license": "unknown",
