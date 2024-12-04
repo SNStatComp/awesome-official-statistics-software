@@ -53,6 +53,9 @@ function process_data(data) {
 				break
 			}
 			case 'github.com': {
+				// TODO: handle github organisations: parts.length == 4
+				// Then: no regular badges, only github badge and metadata that is derivable 
+
 				const user = parts[3], repo = parts[4]
 				console.log('GH: ',user,repo)
 
