@@ -590,7 +590,7 @@
   name: JSON-stat
   url: https://json-stat.org/
   description: Simple lightweight JSON format for statistical dissemination. Based
-    on a Cube model with dimensions organised in categories.
+    on a Cube model with dimensions organised in categories. Various [tools](https://json-stat.org/tools/) to work with it.
   gsbpm_name: Statistical Dissemination
   gsbpm_number: '7.2'
 - type: R package
@@ -728,17 +728,17 @@
 - type: Python
   name: pyjstat
   url: https://pypi.org/project/pyjstat/
-  description: Read and write JSON-stat.
+  description: Read and write data sets in the JSON-stat format.
   gsbpm_name: Access to official statistics
   gsbpm_number: '7.4'
   standard: JSON-STAT
   access_to:
   - all JSON-STAT
   license: 'Apache-2.0'
-- type: Java application
-  name: json-stat.java
-  url: https://github.com/statisticsnorway/json-stat.java
-  description: Read and write JSON-stat. By Statistics Norway.
+- type: 'JavaScript'
+  name: JSON-stat Javascript Toolkit
+  url: https://www.npmjs.com/package/jsonstat-toolkit
+  description: NPM module with the goal to help dealing with JSON-stat responses in JavaScript. Part of the [JSON-stat Toolkit](https://jsonstat.com/)
   gsbpm_name: Access to official statistics
   gsbpm_number: '7.4'
   standard: JSON-STAT
