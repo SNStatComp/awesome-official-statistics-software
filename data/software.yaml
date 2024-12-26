@@ -714,12 +714,11 @@
   standard: SDMX
   access_to:
   - all SDMX
-- type: ecosystem
+- type: Ecosystem
   name: JSON-stat Toolkit
   url: https://jsonstat.com/
-  description: Ecosystem of software around JSON-stat such as the [JavaScript Toolkit](https://www.npmjs.com/package/jsonstat-toolkit),
-    [JavaScript utilities](https://www.npmjs.com/package/jsonstat-suite),
-    [command line tools]](https://www.npmjs.com/package/jsonstat-conv),
+  description: Set of software around JSON-stat, such as the [JavaScript Toolkit](https://www.npmjs.com/package/jsonstat-toolkit),
+    [command line conversion](https://www.npmjs.com/package/jsonstat-conv),
     and access to [eurostat data](https://www.npmjs.com/package/jsonstat-euro).
   gsbpm_name: Access to official statistics
   gsbpm_number: '7.4'
@@ -747,6 +746,15 @@
   access_to:
   - all JSON-STAT
   license: 'Apache-2.0'
+- type: Java application
+  name: json-stat.java
+  url: https://github.com/statisticsnorway/json-stat.java
+  description: Read and write JSON-stat. By Statistics Norway.
+  gsbpm_name: Access to official statistics
+  gsbpm_number: '7.4'
+  standard: JSON-STAT
+  access_to:
+  - all JSON-STAT
 - type: R package
   name: OECD
   url: https://cran.r-project.org/package=OECD
