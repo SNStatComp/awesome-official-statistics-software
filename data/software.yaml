@@ -590,7 +590,7 @@
   name: JSON-stat
   url: https://json-stat.org/
   description: Simple lightweight JSON format for statistical dissemination. Based
-    on a Cube model with dimensions organised in categories. Various [tools](https://json-stat.org/tools/) to work with it.
+    on a Cube model with dimensions organised in categories. This [tools page](https://json-stat.org/tools/) contains a list of software to work with it.
   gsbpm_name: Statistical Dissemination
   gsbpm_number: '7.2'
 - type: R package
@@ -714,10 +714,22 @@
   standard: SDMX
   access_to:
   - all SDMX
+- type: ecosystem
+  name: JSON-stat Toolkit
+  url: https://jsonstat.com/
+  description: Ecosystem of software around JSON-stat such as the [JavaScript Toolkit](https://www.npmjs.com/package/jsonstat-toolkit),
+    [JavaScript utilities](https://www.npmjs.com/package/jsonstat-suite),
+    [command line tools]](https://www.npmjs.com/package/jsonstat-conv),
+    and access to [eurostat data](https://www.npmjs.com/package/jsonstat-euro).
+  gsbpm_name: Access to official statistics
+  gsbpm_number: '7.4'
+  standard: JSON-STAT
+  access_to:
+  - all JSON-STAT
 - type: R package
   name: rjstat
   url: https://cran.r-project.org/package=rjstat
-  description: Read and write data sets in the JSON-stat format.
+  description: Read and write data sets in the JSON-stat format in R.
   gsbpm_name: Access to official statistics
   gsbpm_number: '7.4'
   standard: JSON-STAT
@@ -728,22 +740,13 @@
 - type: Python
   name: pyjstat
   url: https://pypi.org/project/pyjstat/
-  description: Read and write data sets in the JSON-stat format.
+  description: Read and write data sets in the JSON-stat format in Python.
   gsbpm_name: Access to official statistics
   gsbpm_number: '7.4'
   standard: JSON-STAT
   access_to:
   - all JSON-STAT
   license: 'Apache-2.0'
-- type: 'JavaScript'
-  name: JSON-stat Javascript Toolkit
-  url: https://www.npmjs.com/package/jsonstat-toolkit
-  description: NPM module with the goal to help dealing with JSON-stat responses in JavaScript. Part of the [JSON-stat Toolkit](https://jsonstat.com/)
-  gsbpm_name: Access to official statistics
-  gsbpm_number: '7.4'
-  standard: JSON-STAT
-  access_to:
-  - all JSON-STAT
 - type: R package
   name: OECD
   url: https://cran.r-project.org/package=OECD
