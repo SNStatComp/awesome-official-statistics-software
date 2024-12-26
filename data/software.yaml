@@ -110,6 +110,12 @@
     rules.
   gsbpm_name: Process
   gsbpm_number: '5'
+- type: Python
+  name: pysdmx
+  url: https://pypi.org/project/pysdmx/
+  description: Python package focussing on simplicity, providing a subset of SDMX functionalities without requiring advanced knowledge of SDMX, see [docs](https://py.sdmx.io/). By BIS.
+  gsbpm_name: Process
+  gsbpm_number: '5'
 - type: Java application
   name: Trevas
   url: https://github.com/InseeFr/Trevas
