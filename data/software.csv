@@ -15,6 +15,7 @@
 "Python","Sustainability_Reporting","https://github.com/AlessandraSozzi/MSc-dissertation","A script for measuring sustainability reporting from enterprises websites. By ONS.","Scraping for Statistics","4.3"
 "Python","urlfinding","https://github.com/SNStatComp/urlfinding","Software for finding websites of enterprises using a search engine and machine learning. By [Statistics Netherlands](https:www.cbs.nl).","Scraping for Statistics","4.3"
 "R package","dcmodify","https://cran.r-project.org/package=dcmodify","Derive new variables or modify data using externally defined data modification rules.","Process","5"
+"Python","pysdmx","https://pypi.org/project/pysdmx/","Python package focussing on simplicity, providing a subset of SDMX functionalities without requiring advanced knowledge of SDMX, see [docs](https://py.sdmx.io/). By BIS.","Process","5"
 "Java application","Trevas","https://github.com/InseeFr/Trevas","Java engine for the Validation and Transformation Language (VTL). By INSEE.","Process","5"
 "Java application","Java-VTL","https://github.com/statisticsnorway/java-vtl","A partial implementation of the Validation Transformation Language, based on the VTL 1.1 draft specification. By Statistics Norway.","Process","5"
 "R package","blaise","https://cran.r-project.org/package=blaise","Reading and writing Files in the Blaise Format from R. By Statistics Netherlands.","Process","5"
