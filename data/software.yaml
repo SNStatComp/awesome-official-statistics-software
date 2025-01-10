@@ -615,6 +615,18 @@
     more.
   gsbpm_name: Visualisation
   gsbpm_number: '7.2'
+- type: JavaScript
+  name: Gridviz
+  url: https://github.com/eurostat/gridviz
+  description: Javascript library for gridded statistics maps, on the web. By Eurostat.
+  gsbpm_name: Visualisation
+  gsbpm_number: '7.2'
+- type: JavaScript
+  name: Eurostat-map
+  url: https://github.com/eurostat/eurostat-map/
+  description: Javascript library for customizable thematic maps for global and regional statistical data. By Eurostat.
+  gsbpm_name: Visualisation
+  gsbpm_number: '7.2'
 - type: R package
   name: oceanis
   url: https://cran.r-project.org/package=oceanis
