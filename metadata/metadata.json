@@ -1266,8 +1266,8 @@
     "description": "Javascript library for customizable thematic maps for global and regional statistical data. By Eurostat.",
     "gsbpm_name": "Visualisation",
     "gsbpm_number": "7.2",
-    "license": "NOASSERTION",
-    "licenseSimple": "NOASSERTION",
+    "license": "EUPL-1.2",
+    "licenseSimple": "EUPL",
     "platform": "GitHub",
     "languages": [
       "JavaScript"
