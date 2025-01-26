@@ -38,17 +38,21 @@ function process_data(data) {
 				download_svg(`https://img.shields.io/cran/l/${name}?&style=plastic`, `${item.metadatadir}/license.svg`)
 
                 // pkg metadata:
-				fetch(`https://crandb.r-pkg.org/${name}`)
-					.then((response) => response.json())
-					.then((pkg_cran) => {
-						fs.writeFileSync(`${item.metadatadir}/pkg_cran.json`, JSON.stringify(pkg_cran), 'utf8')
-						fs.writeFileSync(`${item.metadatadir}/pkg.json`, JSON.stringify({
-							name: item.name,
-							platform: 'CRAN',
-							license: item?.license || pkg_cran?.License || "unknown",
-							languages: ['R']	// note: we ignore that some parts might be written in C/C++ as this is not visible to a package user
-						}), 'utf8')
-				})
+				try { 
+					fetch(`https://crandb.r-pkg.org/${name}`)
+						.then((response) => response.json())
+						.then((pkg_cran) => {
+							fs.writeFileSync(`${item.metadatadir}/pkg_cran.json`, JSON.stringify(pkg_cran), 'utf8')
+							fs.writeFileSync(`${item.metadatadir}/pkg.json`, JSON.stringify({
+								name: item.name,
+								platform: 'CRAN',
+								license: item?.license || pkg_cran?.License || "unknown",
+								languages: ['R']	// note: we ignore that some parts might be written in C/C++ as this is not visible to a package user
+							}), 'utf8')
+					})
+				} catch (error) {
+					console.error('Error: reading pkg meta from https://crandb.r-pkg.org/${name}', error)
+				}
 
 				break
 			}
