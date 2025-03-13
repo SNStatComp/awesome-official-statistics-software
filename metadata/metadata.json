@@ -961,7 +961,7 @@
     "licenseSimple": "EUPL",
     "platform": "GitHub",
     "languages": [
-      "Java"
+      "AGS Script"
     ]
   },
   {
@@ -1146,6 +1146,20 @@
     "languages": [
       "C#",
       "Visual Basic .NET"
+    ]
+  },
+  {
+    "type": "R package",
+    "name": "pxmake",
+    "url": "https://cran.r-project.org/package=pxmake",
+    "description": "Create and manipulate PX-files from R. By Statistics Greenland.",
+    "gsbpm_name": "Statistical Dissemination",
+    "gsbpm_number": "7.2",
+    "license": "MIT + file LICENSE",
+    "licenseSimple": "MIT",
+    "platform": "CRAN",
+    "languages": [
+      "R"
     ]
   },
   {
