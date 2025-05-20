@@ -238,6 +238,20 @@
     ]
   },
   {
+    "type": "Python",
+    "name": "vtlengine",
+    "url": "https://pypi.org/project/vtlengine/",
+    "description": "A Validation and Transformation Language (VTL) engine, written in Python, compatible with the SDMX standard using pysdmx. By [MeaningfulData](https://www.meaningfuldata.eu/)",
+    "gsbpm_name": "Process",
+    "gsbpm_number": "5",
+    "license": "unknown",
+    "licenseSimple": "unknown",
+    "platform": "PyPI",
+    "languages": [
+      "Python"
+    ]
+  },
+  {
     "type": "Java application",
     "name": "Trevas",
     "url": "https://github.com/InseeFr/Trevas",
