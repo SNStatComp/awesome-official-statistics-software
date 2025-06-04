@@ -1,4 +1,10 @@
 - type: R package
+  name: HRTnomaly
+  url: https://cran.r-project.org/package=HRTnomaly
+  description: Historical, Relational, and Tail Anomaly-Detection Algorithms
+  gsbpm_name: Statistical data editing and imputation
+  gsbpm_number: 5.3 | 5.4
+- type: R package
   name: SamplingStrata
   url: https://cran.r-project.org/package=SamplingStrata
   description: Optimal Stratification of Sampling Frames for Multipurpose Sampling
