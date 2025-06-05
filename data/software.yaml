@@ -295,7 +295,6 @@
   name: rspa
   url: https://cran.r-project.org/package=rspa
   description: Adapt Numerical Records to Fit (in)Equality Restrictions.
-  description: Adapt Numerical Records to Fit (in)Equality Restrictions.
   gsbpm_name: Statistical data editing and imputation
   gsbpm_number: 5.3 | 5.4
 - type: R package
