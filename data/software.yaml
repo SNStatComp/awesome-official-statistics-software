@@ -295,6 +295,7 @@
   name: rspa
   url: https://cran.r-project.org/package=rspa
   description: Adapt Numerical Records to Fit (in)Equality Restrictions.
+  description: Adapt Numerical Records to Fit (in)Equality Restrictions.
   gsbpm_name: Statistical data editing and imputation
   gsbpm_number: 5.3 | 5.4
 - type: R package
@@ -302,6 +303,18 @@
   url: https://cran.r-project.org/package=mice
   description: Multiple imputation by chained equations, aka fully conditional specification,
     accompanied by [van Buuren (2018) _Flexible Imputation of Missing Data_](https://stefvanbuuren.name/fimd/).
+  gsbpm_name: Statistical data editing and imputation
+  gsbpm_number: 5.3 | 5.4
+- type: Python
+  name: banff
+  url: https://pypi.org/project/banff
+  description: Python library offering nine modular procedures for statistical data editing (SDE), including imputation. By Statistics Canada
+  gsbpm_name: Statistical data editing and imputation
+  gsbpm_number: 5.3 | 5.4
+- type: Python
+  name: banffprocessor
+  url: https://pypi.org/project/banffprocessor
+  description: Python library to implement a banff imputation strategy as a sequence of processing steps. By Statistics Canada
   gsbpm_name: Statistical data editing and imputation
   gsbpm_number: 5.3 | 5.4
 - type: R package
