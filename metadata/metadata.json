@@ -1,20 +1,6 @@
 [
   {
     "type": "R package",
-    "name": "HRTnomaly",
-    "url": "https://cran.r-project.org/package=HRTnomaly",
-    "description": "Historical, Relational, and Tail Anomaly-Detection Algorithms",
-    "gsbpm_name": "Statistical data editing and imputation",
-    "gsbpm_number": "5.3 | 5.4",
-    "license": "AGPL-3",
-    "licenseSimple": "AGPL",
-    "platform": "CRAN",
-    "languages": [
-      "R"
-    ]
-  },
-  {
-    "type": "R package",
     "name": "SamplingStrata",
     "url": "https://cran.r-project.org/package=SamplingStrata",
     "description": "Optimal Stratification of Sampling Frames for Multipurpose Sampling Surveys.",
@@ -602,14 +588,28 @@
     ]
   },
   {
+    "type": "R package",
+    "name": "HRTnomaly",
+    "url": "https://cran.r-project.org/package=HRTnomaly",
+    "description": "Historical, Relational, and Tail Anomaly-Detection Algorithms",
+    "gsbpm_name": "Statistical data editing and imputation",
+    "gsbpm_number": "5.3 | 5.4",
+    "license": "AGPL-3",
+    "licenseSimple": "AGPL",
+    "platform": "CRAN",
+    "languages": [
+      "R"
+    ]
+  },
+  {
     "type": "Python",
     "name": "banff",
     "url": "https://pypi.org/project/banff",
     "description": "Python library offering nine modular procedures for statistical data editing (SDE), including imputation. By Statistics Canada",
     "gsbpm_name": "Statistical data editing and imputation",
     "gsbpm_number": "5.3 | 5.4",
-    "license": "unknown",
-    "licenseSimple": "unknown",
+    "license": "GPLv3",
+    "licenseSimple": "GPLv3",
     "platform": "PyPI",
     "languages": [
       "Python"
@@ -622,8 +622,8 @@
     "description": "Python library to implement a banff imputation strategy as a sequence of processing steps. By Statistics Canada",
     "gsbpm_name": "Statistical data editing and imputation",
     "gsbpm_number": "5.3 | 5.4",
-    "license": "unknown",
-    "licenseSimple": "unknown",
+    "license": "GPLv3",
+    "licenseSimple": "GPLv3",
     "platform": "PyPI",
     "languages": [
       "Python"

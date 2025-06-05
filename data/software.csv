@@ -1,5 +1,4 @@
 "type","name","url","description","gsbpm_name","gsbpm_number"
-"R package","HRTnomaly","https://cran.r-project.org/package=HRTnomaly","Historical, Relational, and Tail Anomaly-Detection Algorithms","Statistical data editing and imputation","5.3 | 5.4"
 "R package","SamplingStrata","https://cran.r-project.org/package=SamplingStrata","Optimal Stratification of Sampling Frames for Multipurpose Sampling Surveys.","Design frame and sample","2.1"
 "R package","R2BEAT","https://cran.r-project.org/package=R2BEAT","Multistage Sampling Allocation and PSU Selection.","Design frame and sample","2.1"
 "Excel","SDMX_Matrix_Generator","https://gitlab.com/sis-cc/sdmx-tools/sdmx-matrix-generator","Excel-based visual SDMX artefact authoring tool which generates SDMX-ML for upload into an SDMX repository such as a registry. By OECD.","Design variable descriptions","2.2"
@@ -42,6 +41,7 @@
 "R package","deductive","https://cran.r-project.org/package=deductive","Deductive correction and imputation using edit rules and (partially) complete data.","Statistical data editing and imputation","5.3 | 5.4"
 "R package","rspa","https://cran.r-project.org/package=rspa","Adapt Numerical Records to Fit (in)Equality Restrictions.","Statistical data editing and imputation","5.3 | 5.4"
 "R package","mice","https://cran.r-project.org/package=mice","Multiple imputation by chained equations, aka fully conditional specification, accompanied by [van Buuren (2018) _Flexible Imputation of Missing Data_](https://stefvanbuuren.name/fimd/).","Statistical data editing and imputation","5.3 | 5.4"
+"R package","HRTnomaly","https://cran.r-project.org/package=HRTnomaly","Historical, Relational, and Tail Anomaly-Detection Algorithms","Statistical data editing and imputation","5.3 | 5.4"
 "Python","banff","https://pypi.org/project/banff","Python library offering nine modular procedures for statistical data editing (SDE), including imputation. By Statistics Canada","Statistical data editing and imputation","5.3 | 5.4"
 "Python","banffprocessor","https://pypi.org/project/banffprocessor","Python library to implement a banff imputation strategy as a sequence of processing steps. By Statistics Canada","Statistical data editing and imputation","5.3 | 5.4"
 "R package","svrep","https://cran.r-project.org/package=svrep","R package creating and working with survey replicate weights, extending functionality of the 'survey' package in R. Creates replicate weights using bootstrap, generalized bootstrap, generalized replication, and random-group jackknife methods. Facilitates sample-based calibration and nonresponse adjustment methods.","Estimation and Weighting","5.6"
