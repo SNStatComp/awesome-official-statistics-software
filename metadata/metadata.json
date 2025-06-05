@@ -608,8 +608,8 @@
     "description": "Python library offering nine modular procedures for statistical data editing (SDE), including imputation. By Statistics Canada",
     "gsbpm_name": "Statistical data editing and imputation",
     "gsbpm_number": "5.3 | 5.4",
-    "license": "GPLv3",
-    "licenseSimple": "GPLv3",
+    "license": "GPL-3",
+    "licenseSimple": "GPL",
     "platform": "PyPI",
     "languages": [
       "Python"
@@ -622,8 +622,8 @@
     "description": "Python library to implement a banff imputation strategy as a sequence of processing steps. By Statistics Canada",
     "gsbpm_name": "Statistical data editing and imputation",
     "gsbpm_number": "5.3 | 5.4",
-    "license": "GPLv3",
-    "licenseSimple": "GPLv3",
+    "license": "GPL-3",
+    "licenseSimple": "GPL",
     "platform": "PyPI",
     "languages": [
       "Python"
