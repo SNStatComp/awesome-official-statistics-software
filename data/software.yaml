@@ -1275,3 +1275,9 @@
   - catalogue_retrieval
   - endpoint_queries
   - caching
+- type: R package
+  name: blocking
+  url: https://cran.r-project.org/package=blocking
+  description: 'Functions to block records using approximate nearest neighbours and grapsh for data deduplication and record linkage.'
+  gsbpm_name: Data integration and record linkage
+  gsbpm_number: '5.1'
