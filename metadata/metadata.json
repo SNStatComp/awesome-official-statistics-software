@@ -421,6 +421,20 @@
   },
   {
     "type": "R package",
+    "name": "blocking",
+    "url": "https://cran.r-project.org/package=blocking",
+    "description": "Functions to block records using approximate nearest neighbours and grapsh for data deduplication and record linkage",
+    "gsbpm_name": "Data integration and record linkage",
+    "gsbpm_number": "5.1",
+    "license": "GPL-3",
+    "licenseSimple": "GPL",
+    "platform": "CRAN",
+    "languages": [
+      "R"
+    ]
+  },
+  {
+    "type": "R package",
     "name": "validate",
     "url": "https://cran.r-project.org/package=validate",
     "description": "Data validation checks such as on length, format, range, missingness, availability, uniqueness, multivariate checks, statistical checks and checks on SDMX codelist. See [Cookbook](https://data-cleaning.github.io/validate/). By Statistics Netherlands.",
