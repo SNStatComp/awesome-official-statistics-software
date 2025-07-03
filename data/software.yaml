@@ -498,6 +498,14 @@
     It also is a dependency package for several packages under "Statistical disclosure control".
   gsbpm_name: Estimation and weighting
   gsbpm_number: 5.6 | 5.7
+
+- type: R package
+  name: G-series
+  url: https://cran.r-project.org/package=gseries
+  description:  benchmarking and reconciliation of time series data. By StatCan.
+  gsbpm_name: Estimation and weighting
+  gsbpm_number: 5.6 | 5.7
+
 - type: R package
   name: validate
   url: https://cran.r-project.org/package=validate

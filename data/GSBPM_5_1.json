@@ -1,0 +1,231 @@
+{
+  "gsbpm_version": "5.1",
+  "model_name": "Generic Statistical Business Process Model",
+  "url": "https://unece.org/sites/default/files/2023-11/GSBPM%20v5_1.pdf", 
+  "phases": [
+    {
+      "phase_code": "1",
+      "phase_name": "Specify Needs",
+      "sub_processes": [
+        {
+          "sub_process_code": "1.1",
+          "sub_process_name": "Identify needs"
+        },
+        {
+          "sub_process_code": "1.2",
+          "sub_process_name": "Consult and confirm needs"
+        },
+        {
+          "sub_process_code": "1.3",
+          "sub_process_name": "Establish output objectives"
+        },
+        {
+          "sub_process_code": "1.4",
+          "sub_process_name": "Identify concepts"
+        },
+        {
+          "sub_process_code": "1.5",
+          "sub_process_name": "Check data availability"
+        },
+        {
+          "sub_process_code": "1.6",
+          "sub_process_name": "Prepare and submit business case"
+        }
+      ]
+    },
+    {
+      "phase_code": "2",
+      "phase_name": "Design",
+      "sub_processes": [
+        {
+          "sub_process_code": "2.1",
+          "sub_process_name": "Design outputs"
+        },
+        {
+          "sub_process_code": "2.2",
+          "sub_process_name": "Design variable descriptions"
+        },
+        {
+          "sub_process_code": "2.3",
+          "sub_process_name": "Design collection"
+        },
+        {
+          "sub_process_code": "2.4",
+          "sub_process_name": "Design frame and sample"
+        },
+        {
+          "sub_process_code": "2.5",
+          "sub_process_name": "Design processing and analysis"
+        },
+        {
+          "sub_process_code": "2.6",
+          "sub_process_name": "Design production systems and workflow"
+        }
+      ]
+    },
+    {
+      "phase_code": "3",
+      "phase_name": "Build",
+      "sub_processes": [
+        {
+          "sub_process_code": "3.1",
+          "sub_process_name": "Reuse or build collection instruments"
+        },
+        {
+          "sub_process_code": "3.2",
+          "sub_process_name": "Reuse or build processing and analysis components"
+        },
+        {
+          "sub_process_code": "3.3",
+          "sub_process_name": "Reuse or build dissemination components"
+        },
+        {
+          "sub_process_code": "3.4",
+          "sub_process_name": "Configure workflows"
+        },
+        {
+          "sub_process_code": "3.5",
+          "sub_process_name": "Test production systems"
+        },
+        {
+          "sub_process_code": "3.6",
+          "sub_process_name": "Test statistical business process"
+        },
+        {
+          "sub_process_code": "3.7",
+          "sub_process_name": "Finalise production systems"
+        }
+      ]
+    },
+    {
+      "phase_code": "4",
+      "phase_name": "Collect",
+      "sub_processes": [
+        {
+          "sub_process_code": "4.1",
+          "sub_process_name": "Create frame and select sample"
+        },
+        {
+          "sub_process_code": "4.2",
+          "sub_process_name": "Set up collection"
+        },
+        {
+          "sub_process_code": "4.3",
+          "sub_process_name": "Run collection"
+        },
+        {
+          "sub_process_code": "4.4",
+          "sub_process_name": "Finalise collection"
+        }
+      ]
+    },
+    {
+      "phase_code": "5",
+      "phase_name": "Process",
+      "sub_processes": [
+        {
+          "sub_process_code": "5.1",
+          "sub_process_name": "Integrate data"
+        },
+        {
+          "sub_process_code": "5.2",
+          "sub_process_name": "Classify and code"
+        },
+        {
+          "sub_process_code": "5.3",
+          "sub_process_name": "Review and validate"
+        },
+        {
+          "sub_process_code": "5.4",
+          "sub_process_name": "Edit and impute"
+        },
+        {
+          "sub_process_code": "5.5",
+          "sub_process_name": "Derive new variables and units"
+        },
+        {
+          "sub_process_code": "5.6",
+          "sub_process_name": "Calculate weights"
+        },
+        {
+          "sub_process_code": "5.7",
+          "sub_process_name": "Calculate aggregates"
+        },
+        {
+          "sub_process_code": "5.8",
+          "sub_process_name": "Finalise data files"
+        }
+      ]
+    },
+    {
+      "phase_code": "6",
+      "phase_name": "Analyse",
+      "sub_processes": [
+        {
+          "sub_process_code": "6.1",
+          "sub_process_name": "Prepare draft outputs"
+        },
+        {
+          "sub_process_code": "6.2",
+          "sub_process_name": "Validate outputs"
+        },
+        {
+          "sub_process_code": "6.3",
+          "sub_process_name": "Interpret and explain outputs"
+        },
+        {
+          "sub_process_code": "6.4",
+          "sub_process_name": "Apply disclosure control"
+        },
+        {
+          "sub_process_code": "6.5",
+          "sub_process_name": "Finalise outputs"
+        }
+      ]
+    },
+    {
+      "phase_code": "7",
+      "phase_name": "Disseminate",
+      "sub_processes": [
+        {
+          "sub_process_code": "7.1",
+          "sub_process_name": "Update output systems"
+        },
+        {
+          "sub_process_code": "7.2",
+          "sub_process_name": "Produce dissemination products"
+        },
+        {
+          "sub_process_code": "7.3",
+          "sub_process_name": "Manage release of dissemination products"
+        },
+        {
+          "sub_process_code": "7.4",
+          "sub_process_name": "Promote dissemination products"
+        },
+        {
+          "sub_process_code": "7.5",
+          "sub_process_name": "Manage user support"
+        }
+      ]
+    },
+    {
+      "phase_code": "8",
+      "phase_name": "Evaluate",
+      "sub_processes": [
+        {
+          "sub_process_code": "8.1",
+          "sub_process_name": "Gather evaluation inputs"
+        },
+        {
+          "sub_process_code": "8.2",
+          "sub_process_name": "Conduct evaluation"
+        },
+        {
+          "sub_process_code": "8.3",
+          "sub_process_name": "Agree an action plan"
+        }
+      ]
+    }
+  ]
+}

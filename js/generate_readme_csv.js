@@ -26,9 +26,6 @@ let json_mustache = data.reduce((a, c) => {
 }, {groups: []} )
 json_mustache.badgeURL = badgeURL
 
-// For testing:
-//fs.writeFileSync("test.json", JSON.stringify(json_mustache))
-
 // Generate readme:
 let readme = Mustache.render(template, json_mustache)
 fs.writeFileSync("./../README.md", readme)
