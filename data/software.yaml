@@ -502,7 +502,8 @@
 - type: R package
   name: G-series
   url: https://cran.r-project.org/package=gseries
-  description:  benchmarking and reconciliation of time series data. By StatCan.
+  description: Methods to improve the coherence of time series by benchmarking and reconciliation of time series data.
+    The methods essentially come from Dagum, E. B., and P. Cholette (2006) [doi:10.1007/0-387-35439-5](https://doi.org/10.1007/0-387-35439-5). By StatCan.
   gsbpm_name: Estimation and weighting
   gsbpm_number: 5.6 | 5.7
 
