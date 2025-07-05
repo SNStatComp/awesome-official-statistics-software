@@ -500,10 +500,11 @@
   gsbpm_number: 5.6 | 5.7
 
 - type: R package
-  name: G-series
+  name: gseries
   url: https://cran.r-project.org/package=gseries
-  description: Methods to improve the coherence of time series by benchmarking and reconciliation of time series data.
-    The methods essentially come from Dagum, E. B., and P. Cholette (2006) [doi:10.1007/0-387-35439-5](https://doi.org/10.1007/0-387-35439-5). By StatCan.
+  description: Methods to improve the coherence of time series data by benchmarking and reconciliation
+    methods from Dagum, E. B., and P. Cholette (2006) [doi:10.1007/0-387-35439-5](https://doi.org/10.1007/0-387-35439-5).
+    More info: [here](https://statcan.github.io/gensol-gseries/en/). By StatCan.
   gsbpm_name: Estimation and weighting
   gsbpm_number: 5.6 | 5.7
 
