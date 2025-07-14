@@ -324,14 +324,8 @@
   gsbpm_name: Statistical data editing and imputation
   gsbpm_number: 5.3 | 5.4
   license: 'GPL-3'
-- type: R package
-  name: svrep
-  url: https://cran.r-project.org/package=svrep
-  description: R package creating and working with survey replicate weights, extending functionality of the 'survey' package in R.
-    Creates replicate weights using bootstrap, generalized bootstrap, generalized replication, and random-group jackknife methods.
-    Facilitates sample-based calibration and nonresponse adjustment methods.
-  gsbpm_name: Estimation and Weighting
-  gsbpm_number: '5.6'
+
+
 - type: R package
   name: survey
   url: https://cran.r-project.org/package=survey
@@ -498,7 +492,14 @@
     It also is a dependency package for several packages under "Statistical disclosure control".
   gsbpm_name: Estimation and weighting
   gsbpm_number: 5.6 | 5.7
-
+- type: R package
+  name: svrep
+  url: https://cran.r-project.org/package=svrep
+  description: R package creating and working with survey replicate weights, extending functionality of the 'survey' package in R.
+    Creates replicate weights using bootstrap, generalized bootstrap, generalized replication, and random-group jackknife methods.
+    Facilitates sample-based calibration and nonresponse adjustment methods.
+  gsbpm_name: Estimation and Weighting
+  gsbpm_number: 5.6 | 5.7
 - type: R package
   name: gseries
   url: https://cran.r-project.org/package=gseries
@@ -507,6 +508,15 @@
     More info: [here](https://statcan.github.io/gensol-gseries/en/). By StatCan.'
   gsbpm_name: Estimation and weighting
   gsbpm_number: 5.6 | 5.7
+- type: R package
+  name: cbsREPS
+  url: https://cran.r-project.org/package=cbsREPS
+  description: 'Price indices using Hedonic and multilateral methods, Laspeyres, Paasche, Fisher, and HMTS (Hedonic Multilateral Time series re-estimation with splicing).
+    By Statistics Netherlands.'
+  gsbpm_name: Estimation and weighting
+  gsbpm_number: 5.6 | 5.7
+
+
 
 - type: R package
   name: validate
