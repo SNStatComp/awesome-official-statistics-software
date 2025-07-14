@@ -645,20 +645,6 @@
   },
   {
     "type": "R package",
-    "name": "svrep",
-    "url": "https://cran.r-project.org/package=svrep",
-    "description": "R package creating and working with survey replicate weights, extending functionality of the 'survey' package in R. Creates replicate weights using bootstrap, generalized bootstrap, generalized replication, and random-group jackknife methods. Facilitates sample-based calibration and nonresponse adjustment methods.",
-    "gsbpm_name": "Estimation and Weighting",
-    "gsbpm_number": "5.6",
-    "license": "GPL (>= 3)",
-    "licenseSimple": "GPL",
-    "platform": "CRAN",
-    "languages": [
-      "R"
-    ]
-  },
-  {
-    "type": "R package",
     "name": "survey",
     "url": "https://cran.r-project.org/package=survey",
     "description": "Weighting and estimation for complex survey designs, possibly under nonresponse. Also computes estimator variance. See also R package [srvyr](https:://CRAN.R-project.org/package=survey) for integration with [tidy tools](https://cran.r-project.org/web/packages/tidyverse/vignettes/manifesto.html).",
@@ -993,12 +979,40 @@
   },
   {
     "type": "R package",
+    "name": "svrep",
+    "url": "https://cran.r-project.org/package=svrep",
+    "description": "R package creating and working with survey replicate weights, extending functionality of the 'survey' package in R. Creates replicate weights using bootstrap, generalized bootstrap, generalized replication, and random-group jackknife methods. Facilitates sample-based calibration and nonresponse adjustment methods.",
+    "gsbpm_name": "Estimation and Weighting",
+    "gsbpm_number": "5.6 | 5.7",
+    "license": "GPL (>= 3)",
+    "licenseSimple": "GPL",
+    "platform": "CRAN",
+    "languages": [
+      "R"
+    ]
+  },
+  {
+    "type": "R package",
     "name": "gseries",
     "url": "https://cran.r-project.org/package=gseries",
     "description": "Methods to improve the coherence of time series data by benchmarking and reconciliation methods from Dagum, E. B., and P. Cholette (2006) [doi:10.1007/0-387-35439-5](https://doi.org/10.1007/0-387-35439-5). More info: [here](https://statcan.github.io/gensol-gseries/en/). By StatCan.",
     "gsbpm_name": "Estimation and weighting",
     "gsbpm_number": "5.6 | 5.7",
     "license": "GPL (>= 3)",
+    "licenseSimple": "GPL",
+    "platform": "CRAN",
+    "languages": [
+      "R"
+    ]
+  },
+  {
+    "type": "R package",
+    "name": "cbsREPS",
+    "url": "https://cran.r-project.org/package=cbsREPS",
+    "description": "Price indices using Hedonic and multilateral methods, Laspeyres, Paasche, Fisher, and HMTS (Hedonic Multilateral Time series re-estimation with splicing). By Statistics Netherlands.",
+    "gsbpm_name": "Estimation and weighting",
+    "gsbpm_number": "5.6 | 5.7",
+    "license": "GPL-2",
     "licenseSimple": "GPL",
     "platform": "CRAN",
     "languages": [
