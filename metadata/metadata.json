@@ -1007,13 +1007,13 @@
   },
   {
     "type": "R package",
-    "name": "cbsREPS",
-    "url": "https://cran.r-project.org/package=cbsREPS",
+    "name": "REPS",
+    "url": "https://cran.r-project.org/package=REPS",
     "description": "Price indices using Hedonic and multilateral methods: Laspeyres, Paasche, Fisher, and HMTS (Hedonic Multilateral Time series re-estimation with splicing). By Statistics Netherlands.",
     "gsbpm_name": "Estimation and weighting",
     "gsbpm_number": "5.6 | 5.7",
-    "license": "GPL-2",
-    "licenseSimple": "GPL",
+    "license": "unknown",
+    "licenseSimple": "unknown",
     "platform": "CRAN",
     "languages": [
       "R"
