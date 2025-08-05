@@ -1012,8 +1012,8 @@
     "description": "Price indices using Hedonic and multilateral methods: Laspeyres, Paasche, Fisher, and HMTS (Hedonic Multilateral Time series re-estimation with splicing). By Statistics Netherlands.",
     "gsbpm_name": "Estimation and weighting",
     "gsbpm_number": "5.6 | 5.7",
-    "license": "unknown",
-    "licenseSimple": "unknown",
+    "license": "EUPL-1.2",
+    "licenseSimple": "EUPL",
     "platform": "CRAN",
     "languages": [
       "R"
