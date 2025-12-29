@@ -103,6 +103,7 @@
     and machine learning. By [Statistics Netherlands](https:www.cbs.nl).
   gsbpm_name: Scraping for Statistics
   gsbpm_number: '4.3'
+
 - type: R package
   name: dcmodify
   url: https://cran.r-project.org/package=dcmodify
@@ -110,6 +111,16 @@
     rules.
   gsbpm_name: Process
   gsbpm_number: '5'
+
+- type: R package
+  name: datapackage
+  url: https://cran.r-project.org/package=datapackage
+  description: Create and read data and metadata according to the [Data Package standard](https://datapackage.org>)
+    of the [Open Knowledge Foundation](https://okfn.org). This standard has been extended in 2025 for use in 
+    official statistics in coordination with Statistics Netherlands.
+  gsbpm_name: Process
+  gsbpm_number: '5'
+
 - type: Python
   name: pysdmx
   url: https://pypi.org/project/pysdmx/
@@ -160,6 +171,15 @@
     and post-processing for machine learning methods for record linkage.'
   gsbpm_name: Data integration and record linkage
   gsbpm_number: '5.1'
+
+- type: Python
+  name: splink
+  url: https://pypi.org/project/splink/
+  description: 'Python package for probabilistic record linkage that allows you to
+    deduplicate and link records from datasets that lack unique identifiers.'
+  gsbpm_name: Data integration and record linkage
+  gsbpm_number: '5.1'
+
 - type: R package
   name: RecordLinkage
   url: https://cran.r-project.org/package=RecordLinkage
