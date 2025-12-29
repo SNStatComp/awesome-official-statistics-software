@@ -212,6 +212,20 @@
     ]
   },
   {
+    "type": "R package",
+    "name": "datapackage",
+    "url": "https://cran.r-project.org/package=datapackage",
+    "description": "Create and read data and metadata according to the [Data Package standard](https://datapackage.org>) of the [Open Knowledge Foundation](https://okfn.org). This standard has been extended in 2025 for use in official statistics in coordination with Statistics Netherlands.",
+    "gsbpm_name": "Process",
+    "gsbpm_number": "5",
+    "license": "GPL-3",
+    "licenseSimple": "GPL",
+    "platform": "CRAN",
+    "languages": [
+      "R"
+    ]
+  },
+  {
     "type": "Python",
     "name": "pysdmx",
     "url": "https://pypi.org/project/pysdmx/",
@@ -303,6 +317,20 @@
     "platform": "CRAN",
     "languages": [
       "R"
+    ]
+  },
+  {
+    "type": "Python",
+    "name": "splink",
+    "url": "https://pypi.org/project/splink/",
+    "description": "Python package for probabilistic record linkage that allows you to deduplicate and link records from datasets that lack unique identifiers.",
+    "gsbpm_name": "Data integration and record linkage",
+    "gsbpm_number": "5.1",
+    "license": "unknown",
+    "licenseSimple": "unknown",
+    "platform": "PyPI",
+    "languages": [
+      "Python"
     ]
   },
   {
