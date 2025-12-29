@@ -115,9 +115,8 @@
 - type: R package
   name: datapackage
   url: https://cran.r-project.org/package=datapackage
-  description: Create and read data and metadata according to the [Data Package standard](https://datapackage.org)
-    of the [Open Knowledge Foundation](https://okfn.org). This standard has been extended in 2025 for use in 
-    official statistics in coordination with Statistics Netherlands.
+  description: Create and read data according to the [Data Package](https://datapackage.org) standard
+    which  has been extended in 2025 for use in official statistics in coordination with Statistics Netherlands.
   gsbpm_name: Process
   gsbpm_number: '5'
 
