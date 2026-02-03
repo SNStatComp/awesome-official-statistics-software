@@ -772,7 +772,7 @@
     "description": "Linearization of non-linear statistics and variance estimation.",
     "gsbpm_name": "Estimation and weighting",
     "gsbpm_number": "5.6 | 5.7",
-    "license": "EUPL | file LICENSE",
+    "license": "EUPL",
     "licenseSimple": "EUPL",
     "platform": "CRAN",
     "languages": [
