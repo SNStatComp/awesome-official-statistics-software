@@ -475,7 +475,7 @@
   gsbpm_number: 5.6 | 5.7
 - type: Java application
   name: JDemetra+
-  url: https://github.com/jdemetra/jdemetra-app
+  url: https://github.com/jdemetra/jdplus-main
   description: The seasonal adjustment software officially recommended for the European
     Statistical System.
   gsbpm_name: Time series and seasonal adjustment
