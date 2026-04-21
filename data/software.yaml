@@ -646,12 +646,6 @@
     or SQL data in the [Nordic Data Model](https://www.scb.se/en/services/statistical-programs-for-px-files/px-web/px-web-med-sql-databas/).
   gsbpm_name: Statistical Dissemination
   gsbpm_number: '7.2'
-- type: R package
-  name: pxmake
-  url: https://cran.r-project.org/package=pxmake
-  description: Create and manipulate PX-files from R. By Statistics Greenland.
-  gsbpm_name: Statistical Dissemination
-  gsbpm_number: '7.2'
 - type: Node.js and other
   name: .Stat_Suite
   url: https://gitlab.com/sis-cc/.stat-suite/dotstatsuite-data-explorer
@@ -1068,6 +1062,13 @@
   - all PX
   features:
   - to_df
+- type: R package
+  name: pxmake
+  url: https://cran.r-project.org/package=pxmake
+  description: Create and manipulate PX-files from R. By Statistics Greenland.
+  gsbpm_name: Statistical Dissemination
+  gsbpm_number: '7.4'
+  standard: PX
 - type: R package
   name: rdbnomics
   url: https://cran.r-project.org/package=rdbnomics
