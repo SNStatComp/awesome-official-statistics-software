@@ -344,7 +344,6 @@
   gsbpm_number: 5.3 | 5.4
   license: 'GPL-3'
 
-
 - type: R package
   name: survey
   url: https://cran.r-project.org/package=survey
@@ -442,6 +441,17 @@
   name: inca
   url: https://cran.r-project.org/package=inca
   description: Calibration weighting with integer weights.
+  gsbpm_name: Estimation and weighting
+  gsbpm_number: 5.6 | 5.7
+- type: R package
+  name: weightflow
+  url: https://cran.r-project.org/package=weightflow
+  description: Builds survey weights through a declarative, pipeable, base-R cascade: unknown-eligibility
+    redistribution, within-household selection, nonresponse adjustment (weighting classes or
+    response propensities), and calibration (raking, post-stratification or linear/GREG, with
+    bounds, ridge and partitioned/domain options). Also produces recipe-aware bootstrap and
+    delete-a-PSU jackknife replicate weights and a self-contained HTML quality report, and bridges
+    to survey/srvyr.
   gsbpm_name: Estimation and weighting
   gsbpm_number: 5.6 | 5.7
 - type: R package
