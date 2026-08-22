@@ -446,10 +446,11 @@
 - type: R package
   name: weightflow
   url: https://cran.r-project.org/package=weightflow
-  description: 'Builds survey weights through a declarative, pipeable, base-R cascade: unknown-eligibility
+  description: >-
+    Builds survey weights through a declarative, pipeable, base-R cascade: unknown-eligibility
     redistribution, within-household selection, nonresponse adjustment, and calibration.
-    Also produces recipe-aware bootstrap and delete-a-PSU jackknife replicate weights and a self-contained
-    HTML quality report, and bridges to survey/srvyr.'
+    Also produces recipe-aware bootstrap and delete-a-PSU jackknife replicate weights
+    and a self-contained HTML quality report, and bridges to survey/srvyr.
   gsbpm_name: Estimation and weighting
   gsbpm_number: 5.6 | 5.7
 - type: R package
