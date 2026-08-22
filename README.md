@@ -119,6 +119,12 @@ R package [XBRL](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;XBRL). E
 R package [blocking](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;blocking). Functions to block records using approximate nearest neighbours and grapsh for data deduplication and record linkage
 
 
+#### Classification and coding ([GSBPM](https://unece.org/statistics/modernstats/gsbpm) 5.2)
+
+- <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/ClassifAI/version.svg"></img> <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/ClassifAI/latest.svg"></img> <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/ClassifAI/license.svg"></img>\
+Python [ClassifAI](https:&#x2F;&#x2F;github.com&#x2F;datasciencecampus&#x2F;classifAI). [ClassifAI](https:&#x2F;&#x2F;datasciencecampus.github.io&#x2F;classifai&#x2F;) is a Python package that simplifies semantic-search and Retrieval Augmented Generation (RAG) pipelines for text classification tasks in the production of official statistics. By the UK Office for National Statistics.
+
+
 #### Statistical data editing and imputation ([GSBPM](https://unece.org/statistics/modernstats/gsbpm) 5.3 | 5.4)
 
 - <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/validate/version.svg"></img> <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/validate/latest.svg"></img> <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/validate/license.svg"></img>\
