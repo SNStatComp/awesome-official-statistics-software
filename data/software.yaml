@@ -235,6 +235,13 @@
   description: Functions to block records using approximate nearest neighbours and grapsh for data deduplication and record linkage
   gsbpm_name: Data integration and record linkage
   gsbpm_number: '5.1'
+- type: Python
+  name: ClassifAI
+  url: https://github.com/datasciencecampus/classifAI
+  description: '[ClassifAI](https://datasciencecampus.github.io/classifai/) is a Python package that simplifies semantic-search and Retrieval Augmented
+    Generation (RAG) pipelines for text classification tasks in the production of official statistics. By the UK Office for National Statistics.'
+  gsbpm_name: Classification and coding
+  gsbpm_number: '5.2'
 - type: R package
   name: validate
   url: https://cran.r-project.org/package=validate
