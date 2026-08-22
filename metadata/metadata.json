@@ -865,6 +865,20 @@
   },
   {
     "type": "R package",
+    "name": "weightflow",
+    "url": "https://cran.r-project.org/package=weightflow",
+    "description": "Builds survey weights through a declarative, pipeable, base-R cascade (unknown-eligibility redistribution, within-household selection, nonresponse adjustment, and calibration). Also produces recipe-aware bootstrap, delete-a-PSU jackknife replicate weights, an HTML quality report, and bridges to survey/srvyr.",
+    "gsbpm_name": "Estimation and weighting",
+    "gsbpm_number": "5.6 | 5.7",
+    "license": "MIT + file LICENSE",
+    "licenseSimple": "MIT",
+    "platform": "CRAN",
+    "languages": [
+      "R"
+    ]
+  },
+  {
+    "type": "R package",
     "name": "piar",
     "url": "https://cran.r-project.org/package=piar",
     "description": "Provides tools to make price indexes that aggregate a collection of elemental indexes according to a hierarchical structure. Includes methods to flexibly build indexes from multiple sources of data, chain indexes over time, and construct product contributions.",
