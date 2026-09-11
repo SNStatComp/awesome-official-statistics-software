@@ -104,8 +104,8 @@
     "description": "Implements the sequential Poisson method for drawing probability-proportional-to-size samples. Includes tools to coordinate samples with permanent random numbers, draw stratified samples, and use other order-sampling methods.",
     "gsbpm_name": "Sampling",
     "gsbpm_number": "4.1",
-    "license": "MIT + file LICENSE",
-    "licenseSimple": "MIT",
+    "license": "GPL (>= 3)",
+    "licenseSimple": "GPL",
     "platform": "CRAN",
     "languages": [
       "R"
