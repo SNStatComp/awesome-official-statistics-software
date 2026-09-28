@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 <svg xmlns="http://www.w3.org/2000/svg" width="181" height="20" aria-label="CRAN 1.1.7 – 10 months ago">
-=======
-<svg xmlns="http://www.w3.org/2000/svg" width="175" height="20" aria-label="CRAN 1.1.7 – 9 months ago">
->>>>>>> 7375c1d8da32a248a632c4319d91050c424d9a98
   <linearGradient id="b" x2="0" y2="100%">
     <stop offset="0" stop-color="#bbb" stop-opacity=".1"/>
     <stop offset="1" stop-opacity=".1"/>
@@ -23,19 +19,11 @@
     <text x="21.5" y="14">
       CRAN
     </text>
-<<<<<<< HEAD
     <text x="111" y="15" fill="#010101" fill-opacity=".3">
       1.1.7 – 10 months ago
     </text>
     <text x="111" y="14">
       1.1.7 – 10 months ago
-=======
-    <text x="108" y="15" fill="#010101" fill-opacity=".3">
-      1.1.7 – 9 months ago
-    </text>
-    <text x="108" y="14">
-      1.1.7 – 9 months ago
->>>>>>> 7375c1d8da32a248a632c4319d91050c424d9a98
     </text>
   </g>
 </svg>

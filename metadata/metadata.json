@@ -2411,7 +2411,9 @@
     "license": "unknown",
     "licenseSimple": "unknown",
     "platform": "GitHub",
-    "languages": []
+    "languages": [
+      "R"
+    ]
   },
   {
     "type": "R package",
