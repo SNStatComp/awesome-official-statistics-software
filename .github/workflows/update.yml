@@ -7,6 +7,16 @@ on:
   - cron:  '0 5 * * 2'
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
+    inputs:
+      item_name:
+        description: Process only this item from the software list
+        required: false
+        type: string
+      force:
+        description: Ignore cached metadata and refresh selected items
+        required: false
+        default: false
+        type: boolean
 
 jobs:
   build:
@@ -30,9 +40,19 @@ jobs:
 
       # retrieve pkg metadata
       - name: get_metadata
-        run: node get_metadata.js
+        run: |
+          args=()
+          if [[ -n "$ITEM_NAME" ]]; then
+            args+=(--name "$ITEM_NAME")
+          fi
+          if [[ "$FORCE_METADATA" == "true" ]]; then
+            args+=(--force)
+          fi
+          node get_metadata.js "${args[@]}"
         env:
           GH_API_TOKEN: ${{ secrets.GH_API_TOKEN }}
+          ITEM_NAME: ${{ github.event.inputs.item_name }}
+          FORCE_METADATA: ${{ github.event.inputs.force }}
 
       # aggregate metadata
       - name: aggregate_metadata
