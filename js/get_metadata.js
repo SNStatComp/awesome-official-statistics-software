@@ -42,6 +42,7 @@ try {
 		console.log('  --max N        Process at most N items')
 		console.log('  --type TYPE    Process only GH, CRAN, PYPI, or GL items')
 		console.log('  --name ITEM    Process only the item with this exact name')
+		console.log('  --force        Ignore cached metadata and refresh all selected items')
 		console.log('  --help, -h     Show this help')
 		console.log('Options may be used alone or together, in any order.')
 		console.log('Example: node get_metadata.js --type CRAN --max 10')
@@ -53,7 +54,7 @@ try {
 		if (!Array.isArray(data)) throw new Error(`${dataFile} must contain a YAML array`)
 		const selectedData = selectItems(data, options)
 		console.log(`Total items to process: ${selectedData.length}`)
-		await process_data(selectedData)
+		await process_data(selectedData, options)
 	}
 } catch (e) {
 	console.error(e)
@@ -68,6 +69,7 @@ function parseArguments(argumentsList) {
 	let maximumItems
 	let type
 	let itemName
+	let force = false
 	const setOption = (option, value) => {
 		if (option === 'max') {
 			if (maximumItems !== undefined) throw new Error('Maximum items can only be specified once')
@@ -98,6 +100,12 @@ function parseArguments(argumentsList) {
 
 		const separator = argument.indexOf('=')
 		const option = argument.slice(2, separator === -1 ? undefined : separator)
+		if (option === 'force') {
+			if (separator !== -1) throw new Error('--force does not take a value')
+			if (force) throw new Error('--force can only be specified once')
+			force = true
+			continue
+		}
 		if (!['max', 'type', 'name'].includes(option)) {
 			throw new Error('Usage: node get_metadata.js [--max N] [--type GH|CRAN|PYPI|GL] [--name ITEM] [--help]')
 		}
@@ -106,7 +114,7 @@ function parseArguments(argumentsList) {
 		setOption(option, value)
 	}
 
-	return { maximumItems, type, itemName }
+	return { maximumItems, type, itemName, force }
 }
 
 function selectItems(data, options) {
@@ -130,13 +138,13 @@ function itemType(itemUrl) {
 	return undefined
 }
 
-async function process_data(data) {
+async function process_data(data, options) {
 	for (const [index, item] of data.entries()) {
 		if (!item || !item.name || !item.url) throw new Error('Every software entry must have a name and URL')
 		pendingOperations.length = 0
 		item.metadatadir = `${metadatadir}/${item.name}`
 		if (!fs.existsSync(item.metadatadir)) fs.mkdirSync(item.metadatadir, { recursive: true })
-		const metadataIsFresh = is_metadata_fresh(path.join(item.metadatadir, 'pkg.json'))
+		const metadataIsFresh = !options.force && is_metadata_fresh(path.join(item.metadatadir, 'pkg.json'))
 		const generatedAt = new Date().toISOString()
 		
 		const parts = item.url.split("/")
