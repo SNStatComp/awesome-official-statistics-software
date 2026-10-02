@@ -1,0 +1,19 @@
+{
+  "platform": "GitHub",
+  "metric": "downloadsPer30Days",
+  "downloadsPer30Days": 90,
+  "method": "release asset download-count snapshot delta",
+  "cumulativeReleaseAssetDownloads": 970,
+  "rateBasisDays": 1,
+  "snapshots": [
+    {
+      "observedAt": "2026-10-01T14:16:55.187Z",
+      "cumulativeDownloads": 967
+    },
+    {
+      "observedAt": "2026-10-02T11:21:16.943Z",
+      "cumulativeDownloads": 970
+    }
+  ],
+  "source": "https://api.github.com/repos/datasciencecampus/classifAI/releases"
+}

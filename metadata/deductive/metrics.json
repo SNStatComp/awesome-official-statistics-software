@@ -1,0 +1,46 @@
+{
+  "watchers_count": 14,
+  "has_wiki": true,
+  "has_discussions": false,
+  "forks_count": 3,
+  "forks": 3,
+  "open_issues_count": 1,
+  "downloadsPer30Days": 392,
+  "downloadsUnavailableReason": null,
+  "VignetteBuilder": null,
+  "vignetteCount": 0,
+  "vignettes": [],
+  "vignetteWordCount": 0,
+  "used_in": 0,
+  "used_in_scope": "CRAN packages in metadata list",
+  "mentions": 1,
+  "mentionsByJournal": {
+    "statistical-journal-of-the-iaos": {
+      "count": 1
+    }
+  },
+  "mentionsFound": [
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "When numbers mislead: Data interpretation in fact-checked misinformation",
+      "publicationYear": 2026,
+      "doi": "10.1177/18747655261480959"
+    }
+  ],
+  "followers": null,
+  "watchers": 14,
+  "subscriptions": 3,
+  "collaborators": null,
+  "issues": 1,
+  "releases": null,
+  "pull_requests": null,
+  "awesome_metric": 1.1,
+  "awesome_metric_breakdown": {
+    "maturity": 0,
+    "documentation": 1.6666666666666665,
+    "use": 1.8663707702063395,
+    "community": 0.9658204019092529
+  },
+  "awesome_metric_method": "See metrics.md in this repo; metrics calculation is still experimental and subject to change."
+}

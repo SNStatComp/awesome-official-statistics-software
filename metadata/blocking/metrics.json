@@ -1,0 +1,116 @@
+{
+  "watchers_count": 14,
+  "has_wiki": true,
+  "has_discussions": false,
+  "forks_count": 0,
+  "forks": 0,
+  "open_issues_count": 2,
+  "downloadsPer30Days": 390,
+  "downloadsUnavailableReason": null,
+  "VignetteBuilder": "knitr",
+  "vignetteCount": 3,
+  "vignettes": [
+    {
+      "title": "Blocking records for deduplication",
+      "url": "https://cran.r-project.org/web/packages/blocking/vignettes/v1-deduplication.html",
+      "wordCount": 581
+    },
+    {
+      "title": "Blocking records for record linkage",
+      "url": "https://cran.r-project.org/web/packages/blocking/vignettes/v2-reclin.html",
+      "wordCount": 582
+    },
+    {
+      "title": "Integration with existing packages",
+      "url": "https://cran.r-project.org/web/packages/blocking/vignettes/v3-integration.html",
+      "wordCount": 431
+    }
+  ],
+  "vignetteWordCount": 1594,
+  "used_in": 0,
+  "used_in_scope": "CRAN packages in metadata list",
+  "mentions": 7,
+  "mentionsByJournal": {
+    "statistical-journal-of-the-iaos": {
+      "count": 2
+    },
+    "international-statistical-review": {
+      "count": 1
+    },
+    "statistical-methods-and-applications": {
+      "count": 2
+    },
+    "the-r-journal": {
+      "count": 1
+    },
+    "journal-of-statistical-software": {
+      "count": 1
+    }
+  },
+  "mentionsFound": [
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "Using supervised machine learning to identify efficient blocking schemes for record linkage",
+      "publicationYear": 2021,
+      "doi": "10.3233/sji-200779"
+    },
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "An efficient privacy-preserving record linkage technique for administrative data and censuses",
+      "publicationYear": 2014,
+      "doi": "10.3233/sji-140833"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Restricted Randomization versus Blocking",
+      "publicationYear": 1985,
+      "doi": "10.2307/1402933"
+    },
+    {
+      "journalId": "statistical-methods-and-applications",
+      "journalTitle": "Statistical Methods & Applications",
+      "articleTitle": "Classification Rule for Optimal Blocking for Nonregular Factorial Designs",
+      "publicationYear": 2007,
+      "doi": "10.5351/ckss.2007.14.3.483"
+    },
+    {
+      "journalId": "statistical-methods-and-applications",
+      "journalTitle": "Statistical Methods & Applications",
+      "articleTitle": "Blocking Method of 2nFactorial and Fractional Factorial Designs in Blocks of Size Two by Using Defining Contrast",
+      "publicationYear": 2008,
+      "doi": "10.5351/ckss.2008.15.4.497"
+    },
+    {
+      "journalId": "the-r-journal",
+      "journalTitle": "The R Journal",
+      "articleTitle": "blocking: An R Package for Blocking of Records for Record Linkage and Deduplication",
+      "publicationYear": 2026,
+      "doi": "10.32614/rj-2026-029"
+    },
+    {
+      "journalId": "journal-of-statistical-software",
+      "journalTitle": "Journal of Statistical Software",
+      "articleTitle": "Blocking Mixed-Level Factorials withSAS",
+      "publicationYear": 2009,
+      "doi": "10.18637/jss.v032.c01"
+    }
+  ],
+  "followers": null,
+  "watchers": 14,
+  "subscriptions": 2,
+  "collaborators": null,
+  "issues": 2,
+  "releases": null,
+  "pull_requests": null,
+  "awesome_metric": 2,
+  "awesome_metric_breakdown": {
+    "maturity": 0,
+    "documentation": 4.319115209166381,
+    "use": 3.0036141181636253,
+    "community": 0.7890373975219368
+  },
+  "awesome_metric_method": "See metrics.md in this repo; metrics calculation is still experimental and subject to change."
+}

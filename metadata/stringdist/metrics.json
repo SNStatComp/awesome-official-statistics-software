@@ -1,0 +1,57 @@
+{
+  "watchers_count": 343,
+  "has_wiki": true,
+  "has_discussions": false,
+  "forks_count": 36,
+  "forks": 36,
+  "open_issues_count": 24,
+  "downloadsPer30Days": 65802,
+  "downloadsUnavailableReason": null,
+  "VignetteBuilder": null,
+  "vignetteCount": 2,
+  "vignettes": [
+    {
+      "title": "RJournal 6 111-122 (2014)",
+      "url": "https://cran.r-project.org/web/packages/stringdist/vignettes/RJournal_6_111-122-2014.pdf",
+      "wordCount": 7513
+    },
+    {
+      "title": "stringdist C/C++ API",
+      "url": "https://cran.r-project.org/web/packages/stringdist/vignettes/stringdist_C-Cpp_api.pdf",
+      "wordCount": 1676
+    }
+  ],
+  "vignetteWordCount": 9189,
+  "used_in": 5,
+  "used_in_scope": "CRAN packages in metadata list",
+  "mentions": 1,
+  "mentionsByJournal": {
+    "the-r-journal": {
+      "count": 1
+    }
+  },
+  "mentionsFound": [
+    {
+      "journalId": "the-r-journal",
+      "journalTitle": "The R Journal",
+      "articleTitle": "The stringdist Package for Approximate String Matching",
+      "publicationYear": 2014,
+      "doi": "10.32614/rj-2014-011"
+    }
+  ],
+  "followers": null,
+  "watchers": 343,
+  "subscriptions": 15,
+  "collaborators": null,
+  "issues": 24,
+  "releases": null,
+  "pull_requests": null,
+  "awesome_metric": 3.1,
+  "awesome_metric_breakdown": {
+    "maturity": 2.942595277057416,
+    "documentation": 4.094315153515218,
+    "use": 2.978296376128573,
+    "community": 2.5250257869987776
+  },
+  "awesome_metric_method": "See metrics.md in this repo; metrics calculation is still experimental and subject to change."
+}

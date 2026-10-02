@@ -1,0 +1,6 @@
+{
+  "platform": "other",
+  "metric": "downloadsPer30Days",
+  "downloadsPer30Days": null,
+  "unavailableReason": "No download source is configured for this platform"
+}

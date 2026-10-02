@@ -1,0 +1,19 @@
+{
+  "platform": "GitHub",
+  "metric": "downloadsPer30Days",
+  "downloadsPer30Days": 0,
+  "method": "release asset download-count snapshot delta",
+  "cumulativeReleaseAssetDownloads": 0,
+  "rateBasisDays": 1,
+  "snapshots": [
+    {
+      "observedAt": "2026-10-01T14:16:48.352Z",
+      "cumulativeDownloads": 0
+    },
+    {
+      "observedAt": "2026-10-02T11:21:10.010Z",
+      "cumulativeDownloads": 0
+    }
+  ],
+  "source": "https://api.github.com/repos/InseeFr/Trevas/releases"
+}

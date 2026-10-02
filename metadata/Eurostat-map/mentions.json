@@ -1,0 +1,87 @@
+{
+  "package": "Eurostat-map",
+  "mentions": 0,
+  "mentionsByJournal": {},
+  "mentionsFound": [],
+  "method": "Crossref indexed article titles and abstracts; exact normalized package-name phrase; each matching journal article counted equally",
+  "coverage": {
+    "searched": [
+      {
+        "id": "statistical-journal-of-the-iaos",
+        "title": "Statistical Journal of the IAOS",
+        "issn": "1874-7655",
+        "articleCount": 1479
+      },
+      {
+        "id": "journal-of-official-statistics",
+        "title": "Journal of Official Statistics",
+        "issn": "0282-423X",
+        "articleCount": 173
+      },
+      {
+        "id": "statistics-in-transition-new-series",
+        "title": "Statistics in Transition new series",
+        "issn": "1234-7655",
+        "articleCount": 563
+      },
+      {
+        "id": "journal-of-survey-statistics-and-methodology",
+        "title": "Journal of Survey Statistics and Methodology",
+        "issn": "2325-0984",
+        "articleCount": 619
+      },
+      {
+        "id": "international-statistical-review",
+        "title": "International Statistical Review",
+        "issn": "0306-7734",
+        "articleCount": 2935
+      },
+      {
+        "id": "statistical-methods-and-applications",
+        "title": "Statistical Methods & Applications",
+        "issn": "2287-7843",
+        "articleCount": 1198
+      },
+      {
+        "id": "the-r-journal",
+        "title": "The R Journal",
+        "issn": "2073-4859",
+        "articleCount": 856
+      },
+      {
+        "id": "journal-of-statistical-software",
+        "title": "Journal of Statistical Software",
+        "issn": "1548-7660",
+        "articleCount": 1641
+      },
+      {
+        "id": "journal-of-computational-and-graphical-statistics",
+        "title": "Journal of Computational and Graphical Statistics",
+        "issn": "1061-8600",
+        "articleCount": 2525
+      }
+    ],
+    "unavailable": [
+      {
+        "id": "survey-methodology",
+        "title": "Survey Methodology",
+        "reason": "No Crossref-indexed works were found for this journal's ISSN."
+      },
+      {
+        "id": "survey-research-methods",
+        "title": "Survey Research Methods",
+        "reason": "No Crossref-indexed works were found for this journal."
+      }
+    ]
+  },
+  "discoverySources": [
+    {
+      "id": "google-scholar",
+      "title": "Google Scholar",
+      "searchUrl": "https://scholar.google.com/scholar?q=%22Eurostat-map%22",
+      "automatedCountsSupported": false,
+      "reason": "Google Scholar has no official public search API; automated scraping is unreliable and is not included in the automated mention count."
+    }
+  ],
+  "searchedAt": "2026-10-02T11:23:01.897Z"
+}

@@ -1,0 +1,19 @@
+{
+  "platform": "GitHub",
+  "metric": "downloadsPer30Days",
+  "downloadsPer30Days": 30,
+  "method": "release asset download-count snapshot delta",
+  "cumulativeReleaseAssetDownloads": 5604,
+  "rateBasisDays": 1,
+  "snapshots": [
+    {
+      "observedAt": "2026-10-01T14:17:52.658Z",
+      "cumulativeDownloads": 5603
+    },
+    {
+      "observedAt": "2026-10-02T11:22:12.470Z",
+      "cumulativeDownloads": 5604
+    }
+  ],
+  "source": "https://api.github.com/repos/amattioc/SDMX/releases"
+}

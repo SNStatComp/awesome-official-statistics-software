@@ -1,0 +1,72 @@
+{
+  "watchers_count": 12,
+  "has_wiki": false,
+  "has_discussions": true,
+  "forks_count": 4,
+  "forks": 4,
+  "open_issues_count": 2,
+  "downloadsPer30Days": 612,
+  "downloadsUnavailableReason": null,
+  "VignetteBuilder": "knitr",
+  "vignetteCount": 5,
+  "vignettes": [
+    {
+      "title": "error estimation",
+      "url": "https://cran.r-project.org/web/packages/surveysd/vignettes/error_estimation.html",
+      "wordCount": 4103
+    },
+    {
+      "title": "Iterative Proportional Fitting",
+      "url": "https://cran.r-project.org/web/packages/surveysd/vignettes/ipf.html",
+      "wordCount": 611
+    },
+    {
+      "title": "methodology",
+      "url": "https://cran.r-project.org/web/packages/surveysd/vignettes/methodology.html",
+      "wordCount": 3347
+    },
+    {
+      "title": "Rao-Wu bootstrap",
+      "url": "https://cran.r-project.org/web/packages/surveysd/vignettes/raowu.html",
+      "wordCount": 570
+    },
+    {
+      "title": "surveysd",
+      "url": "https://cran.r-project.org/web/packages/surveysd/vignettes/surveysd.pdf",
+      "wordCount": 3477
+    }
+  ],
+  "vignetteWordCount": 12108,
+  "used_in": 0,
+  "used_in_scope": "CRAN packages in metadata list",
+  "mentions": 1,
+  "mentionsByJournal": {
+    "statistical-journal-of-the-iaos": {
+      "count": 1
+    }
+  },
+  "mentionsFound": [
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "The R-package surveysd: Estimating standard errors for complex surveys with a rotating panel design",
+      "publicationYear": 2021,
+      "doi": "10.3233/sji-200709"
+    }
+  ],
+  "followers": null,
+  "watchers": 12,
+  "subscriptions": 5,
+  "collaborators": null,
+  "issues": 2,
+  "releases": null,
+  "pull_requests": null,
+  "awesome_metric": 1.9,
+  "awesome_metric_breakdown": {
+    "maturity": 0,
+    "documentation": 3.586169077485784,
+    "use": 1.9629046484299917,
+    "community": 2.127546579948488
+  },
+  "awesome_metric_method": "See metrics.md in this repo; metrics calculation is still experimental and subject to change."
+}

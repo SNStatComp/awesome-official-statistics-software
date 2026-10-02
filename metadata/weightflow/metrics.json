@@ -1,0 +1,152 @@
+{
+  "watchers_count": 8,
+  "has_wiki": true,
+  "has_discussions": false,
+  "forks_count": 1,
+  "forks": 1,
+  "open_issues_count": 0,
+  "downloadsPer30Days": 462,
+  "downloadsUnavailableReason": null,
+  "VignetteBuilder": "knitr",
+  "vignetteCount": 21,
+  "vignettes": [
+    {
+      "title": "Machine learning, cross-fitting and robust calibration",
+      "url": "https://cran.r-project.org/web/packages/weightflow/vignettes/advanced-methods.html",
+      "wordCount": 1313
+    },
+    {
+      "title": "Ways to specify calibration totals",
+      "url": "https://cran.r-project.org/web/packages/weightflow/vignettes/calibration-totals.html",
+      "wordCount": 1352
+    },
+    {
+      "title": "Calibration: raking, post-stratification and GREG",
+      "url": "https://cran.r-project.org/web/packages/weightflow/vignettes/calibration.html",
+      "wordCount": 1767
+    },
+    {
+      "title": "Composite estimation: borrowing strength from the previous wave",
+      "url": "https://cran.r-project.org/web/packages/weightflow/vignettes/composite-estimation.html",
+      "wordCount": 1774
+    },
+    {
+      "title": "Coordinated replication: what travels between waves",
+      "url": "https://cran.r-project.org/web/packages/weightflow/vignettes/coordinated-replication.html",
+      "wordCount": 1161
+    },
+    {
+      "title": "Inspecting and auditing the cascade",
+      "url": "https://cran.r-project.org/web/packages/weightflow/vignettes/inspecting-auditing.html",
+      "wordCount": 409
+    },
+    {
+      "title": "Model calibration (model-assisted weighting)",
+      "url": "https://cran.r-project.org/web/packages/weightflow/vignettes/model-calibration.html",
+      "wordCount": 1340
+    },
+    {
+      "title": "Non-probability samples",
+      "url": "https://cran.r-project.org/web/packages/weightflow/vignettes/nonprobability-samples.html",
+      "wordCount": 483
+    },
+    {
+      "title": "Nonresponse: weighting classes, propensities and calibration",
+      "url": "https://cran.r-project.org/web/packages/weightflow/vignettes/nonresponse-propensities.html",
+      "wordCount": 1446
+    },
+    {
+      "title": "Pure panels: the longitudinal weight and gross flows",
+      "url": "https://cran.r-project.org/web/packages/weightflow/vignettes/panel-longitudinal.html",
+      "wordCount": 1096
+    },
+    {
+      "title": "Preparing the sample: eligibility and response before weighting",
+      "url": "https://cran.r-project.org/web/packages/weightflow/vignettes/preparing-the-sample.html",
+      "wordCount": 1637
+    },
+    {
+      "title": "Documenting and auditing the weights: the quality report",
+      "url": "https://cran.r-project.org/web/packages/weightflow/vignettes/quality-report.html",
+      "wordCount": 674
+    },
+    {
+      "title": "From raw sample to final weights",
+      "url": "https://cran.r-project.org/web/packages/weightflow/vignettes/quickstart.html",
+      "wordCount": 1030
+    },
+    {
+      "title": "Calibrating to a reference survey",
+      "url": "https://cran.r-project.org/web/packages/weightflow/vignettes/reference-survey.html",
+      "wordCount": 388
+    },
+    {
+      "title": "Rotating panels: net change, chaining and gross flows",
+      "url": "https://cran.r-project.org/web/packages/weightflow/vignettes/rotating-panels.html",
+      "wordCount": 1445
+    },
+    {
+      "title": "Trimming survey weights",
+      "url": "https://cran.r-project.org/web/packages/weightflow/vignettes/trimming.html",
+      "wordCount": 1006
+    },
+    {
+      "title": "Two-phase (double) sampling",
+      "url": "https://cran.r-project.org/web/packages/weightflow/vignettes/two-phase-sampling.html",
+      "wordCount": 1069
+    },
+    {
+      "title": "Validation against survey and ReGenesees",
+      "url": "https://cran.r-project.org/web/packages/weightflow/vignettes/validation.html",
+      "wordCount": 1131
+    },
+    {
+      "title": "Variance estimation",
+      "url": "https://cran.r-project.org/web/packages/weightflow/vignettes/variance-estimation.html",
+      "wordCount": 1252
+    },
+    {
+      "title": "weightflow in production (GSBPM 5.6)",
+      "url": "https://cran.r-project.org/web/packages/weightflow/vignettes/weightflow-in-production.html",
+      "wordCount": 710
+    },
+    {
+      "title": "Staged survey weighting: the adjustment logic",
+      "url": "https://cran.r-project.org/web/packages/weightflow/vignettes/weightflow.html",
+      "wordCount": 1444
+    }
+  ],
+  "vignetteWordCount": 23927,
+  "used_in": 0,
+  "used_in_scope": "CRAN packages in metadata list",
+  "mentions": 1,
+  "mentionsByJournal": {
+    "statistical-journal-of-the-iaos": {
+      "count": 1
+    }
+  },
+  "mentionsFound": [
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "Weightflow: Reproducible, recipe-aware survey weighting for official statistics in R",
+      "publicationYear": 2026,
+      "doi": "10.1177/18747655261484262"
+    }
+  ],
+  "followers": null,
+  "watchers": 8,
+  "subscriptions": 0,
+  "collaborators": null,
+  "issues": 0,
+  "releases": null,
+  "pull_requests": null,
+  "awesome_metric": 1.8,
+  "awesome_metric_breakdown": {
+    "maturity": 0,
+    "documentation": 4.914855889113937,
+    "use": 1.9019649596110373,
+    "community": 0.4295341114936773
+  },
+  "awesome_metric_method": "See metrics.md in this repo; metrics calculation is still experimental and subject to change."
+}

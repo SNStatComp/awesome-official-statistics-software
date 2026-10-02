@@ -1,0 +1,40 @@
+{
+  "watchers_count": 111,
+  "has_wiki": true,
+  "has_discussions": false,
+  "forks_count": 28,
+  "forks": 28,
+  "open_issues_count": 17,
+  "downloadsPer30Days": 1299,
+  "downloadsUnavailableReason": null,
+  "VignetteBuilder": "knitr",
+  "vignetteCount": 1,
+  "vignettes": [
+    {
+      "title": "Using readabs",
+      "url": "https://cran.r-project.org/web/packages/readabs/vignettes/readabs_vignette.html",
+      "wordCount": 1744
+    }
+  ],
+  "vignetteWordCount": 1744,
+  "used_in": 0,
+  "used_in_scope": "CRAN packages in metadata list",
+  "mentions": 0,
+  "mentionsByJournal": {},
+  "mentionsFound": [],
+  "followers": null,
+  "watchers": 111,
+  "subscriptions": 12,
+  "collaborators": null,
+  "issues": 17,
+  "releases": null,
+  "pull_requests": null,
+  "awesome_metric": 1.9,
+  "awesome_metric_breakdown": {
+    "maturity": 0,
+    "documentation": 3.845933037355728,
+    "use": 1.55697032379294,
+    "community": 2.2221790789275824
+  },
+  "awesome_metric_method": "See metrics.md in this repo; metrics calculation is still experimental and subject to change."
+}

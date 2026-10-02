@@ -1,0 +1,40 @@
+{
+  "watchers_count": 2,
+  "has_wiki": true,
+  "has_discussions": false,
+  "forks_count": 3,
+  "forks": 3,
+  "open_issues_count": 0,
+  "downloadsPer30Days": 775,
+  "downloadsUnavailableReason": null,
+  "VignetteBuilder": "knitr",
+  "vignetteCount": 1,
+  "vignettes": [
+    {
+      "title": "Usage of the sdcHierarchies-Package",
+      "url": "https://cran.r-project.org/web/packages/sdcHierarchies/vignettes/usage.html",
+      "wordCount": 1372
+    }
+  ],
+  "vignetteWordCount": 1372,
+  "used_in": 2,
+  "used_in_scope": "CRAN packages in metadata list",
+  "mentions": 0,
+  "mentionsByJournal": {},
+  "mentionsFound": [],
+  "followers": null,
+  "watchers": 2,
+  "subscriptions": 2,
+  "collaborators": null,
+  "issues": 0,
+  "releases": null,
+  "pull_requests": null,
+  "awesome_metric": 1.9,
+  "awesome_metric_breakdown": {
+    "maturity": 1.8042440335726506,
+    "documentation": 3.818234227432159,
+    "use": 1.4449296055854606,
+    "community": 0.5410334037584684
+  },
+  "awesome_metric_method": "See metrics.md in this repo; metrics calculation is still experimental and subject to change."
+}

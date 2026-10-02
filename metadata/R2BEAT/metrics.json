@@ -1,0 +1,46 @@
+{
+  "watchers_count": null,
+  "has_wiki": null,
+  "has_discussions": null,
+  "forks_count": null,
+  "forks": null,
+  "open_issues_count": null,
+  "downloadsPer30Days": 291,
+  "downloadsUnavailableReason": null,
+  "VignetteBuilder": null,
+  "vignetteCount": 0,
+  "vignettes": [],
+  "vignetteWordCount": 0,
+  "used_in": 0,
+  "used_in_scope": "CRAN packages in metadata list",
+  "mentions": 1,
+  "mentionsByJournal": {
+    "the-r-journal": {
+      "count": 1
+    }
+  },
+  "mentionsFound": [
+    {
+      "journalId": "the-r-journal",
+      "journalTitle": "The R Journal",
+      "articleTitle": "Two-Stage Sampling Design and Sample Selection with the R Package R2BEAT",
+      "publicationYear": 2023,
+      "doi": "10.32614/rj-2023-069"
+    }
+  ],
+  "followers": null,
+  "watchers": null,
+  "subscriptions": null,
+  "collaborators": null,
+  "issues": null,
+  "releases": null,
+  "pull_requests": null,
+  "awesome_metric": 0.6,
+  "awesome_metric_breakdown": {
+    "maturity": 0,
+    "documentation": 0,
+    "use": 1.8018659767707068,
+    "community": null
+  },
+  "awesome_metric_method": "See metrics.md in this repo; metrics calculation is still experimental and subject to change."
+}

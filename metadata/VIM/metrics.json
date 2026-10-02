@@ -1,0 +1,117 @@
+{
+  "watchers_count": 93,
+  "has_wiki": false,
+  "has_discussions": false,
+  "forks_count": 15,
+  "forks": 15,
+  "open_issues_count": 2,
+  "downloadsPer30Days": 18341,
+  "downloadsUnavailableReason": null,
+  "VignetteBuilder": "knitr",
+  "vignetteCount": 12,
+  "vignettes": [
+    {
+      "title": "VIM",
+      "url": "https://cran.r-project.org/web/packages/VIM/vignettes/VIM.html",
+      "wordCount": 346
+    },
+    {
+      "title": "Supportive Graphic Methods",
+      "url": "https://cran.r-project.org/web/packages/VIM/vignettes/VisualImp.html",
+      "wordCount": 1355
+    },
+    {
+      "title": "Donor based Imputation Methods",
+      "url": "https://cran.r-project.org/web/packages/VIM/vignettes/donorImp.html",
+      "wordCount": 344
+    },
+    {
+      "title": "Imputation Method based on Iterative EM PCA",
+      "url": "https://cran.r-project.org/web/packages/VIM/vignettes/impPCA.html",
+      "wordCount": 175
+    },
+    {
+      "title": "Imputation Method IRMI",
+      "url": "https://cran.r-project.org/web/packages/VIM/vignettes/irmi.html",
+      "wordCount": 420
+    },
+    {
+      "title": "Model based Imputation Methods",
+      "url": "https://cran.r-project.org/web/packages/VIM/vignettes/modelImp.html",
+      "wordCount": 334
+    },
+    {
+      "title": "Benchmarking imputation methods with makeMissing() and evaluation()",
+      "url": "https://cran.r-project.org/web/packages/VIM/vignettes/vimpute-benchmark.html",
+      "wordCount": 422
+    },
+    {
+      "title": "Validating multiple-imputation properness: a coverage simulation",
+      "url": "https://cran.r-project.org/web/packages/VIM/vignettes/vimpute-coverage.html",
+      "wordCount": 452
+    },
+    {
+      "title": "Multiple imputation with vimpute: pooling, tuning and diagnostics",
+      "url": "https://cran.r-project.org/web/packages/VIM/vignettes/vimpute-mi.html",
+      "wordCount": 423
+    },
+    {
+      "title": "Restricted regression with vimpute",
+      "url": "https://cran.r-project.org/web/packages/VIM/vignettes/vimpute-restricted.html",
+      "wordCount": 369
+    },
+    {
+      "title": "Imputation Method vimpute",
+      "url": "https://cran.r-project.org/web/packages/VIM/vignettes/vimpute.html",
+      "wordCount": 2359
+    },
+    {
+      "title": "Imputation Method based on xgboost",
+      "url": "https://cran.r-project.org/web/packages/VIM/vignettes/xgboostImpute.html",
+      "wordCount": 251
+    }
+  ],
+  "vignetteWordCount": 7250,
+  "used_in": 3,
+  "used_in_scope": "CRAN packages in metadata list",
+  "mentions": 2,
+  "mentionsByJournal": {
+    "statistical-journal-of-the-iaos": {
+      "count": 1
+    },
+    "journal-of-statistical-software": {
+      "count": 1
+    }
+  },
+  "mentionsFound": [
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "Performance evaluation of machine learning-based imputation for missing data analysis in the R package VIM",
+      "publicationYear": 2025,
+      "doi": "10.1177/18747655251339401"
+    },
+    {
+      "journalId": "journal-of-statistical-software",
+      "journalTitle": "Journal of Statistical Software",
+      "articleTitle": "Imputation with the R Package VIM",
+      "publicationYear": 2016,
+      "doi": "10.18637/jss.v074.i07"
+    }
+  ],
+  "followers": null,
+  "watchers": 93,
+  "subscriptions": 12,
+  "collaborators": null,
+  "issues": 2,
+  "releases": null,
+  "pull_requests": null,
+  "awesome_metric": 2.6,
+  "awesome_metric_breakdown": {
+    "maturity": 2.27670248696953,
+    "documentation": 3.5269247212241783,
+    "use": 3.033843509760686,
+    "community": 1.7129183177667915
+  },
+  "awesome_metric_method": "See metrics.md in this repo; metrics calculation is still experimental and subject to change."
+}

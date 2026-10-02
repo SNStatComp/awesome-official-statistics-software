@@ -1,0 +1,82 @@
+{
+  "watchers_count": 93,
+  "has_wiki": true,
+  "has_discussions": false,
+  "forks_count": 27,
+  "forks": 27,
+  "open_issues_count": 13,
+  "downloadsPer30Days": 1272,
+  "downloadsUnavailableReason": null,
+  "VignetteBuilder": "knitr",
+  "vignetteCount": 3,
+  "vignettes": [
+    {
+      "title": "AI-Assisted Statistical Disclosure Control with sdcMicro",
+      "url": "https://cran.r-project.org/web/packages/sdcMicro/vignettes/ai_assisted_anonymization.html",
+      "wordCount": 5352
+    },
+    {
+      "title": "Targeted Record Swapping",
+      "url": "https://cran.r-project.org/web/packages/sdcMicro/vignettes/recordSwapping.html",
+      "wordCount": 2286
+    },
+    {
+      "title": "Using the interactive GUI - sdcApp",
+      "url": "https://cran.r-project.org/web/packages/sdcMicro/vignettes/sdcMicro.html",
+      "wordCount": 16678
+    }
+  ],
+  "vignetteWordCount": 24316,
+  "used_in": 0,
+  "used_in_scope": "CRAN packages in metadata list",
+  "mentions": 3,
+  "mentionsByJournal": {
+    "statistical-journal-of-the-iaos": {
+      "count": 1
+    },
+    "statistics-in-transition-new-series": {
+      "count": 1
+    },
+    "journal-of-statistical-software": {
+      "count": 1
+    }
+  },
+  "mentionsFound": [
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "The trade-off between the risk of disclosure and data utility in SDC: A case of data from a survey of accidents at work1",
+      "publicationYear": 2022,
+      "doi": "10.3233/sji-220936"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "Application of Statistical Disclosure Control methods to protect the confidentiality of the 2020 agricultural census microdata",
+      "publicationYear": 2025,
+      "doi": "10.59139/stattrans-2025-014"
+    },
+    {
+      "journalId": "journal-of-statistical-software",
+      "journalTitle": "Journal of Statistical Software",
+      "articleTitle": "Statistical Disclosure Control for Micro-Data Using theRPackagesdcMicro",
+      "publicationYear": 2015,
+      "doi": "10.18637/jss.v067.i04"
+    }
+  ],
+  "followers": null,
+  "watchers": 93,
+  "subscriptions": 14,
+  "collaborators": null,
+  "issues": 13,
+  "releases": null,
+  "pull_requests": null,
+  "awesome_metric": 2.4,
+  "awesome_metric_breakdown": {
+    "maturity": 0,
+    "documentation": 4.633850970225437,
+    "use": 2.690764096909663,
+    "community": 2.15743298376063
+  },
+  "awesome_metric_method": "See metrics.md in this repo; metrics calculation is still experimental and subject to change."
+}

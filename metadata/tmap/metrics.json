@@ -1,0 +1,46 @@
+{
+  "watchers_count": 908,
+  "has_wiki": true,
+  "has_discussions": false,
+  "forks_count": 123,
+  "forks": 123,
+  "open_issues_count": 55,
+  "downloadsPer30Days": 34374,
+  "downloadsUnavailableReason": null,
+  "VignetteBuilder": null,
+  "vignetteCount": 0,
+  "vignettes": [],
+  "vignetteWordCount": 0,
+  "used_in": 0,
+  "used_in_scope": "CRAN packages in metadata list",
+  "mentions": 1,
+  "mentionsByJournal": {
+    "journal-of-statistical-software": {
+      "count": 1
+    }
+  },
+  "mentionsFound": [
+    {
+      "journalId": "journal-of-statistical-software",
+      "journalTitle": "Journal of Statistical Software",
+      "articleTitle": "tmap : Thematic Maps in R",
+      "publicationYear": 2018,
+      "doi": "10.18637/jss.v084.i06"
+    }
+  ],
+  "followers": null,
+  "watchers": 908,
+  "subscriptions": 22,
+  "collaborators": null,
+  "issues": 55,
+  "releases": null,
+  "pull_requests": null,
+  "awesome_metric": 1.9,
+  "awesome_metric_breakdown": {
+    "maturity": 0,
+    "documentation": 1.6666666666666665,
+    "use": 2.837295005107927,
+    "community": 3.0874863075058343
+  },
+  "awesome_metric_method": "See metrics.md in this repo; metrics calculation is still experimental and subject to change."
+}

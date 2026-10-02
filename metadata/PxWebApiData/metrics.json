@@ -1,0 +1,50 @@
+{
+  "watchers_count": 5,
+  "has_wiki": true,
+  "has_discussions": false,
+  "forks_count": 3,
+  "forks": 3,
+  "open_issues_count": 0,
+  "downloadsPer30Days": 704,
+  "downloadsUnavailableReason": null,
+  "VignetteBuilder": "knitr",
+  "vignetteCount": 3,
+  "vignettes": [
+    {
+      "title": "Introduction to PxWebApiData",
+      "url": "https://cran.r-project.org/web/packages/PxWebApiData/vignettes/Introduction.html",
+      "wordCount": 31
+    },
+    {
+      "title": "Using PxWebApi v1 with PxWebApiData",
+      "url": "https://cran.r-project.org/web/packages/PxWebApiData/vignettes/pxwebapi_v1.html",
+      "wordCount": 951
+    },
+    {
+      "title": "Using PxWebApi v2 with PxWebApiData",
+      "url": "https://cran.r-project.org/web/packages/PxWebApiData/vignettes/pxwebapi_v2.html",
+      "wordCount": 950
+    }
+  ],
+  "vignetteWordCount": 1932,
+  "used_in": 0,
+  "used_in_scope": "CRAN packages in metadata list",
+  "mentions": 0,
+  "mentionsByJournal": {},
+  "mentionsFound": [],
+  "followers": null,
+  "watchers": 5,
+  "subscriptions": 6,
+  "collaborators": null,
+  "issues": 0,
+  "releases": null,
+  "pull_requests": null,
+  "awesome_metric": 1.6,
+  "awesome_metric_breakdown": {
+    "maturity": 0,
+    "documentation": 4.341319812586515,
+    "use": 1.4240933215501417,
+    "community": 0.7640034019930613
+  },
+  "awesome_metric_method": "See metrics.md in this repo; metrics calculation is still experimental and subject to change."
+}

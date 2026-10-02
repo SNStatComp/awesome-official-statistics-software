@@ -1,0 +1,11 @@
+{
+  "platform": "GitHub",
+  "metric": "downloadsPer30Days",
+  "method": "repository clones over recent 14-day window, normalized to 30 days",
+  "downloadsPer30Days": 15,
+  "repositoryClones": 7,
+  "periodDays": 14,
+  "periodStart": "2026-09-18",
+  "periodEnd": "2026-10-01",
+  "source": "https://api.github.com/repos/SNStatComp/urlfinding/traffic/clones"
+}

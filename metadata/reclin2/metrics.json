@@ -1,0 +1,67 @@
+{
+  "watchers_count": 53,
+  "has_wiki": true,
+  "has_discussions": false,
+  "forks_count": 4,
+  "forks": 4,
+  "open_issues_count": 3,
+  "downloadsPer30Days": 706,
+  "downloadsUnavailableReason": null,
+  "VignetteBuilder": "simplermarkdown",
+  "vignetteCount": 4,
+  "vignettes": [
+    {
+      "title": "Deduplication using reclin2",
+      "url": "https://cran.r-project.org/web/packages/reclin2/vignettes/deduplication.html",
+      "wordCount": 1098
+    },
+    {
+      "title": "Introduction to reclin2",
+      "url": "https://cran.r-project.org/web/packages/reclin2/vignettes/introduction.html",
+      "wordCount": 1531
+    },
+    {
+      "title": "Record linkage using machine learning",
+      "url": "https://cran.r-project.org/web/packages/reclin2/vignettes/record_linkage_using_machine_learning.html",
+      "wordCount": 677
+    },
+    {
+      "title": "Using a cluster for record linkage",
+      "url": "https://cran.r-project.org/web/packages/reclin2/vignettes/using_a_cluster_for_record_linkage.html",
+      "wordCount": 1027
+    }
+  ],
+  "vignetteWordCount": 4333,
+  "used_in": 2,
+  "used_in_scope": "CRAN packages in metadata list",
+  "mentions": 1,
+  "mentionsByJournal": {
+    "the-r-journal": {
+      "count": 1
+    }
+  },
+  "mentionsFound": [
+    {
+      "journalId": "the-r-journal",
+      "journalTitle": "The R Journal",
+      "articleTitle": "reclin2: a Toolkit for Record Linkage and Deduplication",
+      "publicationYear": 2022,
+      "doi": "10.32614/rj-2022-038"
+    }
+  ],
+  "followers": null,
+  "watchers": 53,
+  "subscriptions": 3,
+  "collaborators": null,
+  "issues": 3,
+  "releases": null,
+  "pull_requests": null,
+  "awesome_metric": 2.4,
+  "awesome_metric_breakdown": {
+    "maturity": 1.8042440335726506,
+    "documentation": 4.590273420907694,
+    "use": 1.9938840911609663,
+    "community": 1.3373129797452172
+  },
+  "awesome_metric_method": "See metrics.md in this repo; metrics calculation is still experimental and subject to change."
+}

@@ -1,0 +1,40 @@
+{
+  "watchers_count": 186,
+  "has_wiki": false,
+  "has_discussions": true,
+  "forks_count": 31,
+  "forks": 31,
+  "open_issues_count": 8,
+  "downloadsPer30Days": 1461,
+  "downloadsUnavailableReason": null,
+  "VignetteBuilder": "knitr",
+  "vignetteCount": 1,
+  "vignettes": [
+    {
+      "title": "censusapi",
+      "url": "https://cran.r-project.org/web/packages/censusapi/vignettes/censusapi.html",
+      "wordCount": 28
+    }
+  ],
+  "vignetteWordCount": 28,
+  "used_in": 0,
+  "used_in_scope": "CRAN packages in metadata list",
+  "mentions": 0,
+  "mentionsByJournal": {},
+  "mentionsFound": [],
+  "followers": null,
+  "watchers": 186,
+  "subscriptions": 21,
+  "collaborators": null,
+  "issues": 8,
+  "releases": null,
+  "pull_requests": null,
+  "awesome_metric": 1.7,
+  "awesome_metric_breakdown": {
+    "maturity": 0,
+    "documentation": 2.1225861808541073,
+    "use": 1.5824723117998076,
+    "community": 3.2381694977751647
+  },
+  "awesome_metric_method": "See metrics.md in this repo; metrics calculation is still experimental and subject to change."
+}

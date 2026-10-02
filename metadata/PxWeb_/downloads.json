@@ -1,0 +1,19 @@
+{
+  "platform": "GitHub",
+  "metric": "downloadsPer30Days",
+  "downloadsPer30Days": 0,
+  "method": "release asset download-count snapshot delta",
+  "cumulativeReleaseAssetDownloads": 413,
+  "rateBasisDays": 1,
+  "snapshots": [
+    {
+      "observedAt": "2026-10-01T14:17:25.265Z",
+      "cumulativeDownloads": 413
+    },
+    {
+      "observedAt": "2026-10-02T11:21:45.349Z",
+      "cumulativeDownloads": 413
+    }
+  ],
+  "source": "https://api.github.com/repos/statisticssweden/PxWeb/releases"
+}

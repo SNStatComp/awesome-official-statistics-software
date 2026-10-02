@@ -1,0 +1,251 @@
+{
+  "package": "validate",
+  "mentions": 21,
+  "mentionsByJournal": {
+    "statistical-journal-of-the-iaos": {
+      "count": 8
+    },
+    "journal-of-official-statistics": {
+      "count": 2
+    },
+    "statistics-in-transition-new-series": {
+      "count": 5
+    },
+    "journal-of-survey-statistics-and-methodology": {
+      "count": 3
+    },
+    "international-statistical-review": {
+      "count": 3
+    }
+  },
+  "mentionsFound": [
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "Using cartoon videos to survey children and adolescents in the global south: A Tanzanian example",
+      "publicationYear": 2020,
+      "doi": "10.3233/sji-200698"
+    },
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "Identifying spatially differentiated pathways for rural transformation in Pakistan",
+      "publicationYear": 2024,
+      "doi": "10.3233/sji-230082"
+    },
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "Nowcasting industrial production index with high-frequency toll data",
+      "publicationYear": 2025,
+      "doi": "10.1177/18747655241307540"
+    },
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "Building estimates for totals in respondent driven sampling",
+      "publicationYear": 2025,
+      "doi": "10.1177/18747655251325424"
+    },
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "Computation strategy for population mean in stratified random sampling: A problem of budget constraint",
+      "publicationYear": 2025,
+      "doi": "10.1177/18747655251335756"
+    },
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "AI integration in higher education: Exploring practical implications and perspectives",
+      "publicationYear": 2025,
+      "doi": "10.1177/18747655251342648"
+    },
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "Beyond methodology: A thick description of public trust in official statistics in a low-income data ecosystem — evidence from Uganda during the COVID-19 pandemic",
+      "publicationYear": 2026,
+      "doi": "10.1177/18747655261468481"
+    },
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "Weightflow: Reproducible, recipe-aware survey weighting for official statistics in R",
+      "publicationYear": 2026,
+      "doi": "10.1177/18747655261484262"
+    },
+    {
+      "journalId": "journal-of-official-statistics",
+      "journalTitle": "Journal of Official Statistics",
+      "articleTitle": "Synthetic Census Microdata Generation: A Comparative Study of Synthesis Methods Examining the Trade-Off Between Disclosure Risk and Utility",
+      "publicationYear": 2024,
+      "doi": "10.1177/0282423x241266523"
+    },
+    {
+      "journalId": "journal-of-official-statistics",
+      "journalTitle": "Journal of Official Statistics",
+      "articleTitle": "How Does Noise Protection Affect the Accuracy of Life Expectancy and Other Demographic Indicators?",
+      "publicationYear": 2026,
+      "doi": "10.1177/0282423x251414001"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "Proposal of a causal model measuring the impact of an ISO 9001 certified Quality Management System on financial performance of Moroccan service-based companies",
+      "publicationYear": 2023,
+      "doi": "10.59170/stattrans-2023-026"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "Modeling the impact of an ISO 9001 certified quality management system on the organizational performance of Moroccan services firms",
+      "publicationYear": 2024,
+      "doi": "10.59170/stattrans-2024-015"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "Combined effect of fault detection and fault introduction rate on software reliability modeling",
+      "publicationYear": 2009,
+      "doi": "10.59170/stattrans-2009-034"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "A comprehensive exploration of complete cross-validation for circular data",
+      "publicationYear": 2024,
+      "doi": "10.59170/stattrans-2024-024"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "Kumaraswamy family of generalized Type II Exponentiated Half Logistic-G distribution: properties and statistical inference",
+      "publicationYear": 2026,
+      "doi": "10.59139/stattrans-2026-030"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Empirical Best Prediction of Small Area Means Based on a Unit-Level Gamma-Poisson Model",
+      "publicationYear": 2022,
+      "doi": "10.1093/jssam/smac026"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Constructing State and National Estimates of Vaccination Rates from Immunization Information Systems",
+      "publicationYear": 2023,
+      "doi": "10.1093/jssam/smac042"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Who are We Missing? Using Administrative and Contextual Data to Measure and Correct Partisan Nonresponse in Opinion Surveys",
+      "publicationYear": 2026,
+      "doi": "10.1093/jssam/smag017"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Anomalies in the Foundations of Ridge Regression",
+      "publicationYear": 2008,
+      "doi": "10.1111/j.1751-5823.2007.00041.x"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Should We Condition on the Number of Points When Modelling Spatial Point Patterns?",
+      "publicationYear": 2022,
+      "doi": "10.1111/insr.12501"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Validating an Index of Selection Bias for Proportions in Non‐Probability Samples",
+      "publicationYear": 2024,
+      "doi": "10.1111/insr.12590"
+    }
+  ],
+  "method": "Crossref indexed article titles and abstracts; exact normalized package-name phrase; each matching journal article counted equally",
+  "coverage": {
+    "searched": [
+      {
+        "id": "statistical-journal-of-the-iaos",
+        "title": "Statistical Journal of the IAOS",
+        "issn": "1874-7655",
+        "articleCount": 1479
+      },
+      {
+        "id": "journal-of-official-statistics",
+        "title": "Journal of Official Statistics",
+        "issn": "0282-423X",
+        "articleCount": 173
+      },
+      {
+        "id": "statistics-in-transition-new-series",
+        "title": "Statistics in Transition new series",
+        "issn": "1234-7655",
+        "articleCount": 563
+      },
+      {
+        "id": "journal-of-survey-statistics-and-methodology",
+        "title": "Journal of Survey Statistics and Methodology",
+        "issn": "2325-0984",
+        "articleCount": 619
+      },
+      {
+        "id": "international-statistical-review",
+        "title": "International Statistical Review",
+        "issn": "0306-7734",
+        "articleCount": 2935
+      },
+      {
+        "id": "statistical-methods-and-applications",
+        "title": "Statistical Methods & Applications",
+        "issn": "2287-7843",
+        "articleCount": 1198
+      },
+      {
+        "id": "the-r-journal",
+        "title": "The R Journal",
+        "issn": "2073-4859",
+        "articleCount": 856
+      },
+      {
+        "id": "journal-of-statistical-software",
+        "title": "Journal of Statistical Software",
+        "issn": "1548-7660",
+        "articleCount": 1641
+      },
+      {
+        "id": "journal-of-computational-and-graphical-statistics",
+        "title": "Journal of Computational and Graphical Statistics",
+        "issn": "1061-8600",
+        "articleCount": 2525
+      }
+    ],
+    "unavailable": [
+      {
+        "id": "survey-methodology",
+        "title": "Survey Methodology",
+        "reason": "No Crossref-indexed works were found for this journal's ISSN."
+      },
+      {
+        "id": "survey-research-methods",
+        "title": "Survey Research Methods",
+        "reason": "No Crossref-indexed works were found for this journal."
+      }
+    ]
+  },
+  "discoverySources": [
+    {
+      "id": "google-scholar",
+      "title": "Google Scholar",
+      "searchUrl": "https://scholar.google.com/scholar?q=%22validate%22",
+      "automatedCountsSupported": false,
+      "reason": "Google Scholar has no official public search API; automated scraping is unreliable and is not included in the automated mention count."
+    }
+  ],
+  "searchedAt": "2026-10-02T11:23:01.554Z"
+}

@@ -1,0 +1,70 @@
+{
+  "watchers_count": null,
+  "has_wiki": null,
+  "has_discussions": null,
+  "forks_count": null,
+  "forks": null,
+  "open_issues_count": null,
+  "downloadsPer30Days": 2198,
+  "downloadsUnavailableReason": null,
+  "VignetteBuilder": null,
+  "vignetteCount": 0,
+  "vignettes": [],
+  "vignetteWordCount": 0,
+  "used_in": 0,
+  "used_in_scope": "CRAN packages in metadata list",
+  "mentions": 4,
+  "mentionsByJournal": {
+    "journal-of-survey-statistics-and-methodology": {
+      "count": 1
+    },
+    "international-statistical-review": {
+      "count": 3
+    }
+  },
+  "mentionsFound": [
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Re-Examining the Middle Means Typical and the Left and Top Means First Heuristics Using Eye-Tracking Methodology",
+      "publicationYear": 2019,
+      "doi": "10.1093/jssam/smz028"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Parametric and Nonparametric Regression in the Presence of Endogenous Control Variables",
+      "publicationYear": 2008,
+      "doi": "10.1111/j.1751-5823.2008.00045.x"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Geostatistical Methods for Disease Mapping and Visualisation Using Data from Spatio‐temporally Referenced Prevalence Surveys",
+      "publicationYear": 2018,
+      "doi": "10.1111/insr.12268"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Discussion",
+      "publicationYear": 2020,
+      "doi": "10.1111/insr.12392"
+    }
+  ],
+  "followers": null,
+  "watchers": null,
+  "subscriptions": null,
+  "collaborators": null,
+  "issues": null,
+  "releases": null,
+  "pull_requests": null,
+  "awesome_metric": 1,
+  "awesome_metric_breakdown": {
+    "maturity": 0,
+    "documentation": 0,
+    "use": 2.9926960302275596,
+    "community": null
+  },
+  "awesome_metric_method": "See metrics.md in this repo; metrics calculation is still experimental and subject to change."
+}

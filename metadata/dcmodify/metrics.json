@@ -1,0 +1,40 @@
+{
+  "watchers_count": 11,
+  "has_wiki": true,
+  "has_discussions": false,
+  "forks_count": 3,
+  "forks": 3,
+  "open_issues_count": 9,
+  "downloadsPer30Days": 392,
+  "downloadsUnavailableReason": null,
+  "VignetteBuilder": "simplermarkdown",
+  "vignetteCount": 1,
+  "vignettes": [
+    {
+      "title": "Introduction to dcmodify",
+      "url": "https://cran.r-project.org/web/packages/dcmodify/vignettes/introduction.html",
+      "wordCount": 733
+    }
+  ],
+  "vignetteWordCount": 733,
+  "used_in": 0,
+  "used_in_scope": "CRAN packages in metadata list",
+  "mentions": 0,
+  "mentionsByJournal": {},
+  "mentionsFound": [],
+  "followers": null,
+  "watchers": 11,
+  "subscriptions": 4,
+  "collaborators": null,
+  "issues": 9,
+  "releases": null,
+  "pull_requests": null,
+  "awesome_metric": 1.6,
+  "awesome_metric_breakdown": {
+    "maturity": 0,
+    "documentation": 3.745884868333275,
+    "use": 1.297195148463957,
+    "community": 1.3145519044910432
+  },
+  "awesome_metric_method": "See metrics.md in this repo; metrics calculation is still experimental and subject to change."
+}

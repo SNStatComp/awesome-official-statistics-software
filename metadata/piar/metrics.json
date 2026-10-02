@@ -1,0 +1,100 @@
+{
+  "watchers_count": 5,
+  "has_wiki": true,
+  "has_discussions": false,
+  "forks_count": 0,
+  "forks": 0,
+  "open_issues_count": 3,
+  "downloadsPer30Days": 369,
+  "downloadsUnavailableReason": null,
+  "VignetteBuilder": "litedown",
+  "vignetteCount": 13,
+  "vignettes": [
+    {
+      "title": "Adjusting annual weights",
+      "url": "https://cran.r-project.org/web/packages/piar/vignettes/adjust-weights.html",
+      "wordCount": 189
+    },
+    {
+      "title": "Contributions",
+      "url": "https://cran.r-project.org/web/packages/piar/vignettes/contributions.html",
+      "wordCount": 387
+    },
+    {
+      "title": "Decomposing price indexes",
+      "url": "https://cran.r-project.org/web/packages/piar/vignettes/decomposing-indexes.html",
+      "wordCount": 4338
+    },
+    {
+      "title": "Imputation",
+      "url": "https://cran.r-project.org/web/packages/piar/vignettes/imputation.html",
+      "wordCount": 261
+    },
+    {
+      "title": "Index-number formulas",
+      "url": "https://cran.r-project.org/web/packages/piar/vignettes/index-number-formulas.html",
+      "wordCount": 662
+    },
+    {
+      "title": "Matrix aggregation",
+      "url": "https://cran.r-project.org/web/packages/piar/vignettes/matrix-aggregation.html",
+      "wordCount": 378
+    },
+    {
+      "title": "Aggregating across baskets",
+      "url": "https://cran.r-project.org/web/packages/piar/vignettes/multiple-baskets.html",
+      "wordCount": 272
+    },
+    {
+      "title": "Multiple sources of data",
+      "url": "https://cran.r-project.org/web/packages/piar/vignettes/multiple-data-sources.html",
+      "wordCount": 209
+    },
+    {
+      "title": "Aggregating across dimensions",
+      "url": "https://cran.r-project.org/web/packages/piar/vignettes/multiple-dimensions.html",
+      "wordCount": 254
+    },
+    {
+      "title": "Making price indexes",
+      "url": "https://cran.r-project.org/web/packages/piar/vignettes/piar.html",
+      "wordCount": 1080
+    },
+    {
+      "title": "Spatial price indexes",
+      "url": "https://cran.r-project.org/web/packages/piar/vignettes/spatial-price-index.html",
+      "wordCount": 269
+    },
+    {
+      "title": "Aggregating over subperiods",
+      "url": "https://cran.r-project.org/web/packages/piar/vignettes/subperiods.html",
+      "wordCount": 199
+    },
+    {
+      "title": "Superlative aggregation",
+      "url": "https://cran.r-project.org/web/packages/piar/vignettes/superlative-aggregation.html",
+      "wordCount": 406
+    }
+  ],
+  "vignetteWordCount": 8904,
+  "used_in": 0,
+  "used_in_scope": "CRAN packages in metadata list",
+  "mentions": 0,
+  "mentionsByJournal": {},
+  "mentionsFound": [],
+  "followers": null,
+  "watchers": 5,
+  "subscriptions": 1,
+  "collaborators": null,
+  "issues": 3,
+  "releases": null,
+  "pull_requests": null,
+  "awesome_metric": 1.7,
+  "awesome_metric_breakdown": {
+    "maturity": 0,
+    "documentation": 4.8006628632110795,
+    "use": 1.284099746684206,
+    "community": 0.6600560061850431
+  },
+  "awesome_metric_method": "See metrics.md in this repo; metrics calculation is still experimental and subject to change."
+}

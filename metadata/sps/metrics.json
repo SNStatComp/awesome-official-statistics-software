@@ -1,0 +1,50 @@
+{
+  "watchers_count": null,
+  "has_wiki": null,
+  "has_discussions": null,
+  "forks_count": null,
+  "forks": null,
+  "open_issues_count": null,
+  "downloadsPer30Days": 497,
+  "downloadsUnavailableReason": null,
+  "VignetteBuilder": "litedown",
+  "vignetteCount": 3,
+  "vignettes": [
+    {
+      "title": "Performance",
+      "url": "https://cran.r-project.org/web/packages/sps/vignettes/performance.html",
+      "wordCount": 300
+    },
+    {
+      "title": "Drawing a Sequential Poisson Sample",
+      "url": "https://cran.r-project.org/web/packages/sps/vignettes/sps.html",
+      "wordCount": 1069
+    },
+    {
+      "title": "Take-all units",
+      "url": "https://cran.r-project.org/web/packages/sps/vignettes/take-all.html",
+      "wordCount": 816
+    }
+  ],
+  "vignetteWordCount": 2185,
+  "used_in": 1,
+  "used_in_scope": "CRAN packages in metadata list",
+  "mentions": 0,
+  "mentionsByJournal": {},
+  "mentionsFound": [],
+  "followers": null,
+  "watchers": null,
+  "subscriptions": null,
+  "collaborators": null,
+  "issues": null,
+  "releases": null,
+  "pull_requests": null,
+  "awesome_metric": 2.2,
+  "awesome_metric_breakdown": {
+    "maturity": 1.138351243484765,
+    "documentation": 4.14070652809544,
+    "use": 1.348613499994913,
+    "community": null
+  },
+  "awesome_metric_method": "See metrics.md in this repo; metrics calculation is still experimental and subject to change."
+}

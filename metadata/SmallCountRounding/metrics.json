@@ -1,0 +1,40 @@
+{
+  "watchers_count": 3,
+  "has_wiki": true,
+  "has_discussions": false,
+  "forks_count": 1,
+  "forks": 1,
+  "open_issues_count": 0,
+  "downloadsPer30Days": 372,
+  "downloadsUnavailableReason": null,
+  "VignetteBuilder": "knitr",
+  "vignetteCount": 1,
+  "vignettes": [
+    {
+      "title": "Introduction to SmallCountRounding",
+      "url": "https://cran.r-project.org/web/packages/SmallCountRounding/vignettes/Introduction_to_SmallCountRounding.html",
+      "wordCount": 1151
+    }
+  ],
+  "vignetteWordCount": 1151,
+  "used_in": 0,
+  "used_in_scope": "CRAN packages in metadata list",
+  "mentions": 0,
+  "mentionsByJournal": {},
+  "mentionsFound": [],
+  "followers": null,
+  "watchers": 3,
+  "subscriptions": 4,
+  "collaborators": null,
+  "issues": 0,
+  "releases": null,
+  "pull_requests": null,
+  "awesome_metric": 1.4,
+  "awesome_metric_breakdown": {
+    "maturity": 0,
+    "documentation": 3.797959061493039,
+    "use": 1.2858532990319436,
+    "community": 0.5451132168063307
+  },
+  "awesome_metric_method": "See metrics.md in this repo; metrics calculation is still experimental and subject to change."
+}

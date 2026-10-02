@@ -1,0 +1,45 @@
+{
+  "watchers_count": 36,
+  "has_wiki": true,
+  "has_discussions": false,
+  "forks_count": 6,
+  "forks": 6,
+  "open_issues_count": 6,
+  "downloadsPer30Days": 522,
+  "downloadsUnavailableReason": null,
+  "VignetteBuilder": "quarto",
+  "vignetteCount": 2,
+  "vignettes": [
+    {
+      "title": "Additional Parameters for API Calls with {restatis}",
+      "url": "https://cran.r-project.org/web/packages/restatis/vignettes/additional_parameter.html",
+      "wordCount": 1376
+    },
+    {
+      "title": "Basic restatis workflow",
+      "url": "https://cran.r-project.org/web/packages/restatis/vignettes/restatis.html",
+      "wordCount": 841
+    }
+  ],
+  "vignetteWordCount": 2217,
+  "used_in": 0,
+  "used_in_scope": "CRAN packages in metadata list",
+  "mentions": 0,
+  "mentionsByJournal": {},
+  "mentionsFound": [],
+  "followers": null,
+  "watchers": 36,
+  "subscriptions": 8,
+  "collaborators": null,
+  "issues": 6,
+  "releases": null,
+  "pull_requests": null,
+  "awesome_metric": 1.8,
+  "awesome_metric_breakdown": {
+    "maturity": 0,
+    "documentation": 4.156510793399799,
+    "use": 1.3592496638102833,
+    "community": 1.575349181790897
+  },
+  "awesome_metric_method": "See metrics.md in this repo; metrics calculation is still experimental and subject to change."
+}

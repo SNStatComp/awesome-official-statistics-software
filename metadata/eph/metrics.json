@@ -1,0 +1,45 @@
+{
+  "watchers_count": 66,
+  "has_wiki": false,
+  "has_discussions": false,
+  "forks_count": 18,
+  "forks": 18,
+  "open_issues_count": 6,
+  "downloadsPer30Days": 946,
+  "downloadsUnavailableReason": null,
+  "VignetteBuilder": "knitr",
+  "vignetteCount": 2,
+  "vignettes": [
+    {
+      "title": "Ejemplo de uso del paquete 'eph'",
+      "url": "https://cran.r-project.org/web/packages/eph/vignettes/eph.html",
+      "wordCount": 909
+    },
+    {
+      "title": "Estimación de Pobreza e Indigencia",
+      "url": "https://cran.r-project.org/web/packages/eph/vignettes/estimacion_pobreza.html",
+      "wordCount": 958
+    }
+  ],
+  "vignetteWordCount": 1867,
+  "used_in": 0,
+  "used_in_scope": "CRAN packages in metadata list",
+  "mentions": 0,
+  "mentionsByJournal": {},
+  "mentionsFound": [],
+  "followers": null,
+  "watchers": 66,
+  "subscriptions": 11,
+  "collaborators": null,
+  "issues": 6,
+  "releases": null,
+  "pull_requests": null,
+  "awesome_metric": 1.6,
+  "awesome_metric_breakdown": {
+    "maturity": 0,
+    "documentation": 2.8866701336422897,
+    "use": 1.4881736968968504,
+    "community": 1.8635574839396734
+  },
+  "awesome_metric_method": "See metrics.md in this repo; metrics calculation is still experimental and subject to change."
+}

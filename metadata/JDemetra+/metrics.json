@@ -1,0 +1,70 @@
+{
+  "watchers_count": 21,
+  "has_wiki": true,
+  "has_discussions": false,
+  "forks_count": 12,
+  "forks": 12,
+  "open_issues_count": 130,
+  "downloadsPer30Days": 360,
+  "downloadsUnavailableReason": null,
+  "VignetteBuilder": null,
+  "vignetteCount": null,
+  "vignettes": null,
+  "vignetteWordCount": null,
+  "used_in": null,
+  "used_in_scope": null,
+  "mentions": 4,
+  "mentionsByJournal": {
+    "statistical-journal-of-the-iaos": {
+      "count": 3
+    },
+    "journal-of-official-statistics": {
+      "count": 1
+    }
+  },
+  "mentionsFound": [
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "Fixing the model for the seasonal component: A new revision policy",
+      "publicationYear": 2021,
+      "doi": "10.3233/sji-210817"
+    },
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "RJDemetra, a promising tool for the seasonal adjustment of official statistics",
+      "publicationYear": 2023,
+      "doi": "10.3233/sji-230047"
+    },
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "Seasonal adjustment strategies for official statistics in an era of unpredictable events",
+      "publicationYear": 2025,
+      "doi": "10.1177/18747655251388902"
+    },
+    {
+      "journalId": "journal-of-official-statistics",
+      "journalTitle": "Journal of Official Statistics",
+      "articleTitle": "Seasonal Adjustment of Infra-Monthly Time Series with JDemetra+",
+      "publicationYear": 2024,
+      "doi": "10.1177/0282423x241277602"
+    }
+  ],
+  "followers": null,
+  "watchers": 21,
+  "subscriptions": 6,
+  "collaborators": null,
+  "issues": 130,
+  "releases": null,
+  "pull_requests": null,
+  "awesome_metric": 3.2,
+  "awesome_metric_breakdown": {
+    "maturity": null,
+    "documentation": 5,
+    "use": 2.600337357296702,
+    "community": 2.1416644925748454
+  },
+  "awesome_metric_method": "See metrics.md in this repo; metrics calculation is still experimental and subject to change."
+}

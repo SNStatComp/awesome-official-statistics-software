@@ -1,0 +1,77 @@
+{
+  "watchers_count": null,
+  "has_wiki": null,
+  "has_discussions": null,
+  "forks_count": null,
+  "forks": null,
+  "open_issues_count": null,
+  "downloadsPer30Days": 794,
+  "downloadsUnavailableReason": null,
+  "VignetteBuilder": "knitr",
+  "vignetteCount": 6,
+  "vignettes": [
+    {
+      "title": "Design Effects and Effective Sample Size",
+      "url": "https://cran.r-project.org/web/packages/PracTools/vignettes/Design-effects.html",
+      "wordCount": 3630
+    },
+    {
+      "title": "Creating Geography-Based PSUs with as Similarly-Sized MOS as Possible",
+      "url": "https://cran.r-project.org/web/packages/PracTools/vignettes/Distance-and-MOS-PSUs.html",
+      "wordCount": 2815
+    },
+    {
+      "title": "Deciding When to Stop: The SampStop function",
+      "url": "https://cran.r-project.org/web/packages/PracTools/vignettes/SampStop.html",
+      "wordCount": 1560
+    },
+    {
+      "title": "Selection of Appropriate PracTools Sample Size Function",
+      "url": "https://cran.r-project.org/web/packages/PracTools/vignettes/Select-samsize-fcns.html",
+      "wordCount": 1092
+    },
+    {
+      "title": "Sample Size Calculation in Single-stage Sampling",
+      "url": "https://cran.r-project.org/web/packages/PracTools/vignettes/Singlestage-samsize.html",
+      "wordCount": 2848
+    },
+    {
+      "title": "Variance Component Estimation in Multistage Sampling",
+      "url": "https://cran.r-project.org/web/packages/PracTools/vignettes/Varcomps-multistage.html",
+      "wordCount": 4280
+    }
+  ],
+  "vignetteWordCount": 16225,
+  "used_in": 0,
+  "used_in_scope": "CRAN packages in metadata list",
+  "mentions": 1,
+  "mentionsByJournal": {
+    "the-r-journal": {
+      "count": 1
+    }
+  },
+  "mentionsFound": [
+    {
+      "journalId": "the-r-journal",
+      "journalTitle": "The R Journal",
+      "articleTitle": "PracTools: Computations for Design of Finite Population Samples",
+      "publicationYear": 2015,
+      "doi": "10.32614/rj-2015-028"
+    }
+  ],
+  "followers": null,
+  "watchers": null,
+  "subscriptions": null,
+  "collaborators": null,
+  "issues": null,
+  "releases": null,
+  "pull_requests": null,
+  "awesome_metric": 2.3,
+  "awesome_metric_breakdown": {
+    "maturity": 0,
+    "documentation": 4.826640620325049,
+    "use": 2.0193579264645702,
+    "community": null
+  },
+  "awesome_metric_method": "See metrics.md in this repo; metrics calculation is still experimental and subject to change."
+}

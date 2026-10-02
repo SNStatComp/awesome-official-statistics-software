@@ -1,0 +1,45 @@
+{
+  "watchers_count": 37,
+  "has_wiki": true,
+  "has_discussions": false,
+  "forks_count": 13,
+  "forks": 13,
+  "open_issues_count": 10,
+  "downloadsPer30Days": 893,
+  "downloadsUnavailableReason": null,
+  "VignetteBuilder": "knitr",
+  "vignetteCount": 2,
+  "vignettes": [
+    {
+      "title": "cbsodataR, all data of Statistics Netherlands (CBS)",
+      "url": "https://cran.r-project.org/web/packages/cbsodataR/vignettes/cbsodata.html",
+      "wordCount": 516
+    },
+    {
+      "title": "Cartographic map material from Statistics Netherlands/CBS",
+      "url": "https://cran.r-project.org/web/packages/cbsodataR/vignettes/maps.html",
+      "wordCount": 597
+    }
+  ],
+  "vignetteWordCount": 1113,
+  "used_in": 0,
+  "used_in_scope": "CRAN packages in metadata list",
+  "mentions": 0,
+  "mentionsByJournal": {},
+  "mentionsFound": [],
+  "followers": null,
+  "watchers": 37,
+  "subscriptions": 8,
+  "collaborators": null,
+  "issues": 10,
+  "releases": null,
+  "pull_requests": null,
+  "awesome_metric": 1.8,
+  "awesome_metric_breakdown": {
+    "maturity": 0,
+    "documentation": 4.076951922553282,
+    "use": 1.4756674776558822,
+    "community": 1.7886442538746463
+  },
+  "awesome_metric_method": "See metrics.md in this repo; metrics calculation is still experimental and subject to change."
+}

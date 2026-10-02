@@ -1,0 +1,70 @@
+{
+  "watchers_count": 48,
+  "has_wiki": false,
+  "has_discussions": false,
+  "forks_count": 26,
+  "forks": 26,
+  "open_issues_count": 31,
+  "downloadsPer30Days": 0,
+  "downloadsUnavailableReason": null,
+  "VignetteBuilder": null,
+  "vignetteCount": null,
+  "vignettes": null,
+  "vignetteWordCount": null,
+  "used_in": null,
+  "used_in_scope": null,
+  "mentions": 4,
+  "mentionsByJournal": {
+    "statistical-journal-of-the-iaos": {
+      "count": 3
+    },
+    "statistics-in-transition-new-series": {
+      "count": 1
+    }
+  },
+  "mentionsFound": [
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "Collecting and managing fuzzy data in statistical relational databases",
+      "publicationYear": 2016,
+      "doi": "10.3233/sji-160956"
+    },
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "The role of Statistical Data and Metadata Exchange in global statistical infrastructure",
+      "publicationYear": 2008,
+      "doi": "10.3233/sji-2008-00683"
+    },
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "Verifiable official statistics: A blockchain-based approach",
+      "publicationYear": 2026,
+      "doi": "10.1177/18747655261472240"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "Statistical information system of the Republic of Belarus: experience and perspectives",
+      "publicationYear": 2011,
+      "doi": "10.59170/stattrans-2011-032"
+    }
+  ],
+  "followers": null,
+  "watchers": 48,
+  "subscriptions": 6,
+  "collaborators": null,
+  "issues": 31,
+  "releases": null,
+  "pull_requests": null,
+  "awesome_metric": 1.1,
+  "awesome_metric_breakdown": {
+    "maturity": null,
+    "documentation": 0,
+    "use": 1.32158486704862,
+    "community": 2.126094785770638
+  },
+  "awesome_metric_method": "See metrics.md in this repo; metrics calculation is still experimental and subject to change."
+}

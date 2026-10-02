@@ -1,0 +1,40 @@
+{
+  "watchers_count": 21,
+  "has_wiki": true,
+  "has_discussions": false,
+  "forks_count": 11,
+  "forks": 11,
+  "open_issues_count": 4,
+  "downloadsPer30Days": 486,
+  "downloadsUnavailableReason": null,
+  "VignetteBuilder": null,
+  "vignetteCount": 1,
+  "vignettes": [
+    {
+      "title": "Distribution based outlier detection in univariate data",
+      "url": "https://cran.r-project.org/web/packages/extremevalues/vignettes/SN201003.pdf",
+      "wordCount": 4276
+    }
+  ],
+  "vignetteWordCount": 4276,
+  "used_in": 0,
+  "used_in_scope": "CRAN packages in metadata list",
+  "mentions": 0,
+  "mentionsByJournal": {},
+  "mentionsFound": [],
+  "followers": null,
+  "watchers": 21,
+  "subscriptions": 1,
+  "collaborators": null,
+  "issues": 4,
+  "releases": null,
+  "pull_requests": null,
+  "awesome_metric": 1.6,
+  "awesome_metric_breakdown": {
+    "maturity": 0,
+    "documentation": 3.599339241917745,
+    "use": 1.343763313435169,
+    "community": 1.2961905894157937
+  },
+  "awesome_metric_method": "See metrics.md in this repo; metrics calculation is still experimental and subject to change."
+}

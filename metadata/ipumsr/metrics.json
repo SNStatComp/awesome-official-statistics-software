@@ -1,0 +1,70 @@
+{
+  "watchers_count": 43,
+  "has_wiki": true,
+  "has_discussions": false,
+  "forks_count": 10,
+  "forks": 10,
+  "open_issues_count": 3,
+  "downloadsPer30Days": 3683,
+  "downloadsUnavailableReason": null,
+  "VignetteBuilder": "knitr",
+  "vignetteCount": 7,
+  "vignettes": [
+    {
+      "title": "Aggregate Data API Requests",
+      "url": "https://cran.r-project.org/web/packages/ipumsr/vignettes/ipums-api-agg.html",
+      "wordCount": 1453
+    },
+    {
+      "title": "Microdata API Requests",
+      "url": "https://cran.r-project.org/web/packages/ipumsr/vignettes/ipums-api-micro.html",
+      "wordCount": 2084
+    },
+    {
+      "title": "Introduction to the IPUMS API for R Users",
+      "url": "https://cran.r-project.org/web/packages/ipumsr/vignettes/ipums-api.html",
+      "wordCount": 2134
+    },
+    {
+      "title": "Big IPUMS Data",
+      "url": "https://cran.r-project.org/web/packages/ipumsr/vignettes/ipums-bigdata.html",
+      "wordCount": 2292
+    },
+    {
+      "title": "Reading IPUMS Data",
+      "url": "https://cran.r-project.org/web/packages/ipumsr/vignettes/ipums-read.html",
+      "wordCount": 1422
+    },
+    {
+      "title": "IPUMS Data and R",
+      "url": "https://cran.r-project.org/web/packages/ipumsr/vignettes/ipums.html",
+      "wordCount": 1111
+    },
+    {
+      "title": "Value Labels in IPUMS data",
+      "url": "https://cran.r-project.org/web/packages/ipumsr/vignettes/value-labels.html",
+      "wordCount": 1804
+    }
+  ],
+  "vignetteWordCount": 12300,
+  "used_in": 0,
+  "used_in_scope": "CRAN packages in metadata list",
+  "mentions": 0,
+  "mentionsByJournal": {},
+  "mentionsFound": [],
+  "followers": null,
+  "watchers": 43,
+  "subscriptions": 3,
+  "collaborators": null,
+  "issues": 3,
+  "releases": null,
+  "pull_requests": null,
+  "awesome_metric": 2,
+  "awesome_metric_breakdown": {
+    "maturity": 0,
+    "documentation": 4.837986530743829,
+    "use": 1.7831582619385624,
+    "community": 1.4345010788948787
+  },
+  "awesome_metric_method": "See metrics.md in this repo; metrics calculation is still experimental and subject to change."
+}

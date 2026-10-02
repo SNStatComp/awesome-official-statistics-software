@@ -1,0 +1,6 @@
+{
+  "platform": "GitHub",
+  "metric": "downloadsPer30Days",
+  "downloadsPer30Days": null,
+  "unavailableReason": "GitHub downloads require a repository URL"
+}

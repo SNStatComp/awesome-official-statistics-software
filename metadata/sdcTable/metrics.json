@@ -1,0 +1,40 @@
+{
+  "watchers_count": 7,
+  "has_wiki": true,
+  "has_discussions": false,
+  "forks_count": 7,
+  "forks": 7,
+  "open_issues_count": 0,
+  "downloadsPer30Days": 1058,
+  "downloadsUnavailableReason": null,
+  "VignetteBuilder": "knitr",
+  "vignetteCount": 1,
+  "vignettes": [
+    {
+      "title": "sdcTable2",
+      "url": "https://cran.r-project.org/web/packages/sdcTable/vignettes/sdcTable.html",
+      "wordCount": 3700
+    }
+  ],
+  "vignetteWordCount": 3700,
+  "used_in": 1,
+  "used_in_scope": "CRAN packages in metadata list",
+  "mentions": 0,
+  "mentionsByJournal": {},
+  "mentionsFound": [],
+  "followers": null,
+  "watchers": 7,
+  "subscriptions": 9,
+  "collaborators": null,
+  "issues": 0,
+  "releases": null,
+  "pull_requests": null,
+  "awesome_metric": 1.9,
+  "awesome_metric_breakdown": {
+    "maturity": 1.138351243484765,
+    "documentation": 3.932793309377484,
+    "use": 1.512446666365828,
+    "community": 0.9687694314591373
+  },
+  "awesome_metric_method": "See metrics.md in this repo; metrics calculation is still experimental and subject to change."
+}

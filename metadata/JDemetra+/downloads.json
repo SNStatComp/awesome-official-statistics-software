@@ -1,0 +1,19 @@
+{
+  "platform": "GitHub",
+  "metric": "downloadsPer30Days",
+  "downloadsPer30Days": 360,
+  "method": "release asset download-count snapshot delta",
+  "cumulativeReleaseAssetDownloads": 8679,
+  "rateBasisDays": 1,
+  "snapshots": [
+    {
+      "observedAt": "2026-10-01T14:17:12.398Z",
+      "cumulativeDownloads": 8667
+    },
+    {
+      "observedAt": "2026-10-02T11:21:34.045Z",
+      "cumulativeDownloads": 8679
+    }
+  ],
+  "source": "https://api.github.com/repos/jdemetra/jdplus-main/releases"
+}

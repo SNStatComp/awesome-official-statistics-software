@@ -1,0 +1,4190 @@
+{
+  "package": "sampling",
+  "mentions": 582,
+  "mentionsByJournal": {
+    "statistical-journal-of-the-iaos": {
+      "count": 49
+    },
+    "journal-of-official-statistics": {
+      "count": 30
+    },
+    "statistics-in-transition-new-series": {
+      "count": 99
+    },
+    "journal-of-survey-statistics-and-methodology": {
+      "count": 123
+    },
+    "international-statistical-review": {
+      "count": 137
+    },
+    "statistical-methods-and-applications": {
+      "count": 37
+    },
+    "the-r-journal": {
+      "count": 8
+    },
+    "journal-of-statistical-software": {
+      "count": 21
+    },
+    "journal-of-computational-and-graphical-statistics": {
+      "count": 78
+    }
+  },
+  "mentionsFound": [
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "Ranked set sampling: As a cost-effective and more efficient data collection method",
+      "publicationYear": 2016,
+      "doi": "10.3233/sji-160987"
+    },
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "On overall sampling plan for small area estimation",
+      "publicationYear": 2017,
+      "doi": "10.3233/sji-170370"
+    },
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "Alternatives to full listing for second stage sampling: Methods and implications",
+      "publicationYear": 2017,
+      "doi": "10.3233/sji-160341"
+    },
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "Uncertainty and automatic balancing of national accounts with a Swedish application",
+      "publicationYear": 2018,
+      "doi": "10.3233/sji-170357"
+    },
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "Variance reduction using a non-informative sampling design",
+      "publicationYear": 2018,
+      "doi": "10.3233/sji-170358"
+    },
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "The estimated parameter of logistic regression model by Markov Chain Monte Carlo method with multicollinearity",
+      "publicationYear": 2020,
+      "doi": "10.3233/sji-200655"
+    },
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "A pilot project of area sampling frame for maize statistics: Indonesia’s experience1",
+      "publicationYear": 2020,
+      "doi": "10.3233/sji-200743"
+    },
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "Using e-surveys in Malaysia to modernise data collection in short-term economic surveys1",
+      "publicationYear": 2020,
+      "doi": "10.3233/sji-200753"
+    },
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "Adaptive cluster sampling with model based approach for estimating total number of hidden COVID-19 carriers in Nigeria",
+      "publicationYear": 2020,
+      "doi": "10.3233/sji-200718"
+    },
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "The R-package surveysd: Estimating standard errors for complex surveys with a rotating panel design",
+      "publicationYear": 2021,
+      "doi": "10.3233/sji-200709"
+    },
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "Standardized calibration adjustment index (SCAI): A new measure of survey data quality",
+      "publicationYear": 2021,
+      "doi": "10.3233/sji-200719"
+    },
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "Setting up statistical registers of individuals and dwellings in France: Approach and first steps",
+      "publicationYear": 2022,
+      "doi": "10.3233/sji-210916"
+    },
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "Combining farm and household surveys with modelling approaches to improve post-harvest loss estimates and reduce data collection costs",
+      "publicationYear": 2022,
+      "doi": "10.3233/sji-210909"
+    },
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "Integrated sampling design for agricultural and socio-economic households surveys: Overview and application in Uganda Harmonized Integrated Survey",
+      "publicationYear": 2022,
+      "doi": "10.3233/sji-210905"
+    },
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "Alternative methods for disaggregating Sustainable Development Goal indicators using survey data",
+      "publicationYear": 2022,
+      "doi": "10.3233/sji-210901"
+    },
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "Multivariate small area estimation of undernutrition for children under five using official statistics",
+      "publicationYear": 2022,
+      "doi": "10.3233/sji-220935"
+    },
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "Gender-responsive remote data collection, analysis, and use during crisis: UN Women’s Rapid Gender Assessments (RGAs)",
+      "publicationYear": 2022,
+      "doi": "10.3233/sji-220057"
+    },
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "Developing an online shop sampling frame from big data",
+      "publicationYear": 2022,
+      "doi": "10.3233/sji-220929"
+    },
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "Combining quota and probability sub-sampling within enumeration areas to produce more reliable estimates",
+      "publicationYear": 2022,
+      "doi": "10.3233/sji-210874"
+    },
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "Imputation for sub-sampling in Indonesian National Socioeconomic Survey",
+      "publicationYear": 2022,
+      "doi": "10.3233/sji-220085"
+    },
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "Approaches for combining data from multiple probability samples",
+      "publicationYear": 2023,
+      "doi": "10.3233/sji-220063"
+    },
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "Synthetic Minority Over-sampling Technique (SMOTE) for handling imbalanced data in poverty classification",
+      "publicationYear": 2023,
+      "doi": "10.3233/sji-220080"
+    },
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "Adaptation of Statistics Canada and Eurostat methodologies for variance estimation of changes of the main labour force indicators in Iran",
+      "publicationYear": 2023,
+      "doi": "10.3233/sji-220095"
+    },
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "Integration of remote sensing data into national statistical office sampling designs for agriculture",
+      "publicationYear": 2023,
+      "doi": "10.3233/sji-220116"
+    },
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "Unbiased estimation strategies for respondent driven sampling",
+      "publicationYear": 2023,
+      "doi": "10.3233/sji-230087"
+    },
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "Methodological and procedural characteristics of measuring inflation in Kazakhstan: Proposal of a new procedure for calculating inflation at regional level",
+      "publicationYear": 2024,
+      "doi": "10.3233/sji-230071"
+    },
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "A simulation study of sampling in difficult settings: Statistical superiority of a little-used method",
+      "publicationYear": 2024,
+      "doi": "10.3233/sji-230021"
+    },
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "Recent challenges to the ethics underlying official statistics in New Zealand",
+      "publicationYear": 2011,
+      "doi": "10.3233/sji-2011-0725"
+    },
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "Eementary aggregate indices and lower level substitution bias",
+      "publicationYear": 2013,
+      "doi": "10.3233/sji-130758"
+    },
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "Sustaining improved estimates of poverty in Armenia: An application of multivariate raking ratio adjustment",
+      "publicationYear": 2014,
+      "doi": "10.3233/sji-140850"
+    },
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "A historical appraisal of Greek survey sampling practices",
+      "publicationYear": 2013,
+      "doi": "10.3233/sji-130790"
+    },
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "A population census based on registers and a \"10% survey\" methodological challenges and conclusions",
+      "publicationYear": 2014,
+      "doi": "10.3233/sji-140797"
+    },
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "Agricultural Census 2010 in Hungary",
+      "publicationYear": 2014,
+      "doi": "10.3233/sji-140799"
+    },
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "The role of health interview surveys, health examination surveys and disability surveys for measuring the health dimension",
+      "publicationYear": 2014,
+      "doi": "10.3233/sji-140838"
+    },
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "Building a master sampling frame by linking the population and housing census with the agricultural census",
+      "publicationYear": 2014,
+      "doi": "10.3233/sji-140795"
+    },
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "Bayesian small area estimation of anemia prevalence using a generalized linear mixed model",
+      "publicationYear": 2025,
+      "doi": "10.1177/18747655241308394"
+    },
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "Building estimates for totals in respondent driven sampling",
+      "publicationYear": 2025,
+      "doi": "10.1177/18747655251325424"
+    },
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "The simulation-based imputation methods for handling missing data in double sampling scheme",
+      "publicationYear": 2025,
+      "doi": "10.1177/18747655251316445"
+    },
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "Computation strategy for population mean in stratified random sampling: A problem of budget constraint",
+      "publicationYear": 2025,
+      "doi": "10.1177/18747655251335756"
+    },
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "A total data quality paradigm for official statistics based on administrative data",
+      "publicationYear": 2025,
+      "doi": "10.1177/18747655251337671"
+    },
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "Awareness of the significance of statistics and statisticians among workers in the organizations of SNNPR, Ethiopia",
+      "publicationYear": 2025,
+      "doi": "10.1177/18747655251388897"
+    },
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "Evaluating ESCO skill classifiers",
+      "publicationYear": 2025,
+      "doi": "10.1177/18747655251395229"
+    },
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "Modernizing harvested paddy areas estimation through satellite imagery time series and machine learning",
+      "publicationYear": 2026,
+      "doi": "10.1177/18747655261420516"
+    },
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "A data dependent procedure for determining thresholds for minimum inclusion probabilities in an unequal probability sample",
+      "publicationYear": 2026,
+      "doi": "10.1177/18747655261445374"
+    },
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "Redefining non-response in the era of big data: An ethical and technical framework for web data extraction in national statistical offices",
+      "publicationYear": 2026,
+      "doi": "10.1177/18747655261455707"
+    },
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "More with less: Bethel allocation and precision-preserving sample size reduction via hierarchical Bayes modelling*",
+      "publicationYear": 2026,
+      "doi": "10.1177/18747655261472239"
+    },
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "When numbers mislead: Data interpretation in fact-checked misinformation",
+      "publicationYear": 2026,
+      "doi": "10.1177/18747655261480959"
+    },
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "Verify and protect before you trust: A practical protocol for AI and algorithmic adoption in methodology development for national statistical offices",
+      "publicationYear": 2026,
+      "doi": "10.1177/18747655261484908"
+    },
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "Data, data science, and official statistics",
+      "publicationYear": 2026,
+      "doi": "10.1177/18747655261485655"
+    },
+    {
+      "journalId": "journal-of-official-statistics",
+      "journalTitle": "Journal of Official Statistics",
+      "articleTitle": "Sampling Nomads: A New Technique for Remote, Hard-to-Reach, and Mobile Populations",
+      "publicationYear": 2014,
+      "doi": "10.2478/jos-2014-0013"
+    },
+    {
+      "journalId": "journal-of-official-statistics",
+      "journalTitle": "Journal of Official Statistics",
+      "articleTitle": "A Study of Assimilation Bias in Name-Based Sampling of Migrants",
+      "publicationYear": 2014,
+      "doi": "10.2478/jos-2014-0015"
+    },
+    {
+      "journalId": "journal-of-official-statistics",
+      "journalTitle": "Journal of Official Statistics",
+      "articleTitle": "Comparing Survey and Sampling Methods for Reaching Sexual Minority Individuals in Flanders",
+      "publicationYear": 2014,
+      "doi": "10.2478/jos-2014-0016"
+    },
+    {
+      "journalId": "journal-of-official-statistics",
+      "journalTitle": "Journal of Official Statistics",
+      "articleTitle": "Recruiting an Internet Panel Using Respondent-Driven Sampling",
+      "publicationYear": 2014,
+      "doi": "10.2478/jos-2014-0018"
+    },
+    {
+      "journalId": "journal-of-official-statistics",
+      "journalTitle": "Journal of Official Statistics",
+      "articleTitle": "Reaching Hard-to-Survey Populations: Mode Choice and Mode Preference",
+      "publicationYear": 2014,
+      "doi": "10.2478/jos-2014-0021"
+    },
+    {
+      "journalId": "journal-of-official-statistics",
+      "journalTitle": "Journal of Official Statistics",
+      "articleTitle": "Linear Regression Diagnostics in Cluster Samples",
+      "publicationYear": 2015,
+      "doi": "10.1515/jos-2015-0003"
+    },
+    {
+      "journalId": "journal-of-official-statistics",
+      "journalTitle": "Journal of Official Statistics",
+      "articleTitle": "Variance Estimation of Change in Poverty Rates: an Application to the Turkish EU-SILC Survey",
+      "publicationYear": 2015,
+      "doi": "10.1515/jos-2015-0012"
+    },
+    {
+      "journalId": "journal-of-official-statistics",
+      "journalTitle": "Journal of Official Statistics",
+      "articleTitle": "B-Graph Sampling to Estimate the Size of a Hidden Population",
+      "publicationYear": 2015,
+      "doi": "10.1515/jos-2015-0042"
+    },
+    {
+      "journalId": "journal-of-official-statistics",
+      "journalTitle": "Journal of Official Statistics",
+      "articleTitle": "Respondent-Driven Sampling – Testing Assumptions: Sampling with Replacement",
+      "publicationYear": 2016,
+      "doi": "10.1515/jos-2016-0002"
+    },
+    {
+      "journalId": "journal-of-official-statistics",
+      "journalTitle": "Journal of Official Statistics",
+      "articleTitle": "Random Walks on Directed Networks: Inference and Respondent-Driven Sampling",
+      "publicationYear": 2016,
+      "doi": "10.1515/jos-2016-0023"
+    },
+    {
+      "journalId": "journal-of-official-statistics",
+      "journalTitle": "Journal of Official Statistics",
+      "articleTitle": "The Effects of Nonresponse and Sampling Omissions on Estimates on Various Topics in Federal Surveys: Telephone and IVR Surveys of Address-Based Samples",
+      "publicationYear": 2020,
+      "doi": "10.2478/jos-2020-0032"
+    },
+    {
+      "journalId": "journal-of-official-statistics",
+      "journalTitle": "Journal of Official Statistics",
+      "articleTitle": "A Validation of R-Indicators as a Measure of the Risk of Bias using Data from a Nonresponse Follow-Up Survey",
+      "publicationYear": 2020,
+      "doi": "10.2478/jos-2020-0034"
+    },
+    {
+      "journalId": "journal-of-official-statistics",
+      "journalTitle": "Journal of Official Statistics",
+      "articleTitle": "Bayesian Inference for Repeated Measures Under Informative Sampling",
+      "publicationYear": 2024,
+      "doi": "10.1177/0282423x241235252"
+    },
+    {
+      "journalId": "journal-of-official-statistics",
+      "journalTitle": "Journal of Official Statistics",
+      "articleTitle": "Nonresponse Bias of Japanese Wage Statistics",
+      "publicationYear": 2024,
+      "doi": "10.1177/0282423x241235256"
+    },
+    {
+      "journalId": "journal-of-official-statistics",
+      "journalTitle": "Journal of Official Statistics",
+      "articleTitle": "An Application of a Small Area Procedure with Correlation Between Measurement Error and Sampling Error to the Conservation Effects Assessment Project",
+      "publicationYear": 2024,
+      "doi": "10.1177/0282423x241240835"
+    },
+    {
+      "journalId": "journal-of-official-statistics",
+      "journalTitle": "Journal of Official Statistics",
+      "articleTitle": "A New Approach to Composite Estimation for Repeated Surveys with Rotating Panels",
+      "publicationYear": 2024,
+      "doi": "10.1177/0282423x241254193"
+    },
+    {
+      "journalId": "journal-of-official-statistics",
+      "journalTitle": "Journal of Official Statistics",
+      "articleTitle": "Estimation of Discontinuities from the Introduction of Tablet Based Data Collection on the International Passenger Survey",
+      "publicationYear": 2024,
+      "doi": "10.1177/0282423x241275836"
+    },
+    {
+      "journalId": "journal-of-official-statistics",
+      "journalTitle": "Journal of Official Statistics",
+      "articleTitle": "Modeling Survey Time Series Data with Flow-Observed CARMA Processes",
+      "publicationYear": 2024,
+      "doi": "10.1177/0282423x241286236"
+    },
+    {
+      "journalId": "journal-of-official-statistics",
+      "journalTitle": "Journal of Official Statistics",
+      "articleTitle": "Extending Cochran’s Sample Size Rule to Stratified Simple Random Sampling with Applications to Audit Sampling",
+      "publicationYear": 2024,
+      "doi": "10.1177/0282423x241277054"
+    },
+    {
+      "journalId": "journal-of-official-statistics",
+      "journalTitle": "Journal of Official Statistics",
+      "articleTitle": "Turnover Flash Estimation by Purposive Sampling and Debit Card Transactions",
+      "publicationYear": 2024,
+      "doi": "10.1177/0282423x241293788"
+    },
+    {
+      "journalId": "journal-of-official-statistics",
+      "journalTitle": "Journal of Official Statistics",
+      "articleTitle": "Combining Probability and Nonprobability Samples on an Aggregated Level",
+      "publicationYear": 2025,
+      "doi": "10.1177/0282423x241293751"
+    },
+    {
+      "journalId": "journal-of-official-statistics",
+      "journalTitle": "Journal of Official Statistics",
+      "articleTitle": "Averaging Non-Probability Online Surveys to Avoid Maximal Estimation Error",
+      "publicationYear": 2025,
+      "doi": "10.1177/0282423x241312775"
+    },
+    {
+      "journalId": "journal-of-official-statistics",
+      "journalTitle": "Journal of Official Statistics",
+      "articleTitle": "Performance Measures for Sample Selection Bias Correction by Weighting",
+      "publicationYear": 2025,
+      "doi": "10.1177/0282423x251318463"
+    },
+    {
+      "journalId": "journal-of-official-statistics",
+      "journalTitle": "Journal of Official Statistics",
+      "articleTitle": "Review of “Sampling Theory and Practice” WuChangbaoThompsonMary E.Sampling Theory and Practice (ICSA Book Series in Statistics). 2020. Springer. ISBN 978-3-030-44244-6, 365 pages.",
+      "publicationYear": 2025,
+      "doi": "10.1177/0282423x251335194"
+    },
+    {
+      "journalId": "journal-of-official-statistics",
+      "journalTitle": "Journal of Official Statistics",
+      "articleTitle": "Future Challenges in Sampling and Estimation",
+      "publicationYear": 2025,
+      "doi": "10.1177/0282423x251324098"
+    },
+    {
+      "journalId": "journal-of-official-statistics",
+      "journalTitle": "Journal of Official Statistics",
+      "articleTitle": "Defining Ad-Hoc Sampling Designs for Small Area Estimation",
+      "publicationYear": 2025,
+      "doi": "10.1177/0282423x251388201"
+    },
+    {
+      "journalId": "journal-of-official-statistics",
+      "journalTitle": "Journal of Official Statistics",
+      "articleTitle": "Measuring Risk of Re-Identification for a Nonprobability Sample Using a General Reference Sample",
+      "publicationYear": 2026,
+      "doi": "10.1177/0282423x261419938"
+    },
+    {
+      "journalId": "journal-of-official-statistics",
+      "journalTitle": "Journal of Official Statistics",
+      "articleTitle": "Comparison of Small Area Procedures Based on Gamma Distributions with Extension to Informative Sampling",
+      "publicationYear": 2026,
+      "doi": "10.1177/0282423x261424813"
+    },
+    {
+      "journalId": "journal-of-official-statistics",
+      "journalTitle": "Journal of Official Statistics",
+      "articleTitle": "Algorithm-Assisted Inference and the Future of Official Statistics",
+      "publicationYear": 2026,
+      "doi": "10.1177/0282423x261443590"
+    },
+    {
+      "journalId": "journal-of-official-statistics",
+      "journalTitle": "Journal of Official Statistics",
+      "articleTitle": "Applying Multiple Imputation to Improve Estimates from Web Surveys: An Alternative to the Pseudoweighting Method",
+      "publicationYear": 2026,
+      "doi": "10.1177/0282423x261459285"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "On representativeness, informative sampling, nonignorable nonresponse, semiparametric prediction and calibration",
+      "publicationYear": 2023,
+      "doi": "10.59170/stattrans-2023-022"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "Probability vs. Nonprobability Sampling: From the Birth of Survey Sampling to the Present Day",
+      "publicationYear": 2023,
+      "doi": "10.59170/stattrans-2023-029"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "Comments on „Probability vs. Nonprobability Sampling: From the Birth of Survey Sampling to the Present Day” by Graham Kalton",
+      "publicationYear": 2023,
+      "doi": "10.59170/stattrans-2023-030"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "Comments on „Probability vs. Nonprobability Sampling: From the Birth of Survey Sampling to the Present Day” by Graham Kalton",
+      "publicationYear": 2023,
+      "doi": "10.59170/stattrans-2023-031"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "Discussion of “Probability vs. Nonprobability Sampling: From the Birth of Survey Sampling to the Present Day” by Graham Kalton",
+      "publicationYear": 2023,
+      "doi": "10.59170/stattrans-2023-032"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "Discussion of “Probability vs. Nonprobability Sampling: From the Birth of Survey Sampling to the Present Day” by Graham Kalton",
+      "publicationYear": 2023,
+      "doi": "10.59170/stattrans-2023-033"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "Rotation schemes and Chebyshev polynomials",
+      "publicationYear": 2023,
+      "doi": "10.59170/stattrans-2023-035"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "Under military war weapon support the economic bond level estimation using generalized Petersen graph with imputation",
+      "publicationYear": 2023,
+      "doi": "10.59170/stattrans-2023-016"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "Odd log-logistic generalised Lindley distribution with properties and applications",
+      "publicationYear": 2023,
+      "doi": "10.59170/stattrans-2023-052"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "Advances in estimation by the item sum technique in two move successive sampling",
+      "publicationYear": 2023,
+      "doi": "10.59170/stattrans-2023-055"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "IMPROVED ESTIMATION OF THE SCALE PARAMETER FOR LOG-LOGISTIC DISTRIBUTION USING BALANCED RANKED SET SAMPLING",
+      "publicationYear": 2017,
+      "doi": "10.59170/stattrans-2017-003"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "ESTIMATING SENSITIVE POPULATION PROPORTION USING A COMBINATION OF BINOMIAL AND HYPERGEOMETRIC RANDOMIZED RESPONSES BY DIRECT AND INVERSE MECHANISM",
+      "publicationYear": 2017,
+      "doi": "10.59170/stattrans-2017-010"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "EFFICIENT FAMILY OF RATIO-TYPE ESTIMATORS FOR MEAN ESTIMATION IN SUCCESSIVE SAMPLING ON TWO OCCASIONS USING AUXILIARY INFORMATION",
+      "publicationYear": 2017,
+      "doi": "10.59170/stattrans-2017-012"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "SEQUENTIAL DATA WEIGHTING PROCEDURES FOR COMBINED RATIO ESTIMATORS IN COMPLEX SAMPLE SURVEYS",
+      "publicationYear": 2017,
+      "doi": "10.59170/stattrans-2017-013"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "Small area estimation in the German Census 2011",
+      "publicationYear": 2016,
+      "doi": "10.59170/stattrans-2016-002"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "Development of small area estimation in official statistics",
+      "publicationYear": 2016,
+      "doi": "10.59170/stattrans-2016-006"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "Some effective estimation procedures under non-response in two-phase successive sampling",
+      "publicationYear": 2016,
+      "doi": "10.59170/stattrans-2016-008"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "Small area estimation of income under spatial SAR model",
+      "publicationYear": 2016,
+      "doi": "10.59170/stattrans-2016-022"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "Estimation of mean on the basis of conditional simple random sample",
+      "publicationYear": 2016,
+      "doi": "10.59170/stattrans-2016-024"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "Prediction of a function of misclassified binary data",
+      "publicationYear": 2016,
+      "doi": "10.59170/stattrans-2016-025"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "An approximation to the optimal subsample allocation for small areas",
+      "publicationYear": 2015,
+      "doi": "10.59170/stattrans-2015-009"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "Ratio-to-regression estimator in successive sampling using one auxiliary variable",
+      "publicationYear": 2015,
+      "doi": "10.59170/stattrans-2015-010"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "An Initial Research on Output Well-Being Index Applied to Residents in Wealthy Counties from China",
+      "publicationYear": 2015,
+      "doi": "10.59170/stattrans-2015-024"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "Triplegoal estimation of unemployment rates for U.S. states using the U.S. Current Population Survey data",
+      "publicationYear": 2015,
+      "doi": "10.59170/stattrans-2015-027"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "Borrowing information over time in binomial/logit normal models for small area estimation",
+      "publicationYear": 2015,
+      "doi": "10.59170/stattrans-2015-030"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "Triangular method of spatial sampling",
+      "publicationYear": 2014,
+      "doi": "10.59170/stattrans-2014-001"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "An improved estimator for population mean using auxiliary information in stratified random sampling",
+      "publicationYear": 2014,
+      "doi": "10.59170/stattrans-2014-004"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "A modified mixed randomized response model",
+      "publicationYear": 2014,
+      "doi": "10.59170/stattrans-2014-005"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "On the use of sampling weights and sample distribution when estimating regression models under informative sampling",
+      "publicationYear": 2014,
+      "doi": "10.59170/stattrans-2014-013"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "Effective rotation patterns for median estimation in successive sampling",
+      "publicationYear": 2014,
+      "doi": "10.59170/stattrans-2014-014"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "Some chain-type exponential estimators of population mean in two-phase sampling",
+      "publicationYear": 2014,
+      "doi": "10.59170/stattrans-2014-015"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "Estimating population mean with missing data in unequal probability sampling",
+      "publicationYear": 2014,
+      "doi": "10.59170/stattrans-2014-025"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "A class of two phase sampling estimators for ratio of two population means using multi-auxiliary characters in the presence of non-response",
+      "publicationYear": 2014,
+      "doi": "10.59170/stattrans-2014-026"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "Book review. Sampling elusive populations: Applications to studies of child labour, 2013. By Vijay Verma, International Labour Organization",
+      "publicationYear": 2014,
+      "doi": "10.59170/stattrans-2014-032"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "A general class of mean estimators using mixture of auxiliary variables for two-phase sampling in the presence of non-response",
+      "publicationYear": 2014,
+      "doi": "10.59170/stattrans-2014-033"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "On conditional simple random sample",
+      "publicationYear": 2014,
+      "doi": "10.59170/stattrans-2014-034"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "Ratio estimation of two population means in two-phase stratified random sampling under a scrambled response situation",
+      "publicationYear": 2023,
+      "doi": "10.59170/stattrans-2023-063"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "Another solution for some optimum allocation problem",
+      "publicationYear": 2023,
+      "doi": "10.59170/stattrans-2023-071"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "A ratio-cum-product estimator of finite population mean in systematic sampling",
+      "publicationYear": 2013,
+      "doi": "10.59170/stattrans-2013-025"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "The cost efficiency of sampling designs",
+      "publicationYear": 2013,
+      "doi": "10.59170/stattrans-2013-001"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "Best linear unbiased estimators of population mean on current occasion in two-occasion rotation patterns",
+      "publicationYear": 2013,
+      "doi": "10.59170/stattrans-2013-004"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "Sample surveys of households in Belarus: state and perspectives",
+      "publicationYear": 2013,
+      "doi": "10.59170/stattrans-2013-006"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "Bias reduction of finite population imputation by kernel methods",
+      "publicationYear": 2013,
+      "doi": "10.59170/stattrans-2013-009"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "A class of product-type exponential estimators of the population mean in simple random sampling scheme",
+      "publicationYear": 2013,
+      "doi": "10.59170/stattrans-2013-012"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "Probability sample selection method in household surveys when current data on regional population is unavailable",
+      "publicationYear": 2013,
+      "doi": "10.59170/stattrans-2013-014"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "Sampling designs proportionate to sum of two order statistics of auxiliary variable",
+      "publicationYear": 2013,
+      "doi": "10.59170/stattrans-2013-015"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "Improved estimators for simple random sampling and stratified random sampling under second order of approximation",
+      "publicationYear": 2013,
+      "doi": "10.59170/stattrans-2013-024"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "Dynamic K-Composite estimator for an arbitrary rotation scheme",
+      "publicationYear": 2013,
+      "doi": "10.59170/stattrans-2012-001"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "Estimation of population mean using two auxiliary sources in sample surveys",
+      "publicationYear": 2013,
+      "doi": "10.59170/stattrans-2012-002"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "Modified estimators of population variance in presence of auxiliary information",
+      "publicationYear": 2013,
+      "doi": "10.59170/stattrans-2012-003"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "Estimation of population mean in post-stratified sampling using known value of some population parameter(s)",
+      "publicationYear": 2013,
+      "doi": "10.59170/stattrans-2012-005"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "Nonresponse bias in the Survey of Youth Understanding of Science and Technology in Bogotá",
+      "publicationYear": 2013,
+      "doi": "10.59170/stattrans-2012-006"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "Finite population sampling: a model-design synthesis",
+      "publicationYear": 2013,
+      "doi": "10.59170/stattrans-2012-019"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "Application of rotation methods in sample surveys in Poland",
+      "publicationYear": 2013,
+      "doi": "10.59170/stattrans-2012-020"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "Application of order statistics of auxiliary variable to estimation of the population mean",
+      "publicationYear": 2013,
+      "doi": "10.59170/stattrans-2012-022"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "On classes of modified ratio type and regression-cum-ratio type estimators in sample surveys using two auxiliary variables",
+      "publicationYear": 2013,
+      "doi": "10.59170/stattrans-2012-035"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "A class of chain ratio-cum-dual to ratio type estimator with two auxiliary characters under double sampling in sample surveys",
+      "publicationYear": 2013,
+      "doi": "10.59170/stattrans-2012-037"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "A better estimator of population mean with power transformation based on ranked set sampling",
+      "publicationYear": 2013,
+      "doi": "10.59170/stattrans-2012-039"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "Conference report. Report on survey sampling and small area statistics sessions during the Congress of Polish Statistics in Poznań, 18–20 April 2012",
+      "publicationYear": 2013,
+      "doi": "10.59170/stattrans-2012-044"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "A chain ratio-type exponential estimator for population mean in double sampling",
+      "publicationYear": 2024,
+      "doi": "10.59170/stattrans-2024-004"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "Improved calibration estimation of population mean in stratified sampling using two auxiliary variables",
+      "publicationYear": 2024,
+      "doi": "10.59170/stattrans-2024-005"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "Ratio-type estimator of the population mean in stratified sampling based on the calibration approach",
+      "publicationYear": 2024,
+      "doi": "10.59170/stattrans-2024-014"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "Subsampling the nonrespondents in cluster sampling on sampling on two successive occasions",
+      "publicationYear": 2011,
+      "doi": "10.59170/stattrans-2011-001"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "Some rotation patterns in two-phase sampling",
+      "publicationYear": 2011,
+      "doi": "10.59170/stattrans-2011-002"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "Estimation of population mean using multi-auxiliary characters with subsampling the nonrespondents",
+      "publicationYear": 2011,
+      "doi": "10.59170/stattrans-2011-003"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "Estimation of domain means on the basis of strategy dependent on depth function of auxiliary variables' distribution",
+      "publicationYear": 2011,
+      "doi": "10.59170/stattrans-2011-008"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "Sampling: Design and Analysis. Sharon L. Lohr. 2nd Edition, International Publication, 20 I0, 608 pages (by J. Kordos)",
+      "publicationYear": 2011,
+      "doi": "10.59170/stattrans-2011-014"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "Consistent estimation of cross-classified domains",
+      "publicationYear": 2011,
+      "doi": "10.59170/stattrans-2011-016"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "Some applications of panel data models in small area estimation",
+      "publicationYear": 2011,
+      "doi": "10.59170/stattrans-2011-017"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "To misreport or not to report?, The case of the Italian survey on household income and wealth",
+      "publicationYear": 2011,
+      "doi": "10.59170/stattrans-2011-018"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "A class of regression type estimators in survey sampling",
+      "publicationYear": 2011,
+      "doi": "10.59170/stattrans-2011-043"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "A general family of dual to ratio-cum-product estimator in sample surveys",
+      "publicationYear": 2011,
+      "doi": "10.59170/stattrans-2011-044"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "Generalized class of synthetic estimators for small areas under systematic sampling scheme",
+      "publicationYear": 2010,
+      "doi": "10.59170/stattrans-2010-005"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "Estimation of population mean at current occasion in presence of several varying auxiliary variates in two-occasion successive sampling",
+      "publicationYear": 2010,
+      "doi": "10.59170/stattrans-2010-007"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "On the estimation of ratio-cum-product estimators using two-stage sampling",
+      "publicationYear": 2010,
+      "doi": "10.59170/stattrans-2010-017"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "Surveying child labour through households: sampling issues and strategies",
+      "publicationYear": 2010,
+      "doi": "10.59170/stattrans-2010-026"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "Fitting general linear model for longitudinal survey data under informative sampling",
+      "publicationYear": 2010,
+      "doi": "10.59170/stattrans-2010-029"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "Models in survey sampling",
+      "publicationYear": 2010,
+      "doi": "10.59170/stattrans-2010-030"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "A typology of Polish farms using probabilistic D-Clustering",
+      "publicationYear": 2010,
+      "doi": "10.59170/stattrans-2010-035"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "SEARCH OF EFFECTIVE ROTATION PATTERNS IN PRESENCE OF AUXILIARY INFORMATION IN SUCCESSIVE SAMPLING OVER TWO OCCASIONS",
+      "publicationYear": 2009,
+      "doi": "10.59170/stattrans-2009-004"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "A CHAIN-TYPE ESTIMATOR FOR POPULATION VARIANCE USING TWO AUXILIARY VARIABLES IN TWO-PHASE SAMPLING",
+      "publicationYear": 2009,
+      "doi": "10.59170/stattrans-2009-005"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "AN IMPROVED VERSION OF REGRESSION RATIO ESTIMATOR WITH TWO AUXILIARY VARIABLES IN SAMPLE SURVEYS",
+      "publicationYear": 2009,
+      "doi": "10.59170/stattrans-2009-006"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "A GENERAL CLASS OF ESTIMATORS UNDER MULTI PHASE SAMPLING",
+      "publicationYear": 2009,
+      "doi": "10.59170/stattrans-2009-015"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "ESTIMATION OF NONSAMPLING VARIANCE COMPONENTS UNDER THE LINEAR MODEL APPROACH",
+      "publicationYear": 2009,
+      "doi": "10.59170/stattrans-2009-016"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "MULTISTAGE BALANCED GROUPS RANKED SET SAMPLES FOR ESTIMATING THE POPULATION MEDIAN",
+      "publicationYear": 2009,
+      "doi": "10.59170/stattrans-2009-017"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "SPATIAL M-QUANTILE MODELS FOR SMALL AREA ESTIMATION",
+      "publicationYear": 2009,
+      "doi": "10.59170/stattrans-2009-019"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "SEARCHING FOR PERIODICITIES IN DATA SERIES",
+      "publicationYear": 2009,
+      "doi": "10.59170/stattrans-2009-023"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "The 6th Conference on Survey Sampling in Economic and Social Research, 21–22 September 2009, Katowice, Poland",
+      "publicationYear": 2009,
+      "doi": "10.59170/stattrans-2009-026"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "On non-negative and improved variance estimation for the ratio estimator under the Midzuno-Sen sampling scheme",
+      "publicationYear": 2009,
+      "doi": "10.59170/stattrans-2009-028"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "Estimation of life-tables under right-censoring",
+      "publicationYear": 2009,
+      "doi": "10.59170/stattrans-2009-029"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "Estimation of mean under imputation of missing data using factor-type estimator in two-phase sampling",
+      "publicationYear": 2009,
+      "doi": "10.59170/stattrans-2009-030"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "Improved estimation of the mean through regressed exponential estimators based on sub-sampling non-respondents",
+      "publicationYear": 2024,
+      "doi": "10.59170/stattrans-2024-030"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "Formulation of estimator for population mean in stratified successive sampling using memory-based information",
+      "publicationYear": 2025,
+      "doi": "10.59139/stattrans-2025-015"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "A minimum variance unbiased estimator of finite population variance using auxiliary information",
+      "publicationYear": 2025,
+      "doi": "10.59139/stattrans-2025-035"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "Mean estimation based on the factor-type estimator under an adaptive cluster sampling design",
+      "publicationYear": 2025,
+      "doi": "10.59139/stattrans-2025-046"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "Optimal sample allocation in multivariate stratified sampling: a comparison of deterministic and stochastic optimization algorithms",
+      "publicationYear": 2026,
+      "doi": "10.59139/stattrans-2026-001"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "Sampling techniques in the CPI measurement",
+      "publicationYear": 2026,
+      "doi": "10.59139/stattrans-2026-002"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "An extended odd log-logistic-Lindley distribution with properties, applications and Bayesian estimation",
+      "publicationYear": 2026,
+      "doi": "10.59139/stattrans-2026-005"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "Survey sampling in wartime: addressing challenges for cross-national and longitudinal studies",
+      "publicationYear": 2026,
+      "doi": "10.59139/stattrans-2026-012"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "On Sampling Design Issues when Dealing with Zeros",
+      "publicationYear": 2013,
+      "doi": "10.1093/jssam/smt006"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Summary Report of the AAPOR Task Force on Non-probability Sampling",
+      "publicationYear": 2013,
+      "doi": "10.1093/jssam/smt008"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "More Efficient Inferences Using Ranking Information Obtained from Judgment Sampling",
+      "publicationYear": 2014,
+      "doi": "10.1093/jssam/smt020"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Efficient Use of Commercial Lists in U.S. Household Sampling",
+      "publicationYear": 2014,
+      "doi": "10.1093/jssam/smu006"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Handling Frame Problems When Address-Based Sampling Is Used for In-Person Household Surveys",
+      "publicationYear": 2014,
+      "doi": "10.1093/jssam/smu013"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Clarifying Some Aspects of Variance Estimation in Two-Phase Sampling",
+      "publicationYear": 2015,
+      "doi": "10.1093/jssam/smv022"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Conservative Penny Sampling",
+      "publicationYear": 2015,
+      "doi": "10.1093/jssam/smv025"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Successive Difference Replication Variance Estimation in Two-Phase Sampling",
+      "publicationYear": 2016,
+      "doi": "10.1093/jssam/smv033"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "A Next Step in the Evolution of Landline Sampling: Evaluating the Assignment-Based Frame",
+      "publicationYear": 2016,
+      "doi": "10.1093/jssam/smw022"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Sampling, Data Collection, and Weighting Procedures for Address-Based Sample Surveys",
+      "publicationYear": 2016,
+      "doi": "10.1093/jssam/smw025"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Imputation Under Informative Sampling",
+      "publicationYear": 2016,
+      "doi": "10.1093/jssam/smw032"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Adaptive and Network Sampling for Inference and Interventions in Changing Populations",
+      "publicationYear": 2017,
+      "doi": "10.1093/jssam/smw035"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Discussion of “Adaptive and Network Sampling for Inference and Interventions in Changing Populations” by Steven K. Thompson",
+      "publicationYear": 2017,
+      "doi": "10.1093/jssam/smw040"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Learning About Networks Using Sampling: Discussion of “Adaptive and Network Sampling for Inference and Interventions in Changing Populations” by Steven K. Thompson",
+      "publicationYear": 2017,
+      "doi": "10.1093/jssam/smw030"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Sampling Strategies for On-site Recreation Counts",
+      "publicationYear": 2017,
+      "doi": "10.1093/jssam/smx007"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Evaluating Variance Estimators for Respondent-Driven Sampling",
+      "publicationYear": 2017,
+      "doi": "10.1093/jssam/smx018"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "An Unbalanced Ranked-Set Sampling Method to Get More Than One Sample from Each Set",
+      "publicationYear": 2017,
+      "doi": "10.1093/jssam/smx026"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Probability Sampling by Connecting Space with Households Using GIS/GPS Technologies",
+      "publicationYear": 2018,
+      "doi": "10.1093/jssam/smx032"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "The Construction, Maintenance, and Enhancement of Address-Based Sampling Frames",
+      "publicationYear": 2018,
+      "doi": "10.1093/jssam/smy003"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Discussion of “Probability Sampling by Connecting Space with Households Using GIS/GPS Technologies” by Chen, X.; Xu, X.; Gong, J.; Yan, Y.; Fang, L.",
+      "publicationYear": 2018,
+      "doi": "10.1093/jssam/smy004"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Data Fusion for Correcting Measurement Errors",
+      "publicationYear": 2018,
+      "doi": "10.1093/jssam/smy010"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "The Effects of Sampling Frame Designs on Nonresponse and Coverage Error: Evidence from the Netherlands",
+      "publicationYear": 2018,
+      "doi": "10.1093/jssam/smy016"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Quantile Regression Analysis of Survey Data Under Informative Sampling",
+      "publicationYear": 2018,
+      "doi": "10.1093/jssam/smy018"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Comparative Study of Confidence Intervals for Proportions in Complex Sample Surveys†",
+      "publicationYear": 2019,
+      "doi": "10.1093/jssam/smy019"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Comparing Alternatives for Estimation from Nonprobability Samples",
+      "publicationYear": 2019,
+      "doi": "10.1093/jssam/smz003"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "“Robust-Squared” Imputation Models Using Bart",
+      "publicationYear": 2019,
+      "doi": "10.1093/jssam/smz002"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Exact Adaptive Confidence Intervals for Small Areas",
+      "publicationYear": 2019,
+      "doi": "10.1093/jssam/smz010"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Conditional Bias Robust Estimation of the Total of Curve Data by Sampling in a Finite Population: An Illustration on Electricity Load Curves",
+      "publicationYear": 2019,
+      "doi": "10.1093/jssam/smz009"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Bayesian Inference of Finite Population Quantiles for Skewed Survey Data Using Skew-Normal Penalized Spline Regression",
+      "publicationYear": 2019,
+      "doi": "10.1093/jssam/smz016"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Measures of the Degree of Departure from Ignorable Sample Selection",
+      "publicationYear": 2019,
+      "doi": "10.1093/jssam/smz023"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Estimation of Underreporting in Diary Surveys: An Application Using the National Household Food Acquisition and Purchase Survey",
+      "publicationYear": 2019,
+      "doi": "10.1093/jssam/smz024"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Split-Sample Design with Parallel Protocols to Reduce Cost and Nonresponse Bias in Surveys",
+      "publicationYear": 2019,
+      "doi": "10.1093/jssam/smz033"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "A Review of Conceptual Approaches and Empirical Evidence on Probability and Nonprobability Sample Survey Research",
+      "publicationYear": 2020,
+      "doi": "10.1093/jssam/smz041"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "A Sampling Design for Ordered Populations",
+      "publicationYear": 2019,
+      "doi": "10.1093/jssam/smz046"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Integrating Probability and Nonprobability Samples for Survey Inference",
+      "publicationYear": 2020,
+      "doi": "10.1093/jssam/smz051"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "The Pseudo Maximum Likelihood Estimator for Quantiles of Survey Variables",
+      "publicationYear": 2019,
+      "doi": "10.1093/jssam/smz053"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Oversampling of Minority Populations Through Dual-Frame Surveys",
+      "publicationYear": 2020,
+      "doi": "10.1093/jssam/smz054"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Population Size Estimation Using Multiple Respondent-Driven Sampling Surveys",
+      "publicationYear": 2019,
+      "doi": "10.1093/jssam/smz055"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Big Data for Finite Population Inference: Applying Quasi-Random Approaches to Naturalistic Driving Data Using Bayesian Additive Regression Trees",
+      "publicationYear": 2020,
+      "doi": "10.1093/jssam/smz060"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Relations Between Variables and Trends Over Time in Rdd Telephone and Nonprobability Sample Internet Surveys",
+      "publicationYear": 2020,
+      "doi": "10.1093/jssam/smz059"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Sample Bias Related to Household Role",
+      "publicationYear": 2020,
+      "doi": "10.1093/jssam/smaa001"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Multiply Robust Bootstrap Variance Estimation in the Presence of Singly Imputed Survey Data",
+      "publicationYear": 2020,
+      "doi": "10.1093/jssam/smaa004"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Application of Probability-Based Link-Tracing and Nonprobability Approaches to Sampling Out-of-School Youth in Developing Countries",
+      "publicationYear": 2020,
+      "doi": "10.1093/jssam/smaa010"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Design- and Model-Based Approaches to Small-Area Estimation in a Low- and Middle-Income Country Context: Comparisons and Recommendations",
+      "publicationYear": 2020,
+      "doi": "10.1093/jssam/smaa011"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Responsive and Adaptive Survey Design: Use of Bias Propensity During Data Collection to Reduce Nonresponse Bias",
+      "publicationYear": 2020,
+      "doi": "10.1093/jssam/smaa013"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Multivariate Logistic-Assisted Estimators of Totals from Clustered Survey Samples",
+      "publicationYear": 2020,
+      "doi": "10.1093/jssam/smaa017"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Dealing with Inaccurate Measures of Size in Two-Stage Probability Proportional to Size Sample Designs: Applications in African Household Surveys",
+      "publicationYear": 2020,
+      "doi": "10.1093/jssam/smaa020"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "A Note on Chromy’s Sampling Procedure",
+      "publicationYear": 2020,
+      "doi": "10.1093/jssam/smaa025"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Boosted Kernel Weighting – Using Statistical Learning to Improve Inference from Nonprobability Samples",
+      "publicationYear": 2020,
+      "doi": "10.1093/jssam/smaa028"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Nonparametric Mass Imputation for Data Integration",
+      "publicationYear": 2020,
+      "doi": "10.1093/jssam/smaa036"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Using American Community Survey Data to Improve Estimates from Smaller U.S. Surveys Through Bivariate Small Area Estimation Models",
+      "publicationYear": 2021,
+      "doi": "10.1093/jssam/smaa040"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Estimating the Size and Distribution of Networked Populations with Snowball Sampling",
+      "publicationYear": 2021,
+      "doi": "10.1093/jssam/smaa042"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Model-Based Inference for Rare and Clustered Populations From Adaptive Cluster Sampling Using Auxiliary Variables",
+      "publicationYear": 2021,
+      "doi": "10.1093/jssam/smab001"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Capture–Recapture Estimation of Characteristics of U.S. Local Food Farms Using a Web-Scraped List Frame",
+      "publicationYear": 2021,
+      "doi": "10.1093/jssam/smab008"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Determined by Mode? Representation and Measurement Effects in a Dual-Mode Statewide Survey",
+      "publicationYear": 2021,
+      "doi": "10.1093/jssam/smab012"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Reducing Variance with Sample Allocation Based on Expected Response Rates in Stratified Sample Designs",
+      "publicationYear": 2021,
+      "doi": "10.1093/jssam/smab021"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Can Appended Auxiliary Data be Used to Tailor the Offered Response Mode in Cross-Sectional Studies? Evidence from An Address-Based Sample",
+      "publicationYear": 2021,
+      "doi": "10.1093/jssam/smab023"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Bootstrap Estimation of the Conditional Bias for Measuring Influence in Complex Surveys",
+      "publicationYear": 2021,
+      "doi": "10.1093/jssam/smab029"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Calibrated Multilevel Regression with Poststratification for the Analysis of Sms Survey Data",
+      "publicationYear": 2021,
+      "doi": "10.1093/jssam/smab033"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Effects of Address Coverage Enhancement on Estimates from Address-Based Sampling Studies",
+      "publicationYear": 2021,
+      "doi": "10.1093/jssam/smab032"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Rank-Based Inference for Survey Sampling Data",
+      "publicationYear": 2021,
+      "doi": "10.1093/jssam/smab019"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Fully Bayesian Estimation Under Dependent and Informative Cluster Sampling",
+      "publicationYear": 2021,
+      "doi": "10.1093/jssam/smab037"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Challenges of Virtual RDS for Recruitment of Sexual Minority Women for a Behavioral Health Study",
+      "publicationYear": 2021,
+      "doi": "10.1093/jssam/smab039"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "A Rescaling Bootstrap Approach For Imputed Survey Data",
+      "publicationYear": 2022,
+      "doi": "10.1093/jssam/smab047"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Using Capture–Recapture Methodology to Enhance Precision of Representative Sampling-Based Case Count Estimates",
+      "publicationYear": 2022,
+      "doi": "10.1093/jssam/smab052"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "On The Robustness Of Respondent-Driven Sampling Estimators To Measurement Error",
+      "publicationYear": 2022,
+      "doi": "10.1093/jssam/smab056"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Neighborhood Bootstrap for Respondent-Driven Sampling",
+      "publicationYear": 2022,
+      "doi": "10.1093/jssam/smab057"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Adapting Nearest Neighbor for Multiple Imputation: Advantages, Challenges, and Drawbacks",
+      "publicationYear": 2022,
+      "doi": "10.1093/jssam/smab058"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Private Tabular Survey Data Products through Synthetic Microdata Generation",
+      "publicationYear": 2022,
+      "doi": "10.1093/jssam/smac001"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "A Cautionary Note on the Hanurav–Vijayan Sampling Algorithm",
+      "publicationYear": 2022,
+      "doi": "10.1093/jssam/smac011"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Estimating Population Size from a Privatized Network Sample",
+      "publicationYear": 2022,
+      "doi": "10.1093/jssam/smac010"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Accuracy Gains from Privacy Amplification Through Sampling for Differential Privacy",
+      "publicationYear": 2022,
+      "doi": "10.1093/jssam/smac012"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Erratum to: On The Robustness Of Respondent-Driven Sampling Estimators To Measurement Error",
+      "publicationYear": 2022,
+      "doi": "10.1093/jssam/smac004"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Joinpoint Regression Methods of Aggregate Outcomes for Complex Survey Data",
+      "publicationYear": 2022,
+      "doi": "10.1093/jssam/smac014"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Corrigendum to: Fully Bayesian Estimation Under Dependent and Informative Cluster Sampling",
+      "publicationYear": 2022,
+      "doi": "10.1093/jssam/smac008"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "The Precision of Estimates of Nonresponse Bias in Means",
+      "publicationYear": 2022,
+      "doi": "10.1093/jssam/smac019"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Nonparametric Differentially Private Confidence Intervals for the Median",
+      "publicationYear": 2022,
+      "doi": "10.1093/jssam/smac021"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Estimating Web Survey Mode and Panel Effects in a Nationwide Survey of Alcohol Use",
+      "publicationYear": 2022,
+      "doi": "10.1093/jssam/smac028"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Jackknife Bias-Corrected Generalized Regression Estimator in Survey Sampling",
+      "publicationYear": 2022,
+      "doi": "10.1093/jssam/smac027"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Correcting Selection Bias in Big Data by Pseudo-Weighting",
+      "publicationYear": 2022,
+      "doi": "10.1093/jssam/smac029"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "An Application of Adaptive Cluster Sampling to Surveying Informal Businesses",
+      "publicationYear": 2023,
+      "doi": "10.1093/jssam/smac037"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Handling Missing Values in Surveys With Complex Study Design: A Simulation Study",
+      "publicationYear": 2023,
+      "doi": "10.1093/jssam/smac039"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Conjugate Modeling Approaches for Small Area Estimation with Heteroscedastic Structure",
+      "publicationYear": 2023,
+      "doi": "10.1093/jssam/smad002"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Comparison of Unit-Level Small Area Estimation Modeling Approaches for Survey Data Under Informative Sampling",
+      "publicationYear": 2023,
+      "doi": "10.1093/jssam/smad022"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Leveraging Predictive Modelling from Multiple Sources of Big Data to Improve Sample Efficiency and Reduce Survey Nonresponse Error",
+      "publicationYear": 2023,
+      "doi": "10.1093/jssam/smad016"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Maximum Entropy Design by a Markov Chain Process",
+      "publicationYear": 2023,
+      "doi": "10.1093/jssam/smad010"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "A Comprehensive Overview of Unit-Level Modeling of Survey Data for Small Area Estimation Under Informative Sampling",
+      "publicationYear": 2023,
+      "doi": "10.1093/jssam/smad020"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Hansen Lecture 2022: The Evolution of the Use of Models in Survey Sampling",
+      "publicationYear": 2023,
+      "doi": "10.1093/jssam/smad021"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Estimating the Size of Clustered Hidden Populations",
+      "publicationYear": 2023,
+      "doi": "10.1093/jssam/smad025"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Discussion of the 2022 Hansen Lecture: “The Evolution of the Use of Models in Survey Sampling”",
+      "publicationYear": 2023,
+      "doi": "10.1093/jssam/smad030"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Variable Inclusion Strategies for Effective Quota Sampling and Propensity Modeling: An Application to SARS-CoV-2 Infection Prevalence Estimation",
+      "publicationYear": 2023,
+      "doi": "10.1093/jssam/smad026"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Using Auxiliary Information in Probability Survey Data to Improve Pseudo-Weighting in Nonprobability Samples: A Copula Model Approach",
+      "publicationYear": 2023,
+      "doi": "10.1093/jssam/smad032"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Bayesian Integration of Probability and Nonprobability Samples for Logistic Regression",
+      "publicationYear": 2023,
+      "doi": "10.1093/jssam/smad041"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Reconsidering Sampling and Costs for Face-to-Face Surveys in the 21st Century",
+      "publicationYear": 2024,
+      "doi": "10.1093/jssam/smae009"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Estimation of a Population Total Under Nonresponse Using Follow-up",
+      "publicationYear": 2024,
+      "doi": "10.1093/jssam/smae002"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Optimal Predictors of General Small Area Parameters Under an Informative Sample Design Using Parametric Sample Distribution Models",
+      "publicationYear": 2024,
+      "doi": "10.1093/jssam/smae007"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Bayesian Quantile Regression Models for Complex Survey Data Under Informative Sampling",
+      "publicationYear": 2024,
+      "doi": "10.1093/jssam/smae015"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Small Area Prediction for Exponential Dispersion Families Under Informative Sampling",
+      "publicationYear": 2024,
+      "doi": "10.1093/jssam/smae018"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "A New Sampling Framework for Spatial Surveys with Application to the French National Forest Inventory",
+      "publicationYear": 2024,
+      "doi": "10.1093/jssam/smae045"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Optimal Weights for double Many-To-One Generalized Weight Share Method",
+      "publicationYear": 2024,
+      "doi": "10.1093/jssam/smae046"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Synthesizing Surveys with Multiple Units of Observation: An Application to the Longitudinal Aging Study in India",
+      "publicationYear": 2025,
+      "doi": "10.1093/jssam/smae047"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "A Beta – Beta Prime Model for Rates and their Precision for Small Area Estimation: An Application to Brazilian Food Insecurity Index",
+      "publicationYear": 2025,
+      "doi": "10.1093/jssam/smaf002"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "On the Use of Proxy Variables in Statistical Matching Under Complex Sampling Designs",
+      "publicationYear": 2025,
+      "doi": "10.1093/jssam/smaf004"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Unifying Small Area Estimators Based on Area-Level and Unit-Level Models Through Calibration",
+      "publicationYear": 2025,
+      "doi": "10.1093/jssam/smaf005"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Statistical Inference Under Nonignorable Sampling and Nonresponse—An Empirical Likelihood Approach",
+      "publicationYear": 2025,
+      "doi": "10.1093/jssam/smaf015"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Reducing the Bias from Probability and Nonprobability Online Panels by Excluding Satisficers",
+      "publicationYear": 2025,
+      "doi": "10.1093/jssam/smaf019"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Robust Extension of the Multivariate Fay-Herriot Model for Data with Outliers",
+      "publicationYear": 2025,
+      "doi": "10.1093/jssam/smaf026"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Inference for the Quantile Ratio Inequality Index in the Context of Survey Data",
+      "publicationYear": 2025,
+      "doi": "10.1093/jssam/smaf024"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Developing a Customized, Enumeration Area-Based Sampling Frame Tailored to a Specific Population Subgroup Using Geospatial Methods",
+      "publicationYear": 2026,
+      "doi": "10.1093/jssam/smaf027"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Smoothed pseudo-population bootstrap methods with applications to finite population quantiles",
+      "publicationYear": 2026,
+      "doi": "10.1093/jssam/smaf036"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Direct-assisted Bayesian Unit-Level Modeling for Small Area Estimation of Rare Event Prevalence",
+      "publicationYear": 2026,
+      "doi": "10.1093/jssam/smaf037"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "On Admissibility in Bipartite Incidence Graph Sampling",
+      "publicationYear": 2025,
+      "doi": "10.1093/jssam/smaf042"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "A Bayesian Approach to Multiple-Output Quantile Regression Analysis Under Informative Sampling",
+      "publicationYear": 2026,
+      "doi": "10.1093/jssam/smaf040"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Preface: Special Issue on Survey Research on Asia, Africa, Latin America, The Caribbean, and Oceania",
+      "publicationYear": 2025,
+      "doi": "10.1093/jssam/smaf044"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Respondent-Driven Sampling Online (Web Rds) As A Strategy to Access Hard-To-Reach But Non-Hidden Populations: The Case Of Health Professionals Working In Chilean Schools",
+      "publicationYear": 2026,
+      "doi": "10.1093/jssam/smaf055"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Total Survey Error and the Potential Overestimation of Childhood Influenza Vaccination in the National Immunization Survey",
+      "publicationYear": 2026,
+      "doi": "10.1093/jssam/smag005"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Willingness to Participate in Respondent-Driven Sampling: Findings from the German Social Cohesion Panel",
+      "publicationYear": 2026,
+      "doi": "10.1093/jssam/smag008"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "EXPLORING THE POTENTIAL OF NOVEL PARADATA IN RESPONDENT-DRIVEN SAMPLING",
+      "publicationYear": 2026,
+      "doi": "10.1093/jssam/smag014"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Toward a Margin of Total Error",
+      "publicationYear": 2026,
+      "doi": "10.1093/jssam/smag006"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Assessing the Reliability of Household Sampling Using Rooftop Data in India",
+      "publicationYear": 2026,
+      "doi": "10.1093/jssam/smag019"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Who are We Missing? Using Administrative and Contextual Data to Measure and Correct Partisan Nonresponse in Opinion Surveys",
+      "publicationYear": 2026,
+      "doi": "10.1093/jssam/smag017"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Conditional Optimal Sampling: Enhancing Unequal-Probability Designs with Auxiliary Information",
+      "publicationYear": 2026,
+      "doi": "10.1093/jssam/smag027"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Probability Snowball Sampling from Graphs, with an Application to Actor-Actor Network",
+      "publicationYear": 2026,
+      "doi": "10.1093/jssam/smag022"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Double Sampling for Cluster- or Two-Stage Sampling",
+      "publicationYear": 1972,
+      "doi": "10.2307/1402701"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Controlled Sampling with Equal Probabilities and without Replacement",
+      "publicationYear": 1973,
+      "doi": "10.2307/1402834"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "A Review of Acceptance Sampling Schemes with Emphasis on the Economic Aspect",
+      "publicationYear": 1975,
+      "doi": "10.2307/1402898"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "A Manual of Sampling Techniques",
+      "publicationYear": 1975,
+      "doi": "10.2307/1402926"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "An Essay on Screening, or on Two-Phase Sampling, Applied to Surveys of a Community",
+      "publicationYear": 1977,
+      "doi": "10.2307/1403001"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Representative Sampling, III: The Current Statistical Literature",
+      "publicationYear": 1979,
+      "doi": "10.2307/1402647"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Representative Sampling, IV: The History of the Concept in Statistics, 1895-1939",
+      "publicationYear": 1980,
+      "doi": "10.2307/1403151"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Postcensal Estimates for Local Areas Using Current Samples with Census as the Source of Sampling Frame",
+      "publicationYear": 1982,
+      "doi": "10.2307/1402596"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Models in the Practice of Survey Sampling",
+      "publicationYear": 1983,
+      "doi": "10.2307/1402747"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Sampling Strategies, Robustness and Efficiency: The State of the Art",
+      "publicationYear": 1984,
+      "doi": "10.2307/1403103"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "The Effect of Sampling Rules on Likelihood Statistics",
+      "publicationYear": 1984,
+      "doi": "10.2307/1403049"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Solutions to the Problem of Unequal Probability Sampling without Replacement",
+      "publicationYear": 1986,
+      "doi": "10.2307/1403257"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Post-Stratification against Bias in Sampling",
+      "publicationYear": 1986,
+      "doi": "10.2307/1403141"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "'Optimal' Controlled Sampling: A Unified Approach",
+      "publicationYear": 1992,
+      "doi": "10.2307/1403503"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Quality Selection under Sampling Inspection with an Exponential Production Cost Function",
+      "publicationYear": 1993,
+      "doi": "10.2307/1403597"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "The Role of Sampling Weights When Modeling Survey Data",
+      "publicationYear": 1993,
+      "doi": "10.2307/1403631"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Reconsidering the Fundamental Contributions of Fisher and Neyman on Experimentation and Sampling",
+      "publicationYear": 1996,
+      "doi": "10.2307/1403784"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Estimation in Surveys Using Conditional Inclusion Probabilities: Simple Random Sampling",
+      "publicationYear": 1998,
+      "doi": "10.2307/1403519"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "The Elements of Probability and Sampling",
+      "publicationYear": 1972,
+      "doi": "10.2307/1402481"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "A Tabular Review of Sampling Studies with Problems of Autocorrelation and Distributed Lag Models",
+      "publicationYear": 1973,
+      "doi": "10.2307/1402623"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "The Development of Techniques for the Evaluation of Sampling Moments",
+      "publicationYear": 1975,
+      "doi": "10.2307/1403115"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Elements of Sampling Theory",
+      "publicationYear": 1977,
+      "doi": "10.2307/1403011"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Statistical Sampling for Accountants",
+      "publicationYear": 1977,
+      "doi": "10.2307/1402556"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Basic Ideas of Scientific Sampling",
+      "publicationYear": 1977,
+      "doi": "10.2307/1402557"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Representative Sampling, I: Non-Scientific Literature",
+      "publicationYear": 1979,
+      "doi": "10.2307/1403202"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Foundations of Inference in Survey Sampling",
+      "publicationYear": 1979,
+      "doi": "10.2307/1403214"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Representative Sampling, II: Scientific Literature, Excluding Statistics",
+      "publicationYear": 1979,
+      "doi": "10.2307/1402564"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Sampling and Inference in a Population Graph",
+      "publicationYear": 1980,
+      "doi": "10.2307/1402403"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Contributions to Survey Sampling and Applied Statistics: Papers in Honor of H.O. Hartley",
+      "publicationYear": 1980,
+      "doi": "10.2307/1403166"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Sampling with Unequal Probabilities without Replacement: A Review",
+      "publicationYear": 1980,
+      "doi": "10.2307/1402944"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Systematic Sampling: A Critical Review",
+      "publicationYear": 1982,
+      "doi": "10.2307/1402499"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Optimum Sampling Strategies for Randomized Response Trials",
+      "publicationYear": 1984,
+      "doi": "10.2307/1403090"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "[Optimum Sampling Strategies for Randomized Response Trials]: Reply to Discussion",
+      "publicationYear": 1984,
+      "doi": "10.2307/1403094"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Post-Stratification and Ratio Estimation: Usages of Auxiliary Information in Survey Sampling and Opinion Polls",
+      "publicationYear": 1985,
+      "doi": "10.2307/1402887"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Experimental and Sampling Structures: Parallels Diverging and Meeting",
+      "publicationYear": 1987,
+      "doi": "10.2307/1403272"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Post-Sampling Efficient QR-Prediction in Large-Sample Surveys",
+      "publicationYear": 1987,
+      "doi": "10.2307/1403195"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "A General View of Estimation for Two Phases of Selection with Applications to Two-Phase Sampling and Nonresponse",
+      "publicationYear": 1987,
+      "doi": "10.2307/1403406"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Sampling and Assignment Mechanisms in Experiments, Surveys and Observational Studies, Correspondent Paper",
+      "publicationYear": 1988,
+      "doi": "10.2307/1403640"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Amendment: Experimental and Sampling Structures: Parallels Diverging and Meeting",
+      "publicationYear": 1988,
+      "doi": "10.2307/1403642"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "The Effect of Sampling on Operative Measures of Association with a Ratio Structure",
+      "publicationYear": 1988,
+      "doi": "10.2307/1403351"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Multiple Frame Sampling for Multivariate Stratification",
+      "publicationYear": 1994,
+      "doi": "10.2307/1403765"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "An Analysis of Sampling Errors for the Demographic and Health Surveys",
+      "publicationYear": 1996,
+      "doi": "10.2307/1403786"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Tests of Independence on Two-Way Tables under Cluster Sampling: An Evaluation",
+      "publicationYear": 1996,
+      "doi": "10.2307/1403787"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Design-Based or Prediction-Based Inference? Stratified Random vs Stratified Balanced Sampling",
+      "publicationYear": 1999,
+      "doi": "10.2307/1403564"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Sampling and Estimation Issues for Annual and Sub-Annual Canadian Business Surveys",
+      "publicationYear": 2001,
+      "doi": "10.2307/1403458"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "The Effect of using Household as a Sampling Unit",
+      "publicationYear": 2002,
+      "doi": "10.1111/j.1751-5823.2002.tb00364.x"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Estimating Long‐term Trends in Tropospheric Ozone Levels",
+      "publicationYear": 2002,
+      "doi": "10.1111/j.1751-5823.2002.tb00351.x"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Small Area Estimation‐New Developments and Directions",
+      "publicationYear": 2002,
+      "doi": "10.1111/j.1751-5823.2002.tb00352.x"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Modelling Overdispersion for Complex Survey Data",
+      "publicationYear": 2001,
+      "doi": "10.1111/j.1751-5823.2001.tb00464.x"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "On Conformity Testing and the Use of two Stage Procedures",
+      "publicationYear": 2001,
+      "doi": "10.1111/j.1751-5823.2001.tb00467.x"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Sampling and Estimation Issues for Annual and Sub‐annual Canadian Business Surveys",
+      "publicationYear": 2001,
+      "doi": "10.1111/j.1751-5823.2001.tb00471.x"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "A Guide to Exact Simulation",
+      "publicationYear": 2001,
+      "doi": "10.1111/j.1751-5823.2001.tb00478.x"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "A Simulation Approach to Nonparametric Empirical Bayes Analysis",
+      "publicationYear": 2001,
+      "doi": "10.1111/j.1751-5823.2001.tb00480.x"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Evolution of International Statistical Standards via Life Cycle of Products and Services",
+      "publicationYear": 1999,
+      "doi": "10.1111/j.1751-5823.1999.tb00424.x"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Estimation in Surveys Using Conditional Inclusion Probabilities: Simple Random Sampling",
+      "publicationYear": 1998,
+      "doi": "10.1111/j.1751-5823.1998.tb00375.x"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Design‐based or Prediction‐based Inference? Stratified Random vs Stratified Balanced Sampling",
+      "publicationYear": 1999,
+      "doi": "10.1111/j.1751-5823.1999.tb00379.x"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Combining Data from Surveys and Administrative Record Systems. The Norwegian Experience",
+      "publicationYear": 1998,
+      "doi": "10.1111/j.1751-5823.1998.tb00414.x"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Design‐Based Properties of Linear Calibrated Estimators of a Finite Population Total",
+      "publicationYear": 2007,
+      "doi": "10.1111/j.1751-5823.2007.00013.x"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Matched Sampling for Causal Effects by Donald B. Rubin",
+      "publicationYear": 2007,
+      "doi": "10.1111/j.1751-5823.2007.00015_10.x"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "The Effect of Using Household as a Sampling Unit",
+      "publicationYear": 2002,
+      "doi": "10.2307/1403911"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Indirect Sampling by Pierre Lavallée",
+      "publicationYear": 2008,
+      "doi": "10.1111/j.1751-5823.2008.00054_22.x"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Sampling Techniques for Forest Inventories by Daniel Mandallaz",
+      "publicationYear": 2008,
+      "doi": "10.1111/j.1751-5823.2008.00054_27.x"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Sampling Procedures for Coordinating Stratified Samples: Methods Based on Microstrata",
+      "publicationYear": 2008,
+      "doi": "10.1111/j.1751-5823.2008.00057.x"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "One‐Sided Coverage Intervals for a Proportion Estimated from a Stratified Simple Random Sample",
+      "publicationYear": 2009,
+      "doi": "10.1111/j.1751-5823.2009.00081.x"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Randomization in the Design of Experiments",
+      "publicationYear": 2009,
+      "doi": "10.1111/j.1751-5823.2009.00084.x"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Inference of Dynamic Generalized Linear Models: On‐Line Computation and Appraisal",
+      "publicationYear": 2009,
+      "doi": "10.1111/j.1751-5823.2009.00087.x"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Calibration Estimation in Survey Sampling",
+      "publicationYear": 2010,
+      "doi": "10.1111/j.1751-5823.2010.00099.x"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "A Bayesian Formulation of Exploratory Data Analysis and Goodness‐of‐fit Testing*",
+      "publicationYear": 2003,
+      "doi": "10.1111/j.1751-5823.2003.tb00203.x"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Sentencing Illicit Drug Traffickers: How do the Courts Handle Random Sampling Issues?",
+      "publicationYear": 2003,
+      "doi": "10.1111/j.1751-5823.2003.tb00210.x"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Estimation in Two‐Stage Models with Heteroscedasticity",
+      "publicationYear": 2006,
+      "doi": "10.1111/j.1751-5823.2006.tb00303.x"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Comparison of Sampling Schemes for Dynamic Linear Models",
+      "publicationYear": 2006,
+      "doi": "10.1111/j.1751-5823.2006.tb00170.x"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "On the Generalized Bootstrap for Sample Surveys with Special Attention to Poisson Sampling",
+      "publicationYear": 2012,
+      "doi": "10.1111/j.1751-5823.2011.00166.x"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Composite Sampling: A Novel Method to Accomplish Observational Economy in Environmental Studies by Ganapati P. Patil, Sharad D. Gore, Charles Taillie",
+      "publicationYear": 2012,
+      "doi": "10.1111/j.1751-5823.2012.00179_27.x"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "An Introduction to Model‐Based Survey Sampling with Applications by Raymond L. Chambers, Robert G. Clark",
+      "publicationYear": 2013,
+      "doi": "10.1111/insr.12011_15"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "On the Use of Auxiliary and Paradata for Dealing With Non‐sampling Errors in Household Surveys",
+      "publicationYear": 2013,
+      "doi": "10.1111/insr.12009"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Simulating Copulas: Stochastic Models, Sampling Algorithms and Applications by Jan‐Frederik Mai, Matthias Scherer, with contributions by Claudia Czado, Elke Korn, Ralf Korn, Jakob Stöber",
+      "publicationYear": 2013,
+      "doi": "10.1111/insr.12020_1"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Interval Estimation of Treatment Effects In Randomized Trials: When do Confidence Intervals Have Nominal Coverage?",
+      "publicationYear": 2012,
+      "doi": "10.1111/j.1751-5823.2012.00185.x"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Non‐parametric Analysis of Gap Times for Multiple Event Data: An Overview",
+      "publicationYear": 2013,
+      "doi": "10.1111/insr.12031"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Tercentenary of Ars Conjectandi (1713): Jacob Bernoulli and the Founding of Mathematical Probability",
+      "publicationYear": 2014,
+      "doi": "10.1111/insr.12050"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Handling Missing Data in Ranked Set Sampling R by Carlos N. Bouza‐Herrera",
+      "publicationYear": 2014,
+      "doi": "10.1111/insr.12051_20"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "The Deviance Information Criterion in Comparison of Normal Mixing Models",
+      "publicationYear": 2014,
+      "doi": "10.1111/insr.12063"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "On Invariant Post‐randomization for Statistical Disclosure Control",
+      "publicationYear": 2015,
+      "doi": "10.1111/insr.12092"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Implications of the Data Revolution for Statistics Education",
+      "publicationYear": 2015,
+      "doi": "10.1111/insr.12110"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Sampling Elusive Populations: Applications to Studies of Child Labour",
+      "publicationYear": 2015,
+      "doi": "10.1111/insr.12111_5"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Posterior Inference in Bayesian Quantile Regression with Asymmetric Laplace Likelihood",
+      "publicationYear": 2015,
+      "doi": "10.1111/insr.12114"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Lognormal Distributions and Geometric Averages of Symmetric Positive Definite Matrices",
+      "publicationYear": 2015,
+      "doi": "10.1111/insr.12113"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "H‐likelihood Predictive Intervals for Unobservables",
+      "publicationYear": 2015,
+      "doi": "10.1111/insr.12115"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Bootstrap Methods for Time Series",
+      "publicationYear": 2003,
+      "doi": "10.1111/j.1751-5823.2003.tb00485.x"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Design‐based Estimators Calibrated on Estimated Totals from Multiple Surveys",
+      "publicationYear": 2015,
+      "doi": "10.1111/insr.12160"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Variance Estimation of Imputed Estimators of Change for Repeated Rotating Surveys",
+      "publicationYear": 2016,
+      "doi": "10.1111/insr.12197"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Spatially Balanced Sampling: A Review and A Reappraisal",
+      "publicationYear": 2017,
+      "doi": "10.1111/insr.12216"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "A Two‐Step Procedure to Measure Representativeness of Internet Data Sources",
+      "publicationYear": 2017,
+      "doi": "10.1111/insr.12217"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Estimation Techniques for Ordinal Data in Multiple Frame Surveys with Complex Sampling Designs",
+      "publicationYear": 2017,
+      "doi": "10.1111/insr.12218"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Simplified Jackknife Variance Estimates for Fuzzy Measures of Multidimensional Poverty",
+      "publicationYear": 2017,
+      "doi": "10.1111/insr.12219"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "A Tutorial on the Practical Use and Implication of Complete Sufficient Statistics",
+      "publicationYear": 2018,
+      "doi": "10.1111/insr.12261"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Measuring Identification Risk in Microdata Release and Its Control by Post‐randomisation",
+      "publicationYear": 2018,
+      "doi": "10.1111/insr.12252"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Comparing Inference Methods for Non‐probability Samples",
+      "publicationYear": 2018,
+      "doi": "10.1111/insr.12253"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Statistical Medical Fraud Assessment: Exposition to an Emerging Field",
+      "publicationYear": 2018,
+      "doi": "10.1111/insr.12269"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Extrapolation‐based Bandwidth Selectors: A Review and Comparative Study with Discussion on Bivariate Applications",
+      "publicationYear": 2018,
+      "doi": "10.1111/insr.12276"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Sampling Techniques for Big Data Analysis",
+      "publicationYear": 2018,
+      "doi": "10.1111/insr.12290"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Some Theoretical and Practical Aspects of Empirical Likelihood Methods for Complex Surveys",
+      "publicationYear": 2018,
+      "doi": "10.1111/insr.12291"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Analysis of Categorical Data for Complex Surveys",
+      "publicationYear": 2018,
+      "doi": "10.1111/insr.12285"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Bayesian Analysis of a Sensitive Proportion for a Small Area",
+      "publicationYear": 2018,
+      "doi": "10.1111/insr.12286"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Small Area Quantile Estimation",
+      "publicationYear": 2018,
+      "doi": "10.1111/insr.12293"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Estimation of Randomisation Mean Square Error in Small Area Estimation",
+      "publicationYear": 2018,
+      "doi": "10.1111/insr.12289"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Developments in Survey Research over the Past 60 Years: A Personal Perspective",
+      "publicationYear": 2018,
+      "doi": "10.1111/insr.12287"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Some Variants of Constrained Estimation in Finite Population Sampling",
+      "publicationYear": 2018,
+      "doi": "10.1111/insr.12309"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Linearisation for Variance Estimation by Means of Sampling Indicators: Application to Non‐response",
+      "publicationYear": 2019,
+      "doi": "10.1111/insr.12313"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Contemporary Theory and Practice of Survey Sampling: A Celebration of Research Contributions of J. N. K. Rao",
+      "publicationYear": 2019,
+      "doi": "10.1111/insr.12312"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Reliable Inference in Categorical Regression Analysis for Non‐randomly Coarsened Observations",
+      "publicationYear": 2019,
+      "doi": "10.1111/insr.12329"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Empirical Likelihood Approach for Aligning Information from Multiple Surveys",
+      "publicationYear": 2019,
+      "doi": "10.1111/insr.12337"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Sampling‐based Randomised Designs for Causal Inference under the Potential Outcomes Framework",
+      "publicationYear": 2019,
+      "doi": "10.1111/insr.12339"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "An Interview with Chris Skinner",
+      "publicationYear": 2019,
+      "doi": "10.1111/insr.12356"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Advanced Multilevel Monte Carlo Methods",
+      "publicationYear": 2020,
+      "doi": "10.1111/insr.12365"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Uncertainty Estimation for Pseudo‐Bayesian Inference Under Complex Sampling",
+      "publicationYear": 2020,
+      "doi": "10.1111/insr.12376"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "A Review of Multi‐Compartment Infectious Disease Models",
+      "publicationYear": 2020,
+      "doi": "10.1111/insr.12402"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Sampling and Estimation from Finite PopulationsYves TilléWiley, 2020, xxviii + 419 pages, £ 65/$100, hardcover ISBN: 978‐0‐470‐68205‐0",
+      "publicationYear": 2020,
+      "doi": "10.1111/insr.12420"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Spatial Sampling for Non‐compact Patterns",
+      "publicationYear": 2021,
+      "doi": "10.1111/insr.12445"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Estimating Sampling Errors in Consumer Price Indices",
+      "publicationYear": 2021,
+      "doi": "10.1111/insr.12438"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Assessing Bayesian Semi‐Parametric Log‐Linear Models: An Application to Disclosure Risk Estimation",
+      "publicationYear": 2021,
+      "doi": "10.1111/insr.12471"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Some Solutions Inspired by Survey Sampling Theory to Build Effective Clinical Trials",
+      "publicationYear": 2022,
+      "doi": "10.1111/insr.12498"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Rethinking the Effective Sample Size",
+      "publicationYear": 2022,
+      "doi": "10.1111/insr.12500"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Using Survey Sampling Algorithms For Exact Inference in Logistic Regression",
+      "publicationYear": 2022,
+      "doi": "10.1111/insr.12507"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Scalable Bayesian Multiple Changepoint Detection via Auxiliary Uniformisation",
+      "publicationYear": 2022,
+      "doi": "10.1111/insr.12511"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Calibration Techniques Encompassing Survey Sampling, Missing Data Analysis and Causal Inference",
+      "publicationYear": 2022,
+      "doi": "10.1111/insr.12518"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Accounting for Non‐ignorable Sampling and Non‐response in Statistical Matching",
+      "publicationYear": 2022,
+      "doi": "10.1111/insr.12524"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "A Bootstrap Variance Procedure for the Generalised Regression Estimator",
+      "publicationYear": 2022,
+      "doi": "10.1111/insr.12528"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "A Spatial Variance‐Smoothing Area Level Model for Small Area Estimation of Demographic Rates",
+      "publicationYear": 2023,
+      "doi": "10.1111/insr.12556"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "On the Most Effective Use of Continuous Auxiliary Variables in Regression Estimation in Survey Sampling",
+      "publicationYear": 2023,
+      "doi": "10.1111/insr.12561"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Validating an Index of Selection Bias for Proportions in Non‐Probability Samples",
+      "publicationYear": 2024,
+      "doi": "10.1111/insr.12590"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "New Scheme of Empirical Likelihood Method for Ranked Set Sampling: Applications to Two One‐Sample Problems",
+      "publicationYear": 2024,
+      "doi": "10.1111/insr.12589"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "On Frequency and Probability Weights: An In‐Depth Look at Duelling Weights",
+      "publicationYear": 2024,
+      "doi": "10.1111/insr.12594"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "A Conversation With David Bellhouse",
+      "publicationYear": 2025,
+      "doi": "10.1111/insr.12604"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "An Uncertainty Based Approach for Dealing With Selection Bias in Non‐Probability Samples",
+      "publicationYear": 2025,
+      "doi": "10.1111/insr.12614"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Unconditional Variance Estimation Under Complex Surveys",
+      "publicationYear": 2025,
+      "doi": "10.1111/insr.70001"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Quantile Estimation for Judgement Post Stratification With an Application to Bone Mineral Density Study",
+      "publicationYear": 2026,
+      "doi": "10.1111/insr.70047"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Can AI Replace the Statistician? Evidence From a Controlled Experiment",
+      "publicationYear": 2026,
+      "doi": "10.1111/insr.70056"
+    },
+    {
+      "journalId": "statistical-methods-and-applications",
+      "journalTitle": "Statistical Methods & Applications",
+      "articleTitle": "A Study for the Unit Nonresponse Calibration using Two-Phase Sampling Method",
+      "publicationYear": 2002,
+      "doi": "10.5351/ckss.2002.9.2.479"
+    },
+    {
+      "journalId": "statistical-methods-and-applications",
+      "journalTitle": "Statistical Methods & Applications",
+      "articleTitle": "A Sampling Design of the Korean Anthropometric Survey",
+      "publicationYear": 2003,
+      "doi": "10.5351/ckss.2003.10.3.707"
+    },
+    {
+      "journalId": "statistical-methods-and-applications",
+      "journalTitle": "Statistical Methods & Applications",
+      "articleTitle": "Efficient Estimation of Population Mean Using Centered Modified Systematic Sampling and Interpolation",
+      "publicationYear": 2002,
+      "doi": "10.5351/ckss.2002.9.1.175"
+    },
+    {
+      "journalId": "statistical-methods-and-applications",
+      "journalTitle": "Statistical Methods & Applications",
+      "articleTitle": "A Sampling Design for Health Index Survey",
+      "publicationYear": 2002,
+      "doi": "10.5351/ckss.2002.9.2.565"
+    },
+    {
+      "journalId": "statistical-methods-and-applications",
+      "journalTitle": "Statistical Methods & Applications",
+      "articleTitle": "A Bayesian Approach to Finite Population Sampling Using the Concept of Pivotal Quantity",
+      "publicationYear": 2003,
+      "doi": "10.5351/ckss.2003.10.3.647"
+    },
+    {
+      "journalId": "statistical-methods-and-applications",
+      "journalTitle": "Statistical Methods & Applications",
+      "articleTitle": "An Improved Group Sampling Plan Based on Time-Truncated Life Tests",
+      "publicationYear": 2010,
+      "doi": "10.5351/ckss.2010.17.3.319"
+    },
+    {
+      "journalId": "statistical-methods-and-applications",
+      "journalTitle": "Statistical Methods & Applications",
+      "articleTitle": "An Optimal Scheme of Inclusion Probability Proportional to Size Sampling",
+      "publicationYear": 2005,
+      "doi": "10.5351/ckss.2005.12.1.181"
+    },
+    {
+      "journalId": "statistical-methods-and-applications",
+      "journalTitle": "Statistical Methods & Applications",
+      "articleTitle": "Design and Implementation of Teaching Simple Random Sampling by Using Constructivism and Information Technology",
+      "publicationYear": 2005,
+      "doi": "10.5351/ckss.2005.12.1.229"
+    },
+    {
+      "journalId": "statistical-methods-and-applications",
+      "journalTitle": "Statistical Methods & Applications",
+      "articleTitle": "Weight Reduction Method for Outlier in Survey Sampling",
+      "publicationYear": 2006,
+      "doi": "10.5351/ckss.2006.13.1.019"
+    },
+    {
+      "journalId": "statistical-methods-and-applications",
+      "journalTitle": "Statistical Methods & Applications",
+      "articleTitle": "Modified Adaptive Cluster Sampling Designs",
+      "publicationYear": 2007,
+      "doi": "10.5351/ckss.2007.14.1.057"
+    },
+    {
+      "journalId": "statistical-methods-and-applications",
+      "journalTitle": "Statistical Methods & Applications",
+      "articleTitle": "Acceptance Sampling Plans in the Rayleigh Model",
+      "publicationYear": 2005,
+      "doi": "10.5351/ckss.2005.12.1.011"
+    },
+    {
+      "journalId": "statistical-methods-and-applications",
+      "journalTitle": "Statistical Methods & Applications",
+      "articleTitle": "A Study on Weight Adjustment In Sampling Survey",
+      "publicationYear": 2005,
+      "doi": "10.5351/ckss.2005.12.1.029"
+    },
+    {
+      "journalId": "statistical-methods-and-applications",
+      "journalTitle": "Statistical Methods & Applications",
+      "articleTitle": "The Selection of Strategies for Variance Estimation under πPS Sampling Schemes",
+      "publicationYear": 2006,
+      "doi": "10.5351/ckss.2006.13.1.061"
+    },
+    {
+      "journalId": "statistical-methods-and-applications",
+      "journalTitle": "Statistical Methods & Applications",
+      "articleTitle": "An Estimator of Population Mean Based on Balanced Systematic Sampling When Both the Sample Size and the Reciprocal of the Sampling Fraction are Odd Numbers",
+      "publicationYear": 2007,
+      "doi": "10.5351/ckss.2007.14.3.667"
+    },
+    {
+      "journalId": "statistical-methods-and-applications",
+      "journalTitle": "Statistical Methods & Applications",
+      "articleTitle": "Inference on Overlapping Coefficients in Two Exponential Populations Using Ranked Set Sampling",
+      "publicationYear": 2008,
+      "doi": "10.5351/ckss.2008.15.2.147"
+    },
+    {
+      "journalId": "statistical-methods-and-applications",
+      "journalTitle": "Statistical Methods & Applications",
+      "articleTitle": "Confidence Intervals for a Proportion in Finite Population Sampling",
+      "publicationYear": 2009,
+      "doi": "10.5351/ckss.2009.16.3.501"
+    },
+    {
+      "journalId": "statistical-methods-and-applications",
+      "journalTitle": "Statistical Methods & Applications",
+      "articleTitle": "Economic Reliability Group Acceptance Sampling Based on Truncated Life Tests Using Pareto Distribution of the Second Kind",
+      "publicationYear": 2010,
+      "doi": "10.5351/ckss.2010.17.5.725"
+    },
+    {
+      "journalId": "statistical-methods-and-applications",
+      "journalTitle": "Statistical Methods & Applications",
+      "articleTitle": "A Study on the Improvement of Sampling Rate of Performance Test in Public Survey",
+      "publicationYear": 2010,
+      "doi": "10.5351/ckss.2010.17.6.853"
+    },
+    {
+      "journalId": "statistical-methods-and-applications",
+      "journalTitle": "Statistical Methods & Applications",
+      "articleTitle": "A Generalized Ratio-cum-Product Estimator of Finite Population Mean in Stratified Random Sampling",
+      "publicationYear": 2011,
+      "doi": "10.5351/ckss.2011.18.1.111"
+    },
+    {
+      "journalId": "statistical-methods-and-applications",
+      "journalTitle": "Statistical Methods & Applications",
+      "articleTitle": "Folded Ranked Set Sampling for Asymmetric Distributions",
+      "publicationYear": 2011,
+      "doi": "10.5351/ckss.2011.18.1.147"
+    },
+    {
+      "journalId": "statistical-methods-and-applications",
+      "journalTitle": "Statistical Methods & Applications",
+      "articleTitle": "Efficient Use of Auxiliary Variables in Estimating Finite Population Variance in Two-Phase Sampling",
+      "publicationYear": 2010,
+      "doi": "10.5351/ckss.2010.17.2.165"
+    },
+    {
+      "journalId": "statistical-methods-and-applications",
+      "journalTitle": "Statistical Methods & Applications",
+      "articleTitle": "Calibration for Spatial Stratified Sampling Design",
+      "publicationYear": 2010,
+      "doi": "10.5351/ckss.2010.17.1.009"
+    },
+    {
+      "journalId": "statistical-methods-and-applications",
+      "journalTitle": "Statistical Methods & Applications",
+      "articleTitle": "Similarity of Sampling Sites by Water Quality",
+      "publicationYear": 2010,
+      "doi": "10.5351/ckss.2010.17.1.039"
+    },
+    {
+      "journalId": "statistical-methods-and-applications",
+      "journalTitle": "Statistical Methods & Applications",
+      "articleTitle": "A Time Truncated Two-Stage Group Sampling Plan for Weibull Distribution",
+      "publicationYear": 2010,
+      "doi": "10.5351/ckss.2010.17.1.089"
+    },
+    {
+      "journalId": "statistical-methods-and-applications",
+      "journalTitle": "Statistical Methods & Applications",
+      "articleTitle": "Improved Group Acceptance Sampling Plan for Dagum Distribution under Percentiles Lifetime",
+      "publicationYear": 2011,
+      "doi": "10.5351/ckss.2011.18.4.403"
+    },
+    {
+      "journalId": "statistical-methods-and-applications",
+      "journalTitle": "Statistical Methods & Applications",
+      "articleTitle": "An Alternative Composite Estimator for the Take-Nothing Stratum of the Cut-Off Sampling",
+      "publicationYear": 2012,
+      "doi": "10.5351/ckss.2012.19.1.013"
+    },
+    {
+      "journalId": "statistical-methods-and-applications",
+      "journalTitle": "Statistical Methods & Applications",
+      "articleTitle": "Approximate Variance of Least Square Estimators for Regression Coefficient under Inclusion Probability Proportional to Size Sampling",
+      "publicationYear": 2012,
+      "doi": "10.5351/ckss.2012.19.1.023"
+    },
+    {
+      "journalId": "statistical-methods-and-applications",
+      "journalTitle": "Statistical Methods & Applications",
+      "articleTitle": "Ratio Cum Regression Estimator for Estimating a Population Mean with a Sub Sampling of Non Respondents",
+      "publicationYear": 2012,
+      "doi": "10.5351/ckss.2012.19.5.663"
+    },
+    {
+      "journalId": "statistical-methods-and-applications",
+      "journalTitle": "Statistical Methods & Applications",
+      "articleTitle": "A Stratified Unknown Repeated Trials in Randomized Response Sampling",
+      "publicationYear": 2012,
+      "doi": "10.5351/ckss.2012.19.6.751"
+    },
+    {
+      "journalId": "statistical-methods-and-applications",
+      "journalTitle": "Statistical Methods & Applications",
+      "articleTitle": "An Improved Composite Estimator for Cut-off Sampling",
+      "publicationYear": 2013,
+      "doi": "10.5351/csam.2013.20.5.367"
+    },
+    {
+      "journalId": "statistical-methods-and-applications",
+      "journalTitle": "Statistical Methods & Applications",
+      "articleTitle": "Ratio and Product Type Exponential Estimators of Population Mean in Double Sampling for Stratification",
+      "publicationYear": 2014,
+      "doi": "10.5351/csam.2014.21.1.001"
+    },
+    {
+      "journalId": "statistical-methods-and-applications",
+      "journalTitle": "Statistical Methods & Applications",
+      "articleTitle": "Robust Bayesian Inference in Finite Population Sampling under Balanced Loss Function",
+      "publicationYear": 2014,
+      "doi": "10.5351/csam.2014.21.3.261"
+    },
+    {
+      "journalId": "statistical-methods-and-applications",
+      "journalTitle": "Statistical Methods & Applications",
+      "articleTitle": "Nonparametric confidence intervals for quantiles based on a modified ranked set sampling",
+      "publicationYear": 2016,
+      "doi": "10.5351/csam.2016.23.2.119"
+    },
+    {
+      "journalId": "statistical-methods-and-applications",
+      "journalTitle": "Statistical Methods & Applications",
+      "articleTitle": "Variance estimation of a double expanded estimator for two-phase sampling",
+      "publicationYear": 2023,
+      "doi": "10.29220/csam.2023.30.4.403"
+    },
+    {
+      "journalId": "statistical-methods-and-applications",
+      "journalTitle": "Statistical Methods & Applications",
+      "articleTitle": "An importance sampling for a function of a multivariate random variable",
+      "publicationYear": 2024,
+      "doi": "10.29220/csam.2024.31.1.065"
+    },
+    {
+      "journalId": "statistical-methods-and-applications",
+      "journalTitle": "Statistical Methods & Applications",
+      "articleTitle": "Use of nonresponse weighting and calibration for bias reduction in quota sampling",
+      "publicationYear": 2025,
+      "doi": "10.29220/csam.2025.32.6.741"
+    },
+    {
+      "journalId": "statistical-methods-and-applications",
+      "journalTitle": "Statistical Methods & Applications",
+      "articleTitle": "Analysis of skip-lot sampling plan of Type 3 with multiple reference criteria",
+      "publicationYear": 2026,
+      "doi": "10.29220/csam.2026.33.2.263"
+    },
+    {
+      "journalId": "the-r-journal",
+      "journalTitle": "The R Journal",
+      "articleTitle": "On Sampling from the Multivariate t Distribution",
+      "publicationYear": 2013,
+      "doi": "10.32614/rj-2013-033"
+    },
+    {
+      "journalId": "the-r-journal",
+      "journalTitle": "The R Journal",
+      "articleTitle": "RSSampling: A Pioneering Package for Ranked Set Sampling",
+      "publicationYear": 2019,
+      "doi": "10.32614/rj-2019-039"
+    },
+    {
+      "journalId": "the-r-journal",
+      "journalTitle": "The R Journal",
+      "articleTitle": "volesti: Volume Approximation and Sampling for Convex Polytopes in R",
+      "publicationYear": 2021,
+      "doi": "10.32614/rj-2021-077"
+    },
+    {
+      "journalId": "the-r-journal",
+      "journalTitle": "The R Journal",
+      "articleTitle": "Two-Stage Sampling Design and Sample Selection with the R Package R2BEAT",
+      "publicationYear": 2023,
+      "doi": "10.32614/rj-2023-069"
+    },
+    {
+      "journalId": "the-r-journal",
+      "journalTitle": "The R Journal",
+      "articleTitle": "CDsampling: An R Package for Constrained D-Optimal Sampling in Paid Research Studies",
+      "publicationYear": 2025,
+      "doi": "10.32614/rj-2025-008"
+    },
+    {
+      "journalId": "the-r-journal",
+      "journalTitle": "The R Journal",
+      "articleTitle": "elhmc: An R Package for Hamiltonian Monte Carlo Sampling in Bayesian Empirical Likelihood",
+      "publicationYear": 2026,
+      "doi": "10.32614/rj-2025-041"
+    },
+    {
+      "journalId": "the-r-journal",
+      "journalTitle": "The R Journal",
+      "articleTitle": "AccSamplingDesign: An R Package for Optimizing Acceptance Sampling Plans",
+      "publicationYear": 2026,
+      "doi": "10.32614/rj-2026-007"
+    },
+    {
+      "journalId": "the-r-journal",
+      "journalTitle": "The R Journal",
+      "articleTitle": "generalRSS: Sampling and Inference for Balanced and Unbalanced Ranked Set Sampling",
+      "publicationYear": 2026,
+      "doi": "10.32614/rj-2026-017"
+    },
+    {
+      "journalId": "journal-of-statistical-software",
+      "journalTitle": "Journal of Statistical Software",
+      "articleTitle": "Urn Sampling Without Replacement: Enumerative Combinatorics inR",
+      "publicationYear": 2007,
+      "doi": "10.18637/jss.v017.c01"
+    },
+    {
+      "journalId": "journal-of-statistical-software",
+      "journalTitle": "Journal of Statistical Software",
+      "articleTitle": "xsample(): AnRFunction for Sampling Linear Inverse Problems",
+      "publicationYear": 2009,
+      "doi": "10.18637/jss.v030.c01"
+    },
+    {
+      "journalId": "journal-of-statistical-software",
+      "journalTitle": "Journal of Statistical Software",
+      "articleTitle": "A Greedy Algorithm for Representative Sampling:repsampleinStata",
+      "publicationYear": 2013,
+      "doi": "10.18637/jss.v055.c01"
+    },
+    {
+      "journalId": "journal-of-statistical-software",
+      "journalTitle": "Journal of Statistical Software",
+      "articleTitle": "networksis: A Package to Simulate Bipartite Graphs with Fixed Marginals Through Sequential Importance Sampling",
+      "publicationYear": 2008,
+      "doi": "10.18637/jss.v024.i08"
+    },
+    {
+      "journalId": "journal-of-statistical-software",
+      "journalTitle": "Journal of Statistical Software",
+      "articleTitle": "Arbitrary PrecisionMathematicaFunctions to Evaluate the One-Sided One Sample K-S Cumulative Sampling Distribution",
+      "publicationYear": 2008,
+      "doi": "10.18637/jss.v026.i03"
+    },
+    {
+      "journalId": "journal-of-statistical-software",
+      "journalTitle": "Journal of Statistical Software",
+      "articleTitle": "adsPackage forR: A Fast Unbiased Implementation of theK-function Family for Studying Spatial Point Patterns in Irregular-Shaped Sampling Windows",
+      "publicationYear": 2015,
+      "doi": "10.18637/jss.v063.i06"
+    },
+    {
+      "journalId": "journal-of-statistical-software",
+      "journalTitle": "Journal of Statistical Software",
+      "articleTitle": "Rational ArithmeticMathematicaFunctions to Evaluate the One-sided One-sample K-S Cumulative Sampling Distribution",
+      "publicationYear": 2007,
+      "doi": "10.18637/jss.v019.i06"
+    },
+    {
+      "journalId": "journal-of-statistical-software",
+      "journalTitle": "Journal of Statistical Software",
+      "articleTitle": "Rational ArithmeticMathematicaFunctions to Evaluate the Two-Sided One Sample K-S Cumulative Sampling Distribution",
+      "publicationYear": 2008,
+      "doi": "10.18637/jss.v026.i02"
+    },
+    {
+      "journalId": "journal-of-statistical-software",
+      "journalTitle": "Journal of Statistical Software",
+      "articleTitle": "Visualizing and Assessing Acceptance Sampling Plans: TheRPackageAcceptanceSampling",
+      "publicationYear": 2008,
+      "doi": "10.18637/jss.v026.i06"
+    },
+    {
+      "journalId": "journal-of-statistical-software",
+      "journalTitle": "Journal of Statistical Software",
+      "articleTitle": "Interactive Teaching Tools for Spatial Sampling",
+      "publicationYear": 2010,
+      "doi": "10.18637/jss.v036.i13"
+    },
+    {
+      "journalId": "journal-of-statistical-software",
+      "journalTitle": "Journal of Statistical Software",
+      "articleTitle": "Multilevel Fixed and Sequential Acceptance Sampling: TheRPackageMFSAS",
+      "publicationYear": 2011,
+      "doi": "10.18637/jss.v043.i06"
+    },
+    {
+      "journalId": "journal-of-statistical-software",
+      "journalTitle": "Journal of Statistical Software",
+      "articleTitle": "SamplingStrata: AnRPackage for the Optimization of Stratified Sampling",
+      "publicationYear": 2014,
+      "doi": "10.18637/jss.v061.i04"
+    },
+    {
+      "journalId": "journal-of-statistical-software",
+      "journalTitle": "Journal of Statistical Software",
+      "articleTitle": "Sampling Spatial Units for Agricultural Surveys",
+      "publicationYear": 2016,
+      "doi": "10.18637/jss.v069.b06"
+    },
+    {
+      "journalId": "journal-of-statistical-software",
+      "journalTitle": "Journal of Statistical Software",
+      "articleTitle": "Mixed Frequency Data Sampling Regression Models: The R Package midasr",
+      "publicationYear": 2016,
+      "doi": "10.18637/jss.v072.i04"
+    },
+    {
+      "journalId": "journal-of-statistical-software",
+      "journalTitle": "Journal of Statistical Software",
+      "articleTitle": "DNest4: Diffusive Nested Sampling in C++ and Python",
+      "publicationYear": 2018,
+      "doi": "10.18637/jss.v086.i07"
+    },
+    {
+      "journalId": "journal-of-statistical-software",
+      "journalTitle": "Journal of Statistical Software",
+      "articleTitle": "Distance Sampling in R",
+      "publicationYear": 2019,
+      "doi": "10.18637/jss.v089.i01"
+    },
+    {
+      "journalId": "journal-of-statistical-software",
+      "journalTitle": "Journal of Statistical Software",
+      "articleTitle": "Spbsampling: An R Package for Spatially Balanced Sampling",
+      "publicationYear": 2022,
+      "doi": "10.18637/jss.v103.c02"
+    },
+    {
+      "journalId": "journal-of-statistical-software",
+      "journalTitle": "Journal of Statistical Software",
+      "articleTitle": "spsurvey : Spatial Sampling Design and Analysis in R",
+      "publicationYear": 2023,
+      "doi": "10.18637/jss.v105.i03"
+    },
+    {
+      "journalId": "journal-of-statistical-software",
+      "journalTitle": "Journal of Statistical Software",
+      "articleTitle": "Bayesian Structure Learning and Sampling of Bayesian Networks with the R Package BiDAG",
+      "publicationYear": 2023,
+      "doi": "10.18637/jss.v105.i09"
+    },
+    {
+      "journalId": "journal-of-statistical-software",
+      "journalTitle": "Journal of Statistical Software",
+      "articleTitle": "Optimum Allocation for Adaptive Multi-Wave Sampling in R: The R Package optimall",
+      "publicationYear": 2025,
+      "doi": "10.18637/jss.v114.i10"
+    },
+    {
+      "journalId": "journal-of-statistical-software",
+      "journalTitle": "Journal of Statistical Software",
+      "articleTitle": "CPU- and GPU-Based Distributed Sampling in Dirichlet Process Mixtures for Large-Scale Analysis",
+      "publicationYear": 2026,
+      "doi": "10.18637/jss.v116.i07"
+    },
+    {
+      "journalId": "journal-of-computational-and-graphical-statistics",
+      "journalTitle": "Journal of Computational and Graphical Statistics",
+      "articleTitle": "Computing Scan StatisticpValues Using Importance Sampling, With Applications to Genetics and Medical Image Analysis",
+      "publicationYear": 2001,
+      "doi": "10.1198/10618600152628194"
+    },
+    {
+      "journalId": "journal-of-computational-and-graphical-statistics",
+      "journalTitle": "Journal of Computational and Graphical Statistics",
+      "articleTitle": "Sampling Schemes for Model Visualization",
+      "publicationYear": 2001,
+      "doi": "10.1198/106186001317115108"
+    },
+    {
+      "journalId": "journal-of-computational-and-graphical-statistics",
+      "journalTitle": "Journal of Computational and Graphical Statistics",
+      "articleTitle": "A Bayesian Sampling Approach to Regression Model Checking",
+      "publicationYear": 2001,
+      "doi": "10.1198/106186001317243359"
+    },
+    {
+      "journalId": "journal-of-computational-and-graphical-statistics",
+      "journalTitle": "Journal of Computational and Graphical Statistics",
+      "articleTitle": "Sampling Truncated Normal, Beta, and Gamma Densities",
+      "publicationYear": 2001,
+      "doi": "10.1198/10618600152627906"
+    },
+    {
+      "journalId": "journal-of-computational-and-graphical-statistics",
+      "journalTitle": "Journal of Computational and Graphical Statistics",
+      "articleTitle": "A Block Sampling Approach to Distinct Value Estimation",
+      "publicationYear": 2002,
+      "doi": "10.1198/106186002760180572"
+    },
+    {
+      "journalId": "journal-of-computational-and-graphical-statistics",
+      "journalTitle": "Journal of Computational and Graphical Statistics",
+      "articleTitle": "Warp Bridge Sampling",
+      "publicationYear": 2002,
+      "doi": "10.1198/106186002457"
+    },
+    {
+      "journalId": "journal-of-computational-and-graphical-statistics",
+      "journalTitle": "Journal of Computational and Graphical Statistics",
+      "articleTitle": "Sampling Schemes for Bayesian Variable Selection in Generalized Linear Models",
+      "publicationYear": 2004,
+      "doi": "10.1198/1061860043425"
+    },
+    {
+      "journalId": "journal-of-computational-and-graphical-statistics",
+      "journalTitle": "Journal of Computational and Graphical Statistics",
+      "articleTitle": "Computing Normalizing Constants for Finite Mixture Models via Incremental Mixture Importance Sampling (IMIS)",
+      "publicationYear": 2006,
+      "doi": "10.1198/106186006x132358"
+    },
+    {
+      "journalId": "journal-of-computational-and-graphical-statistics",
+      "journalTitle": "Journal of Computational and Graphical Statistics",
+      "articleTitle": "Efficient Block Sampling Strategies for Sequential Monte Carlo Methods",
+      "publicationYear": 2006,
+      "doi": "10.1198/106186006x142744"
+    },
+    {
+      "journalId": "journal-of-computational-and-graphical-statistics",
+      "journalTitle": "Journal of Computational and Graphical Statistics",
+      "articleTitle": "Sampling Correlation Matrices in Bayesian Models With Correlated Latent Variables",
+      "publicationYear": 2006,
+      "doi": "10.1198/106186006x160050"
+    },
+    {
+      "journalId": "journal-of-computational-and-graphical-statistics",
+      "journalTitle": "Journal of Computational and Graphical Statistics",
+      "articleTitle": "Sampling Methods of Neutral to the Right Processes",
+      "publicationYear": 2007,
+      "doi": "10.1198/106186007x237081"
+    },
+    {
+      "journalId": "journal-of-computational-and-graphical-statistics",
+      "journalTitle": "Journal of Computational and Graphical Statistics",
+      "articleTitle": "Bayesian Variable Selection for Logistic Models Using Auxiliary Mixture Sampling",
+      "publicationYear": 2008,
+      "doi": "10.1198/106186008x289849"
+    },
+    {
+      "journalId": "journal-of-computational-and-graphical-statistics",
+      "journalTitle": "Journal of Computational and Graphical Statistics",
+      "articleTitle": "Efficient Sampling Using Metropolis Algorithms: Applications of Optimal Scaling Results",
+      "publicationYear": 2008,
+      "doi": "10.1198/108571108x319970"
+    },
+    {
+      "journalId": "journal-of-computational-and-graphical-statistics",
+      "journalTitle": "Journal of Computational and Graphical Statistics",
+      "articleTitle": "Truncated Importance Sampling",
+      "publicationYear": 2008,
+      "doi": "10.1198/106186008x320456"
+    },
+    {
+      "journalId": "journal-of-computational-and-graphical-statistics",
+      "journalTitle": "Journal of Computational and Graphical Statistics",
+      "articleTitle": "Path Sampling to Compute Integrated Likelihoods: An Adaptive Approach",
+      "publicationYear": 2009,
+      "doi": "10.1198/jcgs.2009.07019"
+    },
+    {
+      "journalId": "journal-of-computational-and-graphical-statistics",
+      "journalTitle": "Journal of Computational and Graphical Statistics",
+      "articleTitle": "Reparameterized and Marginalized Posterior and Predictive Sampling for Complex Bayesian Geostatistical Models",
+      "publicationYear": 2009,
+      "doi": "10.1198/jcgs.2009.08012"
+    },
+    {
+      "journalId": "journal-of-computational-and-graphical-statistics",
+      "journalTitle": "Journal of Computational and Graphical Statistics",
+      "articleTitle": "Transdimensional Sampling Algorithms for Bayesian Variable Selection in Classification Problems With Many More Variables Than Observations",
+      "publicationYear": 2009,
+      "doi": "10.1198/jcgs.2009.08027"
+    },
+    {
+      "journalId": "journal-of-computational-and-graphical-statistics",
+      "journalTitle": "Journal of Computational and Graphical Statistics",
+      "articleTitle": "Block Gibbs Sampling for Bayesian Random Effects Models With Improper Priors: Convergence and Regeneration",
+      "publicationYear": 2009,
+      "doi": "10.1198/jcgs.2009.08153"
+    },
+    {
+      "journalId": "journal-of-computational-and-graphical-statistics",
+      "journalTitle": "Journal of Computational and Graphical Statistics",
+      "articleTitle": "Multivariate Normal Slice Sampling",
+      "publicationYear": 2010,
+      "doi": "10.1198/jcgs.2009.07138"
+    },
+    {
+      "journalId": "journal-of-computational-and-graphical-statistics",
+      "journalTitle": "Journal of Computational and Graphical Statistics",
+      "articleTitle": "Bayesian Adaptive Sampling for Variable Selection and Model Averaging",
+      "publicationYear": 2011,
+      "doi": "10.1198/jcgs.2010.09049"
+    },
+    {
+      "journalId": "journal-of-computational-and-graphical-statistics",
+      "journalTitle": "Journal of Computational and Graphical Statistics",
+      "articleTitle": "Concave-Convex Adaptive Rejection Sampling",
+      "publicationYear": 2011,
+      "doi": "10.1198/jcgs.2011.09058"
+    },
+    {
+      "journalId": "journal-of-computational-and-graphical-statistics",
+      "journalTitle": "Journal of Computational and Graphical Statistics",
+      "articleTitle": "Direct Sampling",
+      "publicationYear": 2011,
+      "doi": "10.1198/jcgs.2011.09090"
+    },
+    {
+      "journalId": "journal-of-computational-and-graphical-statistics",
+      "journalTitle": "Journal of Computational and Graphical Statistics",
+      "articleTitle": "Markov Chain Sampling Methods for Dirichlet Process Mixture Models",
+      "publicationYear": 2000,
+      "doi": "10.1080/10618600.2000.10474879"
+    },
+    {
+      "journalId": "journal-of-computational-and-graphical-statistics",
+      "journalTitle": "Journal of Computational and Graphical Statistics",
+      "articleTitle": "Functional Compatibility, Markov Chains, and Gibbs Sampling with Improper Posteriors",
+      "publicationYear": 1998,
+      "doi": "10.1080/10618600.1998.10474760"
+    },
+    {
+      "journalId": "journal-of-computational-and-graphical-statistics",
+      "journalTitle": "Journal of Computational and Graphical Statistics",
+      "articleTitle": "Risks of Using Improper Priors with Gibbs Sampling and Autocorrelated Errors",
+      "publicationYear": 1996,
+      "doi": "10.1080/10618600.1996.10474709"
+    },
+    {
+      "journalId": "journal-of-computational-and-graphical-statistics",
+      "journalTitle": "Journal of Computational and Graphical Statistics",
+      "articleTitle": "Gibbs Sampling with Diffuse Proper Priors: A Valid Approach to Data-Driven Inference?",
+      "publicationYear": 1998,
+      "doi": "10.1080/10618600.1998.10474776"
+    },
+    {
+      "journalId": "journal-of-computational-and-graphical-statistics",
+      "journalTitle": "Journal of Computational and Graphical Statistics",
+      "articleTitle": "Importance Sampling for p-value Computations in Multivariate Tests",
+      "publicationYear": 1998,
+      "doi": "10.1080/10618600.1998.10474780"
+    },
+    {
+      "journalId": "journal-of-computational-and-graphical-statistics",
+      "journalTitle": "Journal of Computational and Graphical Statistics",
+      "articleTitle": "Gibbs Sampling Will Fail in Outlier Problems with Strong Masking",
+      "publicationYear": 1996,
+      "doi": "10.1080/10618600.1996.10474703"
+    },
+    {
+      "journalId": "journal-of-computational-and-graphical-statistics",
+      "journalTitle": "Journal of Computational and Graphical Statistics",
+      "articleTitle": "Faster Adaptive Importance Sampling in Low Dimensions",
+      "publicationYear": 1998,
+      "doi": "10.1080/10618600.1998.10474768"
+    },
+    {
+      "journalId": "journal-of-computational-and-graphical-statistics",
+      "journalTitle": "Journal of Computational and Graphical Statistics",
+      "articleTitle": "Toward Black-Box Sampling: A Random-Direction Interior-Point Markov Chain Approach",
+      "publicationYear": 1998,
+      "doi": "10.1080/10618600.1998.10474758"
+    },
+    {
+      "journalId": "journal-of-computational-and-graphical-statistics",
+      "journalTitle": "Journal of Computational and Graphical Statistics",
+      "articleTitle": "On the Convergence of Successive Substitution Sampling",
+      "publicationYear": 1992,
+      "doi": "10.1080/10618600.1992.10477008"
+    },
+    {
+      "journalId": "journal-of-computational-and-graphical-statistics",
+      "journalTitle": "Journal of Computational and Graphical Statistics",
+      "articleTitle": "Recentered Importance Sampling With Applications to Bayesian Model Validation",
+      "publicationYear": 2013,
+      "doi": "10.1080/10618600.2012.681239"
+    },
+    {
+      "journalId": "journal-of-computational-and-graphical-statistics",
+      "journalTitle": "Journal of Computational and Graphical Statistics",
+      "articleTitle": "Automated Factor Slice Sampling",
+      "publicationYear": 2014,
+      "doi": "10.1080/10618600.2013.791193"
+    },
+    {
+      "journalId": "journal-of-computational-and-graphical-statistics",
+      "journalTitle": "Journal of Computational and Graphical Statistics",
+      "articleTitle": "Annealed Importance Sampling Reversible Jump MCMC Algorithms",
+      "publicationYear": 2013,
+      "doi": "10.1080/10618600.2013.805651"
+    },
+    {
+      "journalId": "journal-of-computational-and-graphical-statistics",
+      "journalTitle": "Journal of Computational and Graphical Statistics",
+      "articleTitle": "Slice Sampling σ-Stable Poisson-Kingman Mixture Models",
+      "publicationYear": 2013,
+      "doi": "10.1080/10618600.2012.681211"
+    },
+    {
+      "journalId": "journal-of-computational-and-graphical-statistics",
+      "journalTitle": "Journal of Computational and Graphical Statistics",
+      "articleTitle": "A “Density-Based” Algorithm for Cluster Analysis Using Species Sampling Gaussian Mixture Models",
+      "publicationYear": 2014,
+      "doi": "10.1080/10618600.2013.856796"
+    },
+    {
+      "journalId": "journal-of-computational-and-graphical-statistics",
+      "journalTitle": "Journal of Computational and Graphical Statistics",
+      "articleTitle": "Honest Importance Sampling With Multiple Markov Chains",
+      "publicationYear": 2015,
+      "doi": "10.1080/10618600.2014.929523"
+    },
+    {
+      "journalId": "journal-of-computational-and-graphical-statistics",
+      "journalTitle": "Journal of Computational and Graphical Statistics",
+      "articleTitle": "Parsimonious and Efficient Likelihood Composition by Gibbs Sampling",
+      "publicationYear": 2016,
+      "doi": "10.1080/10618600.2015.1058799"
+    },
+    {
+      "journalId": "journal-of-computational-and-graphical-statistics",
+      "journalTitle": "Journal of Computational and Graphical Statistics",
+      "articleTitle": "Optimally Adjusted Mixture Sampling and Locally Weighted Histogram Analysis",
+      "publicationYear": 2017,
+      "doi": "10.1080/10618600.2015.1113975"
+    },
+    {
+      "journalId": "journal-of-computational-and-graphical-statistics",
+      "journalTitle": "Journal of Computational and Graphical Statistics",
+      "articleTitle": "Sampling for Conditional Inference on Contingency Tables",
+      "publicationYear": 2017,
+      "doi": "10.1080/10618600.2016.1153478"
+    },
+    {
+      "journalId": "journal-of-computational-and-graphical-statistics",
+      "journalTitle": "Journal of Computational and Graphical Statistics",
+      "articleTitle": "On the Nyström and Column-Sampling Methods for the Approximate Principal Components Analysis of Large Datasets",
+      "publicationYear": 2016,
+      "doi": "10.1080/10618600.2014.995799"
+    },
+    {
+      "journalId": "journal-of-computational-and-graphical-statistics",
+      "journalTitle": "Journal of Computational and Graphical Statistics",
+      "articleTitle": "An Efficient Sampling Algorithm for Network Motif Detection",
+      "publicationYear": 2018,
+      "doi": "10.1080/10618600.2017.1391696"
+    },
+    {
+      "journalId": "journal-of-computational-and-graphical-statistics",
+      "journalTitle": "Journal of Computational and Graphical Statistics",
+      "articleTitle": "Efficient Sampling for Gaussian Linear Regression With Arbitrary Priors",
+      "publicationYear": 2018,
+      "doi": "10.1080/10618600.2018.1482762"
+    },
+    {
+      "journalId": "journal-of-computational-and-graphical-statistics",
+      "journalTitle": "Journal of Computational and Graphical Statistics",
+      "articleTitle": "Adaptive Component-Wise Multiple-Try Metropolis Sampling",
+      "publicationYear": 2018,
+      "doi": "10.1080/10618600.2018.1513365"
+    },
+    {
+      "journalId": "journal-of-computational-and-graphical-statistics",
+      "journalTitle": "Journal of Computational and Graphical Statistics",
+      "articleTitle": "Incremental Mixture Importance Sampling With Shotgun Optimization",
+      "publicationYear": 2019,
+      "doi": "10.1080/10618600.2019.1592756"
+    },
+    {
+      "journalId": "journal-of-computational-and-graphical-statistics",
+      "journalTitle": "Journal of Computational and Graphical Statistics",
+      "articleTitle": "Fast Generalized Linear Models by Database Sampling and One-Step Polishing",
+      "publicationYear": 2019,
+      "doi": "10.1080/10618600.2019.1610312"
+    },
+    {
+      "journalId": "journal-of-computational-and-graphical-statistics",
+      "journalTitle": "Journal of Computational and Graphical Statistics",
+      "articleTitle": "Poisson Kernel-Based Clustering on the Sphere: Convergence Properties, Identifiability, and a Method of Sampling",
+      "publicationYear": 2020,
+      "doi": "10.1080/10618600.2020.1740713"
+    },
+    {
+      "journalId": "journal-of-computational-and-graphical-statistics",
+      "journalTitle": "Journal of Computational and Graphical Statistics",
+      "articleTitle": "Forward Event-Chain Monte Carlo: Fast Sampling by Randomness Control in Irreversible Markov Chains",
+      "publicationYear": 2020,
+      "doi": "10.1080/10618600.2020.1750417"
+    },
+    {
+      "journalId": "journal-of-computational-and-graphical-statistics",
+      "journalTitle": "Journal of Computational and Graphical Statistics",
+      "articleTitle": "State-Dependent Kernel Selection for Conditional Sampling of Graphs",
+      "publicationYear": 2020,
+      "doi": "10.1080/10618600.2020.1753529"
+    },
+    {
+      "journalId": "journal-of-computational-and-graphical-statistics",
+      "journalTitle": "Journal of Computational and Graphical Statistics",
+      "articleTitle": "Efficient Parameter Sampling for Markov Jump Processes",
+      "publicationYear": 2020,
+      "doi": "10.1080/10618600.2020.1763807"
+    },
+    {
+      "journalId": "journal-of-computational-and-graphical-statistics",
+      "journalTitle": "Journal of Computational and Graphical Statistics",
+      "articleTitle": "Optimal Sampling for Generalized Linear Models Under Measurement Constraints",
+      "publicationYear": 2020,
+      "doi": "10.1080/10618600.2020.1778483"
+    },
+    {
+      "journalId": "journal-of-computational-and-graphical-statistics",
+      "journalTitle": "Journal of Computational and Graphical Statistics",
+      "articleTitle": "Markov Chain Importance Sampling—A Highly Efficient Estimator for MCMC",
+      "publicationYear": 2021,
+      "doi": "10.1080/10618600.2020.1826953"
+    },
+    {
+      "journalId": "journal-of-computational-and-graphical-statistics",
+      "journalTitle": "Journal of Computational and Graphical Statistics",
+      "articleTitle": "Quasi-Random Sampling for Multivariate Distributions via Generative Neural Networks",
+      "publicationYear": 2021,
+      "doi": "10.1080/10618600.2020.1868302"
+    },
+    {
+      "journalId": "journal-of-computational-and-graphical-statistics",
+      "journalTitle": "Journal of Computational and Graphical Statistics",
+      "articleTitle": "Sampling Based Estimation of In-Degree Distribution for Directed Complex Networks",
+      "publicationYear": 2021,
+      "doi": "10.1080/10618600.2021.1873143"
+    },
+    {
+      "journalId": "journal-of-computational-and-graphical-statistics",
+      "journalTitle": "Journal of Computational and Graphical Statistics",
+      "articleTitle": "Importance Sampling-Based Transport Map Hamiltonian Monte Carlo for Bayesian Hierarchical Models",
+      "publicationYear": 2021,
+      "doi": "10.1080/10618600.2021.1923519"
+    },
+    {
+      "journalId": "journal-of-computational-and-graphical-statistics",
+      "journalTitle": "Journal of Computational and Graphical Statistics",
+      "articleTitle": "Adaptive Preferential Sampling in Phylodynamics With an Application to SARS-CoV-2",
+      "publicationYear": 2021,
+      "doi": "10.1080/10618600.2021.1987256"
+    },
+    {
+      "journalId": "journal-of-computational-and-graphical-statistics",
+      "journalTitle": "Journal of Computational and Graphical Statistics",
+      "articleTitle": "Efficient Sampling and Structure Learning of Bayesian Networks",
+      "publicationYear": 2022,
+      "doi": "10.1080/10618600.2021.2020127"
+    },
+    {
+      "journalId": "journal-of-computational-and-graphical-statistics",
+      "journalTitle": "Journal of Computational and Graphical Statistics",
+      "articleTitle": "Zig-Zag Sampling for Discrete Structures and Nonreversible Phylogenetic MCMC",
+      "publicationYear": 2022,
+      "doi": "10.1080/10618600.2022.2032722"
+    },
+    {
+      "journalId": "journal-of-computational-and-graphical-statistics",
+      "journalTitle": "Journal of Computational and Graphical Statistics",
+      "articleTitle": "Importance Sampling with the Integrated Nested Laplace Approximation",
+      "publicationYear": 2022,
+      "doi": "10.1080/10618600.2022.2067551"
+    },
+    {
+      "journalId": "journal-of-computational-and-graphical-statistics",
+      "journalTitle": "Journal of Computational and Graphical Statistics",
+      "articleTitle": "Efficient Posterior Sampling for Bayesian Poisson Regression",
+      "publicationYear": 2022,
+      "doi": "10.1080/10618600.2022.2123337"
+    },
+    {
+      "journalId": "journal-of-computational-and-graphical-statistics",
+      "journalTitle": "Journal of Computational and Graphical Statistics",
+      "articleTitle": "Distilling Importance Sampling for Likelihood Free Inference",
+      "publicationYear": 2023,
+      "doi": "10.1080/10618600.2023.2175688"
+    },
+    {
+      "journalId": "journal-of-computational-and-graphical-statistics",
+      "journalTitle": "Journal of Computational and Graphical Statistics",
+      "articleTitle": "Gibbs Sampling for Mixtures in Order of Appearance: The Ordered Allocation Sampler",
+      "publicationYear": 2023,
+      "doi": "10.1080/10618600.2023.2177298"
+    },
+    {
+      "journalId": "journal-of-computational-and-graphical-statistics",
+      "journalTitle": "Journal of Computational and Graphical Statistics",
+      "articleTitle": "Backward Importance Sampling for Online Estimation of State Space Models",
+      "publicationYear": 2023,
+      "doi": "10.1080/10618600.2023.2174125"
+    },
+    {
+      "journalId": "journal-of-computational-and-graphical-statistics",
+      "journalTitle": "Journal of Computational and Graphical Statistics",
+      "articleTitle": "Concave-Convex PDMP-based Sampling",
+      "publicationYear": 2023,
+      "doi": "10.1080/10618600.2023.2203735"
+    },
+    {
+      "journalId": "journal-of-computational-and-graphical-statistics",
+      "journalTitle": "Journal of Computational and Graphical Statistics",
+      "articleTitle": "Conditional Particle Filters with Bridge Backward Sampling",
+      "publicationYear": 2023,
+      "doi": "10.1080/10618600.2023.2231514"
+    },
+    {
+      "journalId": "journal-of-computational-and-graphical-statistics",
+      "journalTitle": "Journal of Computational and Graphical Statistics",
+      "articleTitle": "Times Square Sampling: An Adaptive Algorithm for Free Energy Estimation",
+      "publicationYear": 2024,
+      "doi": "10.1080/10618600.2023.2291108"
+    },
+    {
+      "journalId": "journal-of-computational-and-graphical-statistics",
+      "journalTitle": "Journal of Computational and Graphical Statistics",
+      "articleTitle": "Mixed Matrix Completion in Complex Survey Sampling under Heterogeneous Missingness",
+      "publicationYear": 2024,
+      "doi": "10.1080/10618600.2024.2319154"
+    },
+    {
+      "journalId": "journal-of-computational-and-graphical-statistics",
+      "journalTitle": "Journal of Computational and Graphical Statistics",
+      "articleTitle": "Using Rejection Sampling Probability of Acceptance as a Measure of Independence",
+      "publicationYear": 2024,
+      "doi": "10.1080/10618600.2024.2388544"
+    },
+    {
+      "journalId": "journal-of-computational-and-graphical-statistics",
+      "journalTitle": "Journal of Computational and Graphical Statistics",
+      "articleTitle": "Efficient Sampling From the Watson Distribution in Arbitrary Dimensions",
+      "publicationYear": 2024,
+      "doi": "10.1080/10618600.2024.2416521"
+    },
+    {
+      "journalId": "journal-of-computational-and-graphical-statistics",
+      "journalTitle": "Journal of Computational and Graphical Statistics",
+      "articleTitle": "Sampling Random Graphs with Specified Degree Sequences",
+      "publicationYear": 2024,
+      "doi": "10.1080/10618600.2024.2418817"
+    },
+    {
+      "journalId": "journal-of-computational-and-graphical-statistics",
+      "journalTitle": "Journal of Computational and Graphical Statistics",
+      "articleTitle": "Gibbs Sampling Using Anti-Correlation Gaussian Data Augmentation, with Applications to L1-Ball-Type Models",
+      "publicationYear": 2025,
+      "doi": "10.1080/10618600.2025.2473932"
+    },
+    {
+      "journalId": "journal-of-computational-and-graphical-statistics",
+      "journalTitle": "Journal of Computational and Graphical Statistics",
+      "articleTitle": "Doubly Adaptive Importance Sampling",
+      "publicationYear": 2025,
+      "doi": "10.1080/10618600.2025.2530048"
+    },
+    {
+      "journalId": "journal-of-computational-and-graphical-statistics",
+      "journalTitle": "Journal of Computational and Graphical Statistics",
+      "articleTitle": "On Gibbs Sampling for Endpoint-Conditioned Neighbor-Dependent Sequence Evolution Models",
+      "publicationYear": 2025,
+      "doi": "10.1080/10618600.2025.2560621"
+    },
+    {
+      "journalId": "journal-of-computational-and-graphical-statistics",
+      "journalTitle": "Journal of Computational and Graphical Statistics",
+      "articleTitle": "Corrigendum on: Efficient Posterior Sampling for Bayesian Poisson Regression",
+      "publicationYear": 2025,
+      "doi": "10.1080/10618600.2025.2554670"
+    },
+    {
+      "journalId": "journal-of-computational-and-graphical-statistics",
+      "journalTitle": "Journal of Computational and Graphical Statistics",
+      "articleTitle": "A General Purpose Approximation to the Ferguson-Klass Algorithm for Sampling from Lévy Processes Without Gaussian Components",
+      "publicationYear": 2026,
+      "doi": "10.1080/10618600.2025.2602523"
+    },
+    {
+      "journalId": "journal-of-computational-and-graphical-statistics",
+      "journalTitle": "Journal of Computational and Graphical Statistics",
+      "articleTitle": "An Efficient Sampling-Based Algorithm to Compute HUM for Multi-Class Learning",
+      "publicationYear": 2026,
+      "doi": "10.1080/10618600.2026.2654763"
+    },
+    {
+      "journalId": "journal-of-computational-and-graphical-statistics",
+      "journalTitle": "Journal of Computational and Graphical Statistics",
+      "articleTitle": "A New Sampling Method via Approximate Bayesian Computation with Correlated Random Numbers",
+      "publicationYear": 2026,
+      "doi": "10.1080/10618600.2026.2705296"
+    },
+    {
+      "journalId": "journal-of-computational-and-graphical-statistics",
+      "journalTitle": "Journal of Computational and Graphical Statistics",
+      "articleTitle": "Grid Particle Gibbs with Ancestor Sampling for State-Space Models",
+      "publicationYear": 2026,
+      "doi": "10.1080/10618600.2026.2681775"
+    }
+  ],
+  "method": "Crossref indexed article titles and abstracts; exact normalized package-name phrase; each matching journal article counted equally",
+  "coverage": {
+    "searched": [
+      {
+        "id": "statistical-journal-of-the-iaos",
+        "title": "Statistical Journal of the IAOS",
+        "issn": "1874-7655",
+        "articleCount": 1479
+      },
+      {
+        "id": "journal-of-official-statistics",
+        "title": "Journal of Official Statistics",
+        "issn": "0282-423X",
+        "articleCount": 173
+      },
+      {
+        "id": "statistics-in-transition-new-series",
+        "title": "Statistics in Transition new series",
+        "issn": "1234-7655",
+        "articleCount": 563
+      },
+      {
+        "id": "journal-of-survey-statistics-and-methodology",
+        "title": "Journal of Survey Statistics and Methodology",
+        "issn": "2325-0984",
+        "articleCount": 619
+      },
+      {
+        "id": "international-statistical-review",
+        "title": "International Statistical Review",
+        "issn": "0306-7734",
+        "articleCount": 2935
+      },
+      {
+        "id": "statistical-methods-and-applications",
+        "title": "Statistical Methods & Applications",
+        "issn": "2287-7843",
+        "articleCount": 1198
+      },
+      {
+        "id": "the-r-journal",
+        "title": "The R Journal",
+        "issn": "2073-4859",
+        "articleCount": 856
+      },
+      {
+        "id": "journal-of-statistical-software",
+        "title": "Journal of Statistical Software",
+        "issn": "1548-7660",
+        "articleCount": 1641
+      },
+      {
+        "id": "journal-of-computational-and-graphical-statistics",
+        "title": "Journal of Computational and Graphical Statistics",
+        "issn": "1061-8600",
+        "articleCount": 2525
+      }
+    ],
+    "unavailable": [
+      {
+        "id": "survey-methodology",
+        "title": "Survey Methodology",
+        "reason": "No Crossref-indexed works were found for this journal's ISSN."
+      },
+      {
+        "id": "survey-research-methods",
+        "title": "Survey Research Methods",
+        "reason": "No Crossref-indexed works were found for this journal."
+      }
+    ]
+  },
+  "discoverySources": [
+    {
+      "id": "google-scholar",
+      "title": "Google Scholar",
+      "searchUrl": "https://scholar.google.com/scholar?q=%22sampling%22",
+      "automatedCountsSupported": false,
+      "reason": "Google Scholar has no official public search API; automated scraping is unreliable and is not included in the automated mention count."
+    }
+  ],
+  "searchedAt": "2026-10-02T11:23:01.385Z"
+}

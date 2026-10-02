@@ -1,0 +1,124 @@
+{
+  "watchers_count": null,
+  "has_wiki": null,
+  "has_discussions": null,
+  "forks_count": null,
+  "forks": null,
+  "open_issues_count": null,
+  "downloadsPer30Days": 453,
+  "downloadsUnavailableReason": null,
+  "VignetteBuilder": "knitr",
+  "vignetteCount": 7,
+  "vignettes": [
+    {
+      "title": "Tutorial",
+      "url": "https://cran.r-project.org/web/packages/insee/vignettes/insee.html",
+      "wordCount": 536
+    },
+    {
+      "title": "GDP growth rate",
+      "url": "https://cran.r-project.org/web/packages/insee/vignettes/v2_gdp-vignettes.html",
+      "wordCount": 3
+    },
+    {
+      "title": "Inflation",
+      "url": "https://cran.r-project.org/web/packages/insee/vignettes/v3_inflation-vignettes.html",
+      "wordCount": 1
+    },
+    {
+      "title": "Unemployment rate",
+      "url": "https://cran.r-project.org/web/packages/insee/vignettes/v4_unem-vignettes.html",
+      "wordCount": 2
+    },
+    {
+      "title": "Population by age",
+      "url": "https://cran.r-project.org/web/packages/insee/vignettes/v5_pop-vignettes.html",
+      "wordCount": 3
+    },
+    {
+      "title": "Population Map",
+      "url": "https://cran.r-project.org/web/packages/insee/vignettes/v6_pop_map-vignettes.html",
+      "wordCount": 2
+    },
+    {
+      "title": "Deaths and Births",
+      "url": "https://cran.r-project.org/web/packages/insee/vignettes/v7_death_birth-vignettes.html",
+      "wordCount": 3
+    }
+  ],
+  "vignetteWordCount": 550,
+  "used_in": 0,
+  "used_in_scope": "CRAN packages in metadata list",
+  "mentions": 7,
+  "mentionsByJournal": {
+    "statistical-journal-of-the-iaos": {
+      "count": 7
+    }
+  },
+  "mentionsFound": [
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "A statistical system integrated in the national central administration: The French experience",
+      "publicationYear": 2018,
+      "doi": "10.3233/sji-170402"
+    },
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "INSEE operations during the lockdown period",
+      "publicationYear": 2020,
+      "doi": "10.3233/sji-200669"
+    },
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "Accuracy of French census population estimates",
+      "publicationYear": 2021,
+      "doi": "10.3233/sji-210849"
+    },
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "Setting up statistical registers of individuals and dwellings in France: Approach and first steps",
+      "publicationYear": 2022,
+      "doi": "10.3233/sji-210916"
+    },
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "An annual mixed-mode survey to measure victimisation in France from 2022: The chronicle of an overhaul in 5 acts",
+      "publicationYear": 2023,
+      "doi": "10.3233/sji-230018"
+    },
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "Governance models for Non-Specialist Data Science as a catalyst for statistical modernisation",
+      "publicationYear": 2025,
+      "doi": "10.1177/18747655251406482"
+    },
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "How data science permeates the skills network in French official statistics",
+      "publicationYear": 2026,
+      "doi": "10.1177/18747655261445380"
+    }
+  ],
+  "followers": null,
+  "watchers": null,
+  "subscriptions": null,
+  "collaborators": null,
+  "issues": null,
+  "releases": null,
+  "pull_requests": null,
+  "awesome_metric": 2.4,
+  "awesome_metric_breakdown": {
+    "maturity": 0,
+    "documentation": 4.305584177473969,
+    "use": 3.0360536377177763,
+    "community": null
+  },
+  "awesome_metric_method": "See metrics.md in this repo; metrics calculation is still experimental and subject to change."
+}

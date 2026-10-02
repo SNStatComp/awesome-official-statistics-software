@@ -1,0 +1,45 @@
+{
+  "watchers_count": null,
+  "has_wiki": null,
+  "has_discussions": null,
+  "forks_count": null,
+  "forks": null,
+  "open_issues_count": null,
+  "downloadsPer30Days": 2005,
+  "downloadsUnavailableReason": null,
+  "VignetteBuilder": "knitr",
+  "vignetteCount": 2,
+  "vignettes": [
+    {
+      "title": "Temporal Disaggregation to High-Frequency (e.g., to daily)",
+      "url": "https://cran.r-project.org/web/packages/tempdisagg/vignettes/hf-disagg.html",
+      "wordCount": 406
+    },
+    {
+      "title": "Introduction",
+      "url": "https://cran.r-project.org/web/packages/tempdisagg/vignettes/intro.html",
+      "wordCount": 660
+    }
+  ],
+  "vignetteWordCount": 1066,
+  "used_in": 0,
+  "used_in_scope": "CRAN packages in metadata list",
+  "mentions": 0,
+  "mentionsByJournal": {},
+  "mentionsFound": [],
+  "followers": null,
+  "watchers": null,
+  "subscriptions": null,
+  "collaborators": null,
+  "issues": null,
+  "releases": null,
+  "pull_requests": null,
+  "awesome_metric": 1.8,
+  "awesome_metric_breakdown": {
+    "maturity": 0,
+    "documentation": 3.762629215772997,
+    "use": 1.6511640301665165,
+    "community": null
+  },
+  "awesome_metric_method": "See metrics.md in this repo; metrics calculation is still experimental and subject to change."
+}

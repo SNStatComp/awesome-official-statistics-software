@@ -1,0 +1,115 @@
+{
+  "watchers_count": null,
+  "has_wiki": null,
+  "has_discussions": null,
+  "forks_count": null,
+  "forks": null,
+  "open_issues_count": null,
+  "downloadsPer30Days": 183,
+  "downloadsUnavailableReason": null,
+  "VignetteBuilder": null,
+  "vignetteCount": 0,
+  "vignettes": [],
+  "vignetteWordCount": 0,
+  "used_in": 0,
+  "used_in_scope": "CRAN packages in metadata list",
+  "mentions": 10,
+  "mentionsByJournal": {
+    "statistical-journal-of-the-iaos": {
+      "count": 3
+    },
+    "journal-of-survey-statistics-and-methodology": {
+      "count": 6
+    },
+    "journal-of-statistical-software": {
+      "count": 1
+    }
+  },
+  "mentionsFound": [
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "Assimilation and coverage of the foreign-born population in administrative records",
+      "publicationYear": 2018,
+      "doi": "10.3233/sji-170386"
+    },
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "Measuring SDG economic indicators in Uganda: Exploration of data deficiences",
+      "publicationYear": 2019,
+      "doi": "10.3233/sji-170422"
+    },
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "Integrating agricultural statistical operations for optimal data collection1",
+      "publicationYear": 2021,
+      "doi": "10.3233/sji-200631"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Comparative Study of Confidence Intervals for Proportions in Complex Sample Surveys†",
+      "publicationYear": 2019,
+      "doi": "10.1093/jssam/smy019"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Using American Community Survey Data to Improve Estimates from Smaller U.S. Surveys Through Bivariate Small Area Estimation Models",
+      "publicationYear": 2021,
+      "doi": "10.1093/jssam/smaa040"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Usefulness of Internet Surveys to Identify People with Disabilities: A Cautionary Tale",
+      "publicationYear": 2021,
+      "doi": "10.1093/jssam/smaa045"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "An Application of Adaptive Cluster Sampling to Surveying Informal Businesses",
+      "publicationYear": 2023,
+      "doi": "10.1093/jssam/smac037"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Frequent Survey Requests and Declining Response Rates: Evidence from the 2020 Census and Household Surveys",
+      "publicationYear": 2024,
+      "doi": "10.1093/jssam/smae022"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "BART-FH: Flexible Nonlinear Modeling for Small Area Estimation",
+      "publicationYear": 2026,
+      "doi": "10.1093/jssam/smaf050"
+    },
+    {
+      "journalId": "journal-of-statistical-software",
+      "journalTitle": "Journal of Statistical Software",
+      "articleTitle": "Working with the American Community Survey in R: A Guide to Using the acs Package",
+      "publicationYear": 2017,
+      "doi": "10.18637/jss.v076.b01"
+    }
+  ],
+  "followers": null,
+  "watchers": null,
+  "subscriptions": null,
+  "collaborators": null,
+  "issues": null,
+  "releases": null,
+  "pull_requests": null,
+  "awesome_metric": 1,
+  "awesome_metric_breakdown": {
+    "maturity": 0,
+    "documentation": 0,
+    "use": 3.101432070325798,
+    "community": null
+  },
+  "awesome_metric_method": "Equal average of available 0.0-5.0 category scores; count signals log-normalized to documented caps."
+}

@@ -1,0 +1,62 @@
+{
+  "watchers_count": 16,
+  "has_wiki": true,
+  "has_discussions": false,
+  "forks_count": 5,
+  "forks": 5,
+  "open_issues_count": 2,
+  "downloadsPer30Days": 644,
+  "downloadsUnavailableReason": null,
+  "VignetteBuilder": "knitr",
+  "vignetteCount": 3,
+  "vignettes": [
+    {
+      "title": "Optimization of sampling strata with the SamplingStrata package",
+      "url": "https://cran.r-project.org/web/packages/SamplingStrata/vignettes/SamplingStrata.html",
+      "wordCount": 4749
+    },
+    {
+      "title": "Use of models in SamplingStrata",
+      "url": "https://cran.r-project.org/web/packages/SamplingStrata/vignettes/models.html",
+      "wordCount": 1127
+    },
+    {
+      "title": "Spatial sampling with SamplingStrata",
+      "url": "https://cran.r-project.org/web/packages/SamplingStrata/vignettes/spatial.html",
+      "wordCount": 846
+    }
+  ],
+  "vignetteWordCount": 6722,
+  "used_in": 0,
+  "used_in_scope": "CRAN packages in metadata list",
+  "mentions": 1,
+  "mentionsByJournal": {
+    "journal-of-statistical-software": {
+      "count": 1
+    }
+  },
+  "mentionsFound": [
+    {
+      "journalId": "journal-of-statistical-software",
+      "journalTitle": "Journal of Statistical Software",
+      "articleTitle": "SamplingStrata: AnRPackage for the Optimization of Stratified Sampling",
+      "publicationYear": 2014,
+      "doi": "10.18637/jss.v061.i04"
+    }
+  ],
+  "followers": null,
+  "watchers": 16,
+  "subscriptions": 3,
+  "collaborators": null,
+  "issues": 2,
+  "releases": null,
+  "pull_requests": null,
+  "awesome_metric": 1.9,
+  "awesome_metric_breakdown": {
+    "maturity": 0,
+    "documentation": 4.485322183346941,
+    "use": 1.9739542588908963,
+    "community": 1.1370157068304099
+  },
+  "awesome_metric_method": "See metrics.md in this repo; metrics calculation is still experimental and subject to change."
+}

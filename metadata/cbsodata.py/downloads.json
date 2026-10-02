@@ -1,0 +1,19 @@
+{
+  "platform": "GitHub",
+  "metric": "downloadsPer30Days",
+  "downloadsPer30Days": 0,
+  "method": "release asset download-count snapshot delta",
+  "cumulativeReleaseAssetDownloads": 197,
+  "rateBasisDays": 1,
+  "snapshots": [
+    {
+      "observedAt": "2026-10-01T14:17:46.329Z",
+      "cumulativeDownloads": 197
+    },
+    {
+      "observedAt": "2026-10-02T11:22:06.116Z",
+      "cumulativeDownloads": 197
+    }
+  ],
+  "source": "https://api.github.com/repos/J535D165/cbsodata/releases"
+}

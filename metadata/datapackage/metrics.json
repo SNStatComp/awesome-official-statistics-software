@@ -1,0 +1,50 @@
+{
+  "watchers_count": 3,
+  "has_wiki": true,
+  "has_discussions": false,
+  "forks_count": 1,
+  "forks": 1,
+  "open_issues_count": 11,
+  "downloadsPer30Days": 505,
+  "downloadsUnavailableReason": null,
+  "VignetteBuilder": "simplermarkdown",
+  "vignetteCount": 3,
+  "vignettes": [
+    {
+      "title": "Creating a Data Package",
+      "url": "https://cran.r-project.org/web/packages/datapackage/vignettes/creating_a_datapackage.html",
+      "wordCount": 667
+    },
+    {
+      "title": "Introduction to datapackage",
+      "url": "https://cran.r-project.org/web/packages/datapackage/vignettes/introduction.html",
+      "wordCount": 1469
+    },
+    {
+      "title": "Overview of support for the Data Package specification v2",
+      "url": "https://cran.r-project.org/web/packages/datapackage/vignettes/support.html",
+      "wordCount": 863
+    }
+  ],
+  "vignetteWordCount": 2999,
+  "used_in": 0,
+  "used_in_scope": "CRAN packages in metadata list",
+  "mentions": 0,
+  "mentionsByJournal": {},
+  "mentionsFound": [],
+  "followers": null,
+  "watchers": 3,
+  "subscriptions": 2,
+  "collaborators": null,
+  "issues": 11,
+  "releases": null,
+  "pull_requests": null,
+  "awesome_metric": 1.7,
+  "awesome_metric_breakdown": {
+    "maturity": 0,
+    "documentation": 4.392099304599244,
+    "use": 1.352074084029144,
+    "community": 1.0096015823245696
+  },
+  "awesome_metric_method": "See metrics.md in this repo; metrics calculation is still experimental and subject to change."
+}

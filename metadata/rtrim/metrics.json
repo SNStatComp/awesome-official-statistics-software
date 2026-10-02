@@ -1,0 +1,70 @@
+{
+  "watchers_count": 11,
+  "has_wiki": true,
+  "has_discussions": false,
+  "forks_count": 1,
+  "forks": 1,
+  "open_issues_count": 11,
+  "downloadsPer30Days": 473,
+  "downloadsUnavailableReason": null,
+  "VignetteBuilder": "knitr, R.rsp",
+  "vignetteCount": 7,
+  "vignettes": [
+    {
+      "title": "Frequently Asked Questions",
+      "url": "https://cran.r-project.org/web/packages/rtrim/vignettes/FAQ.html",
+      "wordCount": 4323
+    },
+    {
+      "title": "rtrim by example",
+      "url": "https://cran.r-project.org/web/packages/rtrim/vignettes/Skylark_example.html",
+      "wordCount": 1506
+    },
+    {
+      "title": "rtrim 2.0 extensions",
+      "url": "https://cran.r-project.org/web/packages/rtrim/vignettes/rtrim_2_extensions.html",
+      "wordCount": 2087
+    },
+    {
+      "title": "rtrim confidence intervals",
+      "url": "https://cran.r-project.org/web/packages/rtrim/vignettes/rtrim_confidence_intervals.html",
+      "wordCount": 1553
+    },
+    {
+      "title": "rtrim for TRIM3 users",
+      "url": "https://cran.r-project.org/web/packages/rtrim/vignettes/rtrim_for_TRIM_users.html",
+      "wordCount": 1201
+    },
+    {
+      "title": "Taming overdispersion",
+      "url": "https://cran.r-project.org/web/packages/rtrim/vignettes/taming_overdispersion.html",
+      "wordCount": 876
+    },
+    {
+      "title": "Models and statistical methods in rtrim",
+      "url": "https://cran.r-project.org/web/packages/rtrim/vignettes/TRIM_methods_v2.pdf",
+      "wordCount": 13067
+    }
+  ],
+  "vignetteWordCount": 24613,
+  "used_in": 0,
+  "used_in_scope": "CRAN packages in metadata list",
+  "mentions": 0,
+  "mentionsByJournal": {},
+  "mentionsFound": [],
+  "followers": null,
+  "watchers": 11,
+  "subscriptions": 6,
+  "collaborators": null,
+  "issues": 11,
+  "releases": null,
+  "pull_requests": null,
+  "awesome_metric": 1.9,
+  "awesome_metric_breakdown": {
+    "maturity": 0,
+    "documentation": 4.918121438142673,
+    "use": 1.3378880087680936,
+    "community": 1.2912601751119932
+  },
+  "awesome_metric_method": "See metrics.md in this repo; metrics calculation is still experimental and subject to change."
+}

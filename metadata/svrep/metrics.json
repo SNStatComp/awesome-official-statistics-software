@@ -1,0 +1,55 @@
+{
+  "watchers_count": 10,
+  "has_wiki": true,
+  "has_discussions": false,
+  "forks_count": 3,
+  "forks": 3,
+  "open_issues_count": 1,
+  "downloadsPer30Days": 606,
+  "downloadsUnavailableReason": null,
+  "VignetteBuilder": "knitr, rmarkdown",
+  "vignetteCount": 4,
+  "vignettes": [
+    {
+      "title": "Bootstrap Methods for Surveys",
+      "url": "https://cran.r-project.org/web/packages/svrep/vignettes/bootstrap-replicates.html",
+      "wordCount": 4897
+    },
+    {
+      "title": "Nonresponse Adjustments",
+      "url": "https://cran.r-project.org/web/packages/svrep/vignettes/nonresponse-adjustments.html",
+      "wordCount": 1578
+    },
+    {
+      "title": "Calibrating to Estimated Control Totals",
+      "url": "https://cran.r-project.org/web/packages/svrep/vignettes/sample-based-calibration.html",
+      "wordCount": 2391
+    },
+    {
+      "title": "Replication Methods for Two-phase Sampling",
+      "url": "https://cran.r-project.org/web/packages/svrep/vignettes/two-phase-sampling.html",
+      "wordCount": 6819
+    }
+  ],
+  "vignetteWordCount": 15685,
+  "used_in": 1,
+  "used_in_scope": "CRAN packages in metadata list",
+  "mentions": 0,
+  "mentionsByJournal": {},
+  "mentionsFound": [],
+  "followers": null,
+  "watchers": 10,
+  "subscriptions": 1,
+  "collaborators": null,
+  "issues": 1,
+  "releases": null,
+  "pull_requests": null,
+  "awesome_metric": 2,
+  "awesome_metric_breakdown": {
+    "maturity": 1.138351243484765,
+    "documentation": 4.738875739764394,
+    "use": 1.3915931368212318,
+    "community": 0.820598557899437
+  },
+  "awesome_metric_method": "See metrics.md in this repo; metrics calculation is still experimental and subject to change."
+}

@@ -1,0 +1,40 @@
+{
+  "watchers_count": 94,
+  "has_wiki": true,
+  "has_discussions": false,
+  "forks_count": 11,
+  "forks": 11,
+  "open_issues_count": 13,
+  "downloadsPer30Days": 1968,
+  "downloadsUnavailableReason": null,
+  "VignetteBuilder": "knitr",
+  "vignetteCount": 1,
+  "vignettes": [
+    {
+      "title": "Getting started with simputation",
+      "url": "https://cran.r-project.org/web/packages/simputation/vignettes/intro.html",
+      "wordCount": 895
+    }
+  ],
+  "vignetteWordCount": 895,
+  "used_in": 0,
+  "used_in_scope": "CRAN packages in metadata list",
+  "mentions": 0,
+  "mentionsByJournal": {},
+  "mentionsFound": [],
+  "followers": null,
+  "watchers": 94,
+  "subscriptions": 3,
+  "collaborators": null,
+  "issues": 13,
+  "releases": null,
+  "pull_requests": null,
+  "awesome_metric": 1.8,
+  "awesome_metric_breakdown": {
+    "maturity": 0,
+    "documentation": 3.768924967963812,
+    "use": 1.6471214274047186,
+    "community": 1.831352715607098
+  },
+  "awesome_metric_method": "See metrics.md in this repo; metrics calculation is still experimental and subject to change."
+}

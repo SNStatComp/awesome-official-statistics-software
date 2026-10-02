@@ -1,0 +1,8 @@
+{
+  "platform": "PyPI",
+  "metric": "downloadsPer30Days",
+  "method": "PyPI Stats last_month; excludes known mirrors",
+  "downloadsPer30Days": 40,
+  "period": "last_month",
+  "source": "https://pypistats.org/api/packages/banff/recent"
+}

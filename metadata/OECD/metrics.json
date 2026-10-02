@@ -1,0 +1,157 @@
+{
+  "watchers_count": 145,
+  "has_wiki": true,
+  "has_discussions": false,
+  "forks_count": 22,
+  "forks": 22,
+  "open_issues_count": 11,
+  "downloadsPer30Days": 769,
+  "downloadsUnavailableReason": null,
+  "VignetteBuilder": null,
+  "vignetteCount": 0,
+  "vignettes": [],
+  "vignetteWordCount": 0,
+  "used_in": 0,
+  "used_in_scope": "CRAN packages in metadata list",
+  "mentions": 16,
+  "mentionsByJournal": {
+    "statistical-journal-of-the-iaos": {
+      "count": 9
+    },
+    "statistics-in-transition-new-series": {
+      "count": 5
+    },
+    "international-statistical-review": {
+      "count": 2
+    }
+  },
+  "mentionsFound": [
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "Statistical monitoring for politics in the European Union and the OECD, supporting economic growth and social progress: A comparison between Europe 2020 and the OECD Better Life Initiative",
+      "publicationYear": 2018,
+      "doi": "10.3233/sji-171085"
+    },
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "SNA and beyond: Towards a broader accounting framework that links the SNA, SDGs and other global initiatives1",
+      "publicationYear": 2020,
+      "doi": "10.3233/sji-200653"
+    },
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "The impact of estimated sub-national purchasing power parity on macroeconomic measures1",
+      "publicationYear": 2022,
+      "doi": "10.3233/sji-220934"
+    },
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "From local prices to the global economy: A unique global collaboration that underpins the International Comparison Program",
+      "publicationYear": 2022,
+      "doi": "10.3233/sji-220047"
+    },
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "Rebuilding of the National Statistical System of Argentina. Some lessons learned1",
+      "publicationYear": 2023,
+      "doi": "10.3233/sji-220117"
+    },
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "Governments measure during the COVID crisis and statistical implications in national accounts: The case of tax deferrals1",
+      "publicationYear": 2023,
+      "doi": "10.3233/sji-220112"
+    },
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "An OECD perspective on microdata access: Trends, opportunities and challenges",
+      "publicationYear": 2009,
+      "doi": "10.3233/sji-2009-0702"
+    },
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "Monitoring Informality for Social Policy Making: The OECD Key Indicators of Informality based on Individuals and their Household (KIIbIH)",
+      "publicationYear": 2024,
+      "doi": "10.1177/18747655241296387"
+    },
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "Identifying functional urban areas using administrative data: The case of Ankara, Türkiye",
+      "publicationYear": 2025,
+      "doi": "10.1177/18747655251388905"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "ANOTHER LOOK AT THE STATIONARITY OF INFLATION RATES IN OECD COUNTRIES: APPLICATION OF STRUCTURAL BREAK-GARCH-BASED UNIT ROOT TESTS",
+      "publicationYear": 2019,
+      "doi": "10.21307/stattrans-2018-02"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "The impact of the Russian-Ukrainian war on the green transition and the energy crisis: Ukrainian scenario of circular economy development",
+      "publicationYear": 2023,
+      "doi": "10.59170/stattrans-2023-004"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "Subjective approach to assessing poverty in Poland – implications for social policy",
+      "publicationYear": 2017,
+      "doi": "10.59170/stattrans-2017-026"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "Statistical system of the countries-members of the Commonwealth of Independent States: 20 years on the way to integration (CIS-STAT)",
+      "publicationYear": 2011,
+      "doi": "10.59170/stattrans-2011-033"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "Rethinking equivalence scales in the measurement of extreme poverty: evidence from Poland",
+      "publicationYear": 2026,
+      "doi": "10.59139/stattrans-2026-035"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "OECD Efforts to Address the Measurement and Policy Challenges Posed by the Information Society",
+      "publicationYear": 2003,
+      "doi": "10.1111/j.1751-5823.2003.tb00182.x"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Official Statistics on ICT in Japan",
+      "publicationYear": 2003,
+      "doi": "10.1111/j.1751-5823.2003.tb00186.x"
+    }
+  ],
+  "followers": null,
+  "watchers": 145,
+  "subscriptions": 13,
+  "collaborators": null,
+  "issues": 11,
+  "releases": null,
+  "pull_requests": null,
+  "awesome_metric": 1.9,
+  "awesome_metric_breakdown": {
+    "maturity": 0,
+    "documentation": 1.6666666666666665,
+    "use": 3.7697283130241512,
+    "community": 2.146135193280748
+  },
+  "awesome_metric_method": "See metrics.md in this repo; metrics calculation is still experimental and subject to change."
+}

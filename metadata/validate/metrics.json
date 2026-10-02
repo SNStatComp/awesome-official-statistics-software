@@ -1,0 +1,209 @@
+{
+  "watchers_count": 434,
+  "has_wiki": true,
+  "has_discussions": false,
+  "forks_count": 42,
+  "forks": 42,
+  "open_issues_count": 52,
+  "downloadsPer30Days": 3253,
+  "downloadsUnavailableReason": null,
+  "VignetteBuilder": "knitr",
+  "vignetteCount": 2,
+  "vignettes": [
+    {
+      "title": "The Data Validation Cookbook",
+      "url": "https://cran.r-project.org/web/packages/validate/vignettes/cookbook.html",
+      "wordCount": 11977
+    },
+    {
+      "title": "Data Validation Infrastructure for R",
+      "url": "https://cran.r-project.org/web/packages/validate/vignettes/JSS_3483.pdf",
+      "wordCount": 11447
+    }
+  ],
+  "vignetteWordCount": 23424,
+  "used_in": 7,
+  "used_in_scope": "CRAN packages in metadata list",
+  "mentions": 21,
+  "mentionsByJournal": {
+    "statistical-journal-of-the-iaos": {
+      "count": 8
+    },
+    "journal-of-official-statistics": {
+      "count": 2
+    },
+    "statistics-in-transition-new-series": {
+      "count": 5
+    },
+    "journal-of-survey-statistics-and-methodology": {
+      "count": 3
+    },
+    "international-statistical-review": {
+      "count": 3
+    }
+  },
+  "mentionsFound": [
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "Using cartoon videos to survey children and adolescents in the global south: A Tanzanian example",
+      "publicationYear": 2020,
+      "doi": "10.3233/sji-200698"
+    },
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "Identifying spatially differentiated pathways for rural transformation in Pakistan",
+      "publicationYear": 2024,
+      "doi": "10.3233/sji-230082"
+    },
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "Nowcasting industrial production index with high-frequency toll data",
+      "publicationYear": 2025,
+      "doi": "10.1177/18747655241307540"
+    },
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "Building estimates for totals in respondent driven sampling",
+      "publicationYear": 2025,
+      "doi": "10.1177/18747655251325424"
+    },
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "Computation strategy for population mean in stratified random sampling: A problem of budget constraint",
+      "publicationYear": 2025,
+      "doi": "10.1177/18747655251335756"
+    },
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "AI integration in higher education: Exploring practical implications and perspectives",
+      "publicationYear": 2025,
+      "doi": "10.1177/18747655251342648"
+    },
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "Beyond methodology: A thick description of public trust in official statistics in a low-income data ecosystem — evidence from Uganda during the COVID-19 pandemic",
+      "publicationYear": 2026,
+      "doi": "10.1177/18747655261468481"
+    },
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "Weightflow: Reproducible, recipe-aware survey weighting for official statistics in R",
+      "publicationYear": 2026,
+      "doi": "10.1177/18747655261484262"
+    },
+    {
+      "journalId": "journal-of-official-statistics",
+      "journalTitle": "Journal of Official Statistics",
+      "articleTitle": "Synthetic Census Microdata Generation: A Comparative Study of Synthesis Methods Examining the Trade-Off Between Disclosure Risk and Utility",
+      "publicationYear": 2024,
+      "doi": "10.1177/0282423x241266523"
+    },
+    {
+      "journalId": "journal-of-official-statistics",
+      "journalTitle": "Journal of Official Statistics",
+      "articleTitle": "How Does Noise Protection Affect the Accuracy of Life Expectancy and Other Demographic Indicators?",
+      "publicationYear": 2026,
+      "doi": "10.1177/0282423x251414001"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "Proposal of a causal model measuring the impact of an ISO 9001 certified Quality Management System on financial performance of Moroccan service-based companies",
+      "publicationYear": 2023,
+      "doi": "10.59170/stattrans-2023-026"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "Modeling the impact of an ISO 9001 certified quality management system on the organizational performance of Moroccan services firms",
+      "publicationYear": 2024,
+      "doi": "10.59170/stattrans-2024-015"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "Combined effect of fault detection and fault introduction rate on software reliability modeling",
+      "publicationYear": 2009,
+      "doi": "10.59170/stattrans-2009-034"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "A comprehensive exploration of complete cross-validation for circular data",
+      "publicationYear": 2024,
+      "doi": "10.59170/stattrans-2024-024"
+    },
+    {
+      "journalId": "statistics-in-transition-new-series",
+      "journalTitle": "Statistics in Transition new series",
+      "articleTitle": "Kumaraswamy family of generalized Type II Exponentiated Half Logistic-G distribution: properties and statistical inference",
+      "publicationYear": 2026,
+      "doi": "10.59139/stattrans-2026-030"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Empirical Best Prediction of Small Area Means Based on a Unit-Level Gamma-Poisson Model",
+      "publicationYear": 2022,
+      "doi": "10.1093/jssam/smac026"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Constructing State and National Estimates of Vaccination Rates from Immunization Information Systems",
+      "publicationYear": 2023,
+      "doi": "10.1093/jssam/smac042"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Who are We Missing? Using Administrative and Contextual Data to Measure and Correct Partisan Nonresponse in Opinion Surveys",
+      "publicationYear": 2026,
+      "doi": "10.1093/jssam/smag017"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Anomalies in the Foundations of Ridge Regression",
+      "publicationYear": 2008,
+      "doi": "10.1111/j.1751-5823.2007.00041.x"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Should We Condition on the Number of Points When Modelling Spatial Point Patterns?",
+      "publicationYear": 2022,
+      "doi": "10.1111/insr.12501"
+    },
+    {
+      "journalId": "international-statistical-review",
+      "journalTitle": "International Statistical Review",
+      "articleTitle": "Validating an Index of Selection Bias for Proportions in Non‐Probability Samples",
+      "publicationYear": 2024,
+      "doi": "10.1111/insr.12590"
+    }
+  ],
+  "followers": null,
+  "watchers": 434,
+  "subscriptions": 17,
+  "collaborators": null,
+  "issues": 52,
+  "releases": null,
+  "pull_requests": null,
+  "awesome_metric": 3.7,
+  "awesome_metric_breakdown": {
+    "maturity": 3.4150537304542943,
+    "documentation": 4.428835410421109,
+    "use": 4.256207248885813,
+    "community": 2.7630366358845952
+  },
+  "awesome_metric_method": "See metrics.md in this repo; metrics calculation is still experimental and subject to change."
+}

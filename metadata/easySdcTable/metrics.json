@@ -1,0 +1,45 @@
+{
+  "watchers_count": 1,
+  "has_wiki": true,
+  "has_discussions": false,
+  "forks_count": 0,
+  "forks": 0,
+  "open_issues_count": 0,
+  "downloadsPer30Days": 416,
+  "downloadsUnavailableReason": null,
+  "VignetteBuilder": "knitr",
+  "vignetteCount": 2,
+  "vignettes": [
+    {
+      "title": "Introduction to easySdcTable",
+      "url": "https://cran.r-project.org/web/packages/easySdcTable/vignettes/easySdcTableVignette.html",
+      "wordCount": 945
+    },
+    {
+      "title": "The problem of singletons and zeros",
+      "url": "https://cran.r-project.org/web/packages/easySdcTable/vignettes/singletonsAndZeros.html",
+      "wordCount": 1259
+    }
+  ],
+  "vignetteWordCount": 2204,
+  "used_in": 0,
+  "used_in_scope": "CRAN packages in metadata list",
+  "mentions": 0,
+  "mentionsByJournal": {},
+  "mentionsFound": [],
+  "followers": null,
+  "watchers": 1,
+  "subscriptions": 7,
+  "collaborators": null,
+  "issues": 0,
+  "releases": null,
+  "pull_requests": null,
+  "awesome_metric": 1.5,
+  "awesome_metric_breakdown": {
+    "maturity": 0,
+    "documentation": 4.155831670291984,
+    "use": 1.3100668895829262,
+    "community": 0.40131526024644826
+  },
+  "awesome_metric_method": "See metrics.md in this repo; metrics calculation is still experimental and subject to change."
+}

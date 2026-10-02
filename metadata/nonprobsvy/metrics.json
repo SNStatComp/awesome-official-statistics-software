@@ -1,0 +1,52 @@
+{
+  "watchers_count": 57,
+  "has_wiki": true,
+  "has_discussions": true,
+  "forks_count": 5,
+  "forks": 5,
+  "open_issues_count": 16,
+  "downloadsPer30Days": 555,
+  "downloadsUnavailableReason": null,
+  "VignetteBuilder": "knitr",
+  "vignetteCount": 1,
+  "vignettes": [
+    {
+      "title": "nonprobsvy: An R Package for Modern Methods for Non-Probability Surveys",
+      "url": "https://cran.r-project.org/web/packages/nonprobsvy/vignettes/nonprobsvy.html",
+      "wordCount": 13647
+    }
+  ],
+  "vignetteWordCount": 13647,
+  "used_in": 0,
+  "used_in_scope": "CRAN packages in metadata list",
+  "mentions": 1,
+  "mentionsByJournal": {
+    "journal-of-statistical-software": {
+      "count": 1
+    }
+  },
+  "mentionsFound": [
+    {
+      "journalId": "journal-of-statistical-software",
+      "journalTitle": "Journal of Statistical Software",
+      "articleTitle": "nonprobsvy : An R Package for Modern Methods for Non-Probability Surveys",
+      "publicationYear": 2026,
+      "doi": "10.18637/jss.v117.i02"
+    }
+  ],
+  "followers": null,
+  "watchers": 57,
+  "subscriptions": 5,
+  "collaborators": null,
+  "issues": 16,
+  "releases": null,
+  "pull_requests": null,
+  "awesome_metric": 2.2,
+  "awesome_metric_breakdown": {
+    "maturity": 0,
+    "documentation": 4.083557434440902,
+    "use": 1.941711825369573,
+    "community": 2.749190025218338
+  },
+  "awesome_metric_method": "See metrics.md in this repo; metrics calculation is still experimental and subject to change."
+}

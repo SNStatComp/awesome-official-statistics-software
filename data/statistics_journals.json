@@ -1,0 +1,170 @@
+{
+  "schemaVersion": "1.0",
+  "description": "Curated journals relevant to official statistics, survey methods, and statistical software.",
+  "discoverySources": [
+    {
+      "id": "google-scholar",
+      "title": "Google Scholar",
+      "type": "manual-search",
+      "searchUrl": "https://scholar.google.com/scholar",
+      "automatedCountsSupported": false,
+      "reason": "Google Scholar has no official public search API; automated scraping is unreliable and is not included in the automated mention count."
+    }
+  ],
+  "journals": [
+    {
+      "id": "statistical-journal-of-the-iaos",
+      "title": "Statistical Journal of the IAOS",
+      "abbreviation": "SJIAOS",
+      "mentionSearch": { "provider": "crossref", "issn": "1874-7655" },
+      "publisher": "SAGE Publications for the International Association for Official Statistics",
+      "scope": "Official statistics systems, their management, production, use, principles, and emerging challenges.",
+      "endpoints": {
+        "home": "https://journals.sagepub.com/home/SJI",
+        "aimsAndScope": "https://journals.sagepub.com/description/SJI",
+        "currentIssue": "https://journals.sagepub.com/toc/SJI/current",
+        "archive": "https://journals.sagepub.com/loi/SJI",
+        "submissionGuidelines": "https://journals.sagepub.com/author-instructions/SJI"
+      }
+    },
+    {
+      "id": "journal-of-official-statistics",
+      "title": "Journal of Official Statistics",
+      "abbreviation": "JOS",
+      "mentionSearch": { "provider": "crossref", "issn": "0282-423X" },
+      "publisher": "SAGE Publications",
+      "scope": "Methods and practices for collecting, processing, analyzing, and disseminating official statistics.",
+      "identifiers": {
+        "issn": "0282-423X",
+        "eissn": "2001-7367"
+      },
+      "endpoints": {
+        "journalHome": "https://www.jos.nu/",
+        "crossrefJournalMetadata": "https://api.crossref.org/journals/0282-423X"
+      }
+    },
+    {
+      "id": "survey-methodology",
+      "title": "Survey Methodology",
+      "mentionSearch": { "provider": "crossref", "supported": false, "reason": "No Crossref-indexed works were found for this journal's ISSN." },
+      "publisher": "Statistics Canada",
+      "scope": "Theoretical and applied survey methods relevant to national statistical offices and other statistical organizations.",
+      "endpoints": {
+        "home": "https://www150.statcan.gc.ca/n1/en/pub/12-001-x/",
+        "catalogueAndIssues": "https://www150.statcan.gc.ca/cgi-bin/IPS/display?cat_num=12-001-x",
+        "submissionInformation": "https://www150.statcan.gc.ca/pub/12-001-x/manuscripts-eng.htm",
+        "manuscriptGuidelines": "https://www150.statcan.gc.ca/pub/12-001-x/guideline-directives-eng.htm"
+      }
+    },
+    {
+      "id": "statistics-in-transition-new-series",
+      "title": "Statistics in Transition new series",
+      "abbreviation": "SiTns",
+      "mentionSearch": { "provider": "crossref", "issn": "1234-7655" },
+      "publisher": "Statistics Poland and the Polish Statistical Association",
+      "scope": "International statistical research published jointly by a national statistical office and a statistical association.",
+      "endpoints": {
+        "home": "https://sit.stat.gov.pl/",
+        "aimsAndScope": "https://sit.stat.gov.pl/AimScope",
+        "currentIssue": "https://sit.stat.gov.pl/Index",
+        "archive": "https://sit.stat.gov.pl/Archives",
+        "submissionSystem": "https://www.editorialsystem.com/sit/",
+        "authorInformation": "https://sit.stat.gov.pl/ForAuthors"
+      }
+    },
+    {
+      "id": "survey-research-methods",
+      "title": "Survey Research Methods",
+      "abbreviation": "SRM",
+      "mentionSearch": { "provider": "crossref", "supported": false, "reason": "No Crossref-indexed works were found for this journal." },
+      "publisher": "European Survey Research Association; hosted by the University of Konstanz",
+      "scope": "Peer-reviewed research on methodological issues related to survey research.",
+      "endpoints": {
+        "home": "https://ojs.ub.uni-konstanz.de/srm",
+        "about": "https://ojs.ub.uni-konstanz.de/srm/about",
+        "currentIssue": "https://ojs.ub.uni-konstanz.de/srm/issue/current",
+        "archive": "https://ojs.ub.uni-konstanz.de/srm/issue/archive",
+        "submissionGuidelines": "https://ojs.ub.uni-konstanz.de/srm/about/submissions#authorGuidelines"
+      }
+    },
+    {
+      "id": "journal-of-survey-statistics-and-methodology",
+      "title": "Journal of Survey Statistics and Methodology",
+      "abbreviation": "JSSAM",
+      "mentionSearch": { "provider": "crossref", "issn": "2325-0984" },
+      "publisher": "Oxford University Press and the American Statistical Association",
+      "scope": "Survey statistics and methodology, including design, data collection, estimation, and analysis.",
+      "endpoints": {
+        "home": "https://academic.oup.com/jssam"
+      }
+    },
+    {
+      "id": "international-statistical-review",
+      "title": "International Statistical Review",
+      "abbreviation": "ISR",
+      "mentionSearch": { "provider": "crossref", "issn": "0306-7734" },
+      "publisher": "International Statistical Institute and Wiley",
+      "scope": "International statistical research and reviews, including methods and practice relevant to official statistics.",
+      "endpoints": {
+        "home": "https://onlinelibrary.wiley.com/journal/17515823"
+      }
+    },
+    {
+      "id": "statistical-methods-and-applications",
+      "title": "Statistical Methods & Applications",
+      "abbreviation": "SMA",
+      "mentionSearch": { "provider": "crossref", "issn": "2287-7843" },
+      "publisher": "Springer Nature",
+      "scope": "Statistical methods and applications across fields, including methods used in official statistics.",
+      "endpoints": {
+        "home": "https://link.springer.com/journal/10260"
+      }
+    },
+    {
+      "id": "the-r-journal",
+      "title": "The R Journal",
+      "mentionSearch": { "provider": "crossref", "issn": "2073-4859" },
+      "publisher": "The R Foundation",
+      "scope": "Peer-reviewed articles about R packages, R software, applications, and related methods.",
+      "endpoints": {
+        "home": "https://journal.r-project.org/",
+        "currentIssue": "https://journal.r-project.org/issues/2026-3",
+        "archive": "https://journal.r-project.org/issues.html",
+        "submissions": "https://journal.r-project.org/submissions.html",
+        "articleFeed": "https://journal.r-project.org/articles.xml"
+      }
+    },
+    {
+      "id": "journal-of-statistical-software",
+      "title": "Journal of Statistical Software",
+      "abbreviation": "JSS",
+      "mentionSearch": { "provider": "crossref", "issn": "1548-7660" },
+      "publisher": "Foundation for Open Access Statistics",
+      "scope": "Statistical software, source code, and reproducible implementations of computational and statistical methods.",
+      "endpoints": {
+        "home": "https://www.jstatsoft.org/",
+        "mission": "https://www.jstatsoft.org/mission",
+        "currentArticles": "https://www.jstatsoft.org/index.php/jss/index",
+        "archive": "https://www.jstatsoft.org/index.php/jss/issue/archive",
+        "authorInformation": "https://www.jstatsoft.org/index.php/jss/authors",
+        "atomFeed": "https://www.jstatsoft.org/atom"
+      }
+    },
+    {
+      "id": "journal-of-computational-and-graphical-statistics",
+      "title": "Journal of Computational and Graphical Statistics",
+      "abbreviation": "JCGS",
+      "mentionSearch": { "provider": "crossref", "issn": "1061-8600" },
+      "publisher": "Informa UK on behalf of the American Statistical Association",
+      "scope": "Computational and graphical methods in statistics, including data analysis and numerical graphical displays.",
+      "endpoints": {
+        "home": "https://www.tandfonline.com/journals/ucgs20",
+        "aimsAndScope": "https://www.tandfonline.com/journals/ucgs20/about-this-journal#aims-and-scope",
+        "currentArticles": "https://www.tandfonline.com/action/showAxaArticles?journalCode=ucgs20",
+        "archive": "https://www.tandfonline.com/loi/ucgs20",
+        "submission": "https://rp.tandfonline.com/submission/create?journalCode=UCGS",
+        "rssFeed": "https://www.tandfonline.com/feed/rss/ucgs20"
+      }
+    }
+  ]
+}

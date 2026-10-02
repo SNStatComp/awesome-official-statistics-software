@@ -1,0 +1,73 @@
+{
+  "watchers_count": 519,
+  "has_wiki": true,
+  "has_discussions": true,
+  "forks_count": 123,
+  "forks": 123,
+  "open_issues_count": 32,
+  "downloadsPer30Days": 76616,
+  "downloadsUnavailableReason": null,
+  "VignetteBuilder": null,
+  "vignetteCount": 0,
+  "vignettes": [],
+  "vignetteWordCount": 0,
+  "used_in": 1,
+  "used_in_scope": "CRAN packages in metadata list",
+  "mentions": 4,
+  "mentionsByJournal": {
+    "statistical-journal-of-the-iaos": {
+      "count": 1
+    },
+    "journal-of-survey-statistics-and-methodology": {
+      "count": 1
+    },
+    "journal-of-statistical-software": {
+      "count": 2
+    }
+  },
+  "mentionsFound": [
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "Imputation for sub-sampling in Indonesian National Socioeconomic Survey",
+      "publicationYear": 2022,
+      "doi": "10.3233/sji-220085"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "A Comparative Study of Imputation Methods for Multivariate Ordinal Data",
+      "publicationYear": 2021,
+      "doi": "10.1093/jssam/smab028"
+    },
+    {
+      "journalId": "journal-of-statistical-software",
+      "journalTitle": "Journal of Statistical Software",
+      "articleTitle": "mice: Multivariate Imputation by Chained Equations inR",
+      "publicationYear": 2011,
+      "doi": "10.18637/jss.v045.i03"
+    },
+    {
+      "journalId": "journal-of-statistical-software",
+      "journalTitle": "Journal of Statistical Software",
+      "articleTitle": "Multiple Imputation by Chained Equations (MICE): Implementation in Stata",
+      "publicationYear": 2011,
+      "doi": "10.18637/jss.v045.i04"
+    }
+  ],
+  "followers": null,
+  "watchers": 519,
+  "subscriptions": 18,
+  "collaborators": null,
+  "issues": 32,
+  "releases": null,
+  "pull_requests": null,
+  "awesome_metric": 2.6,
+  "awesome_metric_breakdown": {
+    "maturity": 1.138351243484765,
+    "documentation": 1.6666666666666665,
+    "use": 3.763745317241459,
+    "community": 3.864400962858323
+  },
+  "awesome_metric_method": "See metrics.md in this repo; metrics calculation is still experimental and subject to change."
+}

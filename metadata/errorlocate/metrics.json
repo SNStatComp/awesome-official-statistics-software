@@ -1,0 +1,45 @@
+{
+  "watchers_count": 22,
+  "has_wiki": false,
+  "has_discussions": false,
+  "forks_count": 3,
+  "forks": 3,
+  "open_issues_count": 13,
+  "downloadsPer30Days": 620,
+  "downloadsUnavailableReason": null,
+  "VignetteBuilder": "knitr",
+  "vignetteCount": 2,
+  "vignettes": [
+    {
+      "title": "Find errors in data",
+      "url": "https://cran.r-project.org/web/packages/errorlocate/vignettes/errorlocate.html",
+      "wordCount": 509
+    },
+    {
+      "title": "Inspecting the errorlocate Mixed Integer Program",
+      "url": "https://cran.r-project.org/web/packages/errorlocate/vignettes/inspect_mip.html",
+      "wordCount": 1191
+    }
+  ],
+  "vignetteWordCount": 1700,
+  "used_in": 0,
+  "used_in_scope": "CRAN packages in metadata list",
+  "mentions": 0,
+  "mentionsByJournal": {},
+  "mentionsFound": [],
+  "followers": null,
+  "watchers": 22,
+  "subscriptions": 3,
+  "collaborators": null,
+  "issues": 13,
+  "releases": null,
+  "pull_requests": null,
+  "awesome_metric": 1.4,
+  "awesome_metric_breakdown": {
+    "maturity": 0,
+    "documentation": 2.875850612805011,
+    "use": 1.3965445870711393,
+    "community": 1.4493283011097131
+  },
+  "awesome_metric_method": "See metrics.md in this repo; metrics calculation is still experimental and subject to change."
+}

@@ -1,0 +1,19 @@
+{
+  "platform": "GitHub",
+  "metric": "downloadsPer30Days",
+  "downloadsPer30Days": 0,
+  "method": "release asset download-count snapshot delta",
+  "cumulativeReleaseAssetDownloads": 2075,
+  "rateBasisDays": 1,
+  "snapshots": [
+    {
+      "observedAt": "2026-10-01T14:17:16.697Z",
+      "cumulativeDownloads": 2075
+    },
+    {
+      "observedAt": "2026-10-02T11:21:38.260Z",
+      "cumulativeDownloads": 2075
+    }
+  ],
+  "source": "https://api.github.com/repos/sdcTools/muargus/releases"
+}
