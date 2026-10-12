@@ -8,20 +8,9 @@
   "downloadsPer30Days": 382,
   "downloadsUnavailableReason": null,
   "VignetteBuilder": "knitr",
-  "vignetteCount": 2,
-  "vignettes": [
-    {
-      "title": "Introduction to RISQ",
-      "url": "https://cran.r-project.org/web/packages/risq/vignettes/introduction.html",
-      "wordCount": 1306
-    },
-    {
-      "title": "Theory behind RISQ",
-      "url": "https://cran.r-project.org/web/packages/risq/vignettes/theory.pdf",
-      "wordCount": 4556
-    }
-  ],
-  "vignetteWordCount": 5862,
+  "vignetteCount": null,
+  "vignettes": null,
+  "vignetteWordCount": null,
   "used_in": 0,
   "used_in_scope": "CRAN packages in metadata list",
   "mentions": 0,
@@ -34,10 +23,10 @@
   "issues": 0,
   "releases": null,
   "pull_requests": null,
-  "awesome_metric": 1.4,
+  "awesome_metric": 1.6,
   "awesome_metric_breakdown": {
     "maturity": 0,
-    "documentation": 4.2688113538539225,
+    "documentation": 5,
     "use": 1.2915982651219218,
     "community": 0
   },
