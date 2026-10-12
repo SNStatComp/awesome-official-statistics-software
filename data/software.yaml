@@ -1335,3 +1335,10 @@
   - catalogue_retrieval
   - endpoint_queries
   - caching
+- type: Node.js
+  name: Invokely MCP connector
+  url: https://github.com/estevecastells/invokely-mcp-connector
+  description: Local stdio adapter to Invokely's hosted official-statistics MCP service. The repository contains the MIT-licensed connector only; trial use is limited to 25 calls per day per IP, while account access requires an API key.
+  gsbpm_name: Access to official statistics
+  gsbpm_number: '7.4'
+  license: 'MIT'
