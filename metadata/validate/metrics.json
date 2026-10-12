@@ -5,7 +5,7 @@
   "forks_count": 42,
   "forks": 42,
   "open_issues_count": 52,
-  "downloadsPer30Days": 3253,
+  "downloadsPer30Days": 3333,
   "downloadsUnavailableReason": null,
   "VignetteBuilder": "knitr",
   "vignetteCount": 2,
@@ -47,6 +47,10 @@
       "journalId": "statistical-journal-of-the-iaos",
       "journalTitle": "Statistical Journal of the IAOS",
       "articleTitle": "Using cartoon videos to survey children and adolescents in the global south: A Tanzanian example",
+      "authors": [
+        "Deborah Levison",
+        "Anna Bolgrien"
+      ],
       "publicationYear": 2020,
       "doi": "10.3233/sji-200698"
     },
@@ -54,6 +58,12 @@
       "journalId": "statistical-journal-of-the-iaos",
       "journalTitle": "Statistical Journal of the IAOS",
       "articleTitle": "Identifying spatially differentiated pathways for rural transformation in Pakistan",
+      "authors": [
+        "Vandercasteelen Joachim",
+        "Namesh Nazar",
+        "Yahya Bajwa",
+        "Willem Janssen"
+      ],
       "publicationYear": 2024,
       "doi": "10.3233/sji-230082"
     },
@@ -61,6 +71,12 @@
       "journalId": "statistical-journal-of-the-iaos",
       "journalTitle": "Statistical Journal of the IAOS",
       "articleTitle": "Nowcasting industrial production index with high-frequency toll data",
+      "authors": [
+        "Peter Knížat",
+        "Andrea Furková",
+        "Helena Glaser-Opitzová",
+        "Peter Peťko"
+      ],
       "publicationYear": 2025,
       "doi": "10.1177/18747655241307540"
     },
@@ -68,6 +84,13 @@
       "journalId": "statistical-journal-of-the-iaos",
       "journalTitle": "Statistical Journal of the IAOS",
       "articleTitle": "Building estimates for totals in respondent driven sampling",
+      "authors": [
+        "Giorgio Alleva",
+        "Piero Demetrio Falorsi",
+        "Stefano Falorsi",
+        "Andrea Fasulo",
+        "Paolo Righi"
+      ],
       "publicationYear": 2025,
       "doi": "10.1177/18747655251325424"
     },
@@ -75,6 +98,12 @@
       "journalId": "statistical-journal-of-the-iaos",
       "journalTitle": "Statistical Journal of the IAOS",
       "articleTitle": "Computation strategy for population mean in stratified random sampling: A problem of budget constraint",
+      "authors": [
+        "Mukesh Kumar Verma",
+        "Subhash Kumar Yadav",
+        "Rahul Varshney",
+        "Gajendra K Vishwakarma"
+      ],
       "publicationYear": 2025,
       "doi": "10.1177/18747655251335756"
     },
@@ -82,6 +111,11 @@
       "journalId": "statistical-journal-of-the-iaos",
       "journalTitle": "Statistical Journal of the IAOS",
       "articleTitle": "AI integration in higher education: Exploring practical implications and perspectives",
+      "authors": [
+        "S Santhosh Kumar",
+        "Abdul Kadir Khan",
+        "Sandip Shinde"
+      ],
       "publicationYear": 2025,
       "doi": "10.1177/18747655251342648"
     },
@@ -89,6 +123,13 @@
       "journalId": "statistical-journal-of-the-iaos",
       "journalTitle": "Statistical Journal of the IAOS",
       "articleTitle": "Beyond methodology: A thick description of public trust in official statistics in a low-income data ecosystem — evidence from Uganda during the COVID-19 pandemic",
+      "authors": [
+        "Cyprian Misinde",
+        "Olivia Nankinga",
+        "Peninah Agaba",
+        "Deogracious Kiggudde",
+        "Allan Mbabani"
+      ],
       "publicationYear": 2026,
       "doi": "10.1177/18747655261468481"
     },
@@ -96,6 +137,9 @@
       "journalId": "statistical-journal-of-the-iaos",
       "journalTitle": "Statistical Journal of the IAOS",
       "articleTitle": "Weightflow: Reproducible, recipe-aware survey weighting for official statistics in R",
+      "authors": [
+        "Juan Pablo Ferreira"
+      ],
       "publicationYear": 2026,
       "doi": "10.1177/18747655261484262"
     },
@@ -103,6 +147,11 @@
       "journalId": "journal-of-official-statistics",
       "journalTitle": "Journal of Official Statistics",
       "articleTitle": "Synthetic Census Microdata Generation: A Comparative Study of Synthesis Methods Examining the Trade-Off Between Disclosure Risk and Utility",
+      "authors": [
+        "Claire Little",
+        "Richard Allmendinger",
+        "Mark Elliot"
+      ],
       "publicationYear": 2024,
       "doi": "10.1177/0282423x241266523"
     },
@@ -110,6 +159,9 @@
       "journalId": "journal-of-official-statistics",
       "journalTitle": "Journal of Official Statistics",
       "articleTitle": "How Does Noise Protection Affect the Accuracy of Life Expectancy and Other Demographic Indicators?",
+      "authors": [
+        "Fabian Bach"
+      ],
       "publicationYear": 2026,
       "doi": "10.1177/0282423x251414001"
     },
@@ -117,6 +169,13 @@
       "journalId": "statistics-in-transition-new-series",
       "journalTitle": "Statistics in Transition new series",
       "articleTitle": "Proposal of a causal model measuring the impact of an ISO 9001 certified Quality Management System on financial performance of Moroccan service-based companies",
+      "authors": [
+        "El Moury Ibtissam",
+        "Mohamed Hadini",
+        "Adil Chebir",
+        "Ben Ali Mohamed",
+        "Echchelh Adil"
+      ],
       "publicationYear": 2023,
       "doi": "10.59170/stattrans-2023-026"
     },
@@ -124,6 +183,12 @@
       "journalId": "statistics-in-transition-new-series",
       "journalTitle": "Statistics in Transition new series",
       "articleTitle": "Modeling the impact of an ISO 9001 certified quality management system on the organizational performance of Moroccan services firms",
+      "authors": [
+        "Ibtissam El Moury",
+        "Houda Kacimi",
+        "Sara Fennane",
+        "Adil Echchelh"
+      ],
       "publicationYear": 2024,
       "doi": "10.59170/stattrans-2024-015"
     },
@@ -131,6 +196,12 @@
       "journalId": "statistics-in-transition-new-series",
       "journalTitle": "Statistics in Transition new series",
       "articleTitle": "Combined effect of fault detection and fault introduction rate on software reliability modeling",
+      "authors": [
+        "S. Chatterjee",
+        "L.N. Upadhyaya",
+        "J.B. Singh",
+        "S. Nigam"
+      ],
       "publicationYear": 2009,
       "doi": "10.59170/stattrans-2009-034"
     },
@@ -138,6 +209,12 @@
       "journalId": "statistics-in-transition-new-series",
       "journalTitle": "Statistics in Transition new series",
       "articleTitle": "A comprehensive exploration of complete cross-validation for circular data",
+      "authors": [
+        "Kamila Hasilová",
+        "Ivana Horová",
+        "David Vališ",
+        "Stanislav Zámecník"
+      ],
       "publicationYear": 2024,
       "doi": "10.59170/stattrans-2024-024"
     },
@@ -145,6 +222,12 @@
       "journalId": "statistics-in-transition-new-series",
       "journalTitle": "Statistics in Transition new series",
       "articleTitle": "Kumaraswamy family of generalized Type II Exponentiated Half Logistic-G distribution: properties and statistical inference",
+      "authors": [
+        "Fastel Chipepa",
+        "Wilbert Nkomo",
+        "Nyika Mtemeri",
+        "Takesure Nyakuamba"
+      ],
       "publicationYear": 2026,
       "doi": "10.59139/stattrans-2026-030"
     },
@@ -152,6 +235,9 @@
       "journalId": "journal-of-survey-statistics-and-methodology",
       "journalTitle": "Journal of Survey Statistics and Methodology",
       "articleTitle": "Empirical Best Prediction of Small Area Means Based on a Unit-Level Gamma-Poisson Model",
+      "authors": [
+        "Emily Berg"
+      ],
       "publicationYear": 2022,
       "doi": "10.1093/jssam/smac026"
     },
@@ -159,6 +245,17 @@
       "journalId": "journal-of-survey-statistics-and-methodology",
       "journalTitle": "Journal of Survey Statistics and Methodology",
       "articleTitle": "Constructing State and National Estimates of Vaccination Rates from Immunization Information Systems",
+      "authors": [
+        "Trivellore Raghunathan",
+        "Karen Kirtland",
+        "Ji Li",
+        "Kevin White",
+        "Bhavini Murthy",
+        "Xia Michelle Lin",
+        "Latreace Harris",
+        "Lynn Gibbs-Scharf",
+        "Elizabeth Zell"
+      ],
       "publicationYear": 2023,
       "doi": "10.1093/jssam/smac042"
     },
@@ -166,6 +263,15 @@
       "journalId": "journal-of-survey-statistics-and-methodology",
       "journalTitle": "Journal of Survey Statistics and Methodology",
       "articleTitle": "Who are We Missing? Using Administrative and Contextual Data to Measure and Correct Partisan Nonresponse in Opinion Surveys",
+      "authors": [
+        "Michael Jackson",
+        "Scott Clement",
+        "Emily Guskin",
+        "Arifah Hasanbasri",
+        "Jordon Peugh",
+        "Cameron McPhee",
+        "Mark J Rozell"
+      ],
       "publicationYear": 2026,
       "doi": "10.1093/jssam/smag017"
     },
@@ -173,6 +279,10 @@
       "journalId": "international-statistical-review",
       "journalTitle": "International Statistical Review",
       "articleTitle": "Anomalies in the Foundations of Ridge Regression",
+      "authors": [
+        "Donald R. Jensen",
+        "Donald E. Ramirez"
+      ],
       "publicationYear": 2008,
       "doi": "10.1111/j.1751-5823.2007.00041.x"
     },
@@ -180,6 +290,10 @@
       "journalId": "international-statistical-review",
       "journalTitle": "International Statistical Review",
       "articleTitle": "Should We Condition on the Number of Points When Modelling Spatial Point Patterns?",
+      "authors": [
+        "Jesper Møller",
+        "Ninna Vihrs"
+      ],
       "publicationYear": 2022,
       "doi": "10.1111/insr.12501"
     },
@@ -187,6 +301,10 @@
       "journalId": "international-statistical-review",
       "journalTitle": "International Statistical Review",
       "articleTitle": "Validating an Index of Selection Bias for Proportions in Non‐Probability Samples",
+      "authors": [
+        "Angelina Hammon",
+        "Sabine Zinn"
+      ],
       "publicationYear": 2024,
       "doi": "10.1111/insr.12590"
     }
@@ -202,7 +320,7 @@
   "awesome_metric_breakdown": {
     "maturity": 3.4150537304542943,
     "documentation": 4.428835410421109,
-    "use": 4.256207248885813,
+    "use": 4.2614812677504545,
     "community": 2.7630366358845952
   },
   "awesome_metric_method": "See metrics.md in this repo; metrics calculation is still experimental and subject to change."

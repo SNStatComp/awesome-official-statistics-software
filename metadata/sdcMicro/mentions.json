@@ -17,6 +17,11 @@
       "journalId": "statistical-journal-of-the-iaos",
       "journalTitle": "Statistical Journal of the IAOS",
       "articleTitle": "The trade-off between the risk of disclosure and data utility in SDC: A case of data from a survey of accidents at work1",
+      "authors": [
+        "Andrzej Młodak",
+        "Michał Pietrzak",
+        "Tomasz Józefowski"
+      ],
       "publicationYear": 2022,
       "doi": "10.3233/sji-220936"
     },
@@ -24,6 +29,10 @@
       "journalId": "statistics-in-transition-new-series",
       "journalTitle": "Statistics in Transition new series",
       "articleTitle": "Application of Statistical Disclosure Control methods to protect the confidentiality of the 2020 agricultural census microdata",
+      "authors": [
+        "Andrzej Młodak",
+        "Tomasz Józefowski"
+      ],
       "publicationYear": 2025,
       "doi": "10.59139/stattrans-2025-014"
     },
@@ -31,6 +40,11 @@
       "journalId": "journal-of-statistical-software",
       "journalTitle": "Journal of Statistical Software",
       "articleTitle": "Statistical Disclosure Control for Micro-Data Using theRPackagesdcMicro",
+      "authors": [
+        "Matthias Templ",
+        "Alexander Kowarik",
+        "Bernhard Meindl"
+      ],
       "publicationYear": 2015,
       "doi": "10.18637/jss.v067.i04"
     }
@@ -42,13 +56,13 @@
         "id": "statistical-journal-of-the-iaos",
         "title": "Statistical Journal of the IAOS",
         "issn": "1874-7655",
-        "articleCount": 1479
+        "articleCount": 1483
       },
       {
         "id": "journal-of-official-statistics",
         "title": "Journal of Official Statistics",
         "issn": "0282-423X",
-        "articleCount": 173
+        "articleCount": 175
       },
       {
         "id": "statistics-in-transition-new-series",
@@ -60,19 +74,19 @@
         "id": "journal-of-survey-statistics-and-methodology",
         "title": "Journal of Survey Statistics and Methodology",
         "issn": "2325-0984",
-        "articleCount": 619
+        "articleCount": 621
       },
       {
         "id": "international-statistical-review",
         "title": "International Statistical Review",
         "issn": "0306-7734",
-        "articleCount": 2935
+        "articleCount": 2937
       },
       {
         "id": "statistical-methods-and-applications",
         "title": "Statistical Methods & Applications",
         "issn": "2287-7843",
-        "articleCount": 1198
+        "articleCount": 1205
       },
       {
         "id": "the-r-journal",
@@ -90,7 +104,7 @@
         "id": "journal-of-computational-and-graphical-statistics",
         "title": "Journal of Computational and Graphical Statistics",
         "issn": "1061-8600",
-        "articleCount": 2525
+        "articleCount": 2520
       }
     ],
     "unavailable": [
@@ -115,5 +129,6 @@
       "reason": "Google Scholar has no official public search API; automated scraping is unreliable and is not included in the automated mention count."
     }
   ],
-  "searchedAt": "2026-10-02T11:23:01.802Z"
+  "searchedAt": "2026-10-12T16:07:51.220Z",
+  "generatedAt": "2026-10-12T16:07:51.220Z"
 }

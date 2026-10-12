@@ -5,7 +5,7 @@
   "forks_count": 8,
   "forks": 8,
   "open_issues_count": 5,
-  "downloadsPer30Days": 686,
+  "downloadsPer30Days": 500,
   "downloadsUnavailableReason": null,
   "VignetteBuilder": null,
   "vignetteCount": 0,
@@ -24,6 +24,12 @@
       "journalId": "journal-of-statistical-software",
       "journalTitle": "Journal of Statistical Software",
       "articleTitle": "Simulation of Synthetic Complex Data: The R Package simPop",
+      "authors": [
+        "Matthias Templ",
+        "Bernhard Meindl",
+        "Alexander Kowarik",
+        "Olivier Dupriez"
+      ],
       "publicationYear": 2017,
       "doi": "10.18637/jss.v079.i10"
     }
@@ -39,7 +45,7 @@
   "awesome_metric_breakdown": {
     "maturity": 0,
     "documentation": 1.6666666666666665,
-    "use": 1.9876527582047319,
+    "use": 1.9190933121582598,
     "community": 1.5572824936822836
   },
   "awesome_metric_method": "See metrics.md in this repo; metrics calculation is still experimental and subject to change."

@@ -4,7 +4,7 @@
   "downloadsPer30Days": 0,
   "method": "release asset download-count snapshot delta",
   "cumulativeReleaseAssetDownloads": 0,
-  "rateBasisDays": 1,
+  "rateBasisDays": 10,
   "snapshots": [
     {
       "observedAt": "2026-10-01T14:17:57.470Z",
@@ -13,7 +13,12 @@
     {
       "observedAt": "2026-10-02T11:22:17.580Z",
       "cumulativeDownloads": 0
+    },
+    {
+      "observedAt": "2026-10-12T16:06:55.563Z",
+      "cumulativeDownloads": 0
     }
   ],
-  "source": "https://api.github.com/repos/RProjectRomania/TEMPO/releases"
+  "source": "https://api.github.com/repos/RProjectRomania/TEMPO/releases",
+  "generatedAt": "2026-10-12T16:06:55.563Z"
 }

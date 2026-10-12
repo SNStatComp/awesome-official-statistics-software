@@ -30,6 +30,9 @@
       "journalId": "statistical-journal-of-the-iaos",
       "journalTitle": "Statistical Journal of the IAOS",
       "articleTitle": "Assessment of the spread of COVID-19 in seven countries using a seasonal adjustment method",
+      "authors": [
+        "Tetsuma Arita"
+      ],
       "publicationYear": 2022,
       "doi": "10.3233/sji-220932"
     },
@@ -37,6 +40,10 @@
       "journalId": "statistical-journal-of-the-iaos",
       "journalTitle": "Statistical Journal of the IAOS",
       "articleTitle": "RJDemetra, a promising tool for the seasonal adjustment of official statistics",
+      "authors": [
+        "Giancarlo Lutero",
+        "Andrea d’Orazio"
+      ],
       "publicationYear": 2023,
       "doi": "10.3233/sji-230047"
     },
@@ -44,6 +51,9 @@
       "journalId": "journal-of-official-statistics",
       "journalTitle": "Journal of Official Statistics",
       "articleTitle": "Improving Real-Time Trend Estimates Using Local Parametrization of Polynomial Regression Filters",
+      "authors": [
+        "Alain Quartier-la-Tente"
+      ],
       "publicationYear": 2024,
       "doi": "10.1177/0282423x241283207"
     },
@@ -51,6 +61,10 @@
       "journalId": "journal-of-statistical-software",
       "journalTitle": "Journal of Statistical Software",
       "articleTitle": "Seasonal Adjustment by X-13ARIMA-SEATS in R",
+      "authors": [
+        "Christoph Sax",
+        "Dirk Eddelbuettel"
+      ],
       "publicationYear": 2018,
       "doi": "10.18637/jss.v087.i11"
     }

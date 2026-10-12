@@ -5,7 +5,7 @@
   "forks_count": null,
   "forks": null,
   "open_issues_count": null,
-  "downloadsPer30Days": 3978,
+  "downloadsPer30Days": 4141,
   "downloadsUnavailableReason": null,
   "VignetteBuilder": null,
   "vignetteCount": 4,
@@ -54,6 +54,11 @@
       "journalId": "statistical-journal-of-the-iaos",
       "journalTitle": "Statistical Journal of the IAOS",
       "articleTitle": "Providing bespoke synthetic data for the UK Longitudinal Studies and other sensitive data with the synthpop package for R1",
+      "authors": [
+        "Beata Nowok",
+        "Gillian M. Raab",
+        "Chris Dibben"
+      ],
       "publicationYear": 2017,
       "doi": "10.3233/sji-150153"
     },
@@ -61,6 +66,9 @@
       "journalId": "statistical-journal-of-the-iaos",
       "journalTitle": "Statistical Journal of the IAOS",
       "articleTitle": "Toward more user-centric data access solutions: Producing synthetic data of high analytical value by data synthesis1",
+      "authors": [
+        "Kenza Sallier"
+      ],
       "publicationYear": 2020,
       "doi": "10.3233/sji-200682"
     },
@@ -68,6 +76,11 @@
       "journalId": "journal-of-official-statistics",
       "journalTitle": "Journal of Official Statistics",
       "articleTitle": "Synthetic Census Microdata Generation: A Comparative Study of Synthesis Methods Examining the Trade-Off Between Disclosure Risk and Utility",
+      "authors": [
+        "Claire Little",
+        "Richard Allmendinger",
+        "Mark Elliot"
+      ],
       "publicationYear": 2024,
       "doi": "10.1177/0282423x241266523"
     },
@@ -75,6 +88,11 @@
       "journalId": "journal-of-survey-statistics-and-methodology",
       "journalTitle": "Journal of Survey Statistics and Methodology",
       "articleTitle": "A Semiparametric Multiple Imputation Approach to Fully Synthetic Data for Complex Surveys",
+      "authors": [
+        "Mandi Yu",
+        "Yulei He",
+        "Trivellore E Raghunathan"
+      ],
       "publicationYear": 2022,
       "doi": "10.1093/jssam/smac016"
     },
@@ -82,6 +100,11 @@
       "journalId": "journal-of-statistical-software",
       "journalTitle": "Journal of Statistical Software",
       "articleTitle": "synthpop : Bespoke Creation of Synthetic Data in R",
+      "authors": [
+        "Beata Nowok",
+        "Gillian M. Raab",
+        "Chris Dibben"
+      ],
       "publicationYear": 2016,
       "doi": "10.18637/jss.v074.i11"
     }
@@ -97,7 +120,7 @@
   "awesome_metric_breakdown": {
     "maturity": 0,
     "documentation": 4.668060435110314,
-    "use": 3.271183044749119,
+    "use": 3.27990111488226,
     "community": null
   },
   "awesome_metric_method": "See metrics.md in this repo; metrics calculation is still experimental and subject to change."

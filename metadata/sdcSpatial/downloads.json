@@ -1,8 +1,9 @@
 {
   "platform": "CRAN",
   "metric": "downloadsPer30Days",
-  "downloadsPer30Days": 326,
-  "periodStart": "2026-09-01",
-  "periodEnd": "2026-09-30",
-  "source": "https://cranlogs.r-pkg.org/downloads/total/last-month/sdcSpatial"
+  "downloadsPer30Days": 303,
+  "periodStart": "2026-09-11",
+  "periodEnd": "2026-10-10",
+  "source": "https://cranlogs.r-pkg.org/downloads/total/last-month/sdcSpatial",
+  "generatedAt": "2026-10-12T16:06:20.205Z"
 }

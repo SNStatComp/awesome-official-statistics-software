@@ -1,11 +1,11 @@
 {
-  "watchers_count": 908,
+  "watchers_count": 909,
   "has_wiki": true,
   "has_discussions": false,
-  "forks_count": 123,
-  "forks": 123,
-  "open_issues_count": 55,
-  "downloadsPer30Days": 34374,
+  "forks_count": 124,
+  "forks": 124,
+  "open_issues_count": 48,
+  "downloadsPer30Days": 40031,
   "downloadsUnavailableReason": null,
   "VignetteBuilder": null,
   "vignetteCount": 0,
@@ -24,23 +24,26 @@
       "journalId": "journal-of-statistical-software",
       "journalTitle": "Journal of Statistical Software",
       "articleTitle": "tmap : Thematic Maps in R",
+      "authors": [
+        "Martijn Tennekes"
+      ],
       "publicationYear": 2018,
       "doi": "10.18637/jss.v084.i06"
     }
   ],
   "followers": null,
-  "watchers": 908,
+  "watchers": 909,
   "subscriptions": 22,
   "collaborators": null,
-  "issues": 55,
+  "issues": 48,
   "releases": null,
   "pull_requests": null,
   "awesome_metric": 1.9,
   "awesome_metric_breakdown": {
     "maturity": 0,
     "documentation": 1.6666666666666665,
-    "use": 2.837295005107927,
-    "community": 3.0874863075058343
+    "use": 2.870377266960687,
+    "community": 3.0600040477618498
   },
   "awesome_metric_method": "See metrics.md in this repo; metrics calculation is still experimental and subject to change."
 }

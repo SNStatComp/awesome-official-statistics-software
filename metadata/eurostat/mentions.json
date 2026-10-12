@@ -1,9 +1,9 @@
 {
   "package": "eurostat",
-  "mentions": 38,
+  "mentions": 39,
   "mentionsByJournal": {
     "statistical-journal-of-the-iaos": {
-      "count": 22
+      "count": 23
     },
     "journal-of-official-statistics": {
       "count": 1
@@ -23,6 +23,9 @@
       "journalId": "statistical-journal-of-the-iaos",
       "journalTitle": "Statistical Journal of the IAOS",
       "articleTitle": "The Eurostat business cycle clock: A complete overview of the tool",
+      "authors": [
+        "Rosa Ruggeri Cannata"
+      ],
       "publicationYear": 2021,
       "doi": "10.3233/sji-200725"
     },
@@ -30,6 +33,10 @@
       "journalId": "statistical-journal-of-the-iaos",
       "journalTitle": "Statistical Journal of the IAOS",
       "articleTitle": "Improving relevance: Istat experience on experimental statistics",
+      "authors": [
+        "Arianna Carciotto",
+        "Marina Signore"
+      ],
       "publicationYear": 2021,
       "doi": "10.3233/sji-200764"
     },
@@ -37,6 +44,12 @@
       "journalId": "statistical-journal-of-the-iaos",
       "journalTitle": "Statistical Journal of the IAOS",
       "articleTitle": "Education in official statistics: A common challenge of providers of official statistics and universities",
+      "authors": [
+        "Elwira Navarre",
+        "Heli Lehtimäki",
+        "Markus Zwick",
+        "Mojca Bavdaž"
+      ],
       "publicationYear": 2021,
       "doi": "10.3233/sji-210837"
     },
@@ -44,6 +57,17 @@
       "journalId": "statistical-journal-of-the-iaos",
       "journalTitle": "Statistical Journal of the IAOS",
       "articleTitle": "Innovation during the COVID-19 crisis: Why it was more critical for official statistics than ever1",
+      "authors": [
+        "Emanuele Baldacci",
+        "Barteld Braaksma",
+        "Adolfo Gálvez",
+        "Konstantinos Giannakouris",
+        "Belén González Olmos",
+        "Pascal Rivière",
+        "Monica Scannapieco",
+        "Andréa Vermeer",
+        "Ville Vertanen"
+      ],
       "publicationYear": 2022,
       "doi": "10.3233/sji-220937"
     },
@@ -51,6 +75,10 @@
       "journalId": "statistical-journal-of-the-iaos",
       "journalTitle": "Statistical Journal of the IAOS",
       "articleTitle": "The Eurostat business cycle clock and the pandemic: Some considerations",
+      "authors": [
+        "Rosa Ruggeri Cannata",
+        "Piotr Ronkowski"
+      ],
       "publicationYear": 2022,
       "doi": "10.3233/sji-220011"
     },
@@ -58,6 +86,11 @@
       "journalId": "statistical-journal-of-the-iaos",
       "journalTitle": "Statistical Journal of the IAOS",
       "articleTitle": "Economic support to European households in the aftermath of COVID-19. A cross-country comparative analysis based on quarterly sector accounts",
+      "authors": [
+        "Alessandra Coli",
+        "Ángel Panizo Espuelas",
+        "Orestis Tsigkas"
+      ],
       "publicationYear": 2022,
       "doi": "10.3233/sji-220004"
     },
@@ -65,6 +98,7 @@
       "journalId": "statistical-journal-of-the-iaos",
       "journalTitle": "Statistical Journal of the IAOS",
       "articleTitle": "From local prices to the global economy: A unique global collaboration that underpins the International Comparison Program",
+      "authors": [],
       "publicationYear": 2022,
       "doi": "10.3233/sji-220047"
     },
@@ -72,6 +106,12 @@
       "journalId": "statistical-journal-of-the-iaos",
       "journalTitle": "Statistical Journal of the IAOS",
       "articleTitle": "Natural language processing in official statistics: The social mood on economy index experience",
+      "authors": [
+        "Elena Catanese",
+        "Monica Scannapieco",
+        "Mauro Bruno",
+        "Luca Valentino"
+      ],
       "publicationYear": 2022,
       "doi": "10.3233/sji-220062"
     },
@@ -79,6 +119,12 @@
       "journalId": "statistical-journal-of-the-iaos",
       "journalTitle": "Statistical Journal of the IAOS",
       "articleTitle": "Adaptation of Statistics Canada and Eurostat methodologies for variance estimation of changes of the main labour force indicators in Iran",
+      "authors": [
+        "Lida Kalhori Nadrabadi",
+        "Farhad Mehran",
+        "Mohammed Reza Reyhani",
+        "Roshanak Aliakbari Saba"
+      ],
       "publicationYear": 2023,
       "doi": "10.3233/sji-220095"
     },
@@ -86,6 +132,9 @@
       "journalId": "statistical-journal-of-the-iaos",
       "journalTitle": "Statistical Journal of the IAOS",
       "articleTitle": "Automatizing model selection in an annual review of seasonal adjustment: A machine learning-inspired approach",
+      "authors": [
+        "Yingfu Xie"
+      ],
       "publicationYear": 2023,
       "doi": "10.3233/sji-220097"
     },
@@ -93,6 +142,10 @@
       "journalId": "statistical-journal-of-the-iaos",
       "journalTitle": "Statistical Journal of the IAOS",
       "articleTitle": "Governments measure during the COVID crisis and statistical implications in national accounts: The case of tax deferrals1",
+      "authors": [
+        "Susanna Riccioni",
+        "Luisa Sciandra"
+      ],
       "publicationYear": 2023,
       "doi": "10.3233/sji-220112"
     },
@@ -100,6 +153,9 @@
       "journalId": "statistical-journal-of-the-iaos",
       "journalTitle": "Statistical Journal of the IAOS",
       "articleTitle": "How to improve mortality statistics nationally and internationally?",
+      "authors": [
+        "Mika Gissler"
+      ],
       "publicationYear": 2023,
       "doi": "10.3233/sji-230026"
     },
@@ -107,6 +163,11 @@
       "journalId": "statistical-journal-of-the-iaos",
       "journalTitle": "Statistical Journal of the IAOS",
       "articleTitle": "Open data dissemination at Eurostat: State of the art",
+      "authors": [
+        "Christine Laaboudi",
+        "Martin Karlberg",
+        "Maja Islam"
+      ],
       "publicationYear": 2024,
       "doi": "10.3233/sji-230115"
     },
@@ -114,6 +175,13 @@
       "journalId": "statistical-journal-of-the-iaos",
       "journalTitle": "Statistical Journal of the IAOS",
       "articleTitle": "FAOSTAT Food Value Chain Domain implementation: Input Output modelling and analytical applications",
+      "authors": [
+        "Silvia Cerilli",
+        "Michele Vollaro",
+        "Veronica Boero",
+        "Olivier Lavagne d’Ortigue",
+        "Jing Yi"
+      ],
       "publicationYear": 2024,
       "doi": "10.3233/sji-230079"
     },
@@ -121,6 +189,14 @@
       "journalId": "statistical-journal-of-the-iaos",
       "journalTitle": "Statistical Journal of the IAOS",
       "articleTitle": "A web intelligence information system to support the production of EuroGroups Register (EGR) statistics",
+      "authors": [
+        "Antonio Laureti Palma",
+        "Alexandros Bitoulas",
+        "Alexandre Depire",
+        "Fernando Reis",
+        "Pau Gaya Riera",
+        "Ioannis Sopranidis"
+      ],
       "publicationYear": 2024,
       "doi": "10.3233/sji-240032"
     },
@@ -128,6 +204,10 @@
       "journalId": "statistical-journal-of-the-iaos",
       "journalTitle": "Statistical Journal of the IAOS",
       "articleTitle": "Release of European Union microdata, ESS projects on remote access",
+      "authors": [
+        "Aleksandra Bujnowska",
+        "Jean-Marc Museux"
+      ],
       "publicationYear": 2009,
       "doi": "10.3233/sji-2009-0709"
     },
@@ -135,6 +215,12 @@
       "journalId": "statistical-journal-of-the-iaos",
       "journalTitle": "Statistical Journal of the IAOS",
       "articleTitle": "Eurostat and academia: A proposal for a comprehensive strategic framework for future collaboration*",
+      "authors": [
+        "Tiziana Laureti",
+        "Ilaria Benedetti",
+        "Dario Buono",
+        "Hionia Vlachou"
+      ],
       "publicationYear": 2025,
       "doi": "10.1177/18747655251394077"
     },
@@ -142,6 +228,11 @@
       "journalId": "statistical-journal-of-the-iaos",
       "journalTitle": "Statistical Journal of the IAOS",
       "articleTitle": "Analysing EU unemployment and underemployment in a fuzzy perspective: The comparison between fuzzy and official rates",
+      "authors": [
+        "Alessandra Coli",
+        "Andrea Regoli",
+        "Bruno Cheli"
+      ],
       "publicationYear": 2025,
       "doi": "10.1177/18747655251394510"
     },
@@ -149,6 +240,11 @@
       "journalId": "statistical-journal-of-the-iaos",
       "journalTitle": "Statistical Journal of the IAOS",
       "articleTitle": "Use of public data sources to increase the accuracy and completeness of the EuroGroups Register",
+      "authors": [
+        "Alexandre Depire",
+        "Pau Gayà Riera",
+        "Ioannis Sopranidis"
+      ],
       "publicationYear": 2025,
       "doi": "10.1177/18747655251391288"
     },
@@ -156,6 +252,9 @@
       "journalId": "statistical-journal-of-the-iaos",
       "journalTitle": "Statistical Journal of the IAOS",
       "articleTitle": "Scraped data as a source to study the demand for ICT specialists",
+      "authors": [
+        "Cristina Fernández-Álvaro"
+      ],
       "publicationYear": 2025,
       "doi": "10.1177/18747655251393927"
     },
@@ -163,6 +262,11 @@
       "journalId": "statistical-journal-of-the-iaos",
       "journalTitle": "Statistical Journal of the IAOS",
       "articleTitle": "Measuring gender equality through official statistics: An integrated multi-criteria assessment of European countries",
+      "authors": [
+        "Gozde Koca",
+        "Ozum Egilmez",
+        "Anıl Taflan"
+      ],
       "publicationYear": 2026,
       "doi": "10.1177/18747655261483873"
     },
@@ -170,13 +274,33 @@
       "journalId": "statistical-journal-of-the-iaos",
       "journalTitle": "Statistical Journal of the IAOS",
       "articleTitle": "A reproducible reconciliation pipeline for probabilistic official tourism statistics: Evidence from Eurostat",
+      "authors": [
+        "Do Yeon Kim"
+      ],
       "publicationYear": 2026,
       "doi": "10.1177/18747655261484249"
+    },
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "Building a comprehensive quality framework for the use of mobile network operator (MNO) data in official statistics: Results from multi-MNO project",
+      "authors": [
+        "Gabriele Ascari",
+        "Erika Cerasti",
+        "Giorgia Simeoni"
+      ],
+      "publicationYear": 2026,
+      "doi": "10.1177/18747655261493348"
     },
     {
       "journalId": "journal-of-official-statistics",
       "journalTitle": "Journal of Official Statistics",
       "articleTitle": "The European Statistics Awards for Nowcasting: A New Approach to Engage with the Scientific Community and to Foster Improved Timeliness of Official Statistics",
+      "authors": [
+        "Agnieszka Zając",
+        "Martin Karlberg",
+        "Jean-Marc Museux"
+      ],
       "publicationYear": 2024,
       "doi": "10.1177/0282423x241274614"
     },
@@ -184,6 +308,9 @@
       "journalId": "statistics-in-transition-new-series",
       "journalTitle": "Statistics in Transition new series",
       "articleTitle": "THE CHALLENGES OF THE POPULATION CENSUS ROUND OF 2020. OUTLINE OF THE METHODS OF QUALITY ASSESSMENT OF POPULATION CENSUS DATA",
+      "authors": [
+        "Jan Kordos"
+      ],
       "publicationYear": 2017,
       "doi": "10.59170/stattrans-2017-006"
     },
@@ -191,6 +318,10 @@
       "journalId": "statistics-in-transition-new-series",
       "journalTitle": "Statistics in Transition new series",
       "articleTitle": "EVALUATION OF THE EU COUNTRIES’ INNOVATIVE POTENTIAL – MULTIVARIATE APPROACH",
+      "authors": [
+        "Elżbieta Roszko-Wójtowicz",
+        "Jacek Białek"
+      ],
       "publicationYear": 2017,
       "doi": "10.59170/stattrans-2017-009"
     },
@@ -198,6 +329,10 @@
       "journalId": "statistics-in-transition-new-series",
       "journalTitle": "Statistics in Transition new series",
       "articleTitle": "Quality of institutions and total factor productivity in the European Union",
+      "authors": [
+        "Adam P. Balcerzak",
+        "Michał Bernard Pietrzak"
+      ],
       "publicationYear": 2016,
       "doi": "10.59170/stattrans-2016-028"
     },
@@ -205,6 +340,9 @@
       "journalId": "statistics-in-transition-new-series",
       "journalTitle": "Statistics in Transition new series",
       "articleTitle": "SAE education challenges to academics and NSI",
+      "authors": [
+        "Elżbieta Gołata"
+      ],
       "publicationYear": 2015,
       "doi": "10.59170/stattrans-2015-034"
     },
@@ -212,6 +350,9 @@
       "journalId": "statistics-in-transition-new-series",
       "journalTitle": "Statistics in Transition new series",
       "articleTitle": "Income inequality and income stratification in Poland",
+      "authors": [
+        "Alina Jędrzejczak"
+      ],
       "publicationYear": 2014,
       "doi": "10.59170/stattrans-2014-018"
     },
@@ -219,6 +360,9 @@
       "journalId": "statistics-in-transition-new-series",
       "journalTitle": "Statistics in Transition new series",
       "articleTitle": "Taxonomic analysis of the Polish public health in comparison with selected European countries",
+      "authors": [
+        "Anna Wierzbicka"
+      ],
       "publicationYear": 2013,
       "doi": "10.59170/stattrans-2012-028"
     },
@@ -226,6 +370,11 @@
       "journalId": "statistics-in-transition-new-series",
       "journalTitle": "Statistics in Transition new series",
       "articleTitle": "Bootstrap method with calibration for standard error estimators of income poverty measures",
+      "authors": [
+        "Agnieszka Zięba-Pietrzak",
+        "Jan Kordos",
+        "Robert Wieczorkowski"
+      ],
       "publicationYear": 2011,
       "doi": "10.59170/stattrans-2011-005"
     },
@@ -233,6 +382,9 @@
       "journalId": "statistics-in-transition-new-series",
       "journalTitle": "Statistics in Transition new series",
       "articleTitle": "Opening speech on behalf of EUROSTAT",
+      "authors": [
+        "Marie Bohatá"
+      ],
       "publicationYear": 2011,
       "doi": "10.59170/stattrans-2011-027"
     },
@@ -240,6 +392,9 @@
       "journalId": "statistics-in-transition-new-series",
       "journalTitle": "Statistics in Transition new series",
       "articleTitle": "Statistical information system of the Republic of Belarus: experience and perspectives",
+      "authors": [
+        "Irina Kostevich"
+      ],
       "publicationYear": 2011,
       "doi": "10.59170/stattrans-2011-032"
     },
@@ -247,6 +402,9 @@
       "journalId": "statistics-in-transition-new-series",
       "journalTitle": "Statistics in Transition new series",
       "articleTitle": "International cooperation and capacity development in Geostat",
+      "authors": [
+        "Tengiz Tsekvava"
+      ],
       "publicationYear": 2011,
       "doi": "10.59170/stattrans-2011-041"
     },
@@ -254,6 +412,9 @@
       "journalId": "statistics-in-transition-new-series",
       "journalTitle": "Statistics in Transition new series",
       "articleTitle": "A nonparametric confidence interval for at-risk-of-poverty-rate",
+      "authors": [
+        "Wojciech Zieliński"
+      ],
       "publicationYear": 2009,
       "doi": "10.59170/stattrans-2009-032"
     },
@@ -261,6 +422,9 @@
       "journalId": "statistics-in-transition-new-series",
       "journalTitle": "Statistics in Transition new series",
       "articleTitle": "Task force on the quality of the labour force survey. Final report, EUROSTAT, Methodologies and Working papers, 2009 Edition, 69 pages.",
+      "authors": [
+        "Jan Kordos"
+      ],
       "publicationYear": 2009,
       "doi": "10.59170/stattrans-2009-038"
     },
@@ -268,6 +432,9 @@
       "journalId": "statistics-in-transition-new-series",
       "journalTitle": "Statistics in Transition new series",
       "articleTitle": "Households’ invisible input to the economy: a review of its measurement methods and results",
+      "authors": [
+        "Marta Marszałek"
+      ],
       "publicationYear": 2025,
       "doi": "10.59139/stattrans-2025-020"
     },
@@ -275,6 +442,9 @@
       "journalId": "international-statistical-review",
       "journalTitle": "International Statistical Review",
       "articleTitle": "Studies on the Comparability of Consumer Price Indices",
+      "authors": [
+        "Jörgen Dalén"
+      ],
       "publicationYear": 1998,
       "doi": "10.1111/j.1751-5823.1998.tb00407.x"
     },
@@ -282,6 +452,12 @@
       "journalId": "the-r-journal",
       "journalTitle": "The R Journal",
       "articleTitle": "Retrieval and Analysis of Eurostat Open Data with the eurostat Package",
+      "authors": [
+        "Leo Lahti",
+        "Janne Huovari",
+        "Markus Kainu",
+        "Przemysław Biecek"
+      ],
       "publicationYear": 2017,
       "doi": "10.32614/rj-2017-019"
     }
@@ -293,13 +469,13 @@
         "id": "statistical-journal-of-the-iaos",
         "title": "Statistical Journal of the IAOS",
         "issn": "1874-7655",
-        "articleCount": 1479
+        "articleCount": 1483
       },
       {
         "id": "journal-of-official-statistics",
         "title": "Journal of Official Statistics",
         "issn": "0282-423X",
-        "articleCount": 173
+        "articleCount": 175
       },
       {
         "id": "statistics-in-transition-new-series",
@@ -311,19 +487,19 @@
         "id": "journal-of-survey-statistics-and-methodology",
         "title": "Journal of Survey Statistics and Methodology",
         "issn": "2325-0984",
-        "articleCount": 619
+        "articleCount": 621
       },
       {
         "id": "international-statistical-review",
         "title": "International Statistical Review",
         "issn": "0306-7734",
-        "articleCount": 2935
+        "articleCount": 2937
       },
       {
         "id": "statistical-methods-and-applications",
         "title": "Statistical Methods & Applications",
         "issn": "2287-7843",
-        "articleCount": 1198
+        "articleCount": 1205
       },
       {
         "id": "the-r-journal",
@@ -341,7 +517,7 @@
         "id": "journal-of-computational-and-graphical-statistics",
         "title": "Journal of Computational and Graphical Statistics",
         "issn": "1061-8600",
-        "articleCount": 2525
+        "articleCount": 2520
       }
     ],
     "unavailable": [
@@ -366,5 +542,6 @@
       "reason": "Google Scholar has no official public search API; automated scraping is unreliable and is not included in the automated mention count."
     }
   ],
-  "searchedAt": "2026-10-02T11:23:02.003Z"
+  "searchedAt": "2026-10-12T16:07:51.489Z",
+  "generatedAt": "2026-10-12T16:07:51.489Z"
 }

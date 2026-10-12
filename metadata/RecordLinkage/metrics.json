@@ -5,7 +5,7 @@
   "forks_count": null,
   "forks": null,
   "open_issues_count": null,
-  "downloadsPer30Days": 2554,
+  "downloadsPer30Days": 3530,
   "downloadsUnavailableReason": null,
   "VignetteBuilder": "knitr",
   "vignetteCount": 4,
@@ -45,6 +45,10 @@
       "journalId": "the-r-journal",
       "journalTitle": "The R Journal",
       "articleTitle": "The RecordLinkage Package: Detecting Errors in Data",
+      "authors": [
+        "Murat Sariyar",
+        "Andreas Borg"
+      ],
       "publicationYear": 2010,
       "doi": "10.32614/rj-2010-017"
     }
@@ -60,7 +64,7 @@
   "awesome_metric_breakdown": {
     "maturity": 0,
     "documentation": 4.2672650446323965,
-    "use": 2.272869594175365,
+    "use": 2.343122939700572,
     "community": null
   },
   "awesome_metric_method": "See metrics.md in this repo; metrics calculation is still experimental and subject to change."

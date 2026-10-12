@@ -5,7 +5,7 @@
   "forks_count": 5,
   "forks": 5,
   "open_issues_count": 2,
-  "downloadsPer30Days": 644,
+  "downloadsPer30Days": 461,
   "downloadsUnavailableReason": null,
   "VignetteBuilder": "knitr",
   "vignetteCount": 3,
@@ -40,6 +40,9 @@
       "journalId": "journal-of-statistical-software",
       "journalTitle": "Journal of Statistical Software",
       "articleTitle": "SamplingStrata: AnRPackage for the Optimization of Stratified Sampling",
+      "authors": [
+        "Giulio Barcaroli"
+      ],
       "publicationYear": 2014,
       "doi": "10.18637/jss.v061.i04"
     }
@@ -55,7 +58,7 @@
   "awesome_metric_breakdown": {
     "maturity": 0,
     "documentation": 4.485322183346941,
-    "use": 1.9739542588908963,
+    "use": 1.9014954522879302,
     "community": 1.1370157068304099
   },
   "awesome_metric_method": "See metrics.md in this repo; metrics calculation is still experimental and subject to change."

@@ -5,7 +5,7 @@
   "forks_count": 1,
   "forks": 1,
   "open_issues_count": 11,
-  "downloadsPer30Days": 505,
+  "downloadsPer30Days": 484,
   "downloadsUnavailableReason": null,
   "VignetteBuilder": "simplermarkdown",
   "vignetteCount": 3,
@@ -43,7 +43,7 @@
   "awesome_metric_breakdown": {
     "maturity": 0,
     "documentation": 4.392099304599244,
-    "use": 1.352074084029144,
+    "use": 1.3428697029051602,
     "community": 1.0096015823245696
   },
   "awesome_metric_method": "See metrics.md in this repo; metrics calculation is still experimental and subject to change."

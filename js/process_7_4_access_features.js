@@ -1,7 +1,7 @@
 "use strict"
 import fs from "fs"
 import https from 'https'
-import yaml from "js-yaml"
+import * as yaml from "js-yaml"
 
 let matrix = []
 let cnt = 0

@@ -17,6 +17,9 @@
       "journalId": "statistical-journal-of-the-iaos",
       "journalTitle": "Statistical Journal of the IAOS",
       "articleTitle": "Statistical monitoring for politics in the European Union and the OECD, supporting economic growth and social progress: A comparison between Europe 2020 and the OECD Better Life Initiative",
+      "authors": [
+        "Susanne Schnorr-Bäcker"
+      ],
       "publicationYear": 2018,
       "doi": "10.3233/sji-171085"
     },
@@ -24,6 +27,9 @@
       "journalId": "statistical-journal-of-the-iaos",
       "journalTitle": "Statistical Journal of the IAOS",
       "articleTitle": "SNA and beyond: Towards a broader accounting framework that links the SNA, SDGs and other global initiatives1",
+      "authors": [
+        "Rutger Hoekstra"
+      ],
       "publicationYear": 2020,
       "doi": "10.3233/sji-200653"
     },
@@ -31,6 +37,13 @@
       "journalId": "statistical-journal-of-the-iaos",
       "journalTitle": "Statistical Journal of the IAOS",
       "articleTitle": "The impact of estimated sub-national purchasing power parity on macroeconomic measures1",
+      "authors": [
+        "Alex Costa",
+        "Vittorio Galletto",
+        "Jaume Garcia",
+        "Josep Lluís Raymond",
+        "Daniel Sánchez-Serra"
+      ],
       "publicationYear": 2022,
       "doi": "10.3233/sji-220934"
     },
@@ -38,6 +51,7 @@
       "journalId": "statistical-journal-of-the-iaos",
       "journalTitle": "Statistical Journal of the IAOS",
       "articleTitle": "From local prices to the global economy: A unique global collaboration that underpins the International Comparison Program",
+      "authors": [],
       "publicationYear": 2022,
       "doi": "10.3233/sji-220047"
     },
@@ -45,6 +59,10 @@
       "journalId": "statistical-journal-of-the-iaos",
       "journalTitle": "Statistical Journal of the IAOS",
       "articleTitle": "Rebuilding of the National Statistical System of Argentina. Some lessons learned1",
+      "authors": [
+        "Hernán D. Muñoz",
+        "Julien Dupont"
+      ],
       "publicationYear": 2023,
       "doi": "10.3233/sji-220117"
     },
@@ -52,6 +70,10 @@
       "journalId": "statistical-journal-of-the-iaos",
       "journalTitle": "Statistical Journal of the IAOS",
       "articleTitle": "Governments measure during the COVID crisis and statistical implications in national accounts: The case of tax deferrals1",
+      "authors": [
+        "Susanna Riccioni",
+        "Luisa Sciandra"
+      ],
       "publicationYear": 2023,
       "doi": "10.3233/sji-220112"
     },
@@ -59,6 +81,11 @@
       "journalId": "statistical-journal-of-the-iaos",
       "journalTitle": "Statistical Journal of the IAOS",
       "articleTitle": "An OECD perspective on microdata access: Trends, opportunities and challenges",
+      "authors": [
+        "Nadim Ahmad",
+        "Koen De Backer",
+        "Yearnok Yoon"
+      ],
       "publicationYear": 2009,
       "doi": "10.3233/sji-2009-0702"
     },
@@ -66,6 +93,10 @@
       "journalId": "statistical-journal-of-the-iaos",
       "journalTitle": "Statistical Journal of the IAOS",
       "articleTitle": "Monitoring Informality for Social Policy Making: The OECD Key Indicators of Informality based on Individuals and their Household (KIIbIH)",
+      "authors": [
+        "Alexandre Kolev",
+        "Thomas Manfredi"
+      ],
       "publicationYear": 2024,
       "doi": "10.1177/18747655241296387"
     },
@@ -73,6 +104,11 @@
       "journalId": "statistical-journal-of-the-iaos",
       "journalTitle": "Statistical Journal of the IAOS",
       "articleTitle": "Identifying functional urban areas using administrative data: The case of Ankara, Türkiye",
+      "authors": [
+        "Paolo Veneri",
+        "Selin Ertürk",
+        "Mert Kubilay Uludağ"
+      ],
       "publicationYear": 2025,
       "doi": "10.1177/18747655251388905"
     },
@@ -80,6 +116,9 @@
       "journalId": "statistics-in-transition-new-series",
       "journalTitle": "Statistics in Transition new series",
       "articleTitle": "ANOTHER LOOK AT THE STATIONARITY OF INFLATION RATES IN OECD COUNTRIES: APPLICATION OF STRUCTURAL BREAK-GARCH-BASED UNIT ROOT TESTS",
+      "authors": [
+        "OlaOluwa S. Yaya"
+      ],
       "publicationYear": 2019,
       "doi": "10.21307/stattrans-2018-02"
     },
@@ -87,6 +126,12 @@
       "journalId": "statistics-in-transition-new-series",
       "journalTitle": "Statistics in Transition new series",
       "articleTitle": "The impact of the Russian-Ukrainian war on the green transition and the energy crisis: Ukrainian scenario of circular economy development",
+      "authors": [
+        "Nataliia Reznikova",
+        "Iryna Zvarych",
+        "Roman Zvarych",
+        "Oksana Ivashchenko"
+      ],
       "publicationYear": 2023,
       "doi": "10.59170/stattrans-2023-004"
     },
@@ -94,6 +139,10 @@
       "journalId": "statistics-in-transition-new-series",
       "journalTitle": "Statistics in Transition new series",
       "articleTitle": "Subjective approach to assessing poverty in Poland – implications for social policy",
+      "authors": [
+        "Leszek Morawski",
+        "Adrian Domitrz"
+      ],
       "publicationYear": 2017,
       "doi": "10.59170/stattrans-2017-026"
     },
@@ -101,6 +150,9 @@
       "journalId": "statistics-in-transition-new-series",
       "journalTitle": "Statistics in Transition new series",
       "articleTitle": "Statistical system of the countries-members of the Commonwealth of Independent States: 20 years on the way to integration (CIS-STAT)",
+      "authors": [
+        "Irina Zbarskaya"
+      ],
       "publicationYear": 2011,
       "doi": "10.59170/stattrans-2011-033"
     },
@@ -108,6 +160,9 @@
       "journalId": "statistics-in-transition-new-series",
       "journalTitle": "Statistics in Transition new series",
       "articleTitle": "Rethinking equivalence scales in the measurement of extreme poverty: evidence from Poland",
+      "authors": [
+        "Hanna Dudek"
+      ],
       "publicationYear": 2026,
       "doi": "10.59139/stattrans-2026-035"
     },
@@ -115,6 +170,9 @@
       "journalId": "international-statistical-review",
       "journalTitle": "International Statistical Review",
       "articleTitle": "OECD Efforts to Address the Measurement and Policy Challenges Posed by the Information Society",
+      "authors": [
+        "Andrew W. Wyckoff"
+      ],
       "publicationYear": 2003,
       "doi": "10.1111/j.1751-5823.2003.tb00182.x"
     },
@@ -122,6 +180,9 @@
       "journalId": "international-statistical-review",
       "journalTitle": "International Statistical Review",
       "articleTitle": "Official Statistics on ICT in Japan",
+      "authors": [
+        "Hiroyuki Kitada"
+      ],
       "publicationYear": 2003,
       "doi": "10.1111/j.1751-5823.2003.tb00186.x"
     }
@@ -133,13 +194,13 @@
         "id": "statistical-journal-of-the-iaos",
         "title": "Statistical Journal of the IAOS",
         "issn": "1874-7655",
-        "articleCount": 1479
+        "articleCount": 1483
       },
       {
         "id": "journal-of-official-statistics",
         "title": "Journal of Official Statistics",
         "issn": "0282-423X",
-        "articleCount": 173
+        "articleCount": 175
       },
       {
         "id": "statistics-in-transition-new-series",
@@ -151,19 +212,19 @@
         "id": "journal-of-survey-statistics-and-methodology",
         "title": "Journal of Survey Statistics and Methodology",
         "issn": "2325-0984",
-        "articleCount": 619
+        "articleCount": 621
       },
       {
         "id": "international-statistical-review",
         "title": "International Statistical Review",
         "issn": "0306-7734",
-        "articleCount": 2935
+        "articleCount": 2937
       },
       {
         "id": "statistical-methods-and-applications",
         "title": "Statistical Methods & Applications",
         "issn": "2287-7843",
-        "articleCount": 1198
+        "articleCount": 1205
       },
       {
         "id": "the-r-journal",
@@ -181,7 +242,7 @@
         "id": "journal-of-computational-and-graphical-statistics",
         "title": "Journal of Computational and Graphical Statistics",
         "issn": "1061-8600",
-        "articleCount": 2525
+        "articleCount": 2520
       }
     ],
     "unavailable": [
@@ -206,5 +267,6 @@
       "reason": "Google Scholar has no official public search API; automated scraping is unreliable and is not included in the automated mention count."
     }
   ],
-  "searchedAt": "2026-10-02T11:23:01.991Z"
+  "searchedAt": "2026-10-12T16:07:51.473Z",
+  "generatedAt": "2026-10-12T16:07:51.473Z"
 }

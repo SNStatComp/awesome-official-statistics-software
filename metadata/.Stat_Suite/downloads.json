@@ -3,5 +3,6 @@
   "metric": "downloadsPer30Days",
   "downloadsPer30Days": null,
   "unavailableReason": "GitLab's public API exposes no project download count or download time series",
-  "source": "https://docs.gitlab.com/api/releases/"
+  "source": "https://docs.gitlab.com/api/releases/",
+  "generatedAt": "2026-10-12T16:06:23.284Z"
 }

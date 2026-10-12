@@ -1,7 +1,7 @@
 ## News
 - Jan 2026: [IAOS paper](https://journals.sagepub.com/doi/10.1177/18747655251411424) **Statistical open source software for official statistics: State of play and future directions** (ten Bosch, Van der Loo)
 - Oct 2025: FOSS, list and principles presented at **ISI2025**: [conf](https://www.isi-next.org/conferences/isi-wsc2025/), [slides](https://www.markvanderloo.eu/files/share/loo2025FOSS.pdf)
-- March 2025: List and principles derived from list presented at **NTTS2025**: [conf](https://cros.ec.europa.eu/ntts2025), [slides](https://olavtenbosch.github.io/pdf/2025_NTTS_tenBosch_AwesomeList.pdf)
+- March 2025: List and principles presented at **NTTS2025**: [conf](https://cros.ec.europa.eu/ntts2025), [slides](https://olavtenbosch.github.io/pdf/2025_NTTS_tenBosch_AwesomeList.pdf)
 - Feb 2025: **Principles** derived from list in **UNECE-HLG-MOS charter on open source**: [charter](https://unece.github.io/OSS/)
 - Nov 2024: The list in keynote Sandra Baragain and other presentations at the **uRos2024**: [link](http://r-project.ro/conference2024.html)
 - Oct 2024: List highlighted at **SDMX EG meeting**: [session](https://cros.ec.europa.eu/book-page/sdmx-and-interoperability-standards)

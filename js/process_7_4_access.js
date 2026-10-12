@@ -1,6 +1,6 @@
 "use strict"
 import fs from "fs"
-import yaml from "js-yaml"
+import * as yaml from "js-yaml"
 import papa from "papaparse"
 
 let matrix = []

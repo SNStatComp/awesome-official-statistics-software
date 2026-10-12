@@ -5,7 +5,7 @@
   "forks_count": 1,
   "forks": 1,
   "open_issues_count": 0,
-  "downloadsPer30Days": 462,
+  "downloadsPer30Days": 549,
   "downloadsUnavailableReason": null,
   "VignetteBuilder": "knitr",
   "vignetteCount": 21,
@@ -130,6 +130,9 @@
       "journalId": "statistical-journal-of-the-iaos",
       "journalTitle": "Statistical Journal of the IAOS",
       "articleTitle": "Weightflow: Reproducible, recipe-aware survey weighting for official statistics in R",
+      "authors": [
+        "Juan Pablo Ferreira"
+      ],
       "publicationYear": 2026,
       "doi": "10.1177/18747655261484262"
     }
@@ -145,7 +148,7 @@
   "awesome_metric_breakdown": {
     "maturity": 0,
     "documentation": 4.914855889113937,
-    "use": 1.9019649596110373,
+    "use": 1.9393557763720939,
     "community": 0.4295341114936773
   },
   "awesome_metric_method": "See metrics.md in this repo; metrics calculation is still experimental and subject to change."

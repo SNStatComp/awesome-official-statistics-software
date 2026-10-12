@@ -5,7 +5,7 @@
   "forks_count": 12,
   "forks": 12,
   "open_issues_count": 130,
-  "downloadsPer30Days": 360,
+  "downloadsPer30Days": 771,
   "downloadsUnavailableReason": null,
   "VignetteBuilder": null,
   "vignetteCount": null,
@@ -27,6 +27,14 @@
       "journalId": "statistical-journal-of-the-iaos",
       "journalTitle": "Statistical Journal of the IAOS",
       "articleTitle": "Fixing the model for the seasonal component: A new revision policy",
+      "authors": [
+        "María Novás",
+        "Félix Aparicio-Pérez",
+        "Rafael López",
+        "Soledad Saldaña",
+        "David Salgado",
+        "Luis Sanguiao"
+      ],
       "publicationYear": 2021,
       "doi": "10.3233/sji-210817"
     },
@@ -34,6 +42,10 @@
       "journalId": "statistical-journal-of-the-iaos",
       "journalTitle": "Statistical Journal of the IAOS",
       "articleTitle": "RJDemetra, a promising tool for the seasonal adjustment of official statistics",
+      "authors": [
+        "Giancarlo Lutero",
+        "Andrea d’Orazio"
+      ],
       "publicationYear": 2023,
       "doi": "10.3233/sji-230047"
     },
@@ -41,6 +53,10 @@
       "journalId": "statistical-journal-of-the-iaos",
       "journalTitle": "Statistical Journal of the IAOS",
       "articleTitle": "Seasonal adjustment strategies for official statistics in an era of unpredictable events",
+      "authors": [
+        "Giancarlo Lutero",
+        "Alessandro Piovani"
+      ],
       "publicationYear": 2025,
       "doi": "10.1177/18747655251388902"
     },
@@ -48,6 +64,10 @@
       "journalId": "journal-of-official-statistics",
       "journalTitle": "Journal of Official Statistics",
       "articleTitle": "Seasonal Adjustment of Infra-Monthly Time Series with JDemetra+",
+      "authors": [
+        "Karsten Webel",
+        "Anna Smyk"
+      ],
       "publicationYear": 2024,
       "doi": "10.1177/0282423x241277602"
     }
@@ -59,11 +79,11 @@
   "issues": 130,
   "releases": null,
   "pull_requests": null,
-  "awesome_metric": 3.2,
+  "awesome_metric": 3.3,
   "awesome_metric_breakdown": {
     "maturity": null,
     "documentation": 5,
-    "use": 2.600337357296702,
+    "use": 2.7653922631475885,
     "community": 2.1416644925748454
   },
   "awesome_metric_method": "See metrics.md in this repo; metrics calculation is still experimental and subject to change."

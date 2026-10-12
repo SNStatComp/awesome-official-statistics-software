@@ -1,8 +1,9 @@
 {
   "platform": "CRAN",
   "metric": "downloadsPer30Days",
-  "downloadsPer30Days": 76616,
-  "periodStart": "2026-09-01",
-  "periodEnd": "2026-09-30",
-  "source": "https://cranlogs.r-pkg.org/downloads/total/last-month/mice"
+  "downloadsPer30Days": 75276,
+  "periodStart": "2026-09-11",
+  "periodEnd": "2026-10-10",
+  "source": "https://cranlogs.r-pkg.org/downloads/total/last-month/mice",
+  "generatedAt": "2026-10-12T16:05:58.854Z"
 }

@@ -42,6 +42,10 @@
       "journalId": "statistical-journal-of-the-iaos",
       "journalTitle": "Statistical Journal of the IAOS",
       "articleTitle": "From face-to-face teaching of official statistics to e-learning for the Sustainable Development Goals",
+      "authors": [
+        "Sharleen Forbes",
+        "John Harraway"
+      ],
       "publicationYear": 2021,
       "doi": "10.3233/sji-210811"
     },
@@ -49,6 +53,9 @@
       "journalId": "statistical-journal-of-the-iaos",
       "journalTitle": "Statistical Journal of the IAOS",
       "articleTitle": "Visual technology unveils the beauty of statistics and swaps policy from dissemination to access",
+      "authors": [
+        "Hans a Rosling"
+      ],
       "publicationYear": 2007,
       "doi": "10.3233/sji-2007-00667"
     },
@@ -56,6 +63,9 @@
       "journalId": "statistical-journal-of-the-iaos",
       "journalTitle": "Statistical Journal of the IAOS",
       "articleTitle": "The aesth-ethic science of visual data storytelling: Istat's experience",
+      "authors": [
+        "Daria Squillante"
+      ],
       "publicationYear": 2025,
       "doi": "10.1177/18747655251366480"
     },
@@ -63,6 +73,9 @@
       "journalId": "statistical-journal-of-the-iaos",
       "journalTitle": "Statistical Journal of the IAOS",
       "articleTitle": "How to lie with graphics",
+      "authors": [
+        "Christophe Bontemps"
+      ],
       "publicationYear": 2026,
       "doi": "10.1177/18747655261445392"
     },
@@ -70,6 +83,11 @@
       "journalId": "statistical-journal-of-the-iaos",
       "journalTitle": "Statistical Journal of the IAOS",
       "articleTitle": "Democratizing Official Statistics: Insights and Recommendations from the Greek Experience",
+      "authors": [
+        "Apostolos Kasapis",
+        "Violetta Ntounia",
+        "Christina Pierrakou"
+      ],
       "publicationYear": 2026,
       "doi": "10.1177/18747655261450717"
     },
@@ -77,6 +95,11 @@
       "journalId": "statistics-in-transition-new-series",
       "journalTitle": "Statistics in Transition new series",
       "articleTitle": "Normality tests for transformed large measured data: a comprehensive analysis",
+      "authors": [
+        "Abu Feyo Bantu",
+        "Andrzej Kozyra",
+        "Józef Wiora"
+      ],
       "publicationYear": 2025,
       "doi": "10.59139/stattrans-2025-034"
     },
@@ -84,6 +107,12 @@
       "journalId": "statistics-in-transition-new-series",
       "journalTitle": "Statistics in Transition new series",
       "articleTitle": "ARIMA-LSTM hybrid model for forecasting urban temperature dynamics in Ugandan cities",
+      "authors": [
+        "Lekia Nkpordee",
+        "Yusuf Abass Aleshinloye",
+        "Ejidokun Adekunle Olugbenga",
+        "Ikpotokin Osayomore"
+      ],
       "publicationYear": 2026,
       "doi": "10.59139/stattrans-2026-022"
     },
@@ -91,6 +120,12 @@
       "journalId": "journal-of-survey-statistics-and-methodology",
       "journalTitle": "Journal of Survey Statistics and Methodology",
       "articleTitle": "Re-Examining the Middle Means Typical and the Left and Top Means First Heuristics Using Eye-Tracking Methodology",
+      "authors": [
+        "Jan Karem Höhne",
+        "Timo Lenzner",
+        "Cornelia E Neuert",
+        "Ting Yan"
+      ],
       "publicationYear": 2019,
       "doi": "10.1093/jssam/smz028"
     },
@@ -98,6 +133,24 @@
       "journalId": "journal-of-survey-statistics-and-methodology",
       "journalTitle": "Journal of Survey Statistics and Methodology",
       "articleTitle": "Transitions from Telephone Surveys to Self-Administered and Mixed-Mode Surveys: AAPOR Task Force Report",
+      "authors": [
+        "Kristen Olson",
+        "Jolene D Smyth",
+        "Rachel Horwitz",
+        "Scott Keeter",
+        "Virginia Lesser",
+        "Stephanie Marken",
+        "Nancy A Mathiowetz",
+        "Jaki S McCarthy",
+        "Eileen O’Brien",
+        "Jean D Opsomer",
+        "Darby Steiger",
+        "David Sterrett",
+        "Jennifer Su",
+        "Z Tuba Suzer-Gurtekin",
+        "Chintan Turakhia",
+        "James Wagner"
+      ],
       "publicationYear": 2020,
       "doi": "10.1093/jssam/smz062"
     },
@@ -105,6 +158,11 @@
       "journalId": "journal-of-survey-statistics-and-methodology",
       "journalTitle": "Journal of Survey Statistics and Methodology",
       "articleTitle": "Using Placeholder Text in Narrative Open-Ended Questions in Web Surveys",
+      "authors": [
+        "Tanja Kunz",
+        "Franziska Quoß",
+        "Tobias Gummer"
+      ],
       "publicationYear": 2020,
       "doi": "10.1093/jssam/smaa039"
     },
@@ -112,6 +170,14 @@
       "journalId": "journal-of-survey-statistics-and-methodology",
       "journalTitle": "Journal of Survey Statistics and Methodology",
       "articleTitle": "Collecting Objective Measures of Visual and Auditory Function in a National in-Home Survey of Older Adults",
+      "authors": [
+        "Mengyao Hu",
+        "Vicki A Freedman",
+        "Joshua R Ehrlich",
+        "Nicholas S Reed",
+        "Catherine Billington",
+        "Judith D Kasper"
+      ],
       "publicationYear": 2021,
       "doi": "10.1093/jssam/smaa044"
     },
@@ -119,6 +185,12 @@
       "journalId": "journal-of-survey-statistics-and-methodology",
       "journalTitle": "Journal of Survey Statistics and Methodology",
       "articleTitle": "Perceived Burden, Focus of Attention, and the Urge to Justify: The Impact of the Number of Screens and Probe Order on the Response Behavior of Probing Questions",
+      "authors": [
+        "Katharina Meitinger",
+        "Adrian Toroslu",
+        "Klara Raiber",
+        "Michael Braun"
+      ],
       "publicationYear": 2021,
       "doi": "10.1093/jssam/smaa043"
     },
@@ -126,6 +198,10 @@
       "journalId": "journal-of-survey-statistics-and-methodology",
       "journalTitle": "Journal of Survey Statistics and Methodology",
       "articleTitle": "Mail Communications and Survey Response: A Test of Social Exchange Versus Pre-Suasion Theory for Improving Response Rates and Data Quality",
+      "authors": [
+        "Pierce Greenberg",
+        "Don Dillman"
+      ],
       "publicationYear": 2021,
       "doi": "10.1093/jssam/smab020"
     },
@@ -133,6 +209,10 @@
       "journalId": "journal-of-survey-statistics-and-methodology",
       "journalTitle": "Journal of Survey Statistics and Methodology",
       "articleTitle": "Using Visual Grouping to Improve Navigation of Skip Patterns in Mail Surveys: An Experiment",
+      "authors": [
+        "Rebecca J Powell",
+        "Jolene D Smyth"
+      ],
       "publicationYear": 2021,
       "doi": "10.1093/jssam/smab041"
     },
@@ -140,6 +220,11 @@
       "journalId": "journal-of-survey-statistics-and-methodology",
       "journalTitle": "Journal of Survey Statistics and Methodology",
       "articleTitle": "Asking for Feedback: Innovating Final Comment Questions in Self-Administered Web Surveys",
+      "authors": [
+        "Joshua Claassen",
+        "Jan Karem HÖhne",
+        "Jessica Kuhlmann"
+      ],
       "publicationYear": 2025,
       "doi": "10.1093/jssam/smaf018"
     },
@@ -147,6 +232,9 @@
       "journalId": "journal-of-survey-statistics-and-methodology",
       "journalTitle": "Journal of Survey Statistics and Methodology",
       "articleTitle": "Conditions for Uncertainty Reduction in an Estimated Ranking using Differences",
+      "authors": [
+        "Tommy Wright"
+      ],
       "publicationYear": 2026,
       "doi": "10.1093/jssam/smag025"
     },
@@ -154,6 +242,10 @@
       "journalId": "international-statistical-review",
       "journalTitle": "International Statistical Review",
       "articleTitle": "ODC and ROC Curves, Comparison Curves and Stochastic Dominance",
+      "authors": [
+        "Teresa Ledwina",
+        "Adam Zagdański"
+      ],
       "publicationYear": 2024,
       "doi": "10.1111/insr.12571"
     },
@@ -161,6 +253,10 @@
       "journalId": "the-r-journal",
       "journalTitle": "The R Journal",
       "articleTitle": "auditor: an R Package for Model-Agnostic Visual Validation and Diagnostics",
+      "authors": [
+        "Alicja Gosiewska",
+        "Przemysław Biecek"
+      ],
       "publicationYear": 2019,
       "doi": "10.32614/rj-2019-036"
     },
@@ -168,6 +264,13 @@
       "journalId": "the-r-journal",
       "journalTitle": "The R Journal",
       "articleTitle": "Visual Diagnostics for Constrained Optimisation with Application to Guided Tours",
+      "authors": [
+        "H.,Sherry Zhang",
+        "Dianne Cook",
+        "Ursula Laa",
+        "Nicolas Langrené",
+        "Patricia Menéndez"
+      ],
       "publicationYear": 2021,
       "doi": "10.32614/rj-2021-105"
     },
@@ -175,6 +278,11 @@
       "journalId": "the-r-journal",
       "journalTitle": "The R Journal",
       "articleTitle": "nlmeVPC: Visual Model Diagnosis for the Nonlinear Mixed Effect Model",
+      "authors": [
+        "Eun-Hwa Kang",
+        "Myungji Ko",
+        "Eun-Kyung Lee"
+      ],
       "publicationYear": 2023,
       "doi": "10.32614/rj-2023-026"
     },
@@ -182,6 +290,9 @@
       "journalId": "journal-of-statistical-software",
       "journalTitle": "Journal of Statistical Software",
       "articleTitle": "AVisual BasicSoftware for Computing Fisher's Exact Probability",
+      "authors": [
+        "Haseeb Ahmad Khan"
+      ],
       "publicationYear": 2003,
       "doi": "10.18637/jss.v008.i21"
     },
@@ -189,6 +300,9 @@
       "journalId": "journal-of-statistical-software",
       "journalTitle": "Journal of Statistical Software",
       "articleTitle": "Beanplot: A Boxplot Alternative for Visual Comparison of Distributions",
+      "authors": [
+        "Peter Kampstra"
+      ],
       "publicationYear": 2008,
       "doi": "10.18637/jss.v028.c01"
     },
@@ -196,6 +310,9 @@
       "journalId": "journal-of-statistical-software",
       "journalTitle": "Journal of Statistical Software",
       "articleTitle": "A Visual Guide toStataGraphics",
+      "authors": [
+        "Thomas Lumley"
+      ],
       "publicationYear": 2005,
       "doi": "10.18637/jss.v012.b02"
     },
@@ -203,6 +320,12 @@
       "journalId": "journal-of-statistical-software",
       "journalTitle": "Journal of Statistical Software",
       "articleTitle": "A Video Tour throughViSta6.4, a Visual Statistical System based onLisp-Stat",
+      "authors": [
+        "J. Gabriel Molina",
+        "Rubén Ledesma",
+        "Pedro M. Valero",
+        "Forrest W. Young"
+      ],
       "publicationYear": 2005,
       "doi": "10.18637/jss.v013.i08"
     },
@@ -210,6 +333,11 @@
       "journalId": "journal-of-statistical-software",
       "journalTitle": "Journal of Statistical Software",
       "articleTitle": "RAGE: AJava-implemented Visual Random Generator",
+      "authors": [
+        "Carlos Javier Pérez",
+        "Hansgeorg Schwibbe",
+        "Petra Weidner"
+      ],
       "publicationYear": 2007,
       "doi": "10.18637/jss.v017.i10"
     },
@@ -217,6 +345,9 @@
       "journalId": "journal-of-statistical-software",
       "journalTitle": "Journal of Statistical Software",
       "articleTitle": "vdmR: Generating Web-Based Visual Data Mining Tools with R",
+      "authors": [
+        "Tomokazu Fujino"
+      ],
       "publicationYear": 2017,
       "doi": "10.18637/jss.v082.i06"
     },
@@ -224,6 +355,11 @@
       "journalId": "journal-of-statistical-software",
       "journalTitle": "Journal of Statistical Software",
       "articleTitle": "Continuous Ordinal Regression for Analysis of Visual Analogue Scales: The R Package ordinalCont",
+      "authors": [
+        "Maurizio Manuguerra",
+        "Gillian Z. Heller",
+        "Jun Ma"
+      ],
       "publicationYear": 2020,
       "doi": "10.18637/jss.v096.i08"
     },
@@ -231,6 +367,9 @@
       "journalId": "journal-of-computational-and-graphical-statistics",
       "journalTitle": "Journal of Computational and Graphical Statistics",
       "articleTitle": "Generalized Odds Ratios for Visual Modeling",
+      "authors": [
+        "Heike Hofmann"
+      ],
       "publicationYear": 2001,
       "doi": "10.1198/106186001317243368"
     },
@@ -238,6 +377,10 @@
       "journalId": "journal-of-computational-and-graphical-statistics",
       "journalTitle": "Journal of Computational and Graphical Statistics",
       "articleTitle": "Visual Scalability",
+      "authors": [
+        "Stephen G Eick",
+        "Alan F Karr"
+      ],
       "publicationYear": 2002,
       "doi": "10.1198/106186002317375604"
     },
@@ -245,6 +388,10 @@
       "journalId": "journal-of-computational-and-graphical-statistics",
       "journalTitle": "Journal of Computational and Graphical Statistics",
       "articleTitle": "Immersive Projection Technology for Visual Data Mining",
+      "authors": [
+        "Edward J Wegman",
+        "Jürgen Symanzik"
+      ],
       "publicationYear": 2002,
       "doi": "10.1198/106186002317375668"
     },
@@ -252,6 +399,10 @@
       "journalId": "journal-of-computational-and-graphical-statistics",
       "journalTitle": "Journal of Computational and Graphical Statistics",
       "articleTitle": "Visual Comparison of Datasets Using Mixture Decompositions",
+      "authors": [
+        "Alan Gous",
+        "Andreas Buja"
+      ],
       "publicationYear": 2004,
       "doi": "10.1198/1061860043119"
     },
@@ -259,6 +410,10 @@
       "journalId": "journal-of-computational-and-graphical-statistics",
       "journalTitle": "Journal of Computational and Graphical Statistics",
       "articleTitle": "[Guiding Data Analysts with Visual Statistical Strategies]: Discussion",
+      "authors": [
+        "William DuMouchel",
+        "Thomas Lane"
+      ],
       "publicationYear": 1995,
       "doi": "10.2307/1390853"
     },
@@ -266,6 +421,9 @@
       "journalId": "journal-of-computational-and-graphical-statistics",
       "journalTitle": "Journal of Computational and Graphical Statistics",
       "articleTitle": "[Guiding Data Analysts with Visual Statistical Strategies]: Discussion",
+      "authors": [
+        "Daryl Pregibon"
+      ],
       "publicationYear": 1995,
       "doi": "10.2307/1390854"
     },
@@ -273,6 +431,9 @@
       "journalId": "journal-of-computational-and-graphical-statistics",
       "journalTitle": "Journal of Computational and Graphical Statistics",
       "articleTitle": "[Guiding Data Analysts with Visual Statistical Strategies]: Rejoinder",
+      "authors": [
+        "Forrest W. Young"
+      ],
       "publicationYear": 1995,
       "doi": "10.2307/1390855"
     },
@@ -280,6 +441,10 @@
       "journalId": "journal-of-computational-and-graphical-statistics",
       "journalTitle": "Journal of Computational and Graphical Statistics",
       "articleTitle": "Dissimilarity Plots: A Visual Exploration Tool for Partitional Clustering",
+      "authors": [
+        "Michael Hahsler",
+        "Kurt Hornik"
+      ],
       "publicationYear": 2011,
       "doi": "10.1198/jcgs.2010.09139"
     },
@@ -287,6 +452,12 @@
       "journalId": "journal-of-computational-and-graphical-statistics",
       "journalTitle": "Journal of Computational and Graphical Statistics",
       "articleTitle": "ARIES: A Visual Path in the Investigation of Statistical Data",
+      "authors": [
+        "Richard Esposito",
+        "James K. Fox",
+        "Dongyow Lin",
+        "Kevin Tidemann"
+      ],
       "publicationYear": 1994,
       "doi": "10.1080/10618600.1994.10474634"
     },
@@ -294,6 +465,9 @@
       "journalId": "journal-of-computational-and-graphical-statistics",
       "journalTitle": "Journal of Computational and Graphical Statistics",
       "articleTitle": "Visual Understanding of Higher-Order Kernels",
+      "authors": [
+        "J. S. Marron"
+      ],
       "publicationYear": 1994,
       "doi": "10.1080/10618600.1994.10474657"
     },
@@ -301,6 +475,11 @@
       "journalId": "journal-of-computational-and-graphical-statistics",
       "journalTitle": "Journal of Computational and Graphical Statistics",
       "articleTitle": "The Visual Design and Control of Trellis Display",
+      "authors": [
+        "Richard A. Becker",
+        "William S. Cleveland",
+        "Ming-Jen Shyu"
+      ],
       "publicationYear": 1996,
       "doi": "10.1080/10618600.1996.10474701"
     },
@@ -308,6 +487,9 @@
       "journalId": "journal-of-computational-and-graphical-statistics",
       "journalTitle": "Journal of Computational and Graphical Statistics",
       "articleTitle": "The Visual Separability of Plotting Symbols in Scatterplots",
+      "authors": [
+        "Lothar Tremmel"
+      ],
       "publicationYear": 1995,
       "doi": "10.1080/10618600.1995.10474669"
     },
@@ -315,6 +497,10 @@
       "journalId": "journal-of-computational-and-graphical-statistics",
       "journalTitle": "Journal of Computational and Graphical Statistics",
       "articleTitle": "Guiding Data Analysts with Visual Statistical Strategies",
+      "authors": [
+        "Forrest W. Young",
+        "David J. Lubinsky"
+      ],
       "publicationYear": 1995,
       "doi": "10.1080/10618600.1995.10474680"
     },
@@ -322,6 +508,11 @@
       "journalId": "journal-of-computational-and-graphical-statistics",
       "journalTitle": "Journal of Computational and Graphical Statistics",
       "articleTitle": "Displaying Variation in Large Datasets: Plotting a Visual Summary of Effect Sizes",
+      "authors": [
+        "Gregory B. Gloor",
+        "Jean M. Macklaim",
+        "Andrew D. Fernandes"
+      ],
       "publicationYear": 2016,
       "doi": "10.1080/10618600.2015.1131161"
     },
@@ -329,6 +520,11 @@
       "journalId": "journal-of-computational-and-graphical-statistics",
       "journalTitle": "Journal of Computational and Graphical Statistics",
       "articleTitle": "Low-rank, Orthogonally Decomposable Tensor Regression With Application to Visual Stimulus Decoding of fMRI Data",
+      "authors": [
+        "J. C. Poythress",
+        "Jeongyoun Ahn",
+        "Cheolwoo Park"
+      ],
       "publicationYear": 2021,
       "doi": "10.1080/10618600.2021.1951741"
     },
@@ -336,6 +532,11 @@
       "journalId": "journal-of-computational-and-graphical-statistics",
       "journalTitle": "Journal of Computational and Graphical Statistics",
       "articleTitle": "Can You See The Change? Change Point Detection Using Visual Inference",
+      "authors": [
+        "Miguel Antonio Fudolig",
+        "Emily A. Robinson",
+        "Susan VanderPlas"
+      ],
       "publicationYear": 2025,
       "doi": "10.1080/10618600.2025.2485278"
     },
@@ -343,6 +544,11 @@
       "journalId": "journal-of-computational-and-graphical-statistics",
       "journalTitle": "Journal of Computational and Graphical Statistics",
       "articleTitle": "An Enhanced Projection Pursuit Tree Classifier with Visual Methods for Assessing Algorithmic Improvements",
+      "authors": [
+        "Natalia da Silva",
+        "Dianne Cook",
+        "Eun-Kyung Lee"
+      ],
       "publicationYear": 2026,
       "doi": "10.1080/10618600.2026.2719812"
     }

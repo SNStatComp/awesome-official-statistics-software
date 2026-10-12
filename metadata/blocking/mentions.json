@@ -23,6 +23,12 @@
       "journalId": "statistical-journal-of-the-iaos",
       "journalTitle": "Statistical Journal of the IAOS",
       "articleTitle": "Using supervised machine learning to identify efficient blocking schemes for record linkage",
+      "authors": [
+        "Scott R. Campbell",
+        "Dean M. Resnick",
+        "Christine S. Cox",
+        "Lisa B. Mirel"
+      ],
       "publicationYear": 2021,
       "doi": "10.3233/sji-200779"
     },
@@ -30,6 +36,9 @@
       "journalId": "statistical-journal-of-the-iaos",
       "journalTitle": "Statistical Journal of the IAOS",
       "articleTitle": "An efficient privacy-preserving record linkage technique for administrative data and censuses",
+      "authors": [
+        "Rainer Schnell"
+      ],
       "publicationYear": 2014,
       "doi": "10.3233/sji-140833"
     },
@@ -37,6 +46,9 @@
       "journalId": "international-statistical-review",
       "journalTitle": "International Statistical Review",
       "articleTitle": "Restricted Randomization versus Blocking",
+      "authors": [
+        "R. A. Bailey"
+      ],
       "publicationYear": 1985,
       "doi": "10.2307/1402933"
     },
@@ -44,6 +56,11 @@
       "journalId": "statistical-methods-and-applications",
       "journalTitle": "Statistical Methods & Applications",
       "articleTitle": "Classification Rule for Optimal Blocking for Nonregular Factorial Designs",
+      "authors": [
+        "Dong-Kwon Park",
+        "Hyoung-Soon Kim",
+        "Hee-Kyoung Kang"
+      ],
       "publicationYear": 2007,
       "doi": "10.5351/ckss.2007.14.3.483"
     },
@@ -51,6 +68,9 @@
       "journalId": "statistical-methods-and-applications",
       "journalTitle": "Statistical Methods & Applications",
       "articleTitle": "Blocking Method of 2nFactorial and Fractional Factorial Designs in Blocks of Size Two by Using Defining Contrast",
+      "authors": [
+        "Byoung-Chul Choi"
+      ],
       "publicationYear": 2008,
       "doi": "10.5351/ckss.2008.15.4.497"
     },
@@ -58,6 +78,10 @@
       "journalId": "the-r-journal",
       "journalTitle": "The R Journal",
       "articleTitle": "blocking: An R Package for Blocking of Records for Record Linkage and Deduplication",
+      "authors": [
+        "Maciej Beręsewicz",
+        "Adam Struzik"
+      ],
       "publicationYear": 2026,
       "doi": "10.32614/rj-2026-029"
     },
@@ -65,6 +89,11 @@
       "journalId": "journal-of-statistical-software",
       "journalTitle": "Journal of Statistical Software",
       "articleTitle": "Blocking Mixed-Level Factorials withSAS",
+      "authors": [
+        "John Lawson",
+        "G. Bruce Schaalje",
+        "Bruce Jay Collings"
+      ],
       "publicationYear": 2009,
       "doi": "10.18637/jss.v032.c01"
     }
@@ -76,13 +105,13 @@
         "id": "statistical-journal-of-the-iaos",
         "title": "Statistical Journal of the IAOS",
         "issn": "1874-7655",
-        "articleCount": 1479
+        "articleCount": 1483
       },
       {
         "id": "journal-of-official-statistics",
         "title": "Journal of Official Statistics",
         "issn": "0282-423X",
-        "articleCount": 173
+        "articleCount": 175
       },
       {
         "id": "statistics-in-transition-new-series",
@@ -94,19 +123,19 @@
         "id": "journal-of-survey-statistics-and-methodology",
         "title": "Journal of Survey Statistics and Methodology",
         "issn": "2325-0984",
-        "articleCount": 619
+        "articleCount": 621
       },
       {
         "id": "international-statistical-review",
         "title": "International Statistical Review",
         "issn": "0306-7734",
-        "articleCount": 2935
+        "articleCount": 2937
       },
       {
         "id": "statistical-methods-and-applications",
         "title": "Statistical Methods & Applications",
         "issn": "2287-7843",
-        "articleCount": 1198
+        "articleCount": 1205
       },
       {
         "id": "the-r-journal",
@@ -124,7 +153,7 @@
         "id": "journal-of-computational-and-graphical-statistics",
         "title": "Journal of Computational and Graphical Statistics",
         "issn": "1061-8600",
-        "articleCount": 2525
+        "articleCount": 2520
       }
     ],
     "unavailable": [
@@ -149,5 +178,6 @@
       "reason": "Google Scholar has no official public search API; automated scraping is unreliable and is not included in the automated mention count."
     }
   ],
-  "searchedAt": "2026-10-02T11:23:01.544Z"
+  "searchedAt": "2026-10-12T16:07:50.918Z",
+  "generatedAt": "2026-10-12T16:07:50.918Z"
 }

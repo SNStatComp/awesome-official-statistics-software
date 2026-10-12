@@ -5,7 +5,7 @@
   "forks_count": null,
   "forks": null,
   "open_issues_count": null,
-  "downloadsPer30Days": 2005,
+  "downloadsPer30Days": 1997,
   "downloadsUnavailableReason": null,
   "VignetteBuilder": "knitr",
   "vignetteCount": 2,
@@ -38,7 +38,7 @@
   "awesome_metric_breakdown": {
     "maturity": 0,
     "documentation": 3.762629215772997,
-    "use": 1.6511640301665165,
+    "use": 1.6502963085229883,
     "community": null
   },
   "awesome_metric_method": "See metrics.md in this repo; metrics calculation is still experimental and subject to change."

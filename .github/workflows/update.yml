@@ -12,8 +12,31 @@ on:
         description: Process only this item from the software list
         required: false
         type: string
+      max:
+        description: Process at most N items
+        required: false
+        type: number
+      item_type:
+        description: Process only items of this type
+        required: false
+        type: choice
+        options:
+          - GH
+          - CRAN
+          - PYPI
+          - GL
       force:
         description: Ignore cached metadata and refresh selected items
+        required: false
+        default: false
+        type: boolean
+      md:
+        description: Only generate markdown output (step 5)
+        required: false
+        default: false
+        type: boolean
+      mdGH:
+        description: Like md, but use GitHub badge URLs
         required: false
         default: false
         type: boolean
@@ -38,30 +61,40 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      # retrieve pkg metadata
-      - name: get_metadata
+
+      - name: update
         run: |
           args=()
           if [[ -n "$ITEM_NAME" ]]; then
             args+=(--name "$ITEM_NAME")
           fi
+          if [[ -n "$MAX" ]]; then
+            args+=(--max "$MAX")
+          fi
+          if [[ -n "$ITEM_TYPE" ]]; then
+            args+=(--type "$ITEM_TYPE")
+          fi
           if [[ "$FORCE_METADATA" == "true" ]]; then
             args+=(--force)
           fi
-          node get_metadata.js "${args[@]}"
+          if [[ "$MD_ONLY" == "true" ]]; then
+            args+=(--md)
+          fi
+          if [[ "$MD_GH" == "true" ]]; then
+            args+=(--mdGH)
+          fi
+          node update.js "${args[@]}"
         env:
           GH_API_TOKEN: ${{ secrets.GH_API_TOKEN }}
           ITEM_NAME: ${{ github.event.inputs.item_name }}
+          MAX: ${{ github.event.inputs.max }}
+          ITEM_TYPE: ${{ github.event.inputs.item_type }}
           FORCE_METADATA: ${{ github.event.inputs.force }}
-
-      # aggregate metadata
-      - name: aggregate_metadata
-        run: node aggregate_metadata.js
-
-      # generate readme
-      - name: generate_readme_csv
-        run: node generate_readme_csv.js
+          MD_ONLY: ${{ github.event.inputs.md }}
+          MD_GH: ${{ github.event.inputs.mdGH }}
+ 
         
+
       # Commit files:
       - name: Commit files
         run: |

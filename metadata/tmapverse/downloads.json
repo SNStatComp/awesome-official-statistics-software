@@ -1,0 +1,16 @@
+{
+  "platform": "GitHub",
+  "metric": "downloadsPer30Days",
+  "downloadsPer30Days": null,
+  "method": "release asset download-count snapshot",
+  "cumulativeReleaseAssetDownloads": 0,
+  "rateBasisDays": null,
+  "snapshots": [
+    {
+      "observedAt": "2026-10-12T17:36:06.270Z",
+      "cumulativeDownloads": 0
+    }
+  ],
+  "source": "https://api.github.com/repos/r-tmap/tmapverse/releases",
+  "generatedAt": "2026-10-12T17:36:06.273Z"
+}

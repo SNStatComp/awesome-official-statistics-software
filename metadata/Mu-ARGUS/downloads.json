@@ -1,10 +1,10 @@
 {
   "platform": "GitHub",
   "metric": "downloadsPer30Days",
-  "downloadsPer30Days": 0,
+  "downloadsPer30Days": 12,
   "method": "release asset download-count snapshot delta",
-  "cumulativeReleaseAssetDownloads": 2075,
-  "rateBasisDays": 1,
+  "cumulativeReleaseAssetDownloads": 2079,
+  "rateBasisDays": 10,
   "snapshots": [
     {
       "observedAt": "2026-10-01T14:17:16.697Z",
@@ -13,7 +13,12 @@
     {
       "observedAt": "2026-10-02T11:21:38.260Z",
       "cumulativeDownloads": 2075
+    },
+    {
+      "observedAt": "2026-10-12T16:06:15.704Z",
+      "cumulativeDownloads": 2079
     }
   ],
-  "source": "https://api.github.com/repos/sdcTools/muargus/releases"
+  "source": "https://api.github.com/repos/sdcTools/muargus/releases",
+  "generatedAt": "2026-10-12T16:06:15.704Z"
 }

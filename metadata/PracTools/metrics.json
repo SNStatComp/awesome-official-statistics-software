@@ -5,7 +5,7 @@
   "forks_count": null,
   "forks": null,
   "open_issues_count": null,
-  "downloadsPer30Days": 794,
+  "downloadsPer30Days": 803,
   "downloadsUnavailableReason": null,
   "VignetteBuilder": "knitr",
   "vignetteCount": 6,
@@ -55,6 +55,11 @@
       "journalId": "the-r-journal",
       "journalTitle": "The R Journal",
       "articleTitle": "PracTools: Computations for Design of Finite Population Samples",
+      "authors": [
+        "Richard Valliant",
+        "Jill,A. Dever",
+        "Frauke Kreuter"
+      ],
       "publicationYear": 2015,
       "doi": "10.32614/rj-2015-028"
     }
@@ -70,7 +75,7 @@
   "awesome_metric_breakdown": {
     "maturity": 0,
     "documentation": 4.826640620325049,
-    "use": 2.0193579264645702,
+    "use": 2.021802384387342,
     "community": null
   },
   "awesome_metric_method": "See metrics.md in this repo; metrics calculation is still experimental and subject to change."

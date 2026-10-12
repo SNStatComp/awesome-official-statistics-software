@@ -32,6 +32,9 @@
       "journalId": "statistical-journal-of-the-iaos",
       "journalTitle": "Statistical Journal of the IAOS",
       "articleTitle": "Improving seasonal adjustment by accounting for sample error correlation using state space models1",
+      "authors": [
+        "Andreas Mayer"
+      ],
       "publicationYear": 2018,
       "doi": "10.3233/sji-180432"
     },
@@ -39,6 +42,9 @@
       "journalId": "statistical-journal-of-the-iaos",
       "journalTitle": "Statistical Journal of the IAOS",
       "articleTitle": "Seasonal adjustment of Irish official statistics during the COVID-19 crisis",
+      "authors": [
+        "Patrick Foley"
+      ],
       "publicationYear": 2021,
       "doi": "10.3233/sji-200778"
     },
@@ -46,6 +52,14 @@
       "journalId": "statistical-journal-of-the-iaos",
       "journalTitle": "Statistical Journal of the IAOS",
       "articleTitle": "Fixing the model for the seasonal component: A new revision policy",
+      "authors": [
+        "María Novás",
+        "Félix Aparicio-Pérez",
+        "Rafael López",
+        "Soledad Saldaña",
+        "David Salgado",
+        "Luis Sanguiao"
+      ],
       "publicationYear": 2021,
       "doi": "10.3233/sji-210817"
     },
@@ -53,6 +67,12 @@
       "journalId": "statistical-journal-of-the-iaos",
       "journalTitle": "Statistical Journal of the IAOS",
       "articleTitle": "New recommendation to predict export value using big data and machine learning technique",
+      "authors": [
+        "Rani Nooraeni",
+        "Jimmy Nickelson",
+        "Eko Rahmadian",
+        "Nugroho Puspito Yudho"
+      ],
       "publicationYear": 2022,
       "doi": "10.3233/sji-210855"
     },
@@ -60,6 +80,9 @@
       "journalId": "statistical-journal-of-the-iaos",
       "journalTitle": "Statistical Journal of the IAOS",
       "articleTitle": "Assessment of the spread of COVID-19 in seven countries using a seasonal adjustment method",
+      "authors": [
+        "Tetsuma Arita"
+      ],
       "publicationYear": 2022,
       "doi": "10.3233/sji-220932"
     },
@@ -67,6 +90,9 @@
       "journalId": "statistical-journal-of-the-iaos",
       "journalTitle": "Statistical Journal of the IAOS",
       "articleTitle": "Automatizing model selection in an annual review of seasonal adjustment: A machine learning-inspired approach",
+      "authors": [
+        "Yingfu Xie"
+      ],
       "publicationYear": 2023,
       "doi": "10.3233/sji-220097"
     },
@@ -74,6 +100,10 @@
       "journalId": "statistical-journal-of-the-iaos",
       "journalTitle": "Statistical Journal of the IAOS",
       "articleTitle": "RJDemetra, a promising tool for the seasonal adjustment of official statistics",
+      "authors": [
+        "Giancarlo Lutero",
+        "Andrea d’Orazio"
+      ],
       "publicationYear": 2023,
       "doi": "10.3233/sji-230047"
     },
@@ -81,6 +111,9 @@
       "journalId": "statistical-journal-of-the-iaos",
       "journalTitle": "Statistical Journal of the IAOS",
       "articleTitle": "Outlier identification and adjustment for time series",
+      "authors": [
+        "Markus Fröhlich"
+      ],
       "publicationYear": 2024,
       "doi": "10.3233/sji-230109"
     },
@@ -88,6 +121,9 @@
       "journalId": "statistical-journal-of-the-iaos",
       "journalTitle": "Statistical Journal of the IAOS",
       "articleTitle": "Revisions in concurrent seasonal adjustments of daily and weekly economic time series",
+      "authors": [
+        "Karsten Webel"
+      ],
       "publicationYear": 2025,
       "doi": "10.1177/18747655251341459"
     },
@@ -95,6 +131,10 @@
       "journalId": "statistical-journal-of-the-iaos",
       "journalTitle": "Statistical Journal of the IAOS",
       "articleTitle": "Seasonal adjustment strategies for official statistics in an era of unpredictable events",
+      "authors": [
+        "Giancarlo Lutero",
+        "Alessandro Piovani"
+      ],
       "publicationYear": 2025,
       "doi": "10.1177/18747655251388902"
     },
@@ -102,6 +142,11 @@
       "journalId": "statistical-journal-of-the-iaos",
       "journalTitle": "Statistical Journal of the IAOS",
       "articleTitle": "Capturing black Friday effect in seasonal adjustment with an application to the Swedish retail sales",
+      "authors": [
+        "Ingrid Heed",
+        "Yingfu Xie",
+        "Yukai Yang"
+      ],
       "publicationYear": 2026,
       "doi": "10.1177/18747655261442072"
     },
@@ -109,6 +154,14 @@
       "journalId": "statistical-journal-of-the-iaos",
       "journalTitle": "Statistical Journal of the IAOS",
       "articleTitle": "Forecasting cocoa export volumes in Indonesia using remote sensing, climate variability, and economic indicators: A comparative modeling approach",
+      "authors": [
+        "Erna Nurmawati",
+        "Neli Agustina",
+        "Robert Kurniawan",
+        "Prana Ugiana Gio",
+        "Rayhan Abyasa",
+        "Aditya Hari Kurnia Putra"
+      ],
       "publicationYear": 2026,
       "doi": "10.1177/18747655261486415"
     },
@@ -116,6 +169,9 @@
       "journalId": "journal-of-official-statistics",
       "journalTitle": "Journal of Official Statistics",
       "articleTitle": "Improving Real-Time Trend Estimates Using Local Parametrization of Polynomial Regression Filters",
+      "authors": [
+        "Alain Quartier-la-Tente"
+      ],
       "publicationYear": 2024,
       "doi": "10.1177/0282423x241283207"
     },
@@ -123,6 +179,10 @@
       "journalId": "journal-of-official-statistics",
       "journalTitle": "Journal of Official Statistics",
       "articleTitle": "Seasonal Adjustment of Infra-Monthly Time Series with JDemetra+",
+      "authors": [
+        "Karsten Webel",
+        "Anna Smyk"
+      ],
       "publicationYear": 2024,
       "doi": "10.1177/0282423x241277602"
     },
@@ -130,6 +190,10 @@
       "journalId": "journal-of-official-statistics",
       "journalTitle": "Journal of Official Statistics",
       "articleTitle": "The COVID-19 Shock Through the Lens of the Spanish Sales Daily Data: Modeling and Seasonal Adjustment Challenges",
+      "authors": [
+        "Ángel Cuevas",
+        "Enrique M. Quilis"
+      ],
       "publicationYear": 2024,
       "doi": "10.1177/0282423x241285985"
     },
@@ -137,6 +201,11 @@
       "journalId": "journal-of-official-statistics",
       "journalTitle": "Journal of Official Statistics",
       "articleTitle": "STAHL: Seasonal, Trend, and Holiday Decomposition with Loess",
+      "authors": [
+        "Vincent Haller",
+        "Sebastien Daniel",
+        "Benoit Bellone"
+      ],
       "publicationYear": 2025,
       "doi": "10.1177/0282423x251344219"
     },
@@ -144,6 +213,13 @@
       "journalId": "statistics-in-transition-new-series",
       "journalTitle": "Statistics in Transition new series",
       "articleTitle": "Statistical modelling and forecasting of wheat and meslin export from Ukraine using the singular spectral analysis",
+      "authors": [
+        "Tetyana Chala",
+        "Oleksiy Korepanov",
+        "Iuliia Lazebnyk",
+        "Daryna Chernenko",
+        "Georgii Korepanov"
+      ],
       "publicationYear": 2023,
       "doi": "10.59170/stattrans-2023-010"
     },
@@ -151,6 +227,10 @@
       "journalId": "statistics-in-transition-new-series",
       "journalTitle": "Statistics in Transition new series",
       "articleTitle": "Calendar and seasonal effects on the size of withdrawals from ATMs managed by Euronet",
+      "authors": [
+        "Henryk Gurgul",
+        "Marcin Suder"
+      ],
       "publicationYear": 2016,
       "doi": "10.59170/stattrans-2016-038"
     },
@@ -158,6 +238,9 @@
       "journalId": "statistics-in-transition-new-series",
       "journalTitle": "Statistics in Transition new series",
       "articleTitle": "Identifying an appropriate forecasting model for forecasting total import of Bangladesh",
+      "authors": [
+        "Tanvir Khan"
+      ],
       "publicationYear": 2011,
       "doi": "10.59170/stattrans-2011-011"
     },
@@ -165,6 +248,12 @@
       "journalId": "statistics-in-transition-new-series",
       "journalTitle": "Statistics in Transition new series",
       "articleTitle": "ARIMA-LSTM hybrid model for forecasting urban temperature dynamics in Ugandan cities",
+      "authors": [
+        "Lekia Nkpordee",
+        "Yusuf Abass Aleshinloye",
+        "Ejidokun Adekunle Olugbenga",
+        "Ikpotokin Osayomore"
+      ],
       "publicationYear": 2026,
       "doi": "10.59139/stattrans-2026-022"
     },
@@ -172,6 +261,11 @@
       "journalId": "statistics-in-transition-new-series",
       "journalTitle": "Statistics in Transition new series",
       "articleTitle": "Classification of local labor markets in the Wielkopolskie voivodship in the light of principal component analysis for doubly multivariate data",
+      "authors": [
+        "Wojciech Łukaszonek",
+        "Marcin Szymkowiak",
+        "Waldemar Wołyński"
+      ],
       "publicationYear": 2026,
       "doi": "10.59139/stattrans-2026-026"
     },
@@ -179,6 +273,14 @@
       "journalId": "statistics-in-transition-new-series",
       "journalTitle": "Statistics in Transition new series",
       "articleTitle": "Seasonal ARIMA modeling of inflation in Nigeria",
+      "authors": [
+        "Saheed A. Ajobo",
+        "Oluwaseun A. Adesina",
+        "David I. Ohida",
+        "Kafayat A. Alobaloke",
+        "OlaOluwa S. Yaya",
+        "Mary M. Adepoju"
+      ],
       "publicationYear": 2026,
       "doi": "10.59139/stattrans-2026-033"
     },
@@ -186,6 +288,10 @@
       "journalId": "international-statistical-review",
       "journalTitle": "International Statistical Review",
       "articleTitle": "A Review of Seasonal Adjustment Diagnostics",
+      "authors": [
+        "Tucker McElroy",
+        "Anindya Roy"
+      ],
       "publicationYear": 2021,
       "doi": "10.1111/insr.12482"
     },
@@ -193,6 +299,12 @@
       "journalId": "international-statistical-review",
       "journalTitle": "International Statistical Review",
       "articleTitle": "Global seasonal and pandemic patterns in influenza: An application of longitudinal study designs",
+      "authors": [
+        "Elena N. Naumova",
+        "Ryan B. Simpson",
+        "Bingjie Zhou",
+        "Meghan A. Hartwick"
+      ],
       "publicationYear": 2022,
       "doi": "10.1111/insr.12529"
     },
@@ -200,6 +312,9 @@
       "journalId": "international-statistical-review",
       "journalTitle": "International Statistical Review",
       "articleTitle": "Matrix‐Variate Time Series Analysis: A Brief Review and Some New Developments",
+      "authors": [
+        "Ruey S. Tsay"
+      ],
       "publicationYear": 2023,
       "doi": "10.1111/insr.12558"
     },
@@ -207,6 +322,12 @@
       "journalId": "statistical-methods-and-applications",
       "journalTitle": "Statistical Methods & Applications",
       "articleTitle": "A Study on International Passenger and Freight Forecasting Using the Seasonal Multivariate Time Series Models",
+      "authors": [
+        "Ji-Seong Yoon",
+        "Nam-Kyun Huh",
+        "Sahm-Yong Kim",
+        "Hee-Young Hur"
+      ],
       "publicationYear": 2010,
       "doi": "10.5351/ckss.2010.17.3.473"
     },
@@ -214,6 +335,9 @@
       "journalId": "statistical-methods-and-applications",
       "journalTitle": "Statistical Methods & Applications",
       "articleTitle": "Testing of Stochastic Trends, Seasonal and Cyclical Components in Macroeconomil Time Series",
+      "authors": [
+        "Luis A. Gil-Alana"
+      ],
       "publicationYear": 2005,
       "doi": "10.5351/ckss.2005.12.1.101"
     },
@@ -221,6 +345,9 @@
       "journalId": "statistical-methods-and-applications",
       "journalTitle": "Statistical Methods & Applications",
       "articleTitle": "A Feasible Two-Step Estimator for Seasonal Cointegration",
+      "authors": [
+        "Byeong-Chan Seong"
+      ],
       "publicationYear": 2008,
       "doi": "10.5351/ckss.2008.15.3.411"
     },
@@ -228,6 +355,10 @@
       "journalId": "statistical-methods-and-applications",
       "journalTitle": "Statistical Methods & Applications",
       "articleTitle": "Joint Test for Seasonal Cointegrating Ranks",
+      "authors": [
+        "Byeong-Chan Seong",
+        "Yoon-Ju Yi"
+      ],
       "publicationYear": 2008,
       "doi": "10.5351/ckss.2008.15.5.719"
     },
@@ -235,6 +366,9 @@
       "journalId": "statistical-methods-and-applications",
       "journalTitle": "Statistical Methods & Applications",
       "articleTitle": "Seasonal Adjustment on Chain-Linking",
+      "authors": [
+        "Gyeong-Bae Jeon"
+      ],
       "publicationYear": 2009,
       "doi": "10.5351/ckss.2009.16.1.041"
     },
@@ -242,6 +376,11 @@
       "journalId": "statistical-methods-and-applications",
       "journalTitle": "Statistical Methods & Applications",
       "articleTitle": "Fuzzy Semiparametric Support Vector Regression for Seasonal Time Series Analysis",
+      "authors": [
+        "Joo-Yong Shim",
+        "Chang-Ha Hwang",
+        "Dug-Hun Hong"
+      ],
       "publicationYear": 2009,
       "doi": "10.5351/ckss.2009.16.2.335"
     },
@@ -249,6 +388,9 @@
       "journalId": "statistical-methods-and-applications",
       "journalTitle": "Statistical Methods & Applications",
       "articleTitle": "Comparison of Forecasting Performance in Multivariate Nonstationary Seasonal Time Series Models",
+      "authors": [
+        "Byeong-Chan Seong"
+      ],
       "publicationYear": 2011,
       "doi": "10.5351/ckss.2011.18.1.013"
     },
@@ -256,6 +398,9 @@
       "journalId": "statistical-methods-and-applications",
       "journalTitle": "Statistical Methods & Applications",
       "articleTitle": "A Comparison of Seasonal Linear Models and Seasonal ARIMA Models for Forecasting Intra-Day Call Arrivals",
+      "authors": [
+        "Myung-Suk Kim"
+      ],
       "publicationYear": 2011,
       "doi": "10.5351/ckss.2011.18.2.237"
     },
@@ -263,6 +408,11 @@
       "journalId": "the-r-journal",
       "journalTitle": "The R Journal",
       "articleTitle": "Analysing Seasonal Data",
+      "authors": [
+        "Adrian,G Barnett",
+        "Peter Baker",
+        "Annette,J Dobson"
+      ],
       "publicationYear": 2012,
       "doi": "10.32614/rj-2012-001"
     },
@@ -270,6 +420,9 @@
       "journalId": "the-r-journal",
       "journalTitle": "The R Journal",
       "articleTitle": "boiwsa: An R Package for Seasonal Adjustment of Weekly Data",
+      "authors": [
+        "Tim Ginker"
+      ],
       "publicationYear": 2025,
       "doi": "10.32614/rj-2024-032"
     },
@@ -277,6 +430,12 @@
       "journalId": "journal-of-statistical-software",
       "journalTitle": "Journal of Statistical Software",
       "articleTitle": "Seasonal Adjustment with theRPackagesx12andx12GUI",
+      "authors": [
+        "Alexander Kowarik",
+        "Angelika Meraner",
+        "Matthias Templ",
+        "Daniel Schopfhauser"
+      ],
       "publicationYear": 2014,
       "doi": "10.18637/jss.v062.i02"
     },
@@ -284,6 +443,10 @@
       "journalId": "journal-of-statistical-software",
       "journalTitle": "Journal of Statistical Software",
       "articleTitle": "Seasonal Adjustment by X-13ARIMA-SEATS in R",
+      "authors": [
+        "Christoph Sax",
+        "Dirk Eddelbuettel"
+      ],
       "publicationYear": 2018,
       "doi": "10.18637/jss.v087.i11"
     },
@@ -291,6 +454,9 @@
       "journalId": "journal-of-computational-and-graphical-statistics",
       "journalTitle": "Journal of Computational and Graphical Statistics",
       "articleTitle": "Frequency Domain Calculation of Seasonal VARMA Autocovariances",
+      "authors": [
+        "Tucker S. McElroy"
+      ],
       "publicationYear": 2021,
       "doi": "10.1080/10618600.2021.1981343"
     },
@@ -298,6 +464,11 @@
       "journalId": "journal-of-computational-and-graphical-statistics",
       "journalTitle": "Journal of Computational and Graphical Statistics",
       "articleTitle": "Time-Varying Multi-Seasonal AR Models",
+      "authors": [
+        "Ganna Fagerberg",
+        "Mattias Villani",
+        "Robert Kohn"
+      ],
       "publicationYear": 2026,
       "doi": "10.1080/10618600.2026.2614102"
     }
@@ -309,13 +480,13 @@
         "id": "statistical-journal-of-the-iaos",
         "title": "Statistical Journal of the IAOS",
         "issn": "1874-7655",
-        "articleCount": 1479
+        "articleCount": 1483
       },
       {
         "id": "journal-of-official-statistics",
         "title": "Journal of Official Statistics",
         "issn": "0282-423X",
-        "articleCount": 173
+        "articleCount": 175
       },
       {
         "id": "statistics-in-transition-new-series",
@@ -327,19 +498,19 @@
         "id": "journal-of-survey-statistics-and-methodology",
         "title": "Journal of Survey Statistics and Methodology",
         "issn": "2325-0984",
-        "articleCount": 619
+        "articleCount": 621
       },
       {
         "id": "international-statistical-review",
         "title": "International Statistical Review",
         "issn": "0306-7734",
-        "articleCount": 2935
+        "articleCount": 2937
       },
       {
         "id": "statistical-methods-and-applications",
         "title": "Statistical Methods & Applications",
         "issn": "2287-7843",
-        "articleCount": 1198
+        "articleCount": 1205
       },
       {
         "id": "the-r-journal",
@@ -357,7 +528,7 @@
         "id": "journal-of-computational-and-graphical-statistics",
         "title": "Journal of Computational and Graphical Statistics",
         "issn": "1061-8600",
-        "articleCount": 2525
+        "articleCount": 2520
       }
     ],
     "unavailable": [
@@ -382,5 +553,6 @@
       "reason": "Google Scholar has no official public search API; automated scraping is unreliable and is not included in the automated mention count."
     }
   ],
-  "searchedAt": "2026-10-02T11:23:01.712Z"
+  "searchedAt": "2026-10-12T16:07:51.133Z",
+  "generatedAt": "2026-10-12T16:07:51.133Z"
 }

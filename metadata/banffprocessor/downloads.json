@@ -2,7 +2,8 @@
   "platform": "PyPI",
   "metric": "downloadsPer30Days",
   "method": "PyPI Stats last_month; excludes known mirrors",
-  "downloadsPer30Days": 15,
+  "downloadsPer30Days": 30,
   "period": "last_month",
-  "source": "https://pypistats.org/api/packages/banffprocessor/recent"
+  "source": "https://pypistats.org/api/packages/banffprocessor/recent",
+  "generatedAt": "2026-10-12T16:06:00.746Z"
 }

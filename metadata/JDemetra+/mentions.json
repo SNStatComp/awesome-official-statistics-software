@@ -14,6 +14,14 @@
       "journalId": "statistical-journal-of-the-iaos",
       "journalTitle": "Statistical Journal of the IAOS",
       "articleTitle": "Fixing the model for the seasonal component: A new revision policy",
+      "authors": [
+        "María Novás",
+        "Félix Aparicio-Pérez",
+        "Rafael López",
+        "Soledad Saldaña",
+        "David Salgado",
+        "Luis Sanguiao"
+      ],
       "publicationYear": 2021,
       "doi": "10.3233/sji-210817"
     },
@@ -21,6 +29,10 @@
       "journalId": "statistical-journal-of-the-iaos",
       "journalTitle": "Statistical Journal of the IAOS",
       "articleTitle": "RJDemetra, a promising tool for the seasonal adjustment of official statistics",
+      "authors": [
+        "Giancarlo Lutero",
+        "Andrea d’Orazio"
+      ],
       "publicationYear": 2023,
       "doi": "10.3233/sji-230047"
     },
@@ -28,6 +40,10 @@
       "journalId": "statistical-journal-of-the-iaos",
       "journalTitle": "Statistical Journal of the IAOS",
       "articleTitle": "Seasonal adjustment strategies for official statistics in an era of unpredictable events",
+      "authors": [
+        "Giancarlo Lutero",
+        "Alessandro Piovani"
+      ],
       "publicationYear": 2025,
       "doi": "10.1177/18747655251388902"
     },
@@ -35,6 +51,10 @@
       "journalId": "journal-of-official-statistics",
       "journalTitle": "Journal of Official Statistics",
       "articleTitle": "Seasonal Adjustment of Infra-Monthly Time Series with JDemetra+",
+      "authors": [
+        "Karsten Webel",
+        "Anna Smyk"
+      ],
       "publicationYear": 2024,
       "doi": "10.1177/0282423x241277602"
     }
@@ -46,13 +66,13 @@
         "id": "statistical-journal-of-the-iaos",
         "title": "Statistical Journal of the IAOS",
         "issn": "1874-7655",
-        "articleCount": 1479
+        "articleCount": 1483
       },
       {
         "id": "journal-of-official-statistics",
         "title": "Journal of Official Statistics",
         "issn": "0282-423X",
-        "articleCount": 173
+        "articleCount": 175
       },
       {
         "id": "statistics-in-transition-new-series",
@@ -64,19 +84,19 @@
         "id": "journal-of-survey-statistics-and-methodology",
         "title": "Journal of Survey Statistics and Methodology",
         "issn": "2325-0984",
-        "articleCount": 619
+        "articleCount": 621
       },
       {
         "id": "international-statistical-review",
         "title": "International Statistical Review",
         "issn": "0306-7734",
-        "articleCount": 2935
+        "articleCount": 2937
       },
       {
         "id": "statistical-methods-and-applications",
         "title": "Statistical Methods & Applications",
         "issn": "2287-7843",
-        "articleCount": 1198
+        "articleCount": 1205
       },
       {
         "id": "the-r-journal",
@@ -94,7 +114,7 @@
         "id": "journal-of-computational-and-graphical-statistics",
         "title": "Journal of Computational and Graphical Statistics",
         "issn": "1061-8600",
-        "articleCount": 2525
+        "articleCount": 2520
       }
     ],
     "unavailable": [
@@ -119,5 +139,6 @@
       "reason": "Google Scholar has no official public search API; automated scraping is unreliable and is not included in the automated mention count."
     }
   ],
-  "searchedAt": "2026-10-02T11:23:01.723Z"
+  "searchedAt": "2026-10-12T16:07:51.141Z",
+  "generatedAt": "2026-10-12T16:07:51.141Z"
 }

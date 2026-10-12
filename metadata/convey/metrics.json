@@ -5,7 +5,7 @@
   "forks_count": null,
   "forks": null,
   "open_issues_count": null,
-  "downloadsPer30Days": 2198,
+  "downloadsPer30Days": 2329,
   "downloadsUnavailableReason": null,
   "VignetteBuilder": null,
   "vignetteCount": 0,
@@ -27,6 +27,12 @@
       "journalId": "journal-of-survey-statistics-and-methodology",
       "journalTitle": "Journal of Survey Statistics and Methodology",
       "articleTitle": "Re-Examining the Middle Means Typical and the Left and Top Means First Heuristics Using Eye-Tracking Methodology",
+      "authors": [
+        "Jan Karem Höhne",
+        "Timo Lenzner",
+        "Cornelia E Neuert",
+        "Ting Yan"
+      ],
       "publicationYear": 2019,
       "doi": "10.1093/jssam/smz028"
     },
@@ -34,6 +40,9 @@
       "journalId": "international-statistical-review",
       "journalTitle": "International Statistical Review",
       "articleTitle": "Parametric and Nonparametric Regression in the Presence of Endogenous Control Variables",
+      "authors": [
+        "Markus Frölich"
+      ],
       "publicationYear": 2008,
       "doi": "10.1111/j.1751-5823.2008.00045.x"
     },
@@ -41,6 +50,12 @@
       "journalId": "international-statistical-review",
       "journalTitle": "International Statistical Review",
       "articleTitle": "Geostatistical Methods for Disease Mapping and Visualisation Using Data from Spatio‐temporally Referenced Prevalence Surveys",
+      "authors": [
+        "Emanuele Giorgi",
+        "Peter J. Diggle",
+        "Robert W. Snow",
+        "Abdisalan M. Noor"
+      ],
       "publicationYear": 2018,
       "doi": "10.1111/insr.12268"
     },
@@ -48,6 +63,9 @@
       "journalId": "international-statistical-review",
       "journalTitle": "International Statistical Review",
       "articleTitle": "Discussion",
+      "authors": [
+        "Naveen Naidu Narisetty"
+      ],
       "publicationYear": 2020,
       "doi": "10.1111/insr.12392"
     }
@@ -63,7 +81,7 @@
   "awesome_metric_breakdown": {
     "maturity": 0,
     "documentation": 0,
-    "use": 2.9926960302275596,
+    "use": 3.005261365146117,
     "community": null
   },
   "awesome_metric_method": "See metrics.md in this repo; metrics calculation is still experimental and subject to change."

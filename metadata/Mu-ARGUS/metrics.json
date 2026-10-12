@@ -5,7 +5,7 @@
   "forks_count": 2,
   "forks": 2,
   "open_issues_count": 0,
-  "downloadsPer30Days": 0,
+  "downloadsPer30Days": 12,
   "downloadsUnavailableReason": null,
   "VignetteBuilder": null,
   "vignetteCount": null,
@@ -23,11 +23,11 @@
   "issues": 0,
   "releases": null,
   "pull_requests": null,
-  "awesome_metric": 1.9,
+  "awesome_metric": 2.1,
   "awesome_metric_breakdown": {
     "maturity": null,
     "documentation": 5,
-    "use": 0,
+    "use": 0.5569711923768064,
     "community": 0.8247893173660334
   },
   "awesome_metric_method": "See metrics.md in this repo; metrics calculation is still experimental and subject to change."

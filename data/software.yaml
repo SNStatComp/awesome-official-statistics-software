@@ -643,14 +643,14 @@
   gsbpm_number: '6.4'
 - type: Java application
   name: SDMX_Converter
-  url: https://ec.europa.eu/eurostat/cros/content/sdmx-converter-0_en
+  url: https://cros.ec.europa.eu/dashboard/sdmx-converter
   description: Converts between SDMX versions and formats like CSV, FLR etc. By Eurostat.
   gsbpm_name: Statistical Dissemination
   gsbpm_number: '7.2'
   license: 'EUPL-1.0'
 - type: Java application
   name: SDMX-RI
-  url: https://ec.europa.eu/eurostat/cros/content/sdmx-ri_en
+  url: https://cros.ec.europa.eu/dashboard/sdmx-ri
   description: Framework for disseminating data in SDMX webservices. By Eurostat.
   gsbpm_name: Statistical Dissemination
   gsbpm_number: '7.2'

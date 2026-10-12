@@ -1,10 +1,10 @@
 {
   "platform": "GitHub",
   "metric": "downloadsPer30Days",
-  "downloadsPer30Days": 30,
+  "downloadsPer30Days": 54,
   "method": "release asset download-count snapshot delta",
-  "cumulativeReleaseAssetDownloads": 5604,
-  "rateBasisDays": 1,
+  "cumulativeReleaseAssetDownloads": 5622,
+  "rateBasisDays": 10,
   "snapshots": [
     {
       "observedAt": "2026-10-01T14:17:52.658Z",
@@ -13,7 +13,12 @@
     {
       "observedAt": "2026-10-02T11:22:12.470Z",
       "cumulativeDownloads": 5604
+    },
+    {
+      "observedAt": "2026-10-12T16:06:50.723Z",
+      "cumulativeDownloads": 5622
     }
   ],
-  "source": "https://api.github.com/repos/amattioc/SDMX/releases"
+  "source": "https://api.github.com/repos/amattioc/SDMX/releases",
+  "generatedAt": "2026-10-12T16:06:50.723Z"
 }

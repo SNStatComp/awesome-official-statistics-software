@@ -22,6 +22,10 @@ export function find_gsbpm_name(code) {
 	return "unknown gsbpm"
 }
 
+function getScriptName() {
+	return process.argv[1]?.split(/[\\/]/).pop() || "script.js"
+}
+
 export function parseArguments(argumentsList) {
 	if (argumentsList.length === 1 && ["--help", "-h"].includes(argumentsList[0])) {
 		return { help: true }
@@ -31,8 +35,10 @@ export function parseArguments(argumentsList) {
 	let type
 	let itemName
 	let force = false
-	const scriptName = process.argv[1]?.split(/[\\/]/).pop() || "script.js"
-	const usage = `Usage: node ${scriptName} [--max N] [--type GH|CRAN|PYPI|GL] [--name ITEM] [--force] [--help]`
+	let mdOnly = false
+	let mdGH = false
+	const scriptName = getScriptName()
+	const usage = `Usage: node ${scriptName} [--max N] [--type GH|CRAN|PYPI|GL] [--name ITEM] [--force] [--md] [--mdGH] [--help]`
 	const setOption = (option, value) => {
 		if (option === "max") {
 			if (maximumItems !== undefined) throw new Error("Maximum items can only be specified once")
@@ -66,22 +72,37 @@ export function parseArguments(argumentsList) {
 			force = true
 			continue
 		}
+		if (option === "md") {
+			if (separator !== -1) throw new Error("--md does not take a value")
+			if (mdOnly) throw new Error("--md can only be specified once")
+			mdOnly = true
+			continue
+		}
+		if (option === "mdGH") {
+			if (separator !== -1) throw new Error("--mdGH does not take a value")
+			if (mdGH) throw new Error("--mdGH can only be specified once")
+			mdGH = true
+			continue
+		}
 		if (!["max", "type", "name"].includes(option)) throw new Error(usage)
 		const value = separator === -1 ? argumentsList[++index] : argument.slice(separator + 1)
 		if (value === undefined || value.startsWith("--")) throw new Error(`Missing value for --${option}`)
 		setOption(option, value)
 	}
 
-	return { maximumItems, type, itemName, force }
+	return { maximumItems, type, itemName, force, mdOnly, mdGH }
 }
 
-export function showHelp(scriptName) {
+export function showHelp() {
+	const scriptName = getScriptName()
 	console.log(`Usage: node ${scriptName} [options]`)
 	console.log("Options:")
 	console.log("  --max N        Process at most N items")
 	console.log("  --type TYPE    Process only GH, CRAN, PYPI, or GL items")
 	console.log("  --name ITEM    Process only the item with this exact name")
 	console.log("  --force        Ignore cached metadata and refresh selected items")
+	console.log("  --md           Only generate markdown output (step 5)")
+	console.log("  --mdGH         Like --md, but use GitHub badge URLs")
 	console.log("  --help, -h     Show this help")
 	console.log("Options may be used alone or together, in any order.")
 	console.log(`Example: node ${scriptName} --type CRAN --max 10`)
