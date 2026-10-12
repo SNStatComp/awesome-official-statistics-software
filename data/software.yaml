@@ -103,6 +103,12 @@
     and machine learning. By [Statistics Netherlands](https:www.cbs.nl).
   gsbpm_name: Scraping for Statistics
   gsbpm_number: '4.3'
+- type: R package
+  name: risq
+  url: https://cran.r-project.org/package=risq
+  description: Representativity indicators for survey quality based on survey data and response models. See Schouten, Shlomo (2017) [doi:10.1111/insr.12159)](https://doi.org/10.1111/insr.12159).
+  gsbpm_name: Run collection
+  gsbpm_number: '4.3'
 
 - type: R package
   name: dcmodify
@@ -707,8 +713,16 @@
 - type: R package
   name: tmap
   url: https://cran.r-project.org/package=tmap
-  description: Thematic geographic maps, including bubble charts, choropleths, and
-    more.
+  description: Flexible, layer-based, and easy to use approach to create thematic maps, such as choropleths and bubble maps.
+    API resembles syntax of [ggplot2](https://cran.r-project.org/package=ggplot2). [More info](https://r-tmap.github.io/tmap/)
+  gsbpm_name: Visualisation
+  gsbpm_number: '7.2'
+- type: R packages
+  name: tmapverse  
+  url: https://github.com/r-tmap/tmapverse
+  description: tmapverse is an umbrella package that includes tmap extensions such as [tmap.mapgl](https://cran.r-project.org/package=tmap.mapgl),
+    [tmap.networks](https://cran.r-project.org/package=tmap.networks), [tmap.glyphs](https://cran.r-project.org/package=tmap.glyphs),
+    and [tmap.cartogram](https://cran.r-project.org/package=tmap.cartogram)
   gsbpm_name: Visualisation
   gsbpm_number: '7.2'
 - type: JavaScript
@@ -724,11 +738,9 @@
   gsbpm_name: Visualisation
   gsbpm_number: '7.2'
 - type: R package
-  name: oceanis
-  url: https://cran.r-project.org/package=oceanis
-  description: To create maps for statistical analysis such as proportional circles,
-    chroropleth, typology and flows. By INSEE.
-  gsbpm_name: Visualisation
+  name: mapsf
+  url: https://cran.r-project.org/package=mapsf
+  description: Cartographic maps such as proportional symbols, choropleth or typology maps and display elements (scale bar, noth arrow, labels ...)
   gsbpm_number: '7.2'
 - type: GeoJSON/TopoJSON
   name: cartomap
@@ -783,6 +795,9 @@
     based on Dash.'
   gsbpm_name: Visualisation
   gsbpm_number: '7.2'
+
+
+
 - type: R package
   name: rsdmx
   url: https://cran.r-project.org/package=rsdmx
@@ -921,20 +936,6 @@
   - search
   - local_queries
   - caching
-- type: R package
-  name: acs
-  url: https://cran.r-project.org/package=acs
-  description: Download, Manipulate, and Present American Community Survey and Decennial
-    Data from the US Census.
-  gsbpm_name: Access to official statistics
-  gsbpm_number: '7.4'
-  standard:
-  access_to:
-  - US Census Bureau
-  features:
-  - to_df
-  - endpoint_hiding
-  - cartographic queries
 - type: R package
   name: inegiR
   url: https://cran.r-project.org/package=inegiR
