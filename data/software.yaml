@@ -58,11 +58,11 @@
     samples, and use other order-sampling methods.
   gsbpm_name: Sampling
   gsbpm_number: '4.1'
-  
+
 - type: R package
   name: risq
   url: https://cran.r-project.org/package=risq
-  description: Representativity indicators for survey quality based on survey data and response models. See Schouten, Shlomo (2017) [doi:10.1111/insr.12159)](https://doi.org/10.1111/insr.12159).
+  description: Representativity indicators for survey quality based on survey data and response models; see [doi:10.1111/insr.12159)](https://doi.org/10.1111/insr.12159).
   gsbpm_name: Run collection
   gsbpm_number: '4.3'
 - type: R package
