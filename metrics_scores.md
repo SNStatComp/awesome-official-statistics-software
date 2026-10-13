@@ -2,7 +2,7 @@
 
 - Methodology: [metrics calculation](metrics_calculation.md)
 
-Generated: 2026-10-12T18:31:57.203Z
+Generated: 2026-10-13T08:20:06.398Z
 
 Scores are sorted from highest to lowest. Select a score to open that package's full `metrics.json`.
 

@@ -58,6 +58,13 @@
     samples, and use other order-sampling methods.
   gsbpm_name: Sampling
   gsbpm_number: '4.1'
+  
+- type: R package
+  name: risq
+  url: https://cran.r-project.org/package=risq
+  description: Representativity indicators for survey quality based on survey data and response models. See Schouten, Shlomo (2017) [doi:10.1111/insr.12159)](https://doi.org/10.1111/insr.12159).
+  gsbpm_name: Run collection
+  gsbpm_number: '4.3'
 - type: R package
   name: samplingin
   url: https://cran.r-project.org/package=samplingin
@@ -68,45 +75,39 @@
   name: GUrlSearcher
   url: https://github.com/SummaIstat/GUrlSearcher
   description: An application for searching Urls via Google. Can be used to find websites of enterprise. By ISTAT.
-  gsbpm_name: Scraping for Statistics
+  gsbpm_name: Run collection
   gsbpm_number: '4.3'
 - type: Java application
   name: Url_scorer
   url: https://github.com/SummaIstat/Url_scorer
   description: Gives a rule based score to scraped documents in a Solr database. By ISTAT.
-  gsbpm_name: Scraping for Statistics
+  gsbpm_name: Run collection
   gsbpm_number: '4.3'
 - type: Node.js
   name: RobotTool
   url: https://github.com/SNStatComp/RobotTool
   description: A tool for checking (price) changes on the web. By Statistics Netherlands.
-  gsbpm_name: Scraping for Statistics
+  gsbpm_name: Run collection
   gsbpm_number: '4.3'
 - type: Python
   name: Social-Media-Presence
   url: https://github.com/EnterpriseCharacteristicsESSnetBigData/StarterKit
   description: A script for detecting social media presence on enterprises websites.
     By the ESSnet project on Big Data.
-  gsbpm_name: Scraping for Statistics
+  gsbpm_name: Run collection
   gsbpm_number: '4.3'
 - type: Python
   name: Sustainability_Reporting
   url: https://github.com/AlessandraSozzi/MSc-dissertation
   description: A script for measuring sustainability reporting from enterprises websites.
     By ONS.
-  gsbpm_name: Scraping for Statistics
+  gsbpm_name: Run collection
   gsbpm_number: '4.3'
 - type: Python
   name: urlfinding
   url: https://github.com/SNStatComp/urlfinding
   description: Software for finding websites of enterprises using a search engine
     and machine learning. By [Statistics Netherlands](https:www.cbs.nl).
-  gsbpm_name: Scraping for Statistics
-  gsbpm_number: '4.3'
-- type: R package
-  name: risq
-  url: https://cran.r-project.org/package=risq
-  description: Representativity indicators for survey quality based on survey data and response models. See Schouten, Shlomo (2017) [doi:10.1111/insr.12159)](https://doi.org/10.1111/insr.12159).
   gsbpm_name: Run collection
   gsbpm_number: '4.3'
 
