@@ -249,6 +249,14 @@
     Generation (RAG) pipelines for text classification tasks in the production of official statistics. By the UK Office for National Statistics.'
   gsbpm_name: Classification and coding
   gsbpm_number: '5.2'
+- type: Python
+  name: onet-match
+  url: https://github.com/Benjamin-V-Chan/onet-match
+  description: Python package, CLI and REST API that codes free-text job titles, job descriptions and survey
+    occupation write-ins to O*NET-SOC occupations (SOC codes) with calibrated confidence, using a fine-tuned
+    bi-encoder and cross-encoder reranker. Runs locally.
+  gsbpm_name: Classification and coding
+  gsbpm_number: '5.2'
 - type: R package
   name: validate
   url: https://cran.r-project.org/package=validate
