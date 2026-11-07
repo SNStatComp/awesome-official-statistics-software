@@ -2,7 +2,7 @@
 
 - Methodology: [metrics calculation](metrics_calculation.md)
 
-Generated: 2026-11-07T09:03:34.427Z
+Generated: 2026-11-07T09:11:36.892Z
 
 Scores are sorted from highest to lowest. Select a score to open that package's full `metrics.json`.
 
@@ -11,36 +11,36 @@ Scores are sorted from highest to lowest. Select a score to open that package's 
 | 1 | [survey](https://cran.r-project.org/package=survey) | [4.7](metadata/survey/metrics.json) | 4.2 | 4.8 | 5.0 | N/A |
 | 2 | [sampling](https://cran.r-project.org/package=sampling) | [3.9](metadata/sampling/metrics.json) | 3.4 | 3.9 | 4.5 | N/A |
 | 3 | [validate](https://cran.r-project.org/package=validate) | [3.7](metadata/validate/metrics.json) | 3.4 | 4.4 | 4.2 | 2.8 |
-| 4 | [Statbus](https://github.com/statisticsnorway/statbus) | [3.4](metadata/Statbus/metrics.json) | N/A | 5.0 | N/A | 1.8 |
-| 5 | [JDemetra+](https://github.com/jdemetra/jdplus-main) | [3.3](metadata/JDemetra%2B/metrics.json) | N/A | 5.0 | 2.7 | 2.1 |
-| 6 | [stringdist](https://cran.r-project.org/package=stringdist) | [3.1](metadata/stringdist/metrics.json) | 2.9 | 4.1 | 3.0 | 2.5 |
-| 7 | [Visual](https://github.com/idescat/visual) | [3.1](metadata/Visual/metrics.json) | N/A | 5.0 | 2.5 | 1.7 |
-| 8 | [PxWeb_](https://github.com/statisticssweden/PxWeb) | [3.0](metadata/PxWeb_/metrics.json) | N/A | 5.0 | 0.5 | 3.4 |
-| 9 | [SDMX_Connectors](https://github.com/amattioc/SDMX) | [3.0](metadata/SDMX_Connectors/metrics.json) | N/A | 5.0 | 0.8 | 3.2 |
-| 10 | [seasonal](https://cran.r-project.org/package=seasonal) | [2.9](metadata/seasonal/metrics.json) | 0.0 | 4.1 | 4.5 | N/A |
-| 11 | [eurostat](https://cran.r-project.org/package=eurostat) | [2.8](metadata/eurostat/metrics.json) | 0.0 | 3.4 | 4.4 | 3.5 |
-| 12 | [Gridviz](https://github.com/eurostat/gridviz) | [2.7](metadata/Gridviz/metrics.json) | N/A | 5.0 | 0.0 | 3.1 |
-| 13 | [T-ARGUS](https://github.com/sdcTools/tauargus) | [2.7](metadata/T-ARGUS/metrics.json) | N/A | 5.0 | 1.0 | 2.1 |
-| 14 | [ClassifAI](https://github.com/datasciencecampus/classifAI) | [2.6](metadata/ClassifAI/metrics.json) | N/A | 5.0 | 1.2 | 1.6 |
-| 15 | [Eurostat-map](https://github.com/eurostat/eurostat-map/) | [2.6](metadata/Eurostat-map/metrics.json) | N/A | 5.0 | 0.0 | 2.7 |
-| 16 | [mice](https://cran.r-project.org/package=mice) | [2.6](metadata/mice/metrics.json) | 1.1 | 1.7 | 3.8 | 3.9 |
-| 17 | [rsdmx](https://cran.r-project.org/package=rsdmx) | [2.6](metadata/rsdmx/metrics.json) | 1.8 | 3.8 | 1.7 | 3.3 |
-| 18 | [synthpop](https://cran.r-project.org/package=synthpop) | [2.6](metadata/synthpop/metrics.json) | 0.0 | 4.7 | 3.2 | N/A |
-| 19 | [Trevas](https://github.com/InseeFr/Trevas) | [2.6](metadata/Trevas/metrics.json) | N/A | 5.0 | 0.0 | 2.9 |
-| 20 | [VIM](https://cran.r-project.org/package=VIM) | [2.6](metadata/VIM/metrics.json) | 2.3 | 3.5 | 3.0 | 1.5 |
-| 21 | [X-13ARIMA-SEATS](https://www.census.gov/data/software/x13as.X-13ARIMA-SEATS.html) | [2.6](metadata/X-13ARIMA-SEATS/metrics.json) | N/A | N/A | 2.6 | N/A |
-| 22 | [insee](https://cran.r-project.org/package=insee) | [2.5](metadata/insee/metrics.json) | 0.0 | 4.3 | 3.1 | N/A |
-| 23 | [splink](https://pypi.org/project/splink/) | [2.5](metadata/splink/metrics.json) | N/A | N/A | 2.5 | N/A |
-| 24 | [PxStat](https://github.com/CSOIreland/PxStat) | [2.4](metadata/PxStat/metrics.json) | N/A | 5.0 | 0.0 | 2.1 |
-| 25 | [pxweb](https://cran.r-project.org/package=pxweb) | [2.4](metadata/pxweb/metrics.json) | 1.1 | 3.8 | 1.6 | 2.9 |
-| 26 | [reclin2](https://cran.r-project.org/package=reclin2) | [2.4](metadata/reclin2/metrics.json) | 1.8 | 4.6 | 2.0 | 1.3 |
-| 27 | [sdcMicro](https://cran.r-project.org/package=sdcMicro) | [2.4](metadata/sdcMicro/metrics.json) | 0.0 | 4.6 | 2.7 | 2.2 |
-| 28 | [SDMX-JSON](https://github.com/sdmx-twg/sdmx-json) | [2.4](metadata/SDMX-JSON/metrics.json) | N/A | 5.0 | 0.0 | 2.2 |
-| 29 | [cbsodata.py](https://github.com/J535D165/cbsodata) | [2.3](metadata/cbsodata.py/metrics.json) | N/A | 5.0 | 0.0 | 1.9 |
-| 30 | [PracTools](https://cran.r-project.org/package=PracTools) | [2.3](metadata/PracTools/metrics.json) | 0.0 | 4.8 | 2.0 | N/A |
-| 31 | [pyjstat](https://pypi.org/project/pyjstat/) | [2.3](metadata/pyjstat/metrics.json) | N/A | N/A | 2.3 | N/A |
-| 32 | [pyscbwrapper](https://github.com/kirajcg/pyscbwrapper) | [2.3](metadata/pyscbwrapper/metrics.json) | N/A | 5.0 | 0.0 | 1.9 |
-| 33 | [RobotTool](https://github.com/SNStatComp/RobotTool) | [2.3](metadata/RobotTool/metrics.json) | N/A | 5.0 | 0.7 | 1.3 |
+| 4 | [JDemetra+](https://github.com/jdemetra/jdplus-main) | [3.3](metadata/JDemetra%2B/metrics.json) | N/A | 5.0 | 2.7 | 2.1 |
+| 5 | [stringdist](https://cran.r-project.org/package=stringdist) | [3.1](metadata/stringdist/metrics.json) | 2.9 | 4.1 | 3.0 | 2.5 |
+| 6 | [Visual](https://github.com/idescat/visual) | [3.1](metadata/Visual/metrics.json) | N/A | 5.0 | 2.5 | 1.7 |
+| 7 | [PxWeb_](https://github.com/statisticssweden/PxWeb) | [3.0](metadata/PxWeb_/metrics.json) | N/A | 5.0 | 0.5 | 3.4 |
+| 8 | [SDMX_Connectors](https://github.com/amattioc/SDMX) | [3.0](metadata/SDMX_Connectors/metrics.json) | N/A | 5.0 | 0.8 | 3.2 |
+| 9 | [seasonal](https://cran.r-project.org/package=seasonal) | [2.9](metadata/seasonal/metrics.json) | 0.0 | 4.1 | 4.5 | N/A |
+| 10 | [eurostat](https://cran.r-project.org/package=eurostat) | [2.8](metadata/eurostat/metrics.json) | 0.0 | 3.4 | 4.4 | 3.5 |
+| 11 | [Gridviz](https://github.com/eurostat/gridviz) | [2.7](metadata/Gridviz/metrics.json) | N/A | 5.0 | 0.0 | 3.1 |
+| 12 | [T-ARGUS](https://github.com/sdcTools/tauargus) | [2.7](metadata/T-ARGUS/metrics.json) | N/A | 5.0 | 1.0 | 2.1 |
+| 13 | [ClassifAI](https://github.com/datasciencecampus/classifAI) | [2.6](metadata/ClassifAI/metrics.json) | N/A | 5.0 | 1.2 | 1.6 |
+| 14 | [Eurostat-map](https://github.com/eurostat/eurostat-map/) | [2.6](metadata/Eurostat-map/metrics.json) | N/A | 5.0 | 0.0 | 2.7 |
+| 15 | [mice](https://cran.r-project.org/package=mice) | [2.6](metadata/mice/metrics.json) | 1.1 | 1.7 | 3.8 | 3.9 |
+| 16 | [rsdmx](https://cran.r-project.org/package=rsdmx) | [2.6](metadata/rsdmx/metrics.json) | 1.8 | 3.8 | 1.7 | 3.3 |
+| 17 | [synthpop](https://cran.r-project.org/package=synthpop) | [2.6](metadata/synthpop/metrics.json) | 0.0 | 4.7 | 3.2 | N/A |
+| 18 | [Trevas](https://github.com/InseeFr/Trevas) | [2.6](metadata/Trevas/metrics.json) | N/A | 5.0 | 0.0 | 2.9 |
+| 19 | [VIM](https://cran.r-project.org/package=VIM) | [2.6](metadata/VIM/metrics.json) | 2.3 | 3.5 | 3.0 | 1.5 |
+| 20 | [X-13ARIMA-SEATS](https://www.census.gov/data/software/x13as.X-13ARIMA-SEATS.html) | [2.6](metadata/X-13ARIMA-SEATS/metrics.json) | N/A | N/A | 2.6 | N/A |
+| 21 | [insee](https://cran.r-project.org/package=insee) | [2.5](metadata/insee/metrics.json) | 0.0 | 4.3 | 3.1 | N/A |
+| 22 | [splink](https://pypi.org/project/splink/) | [2.5](metadata/splink/metrics.json) | N/A | N/A | 2.5 | N/A |
+| 23 | [PxStat](https://github.com/CSOIreland/PxStat) | [2.4](metadata/PxStat/metrics.json) | N/A | 5.0 | 0.0 | 2.1 |
+| 24 | [pxweb](https://cran.r-project.org/package=pxweb) | [2.4](metadata/pxweb/metrics.json) | 1.1 | 3.8 | 1.6 | 2.9 |
+| 25 | [reclin2](https://cran.r-project.org/package=reclin2) | [2.4](metadata/reclin2/metrics.json) | 1.8 | 4.6 | 2.0 | 1.3 |
+| 26 | [sdcMicro](https://cran.r-project.org/package=sdcMicro) | [2.4](metadata/sdcMicro/metrics.json) | 0.0 | 4.6 | 2.7 | 2.2 |
+| 27 | [SDMX-JSON](https://github.com/sdmx-twg/sdmx-json) | [2.4](metadata/SDMX-JSON/metrics.json) | N/A | 5.0 | 0.0 | 2.2 |
+| 28 | [cbsodata.py](https://github.com/J535D165/cbsodata) | [2.3](metadata/cbsodata.py/metrics.json) | N/A | 5.0 | 0.0 | 1.9 |
+| 29 | [PracTools](https://cran.r-project.org/package=PracTools) | [2.3](metadata/PracTools/metrics.json) | 0.0 | 4.8 | 2.0 | N/A |
+| 30 | [pyjstat](https://pypi.org/project/pyjstat/) | [2.3](metadata/pyjstat/metrics.json) | N/A | N/A | 2.3 | N/A |
+| 31 | [pyscbwrapper](https://github.com/kirajcg/pyscbwrapper) | [2.3](metadata/pyscbwrapper/metrics.json) | N/A | 5.0 | 0.0 | 1.9 |
+| 32 | [RobotTool](https://github.com/SNStatComp/RobotTool) | [2.3](metadata/RobotTool/metrics.json) | N/A | 5.0 | 0.7 | 1.3 |
+| 33 | [Statbus](https://github.com/statisticsnorway/statbus) | [2.3](metadata/Statbus/metrics.json) | N/A | 5.0 | 0.0 | 1.8 |
 | 34 | [Java-VTL](https://github.com/statisticsnorway/java-vtl) | [2.2](metadata/Java-VTL/metrics.json) | N/A | 5.0 | 0.0 | 1.6 |
 | 35 | [mcmcsae](https://cran.r-project.org/package=mcmcsae) | [2.2](metadata/mcmcsae/metrics.json) | 1.1 | 4.1 | 1.4 | N/A |
 | 36 | [Mu-ARGUS](https://github.com/sdcTools/muargus) | [2.2](metadata/Mu-ARGUS/metrics.json) | N/A | 5.0 | 0.7 | 0.8 |
