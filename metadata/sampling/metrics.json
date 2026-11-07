@@ -5,7 +5,7 @@
   "forks_count": null,
   "forks": null,
   "open_issues_count": null,
-  "downloadsPer30Days": 10510,
+  "downloadsPer30Days": 10560,
   "downloadsUnavailableReason": null,
   "VignetteBuilder": null,
   "vignetteCount": 3,
@@ -29,10 +29,10 @@
   "vignetteWordCount": 4211,
   "used_in": 7,
   "used_in_scope": "CRAN packages in metadata list",
-  "mentions": 584,
+  "mentions": 588,
   "mentionsByJournal": {
     "statistical-journal-of-the-iaos": {
-      "count": 49
+      "count": 53
     },
     "journal-of-official-statistics": {
       "count": 30
@@ -649,6 +649,47 @@
       ],
       "publicationYear": 2026,
       "doi": "10.1177/18747655261485655"
+    },
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "Benchmarking sex ratio at age zero as a data quality indicator for small populations: Using census 2000 as a case study",
+      "authors": [
+        "Katherine M Condon"
+      ],
+      "publicationYear": 2026,
+      "doi": "10.1177/18747655261495226"
+    },
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "Governing what we don’t know: Uncertainty, source adjudication, and the accountability of national statistics offices in contested data environments",
+      "authors": [
+        "Kumafan Shadrach Dzaan"
+      ],
+      "publicationYear": 2026,
+      "doi": "10.1177/18747655261497201"
+    },
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "One weight for many variables: why multipurpose calibration of non-probability samples needs flexible working models, and what sharing it costs",
+      "authors": [
+        "Juan Pablo Ferreira"
+      ],
+      "publicationYear": 2026,
+      "doi": "10.1177/18747655261501357"
+    },
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "Identification of influential values and outliers in the Fay-Herriot EBLUP estimator: Empirical evidence from the crime prevalence in Mexico",
+      "authors": [
+        "Mario A Santillana Zapata",
+        "José A Gallegos Urenda"
+      ],
+      "publicationYear": 2026,
+      "doi": "10.1177/18747655261501723"
     },
     {
       "journalId": "journal-of-official-statistics",
@@ -3110,6 +3151,18 @@
     {
       "journalId": "journal-of-survey-statistics-and-methodology",
       "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "A Comprehensive Overview of Unit-Level Modeling of Survey Data for Small Area Estimation Under Informative Sampling",
+      "authors": [
+        "Paul A Parker",
+        "Ryan Janicki",
+        "Scott H Holan"
+      ],
+      "publicationYear": 2023,
+      "doi": "10.1093/jssam/smad020"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
       "articleTitle": "Comparison of Unit-Level Small Area Estimation Modeling Approaches for Survey Data Under Informative Sampling",
       "authors": [
         "Paul A Parker",
@@ -3143,18 +3196,6 @@
       ],
       "publicationYear": 2023,
       "doi": "10.1093/jssam/smad010"
-    },
-    {
-      "journalId": "journal-of-survey-statistics-and-methodology",
-      "journalTitle": "Journal of Survey Statistics and Methodology",
-      "articleTitle": "A Comprehensive Overview of Unit-Level Modeling of Survey Data for Small Area Estimation Under Informative Sampling",
-      "authors": [
-        "Paul A Parker",
-        "Ryan Janicki",
-        "Scott H Holan"
-      ],
-      "publicationYear": 2023,
-      "doi": "10.1093/jssam/smad020"
     },
     {
       "journalId": "journal-of-survey-statistics-and-methodology",
@@ -3234,6 +3275,20 @@
     {
       "journalId": "journal-of-survey-statistics-and-methodology",
       "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Optimal Predictors of General Small Area Parameters Under an Informative Sample Design Using Parametric Sample Distribution Models",
+      "authors": [
+        "Yanghyeon Cho",
+        "María Guadarrama-Sanz",
+        "Isabel Molina",
+        "Abdulhakeem Eideh",
+        "Emily Berg"
+      ],
+      "publicationYear": 2024,
+      "doi": "10.1093/jssam/smae007"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
       "articleTitle": "Reconsidering Sampling and Costs for Face-to-Face Surveys in the 21st Century",
       "authors": [
         "J Michael Brick",
@@ -3256,20 +3311,6 @@
       ],
       "publicationYear": 2024,
       "doi": "10.1093/jssam/smae002"
-    },
-    {
-      "journalId": "journal-of-survey-statistics-and-methodology",
-      "journalTitle": "Journal of Survey Statistics and Methodology",
-      "articleTitle": "Optimal Predictors of General Small Area Parameters Under an Informative Sample Design Using Parametric Sample Distribution Models",
-      "authors": [
-        "Yanghyeon Cho",
-        "María Guadarrama-Sanz",
-        "Isabel Molina",
-        "Abdulhakeem Eideh",
-        "Emily Berg"
-      ],
-      "publicationYear": 2024,
-      "doi": "10.1093/jssam/smae007"
     },
     {
       "journalId": "journal-of-survey-statistics-and-methodology",
@@ -6822,7 +6863,7 @@
   "awesome_metric_breakdown": {
     "maturity": 3.4150537304542943,
     "documentation": 3.862602405805955,
-    "use": 4.510820271476158,
+    "use": 4.511850773848377,
     "community": null
   },
   "awesome_metric_method": "See metrics.md in this repo; metrics calculation is still experimental and subject to change."

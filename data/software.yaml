@@ -1,3 +1,11 @@
+- type: Typescript
+  name: Onyxia
+  url: https://github.com/InseeFrLab/onyxia
+  description: General purpose cloud-ready data science stack for official statistics.
+   See [website](https://www.onyxia.sh/) and [SSPCloud instance](https://datalab.sspcloud.fr/).
+   By [INSEE](https://www.insee.fr/en/accueil).
+  gsbpm_name: Overarching
+  gsbpm_number: '0'
 - type: R package
   name: SamplingStrata
   url: https://cran.r-project.org/package=SamplingStrata
@@ -15,7 +23,7 @@
   name: SDMX_Matrix_Generator
   url: https://gitlab.com/sis-cc/sdmx-tools/sdmx-matrix-generator
   description: Excel-based visual SDMX artefact authoring tool which generates SDMX-ML
-    for upload into an SDMX repository such as a registry. By OECD.
+    for upload into an SDMX repository such as a registry. By [OECD](https://www.oecd.org/).
   gsbpm_name: Design variable descriptions
   gsbpm_number: '2.2'
   license: 'MIT'

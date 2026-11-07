@@ -32,7 +32,7 @@ async function process_data(data, options) {
 		pendingOperations.length = 0
 		const itemMetadataDir = path.join(metadatadir, item.name)
 		if (!fs.existsSync(itemMetadataDir)) fs.mkdirSync(itemMetadataDir, { recursive: true })
-		const metadataIsFresh = !options.force && is_metadata_fresh(path.join(itemMetadataDir, "pkg.json"))
+		const metadataIsFresh = !options.force && are_badges_fresh(itemMetadataDir)
 		const parts = item.url.split("/")
 		console.log(`[${index + 1}/${data.length}] ${itemType(item.url) || "other"}: ${item.name}${metadataIsFresh ? " (metadata cached)" : ""}`)
 		if (metadataIsFresh) continue
@@ -88,6 +88,13 @@ async function process_data(data, options) {
 		await Promise.all(pendingOperations)
 		if (index < data.length - 1) await wait(2000)
 	}
+}
+
+function are_badges_fresh(directory) {
+	if (!is_metadata_fresh(path.join(directory, "pkg.json"))) return false
+
+	return ["version.svg", "latest.svg", "license.svg"]
+		.every((filename) => fs.existsSync(path.join(directory, filename)))
 }
 
 function download_svg(url, filePath) {

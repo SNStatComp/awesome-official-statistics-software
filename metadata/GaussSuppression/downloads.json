@@ -1,9 +1,9 @@
 {
   "platform": "CRAN",
   "metric": "downloadsPer30Days",
-  "downloadsPer30Days": 3281,
-  "periodStart": "2026-09-11",
-  "periodEnd": "2026-10-10",
+  "downloadsPer30Days": 915,
+  "periodStart": "2026-10-07",
+  "periodEnd": "2026-11-05",
   "source": "https://cranlogs.r-pkg.org/downloads/total/last-month/GaussSuppression",
-  "generatedAt": "2026-10-12T16:06:18.431Z"
+  "generatedAt": "2026-11-06T23:42:31.099Z"
 }

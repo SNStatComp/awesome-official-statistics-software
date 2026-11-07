@@ -23,12 +23,13 @@ We prefer software that is easy to install and use and actively maintained. [Con
 
 
 *****
+*****
 
 <!-- THE LIST OF APPS IS GENERATED FROM data/software.yaml -->
  
 {{#groups}}
 
-#### {{name}} ([GSBPM](https://unece.org/statistics/modernstats/gsbpm) {{number}})
+#### {{name}} ([GSBPM](https://unece.github.io/GSBPM-5.2/) {{number}})
 
 {{#items}}
 - <img src="{{badgeURL}}metadata/{{name}}/version.svg"></img> <img src="{{badgeURL}}metadata/{{name}}/latest.svg"></img> <img src="{{badgeURL}}metadata/{{name}}/license.svg"></img>\

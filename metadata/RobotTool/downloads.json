@@ -2,11 +2,11 @@
   "platform": "GitHub",
   "metric": "downloadsPer30Days",
   "method": "repository clones over recent 14-day window, normalized to 30 days",
-  "downloadsPer30Days": 17,
-  "repositoryClones": 8,
+  "downloadsPer30Days": 26,
+  "repositoryClones": 12,
   "periodDays": 14,
-  "periodStart": "2026-09-28",
-  "periodEnd": "2026-10-11",
+  "periodStart": "2026-10-23",
+  "periodEnd": "2026-11-05",
   "source": "https://api.github.com/repos/SNStatComp/RobotTool/traffic/clones",
-  "generatedAt": "2026-10-12T16:05:40.963Z"
+  "generatedAt": "2026-11-06T23:41:55.871Z"
 }

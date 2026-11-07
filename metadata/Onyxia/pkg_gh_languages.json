@@ -1,0 +1,42 @@
+{
+    "url": "https://api.github.com/repos/InseeFrLab/onyxia/languages",
+    "status": 200,
+    "headers": {
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "access-control-expose-headers": "ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Used, X-RateLimit-Resource, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type, X-GitHub-SSO, X-GitHub-Request-Id, Deprecation, Sunset, Warning",
+        "cache-control": "public, max-age=60, s-maxage=60",
+        "content-encoding": "gzip",
+        "content-length": "124",
+        "content-security-policy": "default-src 'none'",
+        "content-type": "application/json; charset=utf-8",
+        "date": "Sat, 07 Nov 2026 07:51:58 GMT",
+        "etag": "W/\"37145aeda75140b8f0fe2b6e281fc15c70600ea8dd38bbdf22f9eb32f25ba539\"",
+        "last-modified": "Fri, 06 Nov 2026 08:47:12 GMT",
+        "referrer-policy": "origin-when-cross-origin, strict-origin-when-cross-origin",
+        "server": "github.com",
+        "strict-transport-security": "max-age=31536000; includeSubdomains; preload",
+        "vary": "Accept,Accept-Encoding, Accept, X-Requested-With",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "deny",
+        "x-github-api-version-selected": "2026-03-10",
+        "x-github-edge-region": "fra",
+        "x-github-media-type": "github.v3; format=json",
+        "x-github-request-id": "D75A:2AEA27:1E2EA65:2E2B4A2:6AEED89E",
+        "x-ratelimit-limit": "60",
+        "x-ratelimit-remaining": "56",
+        "x-ratelimit-reset": "1794041493",
+        "x-ratelimit-resource": "core",
+        "x-ratelimit-used": "4",
+        "x-xss-protection": "0"
+    },
+    "data": {
+        "TypeScript": 3885972,
+        "HTML": 11194,
+        "Mustache": 4901,
+        "JavaScript": 4484,
+        "Dockerfile": 3129,
+        "Shell": 1167,
+        "FreeMarker": 313
+    }
+}

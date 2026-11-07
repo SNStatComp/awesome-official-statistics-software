@@ -4,7 +4,7 @@
   "downloadsPer30Days": 0,
   "method": "release asset download-count snapshot delta",
   "cumulativeReleaseAssetDownloads": 0,
-  "rateBasisDays": 10,
+  "rateBasisDays": 25,
   "snapshots": [
     {
       "observedAt": "2026-10-01T14:17:44.647Z",
@@ -17,8 +17,12 @@
     {
       "observedAt": "2026-10-12T16:06:42.813Z",
       "cumulativeDownloads": 0
+    },
+    {
+      "observedAt": "2026-11-06T23:42:55.034Z",
+      "cumulativeDownloads": 0
     }
   ],
   "source": "https://api.github.com/repos/statistiekcbs/cbsodata4/releases",
-  "generatedAt": "2026-10-12T16:06:42.813Z"
+  "generatedAt": "2026-11-06T23:42:55.034Z"
 }

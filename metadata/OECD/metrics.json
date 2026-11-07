@@ -1,11 +1,11 @@
 {
-  "watchers_count": 145,
+  "watchers_count": 147,
   "has_wiki": true,
   "has_discussions": false,
   "forks_count": 22,
   "forks": 22,
   "open_issues_count": 11,
-  "downloadsPer30Days": 627,
+  "downloadsPer30Days": 618,
   "downloadsUnavailableReason": null,
   "VignetteBuilder": null,
   "vignetteCount": 0,
@@ -13,10 +13,10 @@
   "vignetteWordCount": 0,
   "used_in": 0,
   "used_in_scope": "CRAN packages in metadata list",
-  "mentions": 16,
+  "mentions": 17,
   "mentionsByJournal": {
     "statistical-journal-of-the-iaos": {
-      "count": 9
+      "count": 10
     },
     "statistics-in-transition-new-series": {
       "count": 5
@@ -126,6 +126,16 @@
       "doi": "10.1177/18747655251388905"
     },
     {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "National statistical organizations at a crossroads: Trust, independence, and democratic relevance in the AI Era",
+      "authors": [
+        "Anil Arora"
+      ],
+      "publicationYear": 2026,
+      "doi": "10.1177/18747655261493690"
+    },
+    {
       "journalId": "statistics-in-transition-new-series",
       "journalTitle": "Statistics in Transition new series",
       "articleTitle": "ANOTHER LOOK AT THE STATIONARITY OF INFLATION RATES IN OECD COUNTRIES: APPLICATION OF STRUCTURAL BREAK-GARCH-BASED UNIT ROOT TESTS",
@@ -201,7 +211,7 @@
     }
   ],
   "followers": null,
-  "watchers": 145,
+  "watchers": 147,
   "subscriptions": 13,
   "collaborators": null,
   "issues": 11,
@@ -211,8 +221,8 @@
   "awesome_metric_breakdown": {
     "maturity": 0,
     "documentation": 1.6666666666666665,
-    "use": 3.7254628107548426,
-    "community": 2.146135193280748
+    "use": 3.769263767416363,
+    "community": 2.148104528202942
   },
   "awesome_metric_method": "See metrics.md in this repo; metrics calculation is still experimental and subject to change."
 }

@@ -4,7 +4,7 @@
   "has_discussions": false,
   "forks_count": 25,
   "forks": 25,
-  "open_issues_count": 31,
+  "open_issues_count": 33,
   "downloadsPer30Days": 0,
   "downloadsUnavailableReason": null,
   "VignetteBuilder": null,
@@ -13,10 +13,10 @@
   "vignetteWordCount": null,
   "used_in": null,
   "used_in_scope": null,
-  "mentions": 4,
+  "mentions": 5,
   "mentionsByJournal": {
     "statistical-journal-of-the-iaos": {
-      "count": 3
+      "count": 4
     },
     "statistics-in-transition-new-series": {
       "count": 1
@@ -59,6 +59,16 @@
       "doi": "10.1177/18747655261472240"
     },
     {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "Who governs government data? A bounded data stewardship role for national statistical offices",
+      "authors": [
+        "Meder Toitonov"
+      ],
+      "publicationYear": 2026,
+      "doi": "10.1177/18747655261505647"
+    },
+    {
       "journalId": "statistics-in-transition-new-series",
       "journalTitle": "Statistics in Transition new series",
       "articleTitle": "Statistical information system of the Republic of Belarus: experience and perspectives",
@@ -73,15 +83,15 @@
   "watchers": 50,
   "subscriptions": 6,
   "collaborators": null,
-  "issues": 31,
+  "issues": 33,
   "releases": null,
   "pull_requests": null,
-  "awesome_metric": 1.1,
+  "awesome_metric": 1.2,
   "awesome_metric_breakdown": {
     "maturity": null,
     "documentation": 0,
-    "use": 1.32158486704862,
-    "community": 2.1258144238973697
+    "use": 1.471297638528708,
+    "community": 2.138950510288875
   },
   "awesome_metric_method": "See metrics.md in this repo; metrics calculation is still experimental and subject to change."
 }

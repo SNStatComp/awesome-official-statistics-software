@@ -36,7 +36,13 @@ We prefer software that is easy to install and use and actively maintained. [Con
 <!-- THE LIST OF APPS IS GENERATED FROM data/software.yaml -->
  
 
-#### Design frame and sample ([GSBPM](https://unece.org/statistics/modernstats/gsbpm) 2.1)
+#### Overarching ([GSBPM](https://unece.github.io/GSBPM-5.2/) 0)
+
+- <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/Onyxia/version.svg"></img> <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/Onyxia/latest.svg"></img> <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/Onyxia/license.svg"></img> [<img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/Onyxia/metrics.svg"></img>](https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/Onyxia/metrics.json)\
+Typescript [Onyxia](https:&#x2F;&#x2F;github.com&#x2F;InseeFrLab&#x2F;onyxia). General purpose cloud-ready data science stack for official statistics. See [website](https:&#x2F;&#x2F;www.onyxia.sh&#x2F;) and [SSPCloud instance](https:&#x2F;&#x2F;datalab.sspcloud.fr&#x2F;). By [INSEE](https:&#x2F;&#x2F;www.insee.fr&#x2F;en&#x2F;accueil).
+
+
+#### Design frame and sample ([GSBPM](https://unece.github.io/GSBPM-5.2/) 2.1)
 
 - <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/SamplingStrata/version.svg"></img> <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/SamplingStrata/latest.svg"></img> <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/SamplingStrata/license.svg"></img> [<img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/SamplingStrata/metrics.svg"></img>](https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/SamplingStrata/metrics.json)\
 R package [SamplingStrata](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;SamplingStrata). Optimal Stratification of Sampling Frames for Multipurpose Sampling Surveys.
@@ -44,13 +50,13 @@ R package [SamplingStrata](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3
 R package [R2BEAT](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;R2BEAT). Multistage Sampling Allocation and PSU Selection.
 
 
-#### Design variable descriptions ([GSBPM](https://unece.org/statistics/modernstats/gsbpm) 2.2)
+#### Design variable descriptions ([GSBPM](https://unece.github.io/GSBPM-5.2/) 2.2)
 
 - <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/SDMX_Matrix_Generator/version.svg"></img> <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/SDMX_Matrix_Generator/latest.svg"></img> <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/SDMX_Matrix_Generator/license.svg"></img> [<img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/SDMX_Matrix_Generator/metrics.svg"></img>](https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/SDMX_Matrix_Generator/metrics.json)\
-Excel [SDMX_Matrix_Generator](https:&#x2F;&#x2F;gitlab.com&#x2F;sis-cc&#x2F;sdmx-tools&#x2F;sdmx-matrix-generator). Excel-based visual SDMX artefact authoring tool which generates SDMX-ML for upload into an SDMX repository such as a registry. By OECD.
+Excel [SDMX_Matrix_Generator](https:&#x2F;&#x2F;gitlab.com&#x2F;sis-cc&#x2F;sdmx-tools&#x2F;sdmx-matrix-generator). Excel-based visual SDMX artefact authoring tool which generates SDMX-ML for upload into an SDMX repository such as a registry. By [OECD](https:&#x2F;&#x2F;www.oecd.org&#x2F;).
 
 
-#### Sampling ([GSBPM](https://unece.org/statistics/modernstats/gsbpm) 4.1)
+#### Sampling ([GSBPM](https://unece.github.io/GSBPM-5.2/) 4.1)
 
 - <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/sampling/version.svg"></img> <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/sampling/latest.svg"></img> <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/sampling/license.svg"></img> [<img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/sampling/metrics.svg"></img>](https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/sampling/metrics.json)\
 R package [sampling](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;sampling). Several algorithms for drawing survey samples, including a variety of unequal probabiltiy sampling designs (high entropy, systematic, Rao-Sampford, etc.), and calibrating design weights.
@@ -66,7 +72,7 @@ R package [sps](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;sps). Imp
 R package [samplingin](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;samplingin). Sampling using systematic and PPS (Probability Proportional to Size) methods. It can also allocate predetermined allocations to smaller levels. by Statistics Indonesia
 
 
-#### Run collection ([GSBPM](https://unece.org/statistics/modernstats/gsbpm) 4.3)
+#### Run collection ([GSBPM](https://unece.github.io/GSBPM-5.2/) 4.3)
 
 - <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/risq/version.svg"></img> <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/risq/latest.svg"></img> <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/risq/license.svg"></img> [<img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/risq/metrics.svg"></img>](https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/risq/metrics.json)\
 R package [risq](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;risq). Representativity indicators for survey quality based on survey data and response models; see [doi:10.1111&#x2F;insr.12159)](https:&#x2F;&#x2F;doi.org&#x2F;10.1111&#x2F;insr.12159).
@@ -84,7 +90,7 @@ Python [Sustainability_Reporting](https:&#x2F;&#x2F;github.com&#x2F;AlessandraSo
 Python [urlfinding](https:&#x2F;&#x2F;github.com&#x2F;SNStatComp&#x2F;urlfinding). Software for finding websites of enterprises using a search engine and machine learning. By [Statistics Netherlands](https:www.cbs.nl).
 
 
-#### Process ([GSBPM](https://unece.org/statistics/modernstats/gsbpm) 5)
+#### Process ([GSBPM](https://unece.github.io/GSBPM-5.2/) 5)
 
 - <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/dcmodify/version.svg"></img> <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/dcmodify/latest.svg"></img> <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/dcmodify/license.svg"></img> [<img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/dcmodify/metrics.svg"></img>](https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/dcmodify/metrics.json)\
 R package [dcmodify](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;dcmodify). Derive new variables or modify data using externally defined data modification rules.
@@ -104,7 +110,7 @@ R package [blaise](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;blaise
 Java application [ADaMSoft](http:&#x2F;&#x2F;adamsoft.sourceforge.net). implements procedures for data analysis, data, web and text mining. Also contains procedures for data validation and imputation, based on the principle of Fellegi and Holt.
 
 
-#### Data integration and record linkage ([GSBPM](https://unece.org/statistics/modernstats/gsbpm) 5.1)
+#### Data integration and record linkage ([GSBPM](https://unece.github.io/GSBPM-5.2/) 5.1)
 
 - <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/reclin2/version.svg"></img> <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/reclin2/latest.svg"></img> <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/reclin2/license.svg"></img> [<img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/reclin2/metrics.svg"></img>](https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/reclin2/metrics.json)\
 R package [reclin2](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;reclin2). Functions to assist in performing probabilistic record linkage and deduplication: generating pairs, comparing records, em-algorithm for estimating m- and u-probabilities, forcing one-to-one matching. Can also be used for pre- and post-processing for machine learning methods for record linkage.
@@ -128,13 +134,13 @@ R package [XBRL](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;XBRL). E
 R package [blocking](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;blocking). Functions to block records using approximate nearest neighbours and grapsh for data deduplication and record linkage
 
 
-#### Classification and coding ([GSBPM](https://unece.org/statistics/modernstats/gsbpm) 5.2)
+#### Classification and coding ([GSBPM](https://unece.github.io/GSBPM-5.2/) 5.2)
 
 - <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/ClassifAI/version.svg"></img> <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/ClassifAI/latest.svg"></img> <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/ClassifAI/license.svg"></img> [<img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/ClassifAI/metrics.svg"></img>](https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/ClassifAI/metrics.json)\
 Python [ClassifAI](https:&#x2F;&#x2F;github.com&#x2F;datasciencecampus&#x2F;classifAI). [ClassifAI](https:&#x2F;&#x2F;datasciencecampus.github.io&#x2F;classifai&#x2F;) is a Python package that simplifies semantic-search and Retrieval Augmented Generation (RAG) pipelines for text classification tasks in the production of official statistics. By the UK Office for National Statistics.
 
 
-#### Statistical data editing and imputation ([GSBPM](https://unece.org/statistics/modernstats/gsbpm) 5.3 | 5.4)
+#### Statistical data editing and imputation ([GSBPM](https://unece.github.io/GSBPM-5.2/) 5.3 | 5.4)
 
 - <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/validate/version.svg"></img> <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/validate/latest.svg"></img> <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/validate/license.svg"></img> [<img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/validate/metrics.svg"></img>](https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/validate/metrics.json)\
 R package [validate](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;validate). Data validation checks such as on length, format, range, missingness, availability, uniqueness, multivariate checks, statistical checks and checks on SDMX codelist. See [Cookbook](https:&#x2F;&#x2F;data-cleaning.github.io&#x2F;validate&#x2F;). By Statistics Netherlands.
@@ -168,7 +174,7 @@ Python [banff](https:&#x2F;&#x2F;pypi.org&#x2F;project&#x2F;banff). Python libra
 Python [banffprocessor](https:&#x2F;&#x2F;pypi.org&#x2F;project&#x2F;banffprocessor). Python library to implement a banff imputation strategy as a sequence of processing steps. By Statistics Canada
 
 
-#### Estimation and weighting ([GSBPM](https://unece.org/statistics/modernstats/gsbpm) 5.6 | 5.7)
+#### Estimation and weighting ([GSBPM](https://unece.github.io/GSBPM-5.2/) 5.6 | 5.7)
 
 - <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/survey/version.svg"></img> <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/survey/latest.svg"></img> <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/survey/license.svg"></img> [<img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/survey/metrics.svg"></img>](https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/survey/metrics.json)\
 R package [survey](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;survey). Weighting and estimation for complex survey designs, possibly under nonresponse. Also computes estimator variance. See also R package [srvyr](https::&#x2F;&#x2F;CRAN.R-project.org&#x2F;package&#x3D;survey) for integration with [tidy tools](https:&#x2F;&#x2F;cran.r-project.org&#x2F;web&#x2F;packages&#x2F;tidyverse&#x2F;vignettes&#x2F;manifesto.html).
@@ -228,7 +234,7 @@ R package [gseries](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;gseri
 R package [REPS](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;REPS). Price indices using Hedonic and multilateral methods: Laspeyres, Paasche, Fisher, and HMTS (Hedonic Multilateral Time series re-estimation with splicing). By Statistics Netherlands.
 
 
-#### Output validation ([GSBPM](https://unece.org/statistics/modernstats/gsbpm) 6.2)
+#### Output validation ([GSBPM](https://unece.github.io/GSBPM-5.2/) 6.2)
 
 - <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/validate/version.svg"></img> <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/validate/latest.svg"></img> <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/validate/license.svg"></img> [<img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/validate/metrics.svg"></img>](https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/validate/metrics.json)\
 R package [validate](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;validate). Rule management and data validation.
@@ -236,7 +242,7 @@ R package [validate](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;vali
 R package [nrba](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;nrba). Facilitates nonresponse bias analysis (NRBA) and nonresponse adjustments for survey data.
 
 
-#### Statistical disclosure control ([GSBPM](https://unece.org/statistics/modernstats/gsbpm) 6.4)
+#### Statistical disclosure control ([GSBPM](https://unece.github.io/GSBPM-5.2/) 6.4)
 
 - <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/Mu-ARGUS/version.svg"></img> <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/Mu-ARGUS/latest.svg"></img> <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/Mu-ARGUS/license.svg"></img> [<img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/Mu-ARGUS/metrics.svg"></img>](https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/Mu-ARGUS/metrics.json)\
 Java and C++ application [Mu-ARGUS](https:&#x2F;&#x2F;github.com&#x2F;sdcTools&#x2F;muargus). Tool to create safe micro-data files. See also the [casc page](http:&#x2F;&#x2F;research.cbs.nl&#x2F;casc&#x2F;).
@@ -262,7 +268,7 @@ R package [sdcSpatial](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;sd
 R package [synthpop](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;synthpop). Produce synthetic versions of microdata containing confidential information so that they are safe to be released to users for exploratory analysis.
 
 
-#### Statistical Dissemination ([GSBPM](https://unece.org/statistics/modernstats/gsbpm) 7.2)
+#### Statistical Dissemination ([GSBPM](https://unece.github.io/GSBPM-5.2/) 7.2)
 
 - <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/SDMX_Converter/version.svg"></img> <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/SDMX_Converter/latest.svg"></img> <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/SDMX_Converter/license.svg"></img> [<img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/SDMX_Converter/metrics.svg"></img>](https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/SDMX_Converter/metrics.json)\
 Java application [SDMX_Converter](https:&#x2F;&#x2F;cros.ec.europa.eu&#x2F;dashboard&#x2F;sdmx-converter). Converts between SDMX versions and formats like CSV, FLR etc. By Eurostat.
@@ -312,7 +318,7 @@ R package [PantaRhei](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;Pan
 Python [SDMX Dashboard Generator](https:&#x2F;&#x2F;github.com&#x2F;bis-med-it&#x2F;SDMX-dashboard-generator&#x2F;). Open-source web application for SDMX data and metadata rendering based on Dash.
 
 
-#### Access to official statistics ([GSBPM](https://unece.org/statistics/modernstats/gsbpm) 7.4)
+#### Access to official statistics ([GSBPM](https://unece.github.io/GSBPM-5.2/) 7.4)
 
 - <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/rsdmx/version.svg"></img> <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/rsdmx/latest.svg"></img> <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/rsdmx/license.svg"></img> [<img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/rsdmx/metrics.svg"></img>](https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/rsdmx/metrics.json)\
 R package [rsdmx](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;rsdmx). Access to data or metadata from statistical organisations that support SDMX webservices. The package contains a list of SDMX access points of various national and international statistical institutes.

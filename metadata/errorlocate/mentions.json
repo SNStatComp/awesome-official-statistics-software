@@ -10,13 +10,13 @@
         "id": "statistical-journal-of-the-iaos",
         "title": "Statistical Journal of the IAOS",
         "issn": "1874-7655",
-        "articleCount": 1483
+        "articleCount": 1499
       },
       {
         "id": "journal-of-official-statistics",
         "title": "Journal of Official Statistics",
         "issn": "0282-423X",
-        "articleCount": 175
+        "articleCount": 179
       },
       {
         "id": "statistics-in-transition-new-series",
@@ -28,13 +28,13 @@
         "id": "journal-of-survey-statistics-and-methodology",
         "title": "Journal of Survey Statistics and Methodology",
         "issn": "2325-0984",
-        "articleCount": 621
+        "articleCount": 626
       },
       {
         "id": "international-statistical-review",
         "title": "International Statistical Review",
         "issn": "0306-7734",
-        "articleCount": 2937
+        "articleCount": 2941
       },
       {
         "id": "statistical-methods-and-applications",
@@ -52,13 +52,13 @@
         "id": "journal-of-statistical-software",
         "title": "Journal of Statistical Software",
         "issn": "1548-7660",
-        "articleCount": 1641
+        "articleCount": 1644
       },
       {
         "id": "journal-of-computational-and-graphical-statistics",
         "title": "Journal of Computational and Graphical Statistics",
         "issn": "1061-8600",
-        "articleCount": 2520
+        "articleCount": 2538
       }
     ],
     "unavailable": [
@@ -83,6 +83,6 @@
       "reason": "Google Scholar has no official public search API; automated scraping is unreliable and is not included in the automated mention count."
     }
   ],
-  "searchedAt": "2026-10-12T16:07:50.942Z",
-  "generatedAt": "2026-10-12T16:07:50.942Z"
+  "searchedAt": "2026-11-06T23:43:56.002Z",
+  "generatedAt": "2026-11-06T23:43:56.002Z"
 }

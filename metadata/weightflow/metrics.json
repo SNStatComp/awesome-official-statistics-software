@@ -5,7 +5,7 @@
   "forks_count": 1,
   "forks": 1,
   "open_issues_count": 0,
-  "downloadsPer30Days": 549,
+  "downloadsPer30Days": 579,
   "downloadsUnavailableReason": null,
   "VignetteBuilder": "knitr",
   "vignetteCount": 21,
@@ -28,12 +28,12 @@
     {
       "title": "Composite estimation: borrowing strength from the previous wave",
       "url": "https://cran.r-project.org/web/packages/weightflow/vignettes/composite-estimation.html",
-      "wordCount": 1774
+      "wordCount": 1807
     },
     {
       "title": "Coordinated replication: what travels between waves",
       "url": "https://cran.r-project.org/web/packages/weightflow/vignettes/coordinated-replication.html",
-      "wordCount": 1161
+      "wordCount": 1285
     },
     {
       "title": "Inspecting and auditing the cascade",
@@ -43,12 +43,12 @@
     {
       "title": "Model calibration (model-assisted weighting)",
       "url": "https://cran.r-project.org/web/packages/weightflow/vignettes/model-calibration.html",
-      "wordCount": 1340
+      "wordCount": 1395
     },
     {
       "title": "Non-probability samples",
       "url": "https://cran.r-project.org/web/packages/weightflow/vignettes/nonprobability-samples.html",
-      "wordCount": 483
+      "wordCount": 2311
     },
     {
       "title": "Nonresponse: weighting classes, propensities and calibration",
@@ -58,7 +58,7 @@
     {
       "title": "Pure panels: the longitudinal weight and gross flows",
       "url": "https://cran.r-project.org/web/packages/weightflow/vignettes/panel-longitudinal.html",
-      "wordCount": 1096
+      "wordCount": 1407
     },
     {
       "title": "Preparing the sample: eligibility and response before weighting",
@@ -73,7 +73,7 @@
     {
       "title": "From raw sample to final weights",
       "url": "https://cran.r-project.org/web/packages/weightflow/vignettes/quickstart.html",
-      "wordCount": 1030
+      "wordCount": 723
     },
     {
       "title": "Calibrating to a reference survey",
@@ -83,7 +83,7 @@
     {
       "title": "Rotating panels: net change, chaining and gross flows",
       "url": "https://cran.r-project.org/web/packages/weightflow/vignettes/rotating-panels.html",
-      "wordCount": 1445
+      "wordCount": 2016
     },
     {
       "title": "Trimming survey weights",
@@ -93,7 +93,7 @@
     {
       "title": "Two-phase (double) sampling",
       "url": "https://cran.r-project.org/web/packages/weightflow/vignettes/two-phase-sampling.html",
-      "wordCount": 1069
+      "wordCount": 1116
     },
     {
       "title": "Validation against survey and ReGenesees",
@@ -116,7 +116,7 @@
       "wordCount": 1444
     }
   ],
-  "vignetteWordCount": 23927,
+  "vignetteWordCount": 26589,
   "used_in": 0,
   "used_in_scope": "CRAN packages in metadata list",
   "mentions": 1,
@@ -147,8 +147,8 @@
   "awesome_metric": 1.8,
   "awesome_metric_breakdown": {
     "maturity": 0,
-    "documentation": 4.914855889113937,
-    "use": 1.9393557763720939,
+    "documentation": 4.927042563157716,
+    "use": 1.9508884183893653,
     "community": 0.4295341114936773
   },
   "awesome_metric_method": "See metrics.md in this repo; metrics calculation is still experimental and subject to change."

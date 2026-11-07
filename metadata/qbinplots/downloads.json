@@ -1,9 +1,9 @@
 {
   "platform": "CRAN",
   "metric": "downloadsPer30Days",
-  "downloadsPer30Days": 222,
-  "periodStart": "2026-09-11",
-  "periodEnd": "2026-10-10",
+  "downloadsPer30Days": 172,
+  "periodStart": "2026-10-07",
+  "periodEnd": "2026-11-05",
   "source": "https://cranlogs.r-pkg.org/downloads/total/last-month/qbinplots",
-  "generatedAt": "2026-10-12T16:06:25.651Z"
+  "generatedAt": "2026-11-06T23:42:38.410Z"
 }

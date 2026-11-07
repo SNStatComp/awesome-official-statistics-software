@@ -2,10 +2,10 @@
   "watchers_count": 9,
   "has_wiki": false,
   "has_discussions": false,
-  "forks_count": 3,
-  "forks": 3,
+  "forks_count": 4,
+  "forks": 4,
   "open_issues_count": 3,
-  "downloadsPer30Days": 418,
+  "downloadsPer30Days": 350,
   "downloadsUnavailableReason": null,
   "VignetteBuilder": null,
   "vignetteCount": 0,
@@ -27,8 +27,8 @@
   "awesome_metric_breakdown": {
     "maturity": 0,
     "documentation": 0,
-    "use": 1.3111058726767502,
-    "community": 1.0156820700713287
+    "use": 1.2726524528265637,
+    "community": 1.0515768248114221
   },
   "awesome_metric_method": "See metrics.md in this repo; metrics calculation is still experimental and subject to change."
 }

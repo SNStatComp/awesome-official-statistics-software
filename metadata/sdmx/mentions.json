@@ -1,9 +1,9 @@
 {
   "package": "sdmx",
-  "mentions": 4,
+  "mentions": 5,
   "mentionsByJournal": {
     "statistical-journal-of-the-iaos": {
-      "count": 3
+      "count": 4
     },
     "statistics-in-transition-new-series": {
       "count": 1
@@ -46,6 +46,16 @@
       "doi": "10.1177/18747655261472240"
     },
     {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "Who governs government data? A bounded data stewardship role for national statistical offices",
+      "authors": [
+        "Meder Toitonov"
+      ],
+      "publicationYear": 2026,
+      "doi": "10.1177/18747655261505647"
+    },
+    {
       "journalId": "statistics-in-transition-new-series",
       "journalTitle": "Statistics in Transition new series",
       "articleTitle": "Statistical information system of the Republic of Belarus: experience and perspectives",
@@ -63,13 +73,13 @@
         "id": "statistical-journal-of-the-iaos",
         "title": "Statistical Journal of the IAOS",
         "issn": "1874-7655",
-        "articleCount": 1483
+        "articleCount": 1499
       },
       {
         "id": "journal-of-official-statistics",
         "title": "Journal of Official Statistics",
         "issn": "0282-423X",
-        "articleCount": 175
+        "articleCount": 179
       },
       {
         "id": "statistics-in-transition-new-series",
@@ -81,13 +91,13 @@
         "id": "journal-of-survey-statistics-and-methodology",
         "title": "Journal of Survey Statistics and Methodology",
         "issn": "2325-0984",
-        "articleCount": 621
+        "articleCount": 626
       },
       {
         "id": "international-statistical-review",
         "title": "International Statistical Review",
         "issn": "0306-7734",
-        "articleCount": 2937
+        "articleCount": 2941
       },
       {
         "id": "statistical-methods-and-applications",
@@ -105,13 +115,13 @@
         "id": "journal-of-statistical-software",
         "title": "Journal of Statistical Software",
         "issn": "1548-7660",
-        "articleCount": 1641
+        "articleCount": 1644
       },
       {
         "id": "journal-of-computational-and-graphical-statistics",
         "title": "Journal of Computational and Graphical Statistics",
         "issn": "1061-8600",
-        "articleCount": 2520
+        "articleCount": 2538
       }
     ],
     "unavailable": [
@@ -136,6 +146,6 @@
       "reason": "Google Scholar has no official public search API; automated scraping is unreliable and is not included in the automated mention count."
     }
   ],
-  "searchedAt": "2026-10-12T16:07:51.440Z",
-  "generatedAt": "2026-10-12T16:07:51.440Z"
+  "searchedAt": "2026-11-06T23:43:56.620Z",
+  "generatedAt": "2026-11-06T23:43:56.620Z"
 }

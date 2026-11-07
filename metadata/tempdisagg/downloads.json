@@ -1,9 +1,9 @@
 {
   "platform": "CRAN",
   "metric": "downloadsPer30Days",
-  "downloadsPer30Days": 1997,
-  "periodStart": "2026-09-11",
-  "periodEnd": "2026-10-10",
+  "downloadsPer30Days": 2025,
+  "periodStart": "2026-10-07",
+  "periodEnd": "2026-11-05",
   "source": "https://cranlogs.r-pkg.org/downloads/total/last-month/tempdisagg",
-  "generatedAt": "2026-10-12T16:06:12.098Z"
+  "generatedAt": "2026-11-06T23:42:25.039Z"
 }

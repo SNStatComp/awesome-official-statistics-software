@@ -5,7 +5,7 @@
   "forks_count": 51,
   "forks": 51,
   "open_issues_count": 18,
-  "downloadsPer30Days": 6643,
+  "downloadsPer30Days": 7806,
   "downloadsUnavailableReason": null,
   "VignetteBuilder": "knitr",
   "vignetteCount": 1,
@@ -19,10 +19,10 @@
   "vignetteWordCount": 33,
   "used_in": 0,
   "used_in_scope": "CRAN packages in metadata list",
-  "mentions": 39,
+  "mentions": 42,
   "mentionsByJournal": {
     "statistical-journal-of-the-iaos": {
-      "count": 23
+      "count": 26
     },
     "journal-of-official-statistics": {
       "count": 1
@@ -312,6 +312,42 @@
       "doi": "10.1177/18747655261493348"
     },
     {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "National statistical organizations at a crossroads: Trust, independence, and democratic relevance in the AI Era",
+      "authors": [
+        "Anil Arora"
+      ],
+      "publicationYear": 2026,
+      "doi": "10.1177/18747655261493690"
+    },
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "External indicators and the powers of a statistical office: Port statistics in Europe and Viet Nam",
+      "authors": [
+        "Ngoc Quang Ngo"
+      ],
+      "publicationYear": 2026,
+      "doi": "10.1177/18747655261499527"
+    },
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "Measuring inbound tourism with mobile network operator data: The impact of international cross-roaming",
+      "authors": [
+        "Tiziana Tuoto",
+        "Florabela Carausu",
+        "Egle Rüütli",
+        "Margus Tiru",
+        "Juan Arranz",
+        "Miguel Picornell",
+        "Ricardo Herranz"
+      ],
+      "publicationYear": 2026,
+      "doi": "10.1177/18747655261503715"
+    },
+    {
       "journalId": "journal-of-official-statistics",
       "journalTitle": "Journal of Official Statistics",
       "articleTitle": "The European Statistics Awards for Nowcasting: A New Approach to Engage with the Scientific Community and to Foster Improved Timeliness of Official Statistics",
@@ -492,7 +528,7 @@
   "awesome_metric_breakdown": {
     "maturity": 0,
     "documentation": 3.390962758962525,
-    "use": 4.411213151839327,
+    "use": 4.4462403992078645,
     "community": 3.5483776521525368
   },
   "awesome_metric_method": "See metrics.md in this repo; metrics calculation is still experimental and subject to change."

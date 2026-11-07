@@ -57,7 +57,7 @@ async function process_data(data, options) {
 		pendingOperations.length = 0
 		item.metadatadir = `${metadatadir}/${item.name}`
 		if (!fs.existsSync(item.metadatadir)) fs.mkdirSync(item.metadatadir, { recursive: true })
-		const metadataIsFresh = !options.force && is_metadata_fresh(path.join(item.metadatadir, 'pkg.json'))
+		const metadataIsFresh = !options.force && is_metadata_complete(item, item.metadatadir)
 		const generatedAt = new Date().toISOString()
 		
 		const parts = item.url.split("/")
@@ -201,6 +201,17 @@ async function process_data(data, options) {
 		if (index < data.length - 1) await wait(2000)
 	}
 }	
+
+function is_metadata_complete(item, directory) {
+	if (!is_metadata_fresh(path.join(directory, 'pkg.json'))) return false
+	if (itemType(item.url) !== 'GH') return true
+
+	const pathParts = new URL(item.url).pathname.split('/').filter(Boolean)
+	if (pathParts.length < 2) return true
+
+	return ['pkg_gh.json', 'pkg_gh_languages.json']
+		.every((filename) => fs.existsSync(path.join(directory, filename)))
+}
 
 function write_pkg_json(directory, metadata, generatedAt) {
 	fs.writeFileSync(path.join(directory, 'pkg.json'), JSON.stringify({

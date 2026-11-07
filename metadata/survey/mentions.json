@@ -1,18 +1,18 @@
 {
   "package": "survey",
-  "mentions": 988,
+  "mentions": 1001,
   "mentionsByJournal": {
     "statistical-journal-of-the-iaos": {
-      "count": 249
+      "count": 256
     },
     "journal-of-official-statistics": {
-      "count": 76
+      "count": 78
     },
     "statistics-in-transition-new-series": {
       "count": 96
     },
     "journal-of-survey-statistics-and-methodology": {
-      "count": 364
+      "count": 368
     },
     "international-statistical-review": {
       "count": 175
@@ -2994,6 +2994,94 @@
       "doi": "10.1177/18747655261495230"
     },
     {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "A methodological framework for the global index of volunteer engagement (GIVE): Measuring volunteerism in official statistics",
+      "authors": [
+        "Samuel Manda",
+        "Nada Abdelatif",
+        "Harrid Nkhoma",
+        "Kgothatso Mokutu",
+        "Sollie Millard",
+        "Tapiwa Kamuruko"
+      ],
+      "publicationYear": 2026,
+      "doi": "10.1177/18747655261486416"
+    },
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "National statistical organizations at a crossroads: Trust, independence, and democratic relevance in the AI Era",
+      "authors": [
+        "Anil Arora"
+      ],
+      "publicationYear": 2026,
+      "doi": "10.1177/18747655261493690"
+    },
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "One weight for many variables: why multipurpose calibration of non-probability samples needs flexible working models, and what sharing it costs",
+      "authors": [
+        "Juan Pablo Ferreira"
+      ],
+      "publicationYear": 2026,
+      "doi": "10.1177/18747655261501357"
+    },
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "Identification of influential values and outliers in the Fay-Herriot EBLUP estimator: Empirical evidence from the crime prevalence in Mexico",
+      "authors": [
+        "Mario A Santillana Zapata",
+        "José A Gallegos Urenda"
+      ],
+      "publicationYear": 2026,
+      "doi": "10.1177/18747655261501723"
+    },
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "Mobile network operator data as a new source for transport planning and mobility analyses",
+      "authors": [
+        "Armando Häring",
+        "Lorenz Ade",
+        "Yannik Buhl",
+        "Maurice Brandt",
+        "Gloria Deetjen",
+        "Markus Zwick"
+      ],
+      "publicationYear": 2026,
+      "doi": "10.1177/18747655261499494"
+    },
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "Bayesian multinomial small area estimation with post-stratification and stochastic benchmarking",
+      "authors": [
+        "Ioannis B Nikolaidis",
+        "Stefanos G Giakoumatos"
+      ],
+      "publicationYear": 2026,
+      "doi": "10.1177/18747655261504627"
+    },
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "Measuring inbound tourism with mobile network operator data: The impact of international cross-roaming",
+      "authors": [
+        "Tiziana Tuoto",
+        "Florabela Carausu",
+        "Egle Rüütli",
+        "Margus Tiru",
+        "Juan Arranz",
+        "Miguel Picornell",
+        "Ricardo Herranz"
+      ],
+      "publicationYear": 2026,
+      "doi": "10.1177/18747655261503715"
+    },
+    {
       "journalId": "journal-of-official-statistics",
       "journalTitle": "Journal of Official Statistics",
       "articleTitle": "Evaluating Mode Effects in Mixed-Mode Survey Data Using Covariate Adjustment Models",
@@ -3901,6 +3989,28 @@
       ],
       "publicationYear": 2026,
       "doi": "10.1177/0282423x261477606"
+    },
+    {
+      "journalId": "journal-of-official-statistics",
+      "journalTitle": "Journal of Official Statistics",
+      "articleTitle": "A Robust Measure of Wealth Inequality in Small Areas",
+      "authors": [
+        "Silvia Scarpa",
+        "Stefan Sperlich"
+      ],
+      "publicationYear": 2026,
+      "doi": "10.1177/0282423x261496589"
+    },
+    {
+      "journalId": "journal-of-official-statistics",
+      "journalTitle": "Journal of Official Statistics",
+      "articleTitle": "Testing a Targeted Refusal Conversion Strategy for an Establishment Web Survey",
+      "authors": [
+        "Ellen Laupper",
+        "Ulf-Dietrich Reips"
+      ],
+      "publicationYear": 2026,
+      "doi": "10.1177/0282423x261498277"
     },
     {
       "journalId": "statistics-in-transition-new-series",
@@ -7701,6 +7811,18 @@
     {
       "journalId": "journal-of-survey-statistics-and-methodology",
       "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "A Comprehensive Overview of Unit-Level Modeling of Survey Data for Small Area Estimation Under Informative Sampling",
+      "authors": [
+        "Paul A Parker",
+        "Ryan Janicki",
+        "Scott H Holan"
+      ],
+      "publicationYear": 2023,
+      "doi": "10.1093/jssam/smad020"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
       "articleTitle": "Comparison of Unit-Level Small Area Estimation Modeling Approaches for Survey Data Under Informative Sampling",
       "authors": [
         "Paul A Parker",
@@ -7740,18 +7862,6 @@
     {
       "journalId": "journal-of-survey-statistics-and-methodology",
       "journalTitle": "Journal of Survey Statistics and Methodology",
-      "articleTitle": "A Comprehensive Overview of Unit-Level Modeling of Survey Data for Small Area Estimation Under Informative Sampling",
-      "authors": [
-        "Paul A Parker",
-        "Ryan Janicki",
-        "Scott H Holan"
-      ],
-      "publicationYear": 2023,
-      "doi": "10.1093/jssam/smad020"
-    },
-    {
-      "journalId": "journal-of-survey-statistics-and-methodology",
-      "journalTitle": "Journal of Survey Statistics and Methodology",
       "articleTitle": "Survey Consent to Administrative Data Linkage: Five Experiments on Wording and Format",
       "authors": [
         "Annette Jäckle",
@@ -7784,6 +7894,21 @@
       ],
       "publicationYear": 2023,
       "doi": "10.1093/jssam/smad018"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Proxy Survey Cost Indicators in Interviewer-Administered Surveys: Are they Actually Correlated with Costs?",
+      "authors": [
+        "James Wagner",
+        "Lena Centeno",
+        "Richard Dulaney",
+        "Brad Edwards",
+        "Z Tuba Suzer-Gurtekin",
+        "Stephanie Coffey"
+      ],
+      "publicationYear": 2023,
+      "doi": "10.1093/jssam/smad028"
     },
     {
       "journalId": "journal-of-survey-statistics-and-methodology",
@@ -7856,21 +7981,6 @@
       ],
       "publicationYear": 2023,
       "doi": "10.1093/jssam/smad027"
-    },
-    {
-      "journalId": "journal-of-survey-statistics-and-methodology",
-      "journalTitle": "Journal of Survey Statistics and Methodology",
-      "articleTitle": "Proxy Survey Cost Indicators in Interviewer-Administered Surveys: Are they Actually Correlated with Costs?",
-      "authors": [
-        "James Wagner",
-        "Lena Centeno",
-        "Richard Dulaney",
-        "Brad Edwards",
-        "Z Tuba Suzer-Gurtekin",
-        "Stephanie Coffey"
-      ],
-      "publicationYear": 2023,
-      "doi": "10.1093/jssam/smad028"
     },
     {
       "journalId": "journal-of-survey-statistics-and-methodology",
@@ -8030,6 +8140,18 @@
     {
       "journalId": "journal-of-survey-statistics-and-methodology",
       "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Supplementing a Paper Questionnaire with Web and Two-Way Short Message Service (SMS) Surveys",
+      "authors": [
+        "Maura Spiegelman",
+        "Allison Zotti",
+        "Julia Merlin"
+      ],
+      "publicationYear": 2024,
+      "doi": "10.1093/jssam/smae006"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
       "articleTitle": "Modeling in Sample Surveys: Discussion of Professor Valliant’s Hansen Lecture 2022",
       "authors": [
         "Trivellore Raghunathan"
@@ -8132,18 +8254,6 @@
       ],
       "publicationYear": 2024,
       "doi": "10.1093/jssam/smae022"
-    },
-    {
-      "journalId": "journal-of-survey-statistics-and-methodology",
-      "journalTitle": "Journal of Survey Statistics and Methodology",
-      "articleTitle": "Supplementing a Paper Questionnaire with Web and Two-Way Short Message Service (SMS) Surveys",
-      "authors": [
-        "Maura Spiegelman",
-        "Allison Zotti",
-        "Julia Merlin"
-      ],
-      "publicationYear": 2024,
-      "doi": "10.1093/jssam/smae006"
     },
     {
       "journalId": "journal-of-survey-statistics-and-methodology",
@@ -8298,6 +8408,21 @@
     {
       "journalId": "journal-of-survey-statistics-and-methodology",
       "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Model-Based Prediction for Small Domains Using Covariates: A Comparison of Four Methods",
+      "authors": [
+        "Victoire Michal",
+        "Jon Wakefield",
+        "Alexandra M Schmidt",
+        "Alicia Cavanaugh",
+        "Brian E Robinson",
+        "Jill Baumgartner"
+      ],
+      "publicationYear": 2024,
+      "doi": "10.1093/jssam/smae032"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
       "articleTitle": "Evaluating Item Response Format and Content Using Partial Credit Trees in Scale Development",
       "authors": [
         "Nana Amma Berko Asamoah",
@@ -8392,21 +8517,6 @@
       ],
       "publicationYear": 2024,
       "doi": "10.1093/jssam/smae039"
-    },
-    {
-      "journalId": "journal-of-survey-statistics-and-methodology",
-      "journalTitle": "Journal of Survey Statistics and Methodology",
-      "articleTitle": "Model-Based Prediction for Small Domains Using Covariates: A Comparison of Four Methods",
-      "authors": [
-        "Victoire Michal",
-        "Jon Wakefield",
-        "Alexandra M Schmidt",
-        "Alicia Cavanaugh",
-        "Brian E Robinson",
-        "Jill Baumgartner"
-      ],
-      "publicationYear": 2024,
-      "doi": "10.1093/jssam/smae032"
     },
     {
       "journalId": "journal-of-survey-statistics-and-methodology",
@@ -9041,6 +9151,18 @@
     {
       "journalId": "journal-of-survey-statistics-and-methodology",
       "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Does Respondent Gender Matter to the Collection of Household Consumption and Expenditure Data in India?",
+      "authors": [
+        "Sharan Sharma",
+        "Pallavi Choudhuri",
+        "Sonalde Desai"
+      ],
+      "publicationYear": 2026,
+      "doi": "10.1093/jssam/smaf054"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
       "articleTitle": "Respondent-Driven Sampling Online (Web Rds) As A Strategy to Access Hard-To-Reach But Non-Hidden Populations: The Case Of Health Professionals Working In Chilean Schools",
       "authors": [
         "Katherine Dinamarca-Aravena",
@@ -9241,6 +9363,18 @@
     {
       "journalId": "journal-of-survey-statistics-and-methodology",
       "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Survey Behavior and Cognition Across the Life Course: Evidence from the Panel Study of Income Dynamics",
+      "authors": [
+        "Malak B Kalasho",
+        "Esther M Friedman",
+        "Thomas F Crossley"
+      ],
+      "publicationYear": 2026,
+      "doi": "10.1093/jssam/smag010"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
       "articleTitle": "What Informs Interviewer Question Asking and Probing? Evidence from the Survey of Income and Program Participation",
       "authors": [
         "Rodney L Terry",
@@ -9415,6 +9549,18 @@
     {
       "journalId": "journal-of-survey-statistics-and-methodology",
       "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Small Area Estimation Using Area-Level Linked Data",
+      "authors": [
+        "Enrico Fabrizi",
+        "Nicola Salvati",
+        "Ray Chambers"
+      ],
+      "publicationYear": 2026,
+      "doi": "10.1093/jssam/smag034"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
       "articleTitle": "Nonresponse in Web Surveys: A Deeper Look into Education Bias",
       "authors": [
         "Christine Distler",
@@ -9459,6 +9605,16 @@
       ],
       "publicationYear": 2026,
       "doi": "10.1093/jssam/smag039"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "Structural Bias in Stylized Items with Point-Valued Categories",
+      "authors": [
+        "Ettore Scappini"
+      ],
+      "publicationYear": 2026,
+      "doi": "10.1093/jssam/smag043"
     },
     {
       "journalId": "international-statistical-review",
@@ -11732,13 +11888,13 @@
         "id": "statistical-journal-of-the-iaos",
         "title": "Statistical Journal of the IAOS",
         "issn": "1874-7655",
-        "articleCount": 1483
+        "articleCount": 1499
       },
       {
         "id": "journal-of-official-statistics",
         "title": "Journal of Official Statistics",
         "issn": "0282-423X",
-        "articleCount": 175
+        "articleCount": 179
       },
       {
         "id": "statistics-in-transition-new-series",
@@ -11750,13 +11906,13 @@
         "id": "journal-of-survey-statistics-and-methodology",
         "title": "Journal of Survey Statistics and Methodology",
         "issn": "2325-0984",
-        "articleCount": 621
+        "articleCount": 626
       },
       {
         "id": "international-statistical-review",
         "title": "International Statistical Review",
         "issn": "0306-7734",
-        "articleCount": 2937
+        "articleCount": 2941
       },
       {
         "id": "statistical-methods-and-applications",
@@ -11774,13 +11930,13 @@
         "id": "journal-of-statistical-software",
         "title": "Journal of Statistical Software",
         "issn": "1548-7660",
-        "articleCount": 1641
+        "articleCount": 1644
       },
       {
         "id": "journal-of-computational-and-graphical-statistics",
         "title": "Journal of Computational and Graphical Statistics",
         "issn": "1061-8600",
-        "articleCount": 2520
+        "articleCount": 2538
       }
     ],
     "unavailable": [
@@ -11805,6 +11961,6 @@
       "reason": "Google Scholar has no official public search API; automated scraping is unreliable and is not included in the automated mention count."
     }
   ],
-  "searchedAt": "2026-10-12T16:07:51.025Z",
-  "generatedAt": "2026-10-12T16:07:51.025Z"
+  "searchedAt": "2026-11-06T23:43:56.091Z",
+  "generatedAt": "2026-11-06T23:43:56.091Z"
 }

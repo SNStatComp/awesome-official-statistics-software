@@ -1,10 +1,10 @@
 {
   "platform": "GitHub",
   "metric": "downloadsPer30Days",
-  "downloadsPer30Days": 6,
+  "downloadsPer30Days": 10,
   "method": "release asset download-count snapshot delta",
-  "cumulativeReleaseAssetDownloads": 415,
-  "rateBasisDays": 10,
+  "cumulativeReleaseAssetDownloads": 423,
+  "rateBasisDays": 25,
   "snapshots": [
     {
       "observedAt": "2026-10-01T14:17:25.265Z",
@@ -17,8 +17,12 @@
     {
       "observedAt": "2026-10-12T16:06:23.026Z",
       "cumulativeDownloads": 415
+    },
+    {
+      "observedAt": "2026-11-06T23:42:35.567Z",
+      "cumulativeDownloads": 423
     }
   ],
   "source": "https://api.github.com/repos/statisticssweden/PxWeb/releases",
-  "generatedAt": "2026-10-12T16:06:23.026Z"
+  "generatedAt": "2026-11-06T23:42:35.567Z"
 }

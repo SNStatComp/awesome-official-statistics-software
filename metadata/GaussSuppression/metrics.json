@@ -4,8 +4,8 @@
   "has_discussions": false,
   "forks_count": 4,
   "forks": 4,
-  "open_issues_count": 4,
-  "downloadsPer30Days": 3281,
+  "open_issues_count": 3,
+  "downloadsPer30Days": 915,
   "downloadsUnavailableReason": null,
   "VignetteBuilder": "knitr",
   "vignetteCount": 4,
@@ -41,15 +41,15 @@
   "watchers": 4,
   "subscriptions": 5,
   "collaborators": null,
-  "issues": 4,
+  "issues": 3,
   "releases": null,
   "pull_requests": null,
-  "awesome_metric": 1.9,
+  "awesome_metric": 1.8,
   "awesome_metric_breakdown": {
     "maturity": 0,
     "documentation": 4.647834683499442,
-    "use": 1.7580677613279172,
-    "community": 1.0999273609458364
+    "use": 1.4809464505066139,
+    "community": 1.0515768248114221
   },
   "awesome_metric_method": "See metrics.md in this repo; metrics calculation is still experimental and subject to change."
 }
