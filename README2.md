@@ -72,6 +72,12 @@ R package [sps](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;sps). Imp
 R package [samplingin](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;samplingin). Sampling using systematic and PPS (Probability Proportional to Size) methods. It can also allocate predetermined allocations to smaller levels. by Statistics Indonesia
 
 
+#### Set up collection ([GSBPM](https://unece.github.io/GSBPM-5.2/) 4.2)
+
+- <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/Statbus/version.svg"></img> <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/Statbus/latest.svg"></img> <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/Statbus/license.svg"></img> [<img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/Statbus/metrics.svg"></img>](https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/Statbus/metrics.json)\
+SQL and other [Statbus](https:&#x2F;&#x2F;github.com&#x2F;statisticsnorway&#x2F;statbus). Generic Statistical Business register. See [website](https:&#x2F;&#x2F;www.statbus.org) By [Statistics Norway](https:&#x2F;&#x2F;www.ssb.no&#x2F;en)
+
+
 #### Run collection ([GSBPM](https://unece.github.io/GSBPM-5.2/) 4.3)
 
 - <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/risq/version.svg"></img> <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/risq/latest.svg"></img> <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/risq/license.svg"></img> [<img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/risq/metrics.svg"></img>](https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/risq/metrics.json)\

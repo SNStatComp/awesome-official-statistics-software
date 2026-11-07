@@ -67,6 +67,14 @@
   gsbpm_name: Sampling
   gsbpm_number: '4.1'
 
+- type: SQL and other
+  name: Statbus
+  url: https://github.com/statisticsnorway/statbus
+  description: Generic Statistical Business register. See [website](https://www.statbus.org)
+    By [Statistics Norway](https://www.ssb.no/en)
+  gsbpm_name: Set up collection
+  gsbpm_number: '4.2'
+
 - type: R package
   name: risq
   url: https://cran.r-project.org/package=risq
