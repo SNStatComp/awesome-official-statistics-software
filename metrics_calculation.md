@@ -1,19 +1,21 @@
 ## AWESOME METRICS (AI-designed, very experimental)
 
-- Overview of scores: [metrics overview](metrics_scores.md)
+- Overview of scores for R packages and R package collections: [metrics overview](metrics_scores.md)
 
 The file `metadata/<package>/metrics.json` contains for each package the metadata collected for calculating metrics and the 
-The script combines the package's saved GitHub, CRAN, download, and mention metadata.
+The script combines the package's saved GitHub, GitLab, CRAN, download, and mention metadata.
+
+The repository metadata collector requests GitLab project and language information from the public GitLab API. Set `GITLAB_API_TOKEN` to a GitLab personal access token when authenticated access is needed. It saves the responses as `pkg_gl.json` and `pkg_gl_languages.json`; configured licenses and languages take precedence over detected values. Use `--force` to refresh cached metadata.
 
 ## Fields
 
 | Field | Source and meaning |
 | --- | --- |
 | `watchers_count` | GitHub repository watchers. |
-| `has_wiki` | Whether the GitHub repository wiki is enabled. |
+| `has_wiki` | Whether the GitHub or GitLab repository wiki is enabled. |
 | `has_discussions` | Whether GitHub Discussions is enabled. |
-| `forks_count`, `forks` | GitHub repository fork count. Both source fields are retained for compatibility. |
-| `open_issues_count`, `issues` | GitHub open issue count; GitHub's value includes open pull requests. |
+| `forks_count`, `forks` | GitHub or GitLab repository fork count. Both fields are retained for compatibility. |
+| `open_issues_count`, `issues` | Open issue count. GitHub's value includes open pull requests; GitLab's does not. |
 | `downloadsPer30Days` | Monthly-equivalent downloads from the download collector. CRAN uses the CRAN logs last-month total; PyPI uses PyPI Stats `last_month`; GitHub uses available clone/release-asset estimates. |
 | `downloadsUnavailableReason` | Explanation when a comparable download count is unavailable. |
 | `VignetteBuilder` | CRAN `VignetteBuilder` value. |
@@ -50,7 +52,7 @@ The normalized value is averaged within its category, then multiplied by 5. Bool
 | Category | Signals and caps |
 | --- | --- |
 | `maturity` | GitHub releases (10); CRAN in-list `used_in` count (20). |
-| `documentation` | Vignette count (5); total vignette words (50,000); CRAN `VignetteBuilder` present; GitHub wiki enabled. |
+| `documentation` | Vignette count (5); total vignette words (50,000); CRAN `VignetteBuilder` present; GitHub or GitLab wiki enabled. |
 | `use` | Downloads per 30 days (100,000); journal mentions (20). |
 | `community` | Owner followers (10,000); watchers (1,000); subscriptions (1,000); forks (500); collaborators (50); open issues (100); pull requests (100); GitHub Discussions enabled. |
 

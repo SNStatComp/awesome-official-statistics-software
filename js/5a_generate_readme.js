@@ -1,6 +1,7 @@
 "use strict"
 import fs from "fs"
 import Mustache from "mustache"
+import { is_r_package } from "./utils.js"
 
 const template = fs.readFileSync('./../data/template.md', 'utf8')
 const data = JSON.parse(fs.readFileSync('./../metadata/metadata.json', 'utf8'))
@@ -40,7 +41,17 @@ json_mustache.news = news
 let readme = Mustache.render(template, json_mustache)
 fs.writeFileSync("./../README.md", readme)
 
-// With experimental metrics:
-const template2 = fs.readFileSync('./../data/template2.md', 'utf8')
-let readme2 = Mustache.render(template2, json_mustache)
-fs.writeFileSync("./../README2.md", readme2)
+// With experimental metrics, only for R for now:
+//const template2 = fs.readFileSync('./../data/template2.md', 'utf8')
+//let readme2 = Mustache.render(template2, json_mustache)
+//fs.writeFileSync("./../README2.md", readme2)
+
+const template3 = fs.readFileSync('./../data/templateR.md', 'utf8')
+const rGroups = json_mustache.groups
+	.map((group) => ({
+		...group,
+		items: group.items.filter(is_r_package)
+	}))
+	.filter((group) => group.items.length > 0)
+const readmeR = Mustache.render(template3, { ...json_mustache, groups: rGroups })
+fs.writeFileSync("./../README_R.md", readmeR)

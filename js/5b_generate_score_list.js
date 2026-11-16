@@ -2,7 +2,7 @@
 import fs from "fs"
 import path from "path"
 import { fileURLToPath } from "url"
-import { parseArguments, selectItems, showHelp } from "./utils.js"
+import { is_r_package, parseArguments, selectItems, showHelp } from "./utils.js"
 
 const scriptDirectory = path.dirname(fileURLToPath(import.meta.url))
 const metadataDirectory = path.resolve(scriptDirectory, "../metadata")
@@ -19,7 +19,7 @@ try {
 		if (!Array.isArray(items)) throw new Error(`${metadataFile} must contain a JSON array`)
 
 		const rows = [...new Map(selectItems(items, options)
-			.filter((item) => item?.name)
+			.filter((item) => item?.name && is_r_package(item))
 			.map((item) => [item.name, item])).values()]
 			.map((item) => ({ item, metrics: read_metrics(item.name) }))
 			.sort((left, right) => {
@@ -33,13 +33,13 @@ try {
 			})
 
 		const lines = [
-			"## AWESOME METRICS (AI-designed, very experimental)",
+			"## AWESOME METRICS (experimental, only R)",
             "",
             "- Methodology: [metrics calculation](metrics_calculation.md)",
 			"",
 			`Generated: ${new Date().toISOString()}`,
 			"",
-			"Scores are sorted from highest to lowest. Select a score to open that package's full `metrics.json`.",
+			"R packages and R package collections are sorted from highest to lowest. Select a score to open that package's full `metrics.json`.",
 			"",
 			`| Rank | Package | Score / 5 | Maturity | Documentation | Use | Community |`,
 			`| ---: | --- | ---: | ---: | ---: | ---: | ---: |`

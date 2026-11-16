@@ -34,6 +34,10 @@ function process_data(data) {
         const githubLanguages = read_json_if_exists(path.join(metadatadir, item.name, "pkg_gh_languages.json"))
         if (githubMetadata !== undefined) mergedItem.pkg_gh = githubMetadata
         if (githubLanguages !== undefined) mergedItem.pkg_gh_languages = githubLanguages
+        const gitlabMetadata = read_json_if_exists(path.join(metadatadir, item.name, "pkg_gl.json"))
+        const gitlabLanguages = read_json_if_exists(path.join(metadatadir, item.name, "pkg_gl_languages.json"))
+        if (gitlabMetadata !== undefined) mergedItem.pkg_gl = gitlabMetadata
+        if (gitlabLanguages !== undefined) mergedItem.pkg_gl_languages = gitlabLanguages
         const license = typeof mergedItem.license === "string" ? mergedItem.license : ""
         return {
             ...mergedItem,

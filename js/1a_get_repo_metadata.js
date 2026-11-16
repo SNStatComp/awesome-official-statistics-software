@@ -10,6 +10,7 @@ const scriptDirectory = path.dirname(fileURLToPath(import.meta.url))
 const dataFile = path.resolve(scriptDirectory, "../data/software.yaml")
 const metadatadir = path.resolve(scriptDirectory, "../metadata")
 const GH_API_TOKEN = process.env.GH_API_TOKEN
+const GITLAB_API_TOKEN = process.env.GITLAB_API_TOKEN
 const pendingOperations = []
 let githubRateLimitReached = false
 const octokit = new Octokit({
@@ -129,9 +130,7 @@ async function process_data(data, options) {
 					// pkg languages
 					fs.writeFileSync(`${item.metadatadir}/pkg_gh_languages.json`, JSON.stringify(res_lang), 'utf8')
 					// calculate languages above threshold:
-					let arr = res_lang?.data || []
-					let total = 0; for (const l in arr) {total += arr[l]}
-					let languages=[]; for (const l in arr) if (languageFilter.indexOf(l) == -1 && arr[l] > total*0.2) languages.push(l)
+					const languages = select_languages(res_lang?.data || {})
 
 					// write selected info to pkg.json
 					write_pkg_json(item.metadatadir, {
@@ -145,16 +144,29 @@ async function process_data(data, options) {
                 break
 			}
 			case 'gitlab.com': {
-				let project = parts[3]
-				for (let i=4; i<parts.length; i++) project += "/"+parts[i]
-
-				// pkg metadata, only from config:
-				write_pkg_json(item.metadatadir, {
-					name: item.name,
-					platform: 'GitLab',
-					license: item?.license || 'unknown',
-					languages: item?.languages || 'unknown'
-				}, generatedAt)
+				pendingOperations.push((async () => {
+					try {
+						const projectParts = new URL(item.url).pathname.split('/').filter(Boolean).map(decodeURIComponent)
+						if (projectParts.length < 2) throw new Error('Expected a namespace and project in the GitLab URL')
+						projectParts[projectParts.length - 1] = projectParts[projectParts.length - 1].replace(/\.git$/i, '')
+						if (!projectParts[projectParts.length - 1]) throw new Error('Expected a project in the GitLab URL')
+						const project = projectParts.join('/')
+						const apiUrl = `https://gitlab.com/api/v4/projects/${encodeURIComponent(project)}`
+						const metadata = await gitlab_request(`${apiUrl}?license=true`)
+						const languages = await gitlab_request(`${apiUrl}/languages`)
+						fs.writeFileSync(path.join(item.metadatadir, 'pkg_gl.json'), JSON.stringify(metadata), 'utf8')
+						fs.writeFileSync(path.join(item.metadatadir, 'pkg_gl_languages.json'), JSON.stringify(languages), 'utf8')
+						write_pkg_json(item.metadatadir, {
+							name: item.name,
+							platform: 'GitLab',
+							license: item?.license || metadata.license?.spdx_identifier || metadata.license?.key || 'unknown',
+							languages: item?.languages || select_languages(languages)
+						}, generatedAt)
+					} catch (error) {
+						console.error(`Error reading GitLab metadata for ${item.name}: ${error.message}`)
+						process.exitCode = 1
+					}
+				})())
 
                 break
 			}
@@ -204,6 +216,10 @@ async function process_data(data, options) {
 
 function is_metadata_complete(item, directory) {
 	if (!is_metadata_fresh(path.join(directory, 'pkg.json'))) return false
+	if (itemType(item.url) === 'GL') {
+		return ['pkg_gl.json', 'pkg_gl_languages.json']
+			.every((filename) => fs.existsSync(path.join(directory, filename)))
+	}
 	if (itemType(item.url) !== 'GH') return true
 
 	const pathParts = new URL(item.url).pathname.split('/').filter(Boolean)
@@ -211,6 +227,28 @@ function is_metadata_complete(item, directory) {
 
 	return ['pkg_gh.json', 'pkg_gh_languages.json']
 		.every((filename) => fs.existsSync(path.join(directory, filename)))
+}
+
+function select_languages(languages) {
+	const total = Object.values(languages).reduce((sum, value) => sum + value, 0)
+	return Object.keys(languages).filter((language) =>
+		!languageFilter.includes(language) && languages[language] > total * 0.2)
+}
+
+async function gitlab_request(url) {
+	const response = await fetch(url, {
+		headers: GITLAB_API_TOKEN ? { 'PRIVATE-TOKEN': GITLAB_API_TOKEN } : {}
+	})
+	if (!response.ok) throw new Error(`GitLab API request failed (HTTP ${response.status} ${response.statusText}) for ${url}`)
+	const data = await response.json()
+	if (!data || typeof data !== 'object' || Array.isArray(data)) {
+		throw new Error(`Invalid GitLab API response for ${url}`)
+	}
+	if (url.endsWith('/languages') && Object.values(data).some((value) =>
+		typeof value !== 'number' || !Number.isFinite(value) || value < 0)) {
+		throw new Error(`Invalid GitLab language data for ${url}`)
+	}
+	return data
 }
 
 function write_pkg_json(directory, metadata, generatedAt) {

@@ -6,6 +6,10 @@ const gsbpmPath = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..
 const supportedTypes = new Set(["GH", "CRAN", "PYPI", "GL"])
 let gsbpm
 
+export function is_r_package(item) {
+	return item?.type === "R package" || item?.type === "R packages"
+}
+
 export function find_gsbpm_name(code) {
 	if (!gsbpm) gsbpm = JSON.parse(fs.readFileSync(gsbpmPath, "utf8"))
 	const parts = code.split(".")

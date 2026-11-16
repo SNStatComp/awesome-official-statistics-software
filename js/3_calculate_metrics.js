@@ -19,8 +19,15 @@ try {
 		}
 
 		const itemDirectory = path.join(metadataDirectory, item.name)
+		const isGitlab = item.platform === "GitLab"
 		const githubResponse = read_json_if_exists(path.join(itemDirectory, "pkg_gh.json"))
-		const githubData = githubResponse?.data ?? item.pkg_gh?.data ?? item.pkg_gh ?? githubResponse ?? {}
+		const githubData = isGitlab ? {} : githubResponse?.data ?? item.pkg_gh?.data ?? item.pkg_gh ?? githubResponse ?? {}
+		const gitlabData = read_json_if_exists(path.join(itemDirectory, "pkg_gl.json")) ?? item.pkg_gl ?? {}
+		const gitlabWiki = typeof gitlabData.wiki_enabled === "boolean"
+			? gitlabData.wiki_enabled
+			: ["disabled", "private", "enabled"].includes(gitlabData.wiki_access_level)
+				? gitlabData.wiki_access_level !== "disabled"
+				: null
 		const downloads = read_json_if_exists(path.join(itemDirectory, "downloads.json"))
 		const cranMetadata = read_json_if_exists(path.join(itemDirectory, "pkg_cran.json"))
 		const mentions = read_json_if_exists(path.join(itemDirectory, "mentions.json"))
@@ -28,11 +35,11 @@ try {
 		const vignettes = Array.isArray(cranMetadata?.Vignettes) ? cranMetadata.Vignettes : null
 		const metrics = {
 			watchers_count: githubData.watchers_count ?? null,
-			has_wiki: githubData.has_wiki ?? null,
+			has_wiki: isGitlab ? gitlabWiki : githubData.has_wiki ?? null,
 			has_discussions: githubData.has_discussions ?? null,
-			forks_count: githubData.forks_count ?? null,
-			forks: githubData.forks ?? null,
-			open_issues_count: githubData.open_issues_count ?? null,
+			forks_count: isGitlab ? gitlabData.forks_count ?? null : githubData.forks_count ?? null,
+			forks: isGitlab ? gitlabData.forks_count ?? null : githubData.forks ?? null,
+			open_issues_count: isGitlab ? gitlabData.open_issues_count ?? null : githubData.open_issues_count ?? null,
 			downloadsPer30Days: downloads?.downloadsPer30Days ?? null,
 			downloadsUnavailableReason: downloads?.unavailableReason ?? null,
 			VignetteBuilder: cranMetadata?.VignetteBuilder ?? null,
@@ -52,7 +59,7 @@ try {
 			watchers: githubData.watchers_count ?? null,
 			subscriptions: githubData.subscribers_count ?? null,
 			collaborators: githubData.collaborators_count ?? null,
-			issues: githubData.open_issues_count ?? null,
+			issues: isGitlab ? gitlabData.open_issues_count ?? null : githubData.open_issues_count ?? null,
 			releases: githubData.releases_count ?? null,
 			pull_requests: githubData.pull_requests_count ?? null
 		}
