@@ -1354,6 +1354,21 @@
   - endpoint_queries
   - caching
 - type: R package
+  name: TEMPO
+  url: https://cran.r-project.org/package=TEMPO
+  description: TEMPO: Tools for Romania's National Institute of Statistics Tempo Data 
+  gsbpm_name: Access to official statistics
+  gsbpm_number: '7.4'
+  standard: JSON
+  access_to:
+  - Romania
+  features:
+  - to_df
+  - endpoint_hiding
+  - catalogue_retrieval
+  - endpoint_queries
+  - caching
+- type: R package
   name: tuiksdmx
   url: https://cran.r-project.org/package=tuiksdmx
   description: Authenticated, metadata-driven R client for the Turkish Statistical Institute
