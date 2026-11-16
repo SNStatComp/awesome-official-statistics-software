@@ -4,3 +4,4 @@
 .Ruserdata
 README.html
 node_modules
+.cache/mentions/

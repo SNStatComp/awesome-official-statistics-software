@@ -9,6 +9,7 @@ const scriptDirectory = path.dirname(fileURLToPath(import.meta.url))
 const metadataDirectory = path.resolve(scriptDirectory, "../metadata")
 const metadataFile = path.join(metadataDirectory, "metadata.json")
 const journalConfigFile = path.resolve(scriptDirectory, "../data/statistics_journals.json")
+const journalCacheDirectory = path.resolve(scriptDirectory, "../.cache/mentions")
 const crossrefWorksUrl = "https://api.crossref.org/works"
 
 try {
@@ -49,7 +50,7 @@ try {
 			}
 
 			try {
-				const works = await fetch_journal_works(search.issn)
+				const works = await get_journal_works(search.issn, options.force)
 				coverage.searched.push({ id: journal.id, title: journal.title, issn: search.issn, articleCount: works.length })
 				console.log(`${journal.title}: retrieved ${works.length} Crossref records`)
 				for (const work of works) {
@@ -78,7 +79,6 @@ try {
 			} catch (error) {
 				coverage.unavailable.push({ id: journal.id, title: journal.title, reason: error.message })
 			}
-			await wait(1000)
 		}
 
 		for (const [index, item] of selectedItems.entries()) {
@@ -156,6 +156,29 @@ try {
 } catch (error) {
 	console.error(error)
 	process.exitCode = 1
+}
+
+async function get_journal_works(issn, force) {
+	const cacheFile = path.join(journalCacheDirectory, `${encodeURIComponent(issn)}.json`)
+	if (!force && is_metadata_fresh(cacheFile)) {
+		const cached = read_json_if_exists(cacheFile)
+		if (cached?.issn === issn && Array.isArray(cached.works) &&
+			cached.works.every((work) => work && typeof work === "object" && !Array.isArray(work))) {
+			console.log(`${issn}: journal corpus from cache`)
+			return cached.works
+		}
+		console.warn(`Invalid journal corpus cache for ${issn}; refreshing`)
+	}
+
+	let works
+	try {
+		works = await fetch_journal_works(issn)
+	} finally {
+		await wait(1000)
+	}
+	fs.mkdirSync(journalCacheDirectory, { recursive: true })
+	fs.writeFileSync(cacheFile, JSON.stringify({ issn, generatedAt: new Date().toISOString(), works }), "utf8")
+	return works
 }
 
 async function fetch_journal_works(issn) {

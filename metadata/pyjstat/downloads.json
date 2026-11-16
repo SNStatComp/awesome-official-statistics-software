@@ -1,9 +1,7 @@
 {
   "platform": "PyPI",
   "metric": "downloadsPer30Days",
-  "method": "PyPI Stats last_month; excludes known mirrors",
-  "downloadsPer30Days": 47671,
-  "period": "last_month",
-  "source": "https://pypistats.org/api/packages/pyjstat/recent",
-  "generatedAt": "2026-11-06T23:42:50.719Z"
+  "downloadsPer30Days": null,
+  "unavailableReason": "PyPI Stats returned HTTP 429",
+  "generatedAt": "2026-11-16T15:07:29.537Z"
 }

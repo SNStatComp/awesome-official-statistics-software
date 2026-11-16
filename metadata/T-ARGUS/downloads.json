@@ -1,10 +1,10 @@
 {
   "platform": "GitHub",
   "metric": "downloadsPer30Days",
-  "downloadsPer30Days": 100,
+  "downloadsPer30Days": 66,
   "method": "release asset download-count snapshot delta",
-  "cumulativeReleaseAssetDownloads": 5657,
-  "rateBasisDays": 25,
+  "cumulativeReleaseAssetDownloads": 5679,
+  "rateBasisDays": 10,
   "snapshots": [
     {
       "observedAt": "2026-10-01T14:17:18.666Z",
@@ -21,8 +21,12 @@
     {
       "observedAt": "2026-11-06T23:42:29.351Z",
       "cumulativeDownloads": 5657
+    },
+    {
+      "observedAt": "2026-11-16T15:07:10.938Z",
+      "cumulativeDownloads": 5679
     }
   ],
   "source": "https://api.github.com/repos/sdcTools/tauargus/releases",
-  "generatedAt": "2026-11-06T23:42:29.351Z"
+  "generatedAt": "2026-11-16T15:07:10.938Z"
 }

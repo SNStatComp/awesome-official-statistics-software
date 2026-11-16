@@ -5,7 +5,7 @@
   "forks_count": null,
   "forks": null,
   "open_issues_count": null,
-  "downloadsPer30Days": 10560,
+  "downloadsPer30Days": 9859,
   "downloadsUnavailableReason": null,
   "VignetteBuilder": null,
   "vignetteCount": 3,
@@ -29,10 +29,10 @@
   "vignetteWordCount": 4211,
   "used_in": 7,
   "used_in_scope": "CRAN packages in metadata list",
-  "mentions": 588,
+  "mentions": 589,
   "mentionsByJournal": {
     "statistical-journal-of-the-iaos": {
-      "count": 53
+      "count": 54
     },
     "journal-of-official-statistics": {
       "count": 30
@@ -690,6 +690,19 @@
       ],
       "publicationYear": 2026,
       "doi": "10.1177/18747655261501723"
+    },
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "Optimized sampling strategy for estimating population mean under uncertainty using auxiliary attribute",
+      "authors": [
+        "Priya",
+        "Anoop Kumar",
+        "Chandraketu Singh",
+        "Aditi"
+      ],
+      "publicationYear": 2026,
+      "doi": "10.1177/18747655261505228"
     },
     {
       "journalId": "journal-of-official-statistics",
@@ -6863,7 +6876,7 @@
   "awesome_metric_breakdown": {
     "maturity": 3.4150537304542943,
     "documentation": 3.862602405805955,
-    "use": 4.511850773848377,
+    "use": 4.4969367229620785,
     "community": null
   },
   "awesome_metric_method": "See metrics.md in this repo; metrics calculation is still experimental and subject to change."

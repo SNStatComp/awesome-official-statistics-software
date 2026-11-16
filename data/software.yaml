@@ -833,23 +833,6 @@
   - endpoint_queries
   - registry_access
 - type: R package
-  name: tuiksdmx
-  url: https://cran.r-project.org/package=tuiksdmx
-  description: Authenticated, metadata-driven R client for the Turkish Statistical Institute
-    (TURKSTAT) SDMX REST API, supporting dataflow discovery, DSD and codelist exploration,
-    structure-aware query validation, and statistical data retrieval.
-  gsbpm_name: Access to official statistics
-  gsbpm_number: '7.4'
-  standard: SDMX
-  access_to:
-  - Turkey
-  features:
-  - to_df
-  - endpoint_hiding
-  - catalogue_retrieval
-  - endpoint_queries
-  - search
-- type: R package
   name: readsdmx
   url: https://cran.r-project.org/package=readsdmx
   description: Read SDMX into dataframes from local SDMX-ML file or web-service. Parts in C++. By
@@ -1370,3 +1353,20 @@
   - catalogue_retrieval
   - endpoint_queries
   - caching
+- type: R package
+  name: tuiksdmx
+  url: https://cran.r-project.org/package=tuiksdmx
+  description: Authenticated, metadata-driven R client for the Turkish Statistical Institute
+    (TURKSTAT) SDMX REST API, supporting dataflow discovery, DSD and codelist exploration,
+    structure-aware query validation, and statistical data retrieval.
+  gsbpm_name: Access to official statistics
+  gsbpm_number: '7.4'
+  standard: SDMX
+  access_to:
+  - Turkey
+  features:
+  - to_df
+  - endpoint_hiding
+  - catalogue_retrieval
+  - endpoint_queries
+  - search

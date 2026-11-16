@@ -1,11 +1,11 @@
 {
-  "watchers_count": 147,
-  "has_wiki": true,
-  "has_discussions": false,
-  "forks_count": 22,
-  "forks": 22,
-  "open_issues_count": 11,
-  "downloadsPer30Days": 618,
+  "watchers_count": null,
+  "has_wiki": null,
+  "has_discussions": null,
+  "forks_count": null,
+  "forks": null,
+  "open_issues_count": null,
+  "downloadsPer30Days": 703,
   "downloadsUnavailableReason": null,
   "VignetteBuilder": null,
   "vignetteCount": 0,
@@ -211,18 +211,18 @@
     }
   ],
   "followers": null,
-  "watchers": 147,
-  "subscriptions": 13,
+  "watchers": null,
+  "subscriptions": null,
   "collaborators": null,
-  "issues": 11,
+  "issues": null,
   "releases": null,
   "pull_requests": null,
-  "awesome_metric": 1.9,
+  "awesome_metric": 1.3,
   "awesome_metric_breakdown": {
     "maturity": 0,
-    "documentation": 1.6666666666666665,
-    "use": 3.769263767416363,
-    "community": 2.148104528202942
+    "documentation": 0,
+    "use": 3.797204748208254,
+    "community": null
   },
   "awesome_metric_method": "See metrics.md in this repo; metrics calculation is still experimental and subject to change."
 }

@@ -7,6 +7,8 @@ The script combines the package's saved GitHub, GitLab, CRAN, download, and ment
 
 The repository metadata collector requests GitLab project and language information from the public GitLab API. Set `GITLAB_API_TOKEN` to a GitLab personal access token when authenticated access is needed. It saves the responses as `pkg_gl.json` and `pkg_gl_languages.json`; configured licenses and languages take precedence over detected values. Use `--force` to refresh cached metadata.
 
+The mentions collector caches successful Crossref journal corpora in `.cache/mentions/` for seven days, independently of each package's `mentions.json`. GitHub Actions restores and saves this cache between runs; locally it is retained across runs but not committed. A new package can therefore be matched without downloading fresh journal data. `--force` refreshes both package mentions and journal corpora.
+
 ## Fields
 
 | Field | Source and meaning |

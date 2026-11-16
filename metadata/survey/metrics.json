@@ -5,7 +5,7 @@
   "forks_count": null,
   "forks": null,
   "open_issues_count": null,
-  "downloadsPer30Days": 96217,
+  "downloadsPer30Days": 95725,
   "downloadsUnavailableReason": null,
   "VignetteBuilder": "R.rsp, knitr",
   "vignetteCount": 8,
@@ -54,10 +54,10 @@
   "vignetteWordCount": 10596,
   "used_in": 12,
   "used_in_scope": "CRAN packages in metadata list",
-  "mentions": 1001,
+  "mentions": 1004,
   "mentionsByJournal": {
     "statistical-journal-of-the-iaos": {
-      "count": 256
+      "count": 258
     },
     "journal-of-official-statistics": {
       "count": 78
@@ -66,7 +66,7 @@
       "count": 96
     },
     "journal-of-survey-statistics-and-methodology": {
-      "count": 368
+      "count": 369
     },
     "international-statistical-review": {
       "count": 175
@@ -3134,6 +3134,30 @@
       ],
       "publicationYear": 2026,
       "doi": "10.1177/18747655261503715"
+    },
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "Optimized sampling strategy for estimating population mean under uncertainty using auxiliary attribute",
+      "authors": [
+        "Priya",
+        "Anoop Kumar",
+        "Chandraketu Singh",
+        "Aditi"
+      ],
+      "publicationYear": 2026,
+      "doi": "10.1177/18747655261505228"
+    },
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "A Bayesian network analysis of survey climate and response intention in official statistics",
+      "authors": [
+        "Yukiko Kurihara",
+        "Yukishige Sakata"
+      ],
+      "publicationYear": 2026,
+      "doi": "10.1177/18747655261505645"
     },
     {
       "journalId": "journal-of-official-statistics",
@@ -9650,6 +9674,20 @@
     {
       "journalId": "journal-of-survey-statistics-and-methodology",
       "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "A Typology of Live Video Interviewing Paradata: Understanding, Collecting, and Leveraging Paradata to Improve Survey Data Quality",
+      "authors": [
+        "Sebastian Kocar",
+        "Andrew L Hupp",
+        "Gabriele Durrant",
+        "Tim Hanson",
+        "Matt Brown"
+      ],
+      "publicationYear": 2026,
+      "doi": "10.1093/jssam/smag037"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
       "articleTitle": "Spatially Balanced Sampling in Real Time",
       "authors": [
         "Wilmer Prentius",
@@ -11946,7 +11984,7 @@
   "awesome_metric_breakdown": {
     "maturity": 4.212400154586326,
     "documentation": 4.761013403041046,
-    "use": 4.991625998491055,
+    "use": 4.99051279272549,
     "community": null
   },
   "awesome_metric_method": "See metrics.md in this repo; metrics calculation is still experimental and subject to change."

@@ -16,7 +16,7 @@
         "id": "journal-of-official-statistics",
         "title": "Journal of Official Statistics",
         "issn": "0282-423X",
-        "articleCount": 180
+        "articleCount": 181
       },
       {
         "id": "statistics-in-transition-new-series",
@@ -28,7 +28,7 @@
         "id": "journal-of-survey-statistics-and-methodology",
         "title": "Journal of Survey Statistics and Methodology",
         "issn": "2325-0984",
-        "articleCount": 626
+        "articleCount": 627
       },
       {
         "id": "international-statistical-review",
@@ -83,6 +83,6 @@
       "reason": "Google Scholar has no official public search API; automated scraping is unreliable and is not included in the automated mention count."
     }
   ],
-  "searchedAt": "2026-11-13T10:16:57.148Z",
-  "generatedAt": "2026-11-13T10:16:57.148Z"
+  "searchedAt": "2026-11-16T15:08:43.678Z",
+  "generatedAt": "2026-11-16T15:08:43.678Z"
 }

@@ -1,12 +1,12 @@
 {
-  "watchers_count": 900,
+  "watchers_count": 907,
   "has_wiki": false,
   "has_discussions": true,
   "forks_count": 111,
   "forks": 111,
-  "open_issues_count": 72,
+  "open_issues_count": 73,
   "downloadsPer30Days": null,
-  "downloadsUnavailableReason": "No download source is configured for this platform",
+  "downloadsUnavailableReason": "GitHub returned HTTP 422",
   "VignetteBuilder": null,
   "vignetteCount": null,
   "vignettes": null,
@@ -17,10 +17,10 @@
   "mentionsByJournal": {},
   "mentionsFound": [],
   "followers": null,
-  "watchers": 900,
+  "watchers": 907,
   "subscriptions": 12,
   "collaborators": null,
-  "issues": 72,
+  "issues": 73,
   "releases": null,
   "pull_requests": null,
   "awesome_metric": 1.3,
@@ -28,7 +28,7 @@
     "maturity": null,
     "documentation": 0,
     "use": 0,
-    "community": 4.044694505145241
+    "community": 4.048762755546829
   },
   "awesome_metric_method": "See metrics.md in this repo; metrics calculation is still experimental and subject to change."
 }

@@ -4,7 +4,7 @@
   "downloadsPer30Days": 0,
   "method": "release asset download-count snapshot delta",
   "cumulativeReleaseAssetDownloads": 0,
-  "rateBasisDays": 25,
+  "rateBasisDays": 10,
   "snapshots": [
     {
       "observedAt": "2026-10-01T14:17:32.714Z",
@@ -21,8 +21,12 @@
     {
       "observedAt": "2026-11-06T23:42:43.741Z",
       "cumulativeDownloads": 0
+    },
+    {
+      "observedAt": "2026-11-16T15:07:23.448Z",
+      "cumulativeDownloads": 0
     }
   ],
   "source": "https://api.github.com/repos/eurostat/Nuts2json/releases",
-  "generatedAt": "2026-11-06T23:42:43.741Z"
+  "generatedAt": "2026-11-16T15:07:23.448Z"
 }

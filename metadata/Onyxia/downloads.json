@@ -1,7 +1,7 @@
 {
-  "platform": "other",
+  "platform": "GitHub",
   "metric": "downloadsPer30Days",
   "downloadsPer30Days": null,
-  "unavailableReason": "No download source is configured for this platform",
-  "generatedAt": "2026-11-07T00:00:42.735Z"
+  "unavailableReason": "GitHub returned HTTP 422",
+  "generatedAt": "2026-11-16T15:06:26.389Z"
 }

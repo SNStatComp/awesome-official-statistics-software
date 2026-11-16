@@ -1,0 +1,65 @@
+{
+  "watchers_count": null,
+  "has_wiki": null,
+  "has_discussions": null,
+  "forks_count": null,
+  "forks": null,
+  "open_issues_count": null,
+  "downloadsPer30Days": 90,
+  "downloadsUnavailableReason": null,
+  "VignetteBuilder": "knitr",
+  "vignetteCount": 6,
+  "vignettes": [
+    {
+      "title": "Authentication and secure use",
+      "url": "https://cran.r-project.org/web/packages/tuiksdmx/vignettes/authentication.html",
+      "wordCount": 723
+    },
+    {
+      "title": "Filtering, SDMX keys and performance",
+      "url": "https://cran.r-project.org/web/packages/tuiksdmx/vignettes/filtering-and-performance.html",
+      "wordCount": 674
+    },
+    {
+      "title": "Getting started with tuiksdmx",
+      "url": "https://cran.r-project.org/web/packages/tuiksdmx/vignettes/getting-started.html",
+      "wordCount": 1381
+    },
+    {
+      "title": "Labels and decoding SDMX data",
+      "url": "https://cran.r-project.org/web/packages/tuiksdmx/vignettes/labels-and-decoding.html",
+      "wordCount": 595
+    },
+    {
+      "title": "Understanding Dataflows, DSDs and metadata",
+      "url": "https://cran.r-project.org/web/packages/tuiksdmx/vignettes/metadata-and-dsd.html",
+      "wordCount": 565
+    },
+    {
+      "title": "Defined codes versus observed availability",
+      "url": "https://cran.r-project.org/web/packages/tuiksdmx/vignettes/observed-availability.html",
+      "wordCount": 493
+    }
+  ],
+  "vignetteWordCount": 4431,
+  "used_in": 0,
+  "used_in_scope": "CRAN packages in metadata list",
+  "mentions": 0,
+  "mentionsByJournal": {},
+  "mentionsFound": [],
+  "followers": null,
+  "watchers": null,
+  "subscriptions": null,
+  "collaborators": null,
+  "issues": null,
+  "releases": null,
+  "pull_requests": null,
+  "awesome_metric": 1.9,
+  "awesome_metric_breakdown": {
+    "maturity": 0,
+    "documentation": 4.626734868782256,
+    "use": 0.9795198453646732,
+    "community": null
+  },
+  "awesome_metric_method": "See metrics.md in this repo; metrics calculation is still experimental and subject to change."
+}

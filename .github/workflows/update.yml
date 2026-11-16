@@ -61,6 +61,17 @@ jobs:
       - name: Install dependencies
         run: npm install
 
+      - name: Restore Crossref journal cache
+        id: crossref-cache
+        uses: actions/cache/restore@v4
+        with:
+          path: .cache/mentions
+          key: crossref-works-v1-${{ github.run_id }}-${{ github.run_attempt }}
+          restore-keys: crossref-works-v1-
+
+      - name: Record restored journal cache
+        id: crossref-before
+        run: echo "hash=${{ hashFiles('.cache/mentions/*.json') }}" >> "$GITHUB_OUTPUT"
 
       - name: update
         run: |
@@ -93,6 +104,13 @@ jobs:
           FORCE_METADATA: ${{ github.event.inputs.force }}
           MD_ONLY: ${{ github.event.inputs.md }}
           MD_GH: ${{ github.event.inputs.mdGH }}
+
+      - name: Save updated Crossref journal cache
+        if: ${{ hashFiles('.cache/mentions/*.json') != '' && steps.crossref-before.outputs.hash != hashFiles('.cache/mentions/*.json') }}
+        uses: actions/cache/save@v4
+        with:
+          path: .cache/mentions
+          key: crossref-works-v1-${{ github.run_id }}-${{ github.run_attempt }}
  
         
 

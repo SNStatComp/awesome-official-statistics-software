@@ -1,9 +1,9 @@
 {
   "platform": "CRAN",
   "metric": "downloadsPer30Days",
-  "downloadsPer30Days": 396,
-  "periodStart": "2026-10-07",
-  "periodEnd": "2026-11-05",
+  "downloadsPer30Days": 527,
+  "periodStart": "2026-10-16",
+  "periodEnd": "2026-11-14",
   "source": "https://cranlogs.r-pkg.org/downloads/total/last-month/cdlTools",
-  "generatedAt": "2026-11-06T23:43:01.721Z"
+  "generatedAt": "2026-11-16T15:07:39.420Z"
 }

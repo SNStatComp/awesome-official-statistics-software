@@ -1,16 +1,20 @@
 {
   "platform": "GitHub",
   "metric": "downloadsPer30Days",
-  "downloadsPer30Days": null,
-  "method": "release asset download-count snapshot",
-  "cumulativeReleaseAssetDownloads": 7009183,
-  "rateBasisDays": null,
+  "downloadsPer30Days": 26210,
+  "method": "release asset download-count snapshot delta",
+  "cumulativeReleaseAssetDownloads": 7017046,
+  "rateBasisDays": 9,
   "snapshots": [
     {
       "observedAt": "2026-11-07T09:07:14.628Z",
       "cumulativeDownloads": 7009183
+    },
+    {
+      "observedAt": "2026-11-16T15:06:35.999Z",
+      "cumulativeDownloads": 7017046
     }
   ],
   "source": "https://api.github.com/repos/statisticsnorway/statbus/releases",
-  "generatedAt": "2026-11-07T09:07:14.631Z"
+  "generatedAt": "2026-11-16T15:06:36.001Z"
 }

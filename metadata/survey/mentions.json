@@ -1,9 +1,9 @@
 {
   "package": "survey",
-  "mentions": 1001,
+  "mentions": 1004,
   "mentionsByJournal": {
     "statistical-journal-of-the-iaos": {
-      "count": 256
+      "count": 258
     },
     "journal-of-official-statistics": {
       "count": 78
@@ -12,7 +12,7 @@
       "count": 96
     },
     "journal-of-survey-statistics-and-methodology": {
-      "count": 368
+      "count": 369
     },
     "international-statistical-review": {
       "count": 175
@@ -3080,6 +3080,30 @@
       ],
       "publicationYear": 2026,
       "doi": "10.1177/18747655261503715"
+    },
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "Optimized sampling strategy for estimating population mean under uncertainty using auxiliary attribute",
+      "authors": [
+        "Priya",
+        "Anoop Kumar",
+        "Chandraketu Singh",
+        "Aditi"
+      ],
+      "publicationYear": 2026,
+      "doi": "10.1177/18747655261505228"
+    },
+    {
+      "journalId": "statistical-journal-of-the-iaos",
+      "journalTitle": "Statistical Journal of the IAOS",
+      "articleTitle": "A Bayesian network analysis of survey climate and response intention in official statistics",
+      "authors": [
+        "Yukiko Kurihara",
+        "Yukishige Sakata"
+      ],
+      "publicationYear": 2026,
+      "doi": "10.1177/18747655261505645"
     },
     {
       "journalId": "journal-of-official-statistics",
@@ -9596,6 +9620,20 @@
     {
       "journalId": "journal-of-survey-statistics-and-methodology",
       "journalTitle": "Journal of Survey Statistics and Methodology",
+      "articleTitle": "A Typology of Live Video Interviewing Paradata: Understanding, Collecting, and Leveraging Paradata to Improve Survey Data Quality",
+      "authors": [
+        "Sebastian Kocar",
+        "Andrew L Hupp",
+        "Gabriele Durrant",
+        "Tim Hanson",
+        "Matt Brown"
+      ],
+      "publicationYear": 2026,
+      "doi": "10.1093/jssam/smag037"
+    },
+    {
+      "journalId": "journal-of-survey-statistics-and-methodology",
+      "journalTitle": "Journal of Survey Statistics and Methodology",
       "articleTitle": "Spatially Balanced Sampling in Real Time",
       "authors": [
         "Wilmer Prentius",
@@ -11888,13 +11926,13 @@
         "id": "statistical-journal-of-the-iaos",
         "title": "Statistical Journal of the IAOS",
         "issn": "1874-7655",
-        "articleCount": 1499
+        "articleCount": 1501
       },
       {
         "id": "journal-of-official-statistics",
         "title": "Journal of Official Statistics",
         "issn": "0282-423X",
-        "articleCount": 179
+        "articleCount": 181
       },
       {
         "id": "statistics-in-transition-new-series",
@@ -11906,13 +11944,13 @@
         "id": "journal-of-survey-statistics-and-methodology",
         "title": "Journal of Survey Statistics and Methodology",
         "issn": "2325-0984",
-        "articleCount": 626
+        "articleCount": 627
       },
       {
         "id": "international-statistical-review",
         "title": "International Statistical Review",
         "issn": "0306-7734",
-        "articleCount": 2941
+        "articleCount": 2943
       },
       {
         "id": "statistical-methods-and-applications",
@@ -11936,7 +11974,7 @@
         "id": "journal-of-computational-and-graphical-statistics",
         "title": "Journal of Computational and Graphical Statistics",
         "issn": "1061-8600",
-        "articleCount": 2538
+        "articleCount": 2540
       }
     ],
     "unavailable": [
@@ -11961,6 +11999,6 @@
       "reason": "Google Scholar has no official public search API; automated scraping is unreliable and is not included in the automated mention count."
     }
   ],
-  "searchedAt": "2026-11-06T23:43:56.091Z",
-  "generatedAt": "2026-11-06T23:43:56.091Z"
+  "searchedAt": "2026-11-16T15:08:43.494Z",
+  "generatedAt": "2026-11-16T15:08:43.494Z"
 }

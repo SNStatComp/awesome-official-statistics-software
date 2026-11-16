@@ -2,8 +2,8 @@
   "platform": "PyPI",
   "metric": "downloadsPer30Days",
   "method": "PyPI Stats last_month; excludes known mirrors",
-  "downloadsPer30Days": 5575,
+  "downloadsPer30Days": 9153,
   "period": "last_month",
   "source": "https://pypistats.org/api/packages/pysdmx/recent",
-  "generatedAt": "2026-11-06T23:41:59.445Z"
+  "generatedAt": "2026-11-16T15:06:41.934Z"
 }
