@@ -6,21 +6,6 @@
 
 We prefer software that is easy to install and use and actively maintained. [Contributions](#contributions) welcome.
 
-#### News
-{{#news}}
-{{{.}}}
-{{/news}}
-- [all news](news.md)
-
-
-#### Visuals
-[![GSBPM use](viz/GSBPM_Small.png)](https://observablehq.com/@olavtenbosch/visualizing-awesomeofficialstatistics-org#GSBPM)
-[![Statistics](viz/barlicenses_small.png)](https://observablehq.com/@olavtenbosch/visualizing-awesomeofficialstatistics-org#licenses)
-[![clickable version](viz/ClickableAwesomeSmall.png)](https://observablehq.com/@olavtenbosch/clickable-awesomeofficialstatistics-org)
-[![word cloud](viz/wordCloudSmall.png)](https://observablehq.com/@olavtenbosch/visualizing-awesomeofficialstatistics-org#wordCloud)
-[![Access to offstats](viz/Access.PNG)](https://observablehq.com/@olavtenbosch/access_to_official_statistics)
-
-
 
 *****
 
