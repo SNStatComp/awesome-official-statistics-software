@@ -1283,18 +1283,6 @@
   access_to:
   - Germany
 - type: R package
-  name: TEMPO
-  url: https://cran.r-project.org/package=TEMPO
-  description: Provides access to the Online database from the Romanian [National Institute of Statistics](https://insse.ro)
-  gsbpm_name: Access to official statistics
-  gsbpm_number: '7.4'
-  standard:
-  access_to:
-  - Romania
-  features:
-  - to_df
-  - endpoint_hiding
-- type: R package
   name: cancensus
   url: https://cran.r-project.org/package=cancensus
   description: Access to Canadian Census Data and Geography

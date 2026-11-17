@@ -2,7 +2,7 @@
 
 - Methodology: [metrics calculation](metrics_calculation.md)
 
-Generated: 2026-11-17T08:31:09.442Z
+Generated: 2026-11-17T08:38:31.779Z
 
 R packages and R package collections are sorted from highest to lowest score. Select a badge to open that package's full `metrics.json`.
 
@@ -75,46 +75,46 @@ R packages and R package collections are sorted from highest to lowest score. Se
 | 65 | [risq](https://cran.r-project.org/package=risq) | [![Metrics](metadata/risq/metrics.svg)](metadata/risq/metrics.json) | 0.0 | 4.3 | 1.3 | 0.1 |
 | 66 | [SSBtools](https://cran.r-project.org/package=SSBtools) | [![Metrics](metadata/SSBtools/metrics.svg)](metadata/SSBtools/metrics.json) | 2.6 | 0.0 | 1.6 | N/A |
 | 67 | [OECD](https://cran.r-project.org/package=OECD) | [![Metrics](metadata/OECD/metrics.svg)](metadata/OECD/metrics.json) | 0.0 | 0.0 | 3.8 | N/A |
-| 68 | [cols4all](https://cran.r-project.org/package=cols4all) | [![Metrics](metadata/cols4all/metrics.svg)](metadata/cols4all/metrics.json) | 1.1 | 0.0 | 2.2 | N/A |
-| 69 | [rjstat](https://cran.r-project.org/package=rjstat) | [![Metrics](metadata/rjstat/metrics.svg)](metadata/rjstat/metrics.json) | 1.8 | 0.0 | 1.5 | N/A |
-| 70 | [convey](https://cran.r-project.org/package=convey) | [![Metrics](metadata/convey/metrics.svg)](metadata/convey/metrics.json) | 0.0 | 0.0 | 2.9 | N/A |
-| 71 | [StatMatch](https://cran.r-project.org/package=StatMatch) | [![Metrics](metadata/StatMatch/metrics.svg)](metadata/StatMatch/metrics.json) | 0.0 | 1.7 | 1.5 | 0.9 |
-| 72 | [danstat](https://cran.r-project.org/package=danstat) | [![Metrics](metadata/danstat/metrics.svg)](metadata/danstat/metrics.json) | 0.0 | 1.7 | 1.0 | N/A |
-| 73 | [nomisr](https://cran.r-project.org/package=nomisr) | [![Metrics](metadata/nomisr/metrics.svg)](metadata/nomisr/metrics.json) | 0.0 | 1.7 | 1.0 | N/A |
-| 74 | [readsdmx](https://cran.r-project.org/package=readsdmx) | [![Metrics](metadata/readsdmx/metrics.svg)](metadata/readsdmx/metrics.json) | 1.1 | 0.0 | 1.4 | N/A |
-| 75 | [surveyplanning](https://cran.r-project.org/package=surveyplanning) | [![Metrics](metadata/surveyplanning/metrics.svg)](metadata/surveyplanning/metrics.json) | 1.1 | 0.0 | 1.4 | N/A |
-| 76 | [tmap](https://cran.r-project.org/package=tmap) | [![Metrics](metadata/tmap/metrics.svg)](metadata/tmap/metrics.json) | 0.0 | 0.0 | 2.8 | N/A |
-| 77 | [validatedb](https://cran.r-project.org/package=validatedb) | [![Metrics](metadata/validatedb/metrics.svg)](metadata/validatedb/metrics.json) | 0.0 | 1.7 | 0.8 | 1.2 |
-| 78 | [vardpoor](https://cran.r-project.org/package=vardpoor) | [![Metrics](metadata/vardpoor/metrics.svg)](metadata/vardpoor/metrics.json) | 1.1 | 0.0 | 1.5 | N/A |
-| 79 | [czso](https://cran.r-project.org/package=czso) | [![Metrics](metadata/czso/metrics.svg)](metadata/czso/metrics.json) | 0.0 | 0.0 | 2.0 | N/A |
-| 80 | [simPop](https://cran.r-project.org/package=simPop) | [![Metrics](metadata/simPop/metrics.svg)](metadata/simPop/metrics.json) | 0.0 | 0.0 | 2.0 | N/A |
-| 81 | [x12](https://cran.r-project.org/package=x12) | [![Metrics](metadata/x12/metrics.svg)](metadata/x12/metrics.json) | 0.0 | 0.0 | 2.0 | N/A |
-| 82 | [deductive](https://cran.r-project.org/package=deductive) | [![Metrics](metadata/deductive/metrics.svg)](metadata/deductive/metrics.json) | 0.0 | 0.0 | 1.9 | N/A |
-| 83 | [R2BEAT](https://cran.r-project.org/package=R2BEAT) | [![Metrics](metadata/R2BEAT/metrics.svg)](metadata/R2BEAT/metrics.json) | 0.0 | 0.0 | 1.9 | N/A |
-| 84 | [blsR](https://cran.r-project.org/package=blsR) | [![Metrics](metadata/blsR/metrics.svg)](metadata/blsR/metrics.json) | 0.0 | 0.0 | 1.4 | N/A |
-| 85 | [CalibrateSSB](https://cran.r-project.org/package=CalibrateSSB) | [![Metrics](metadata/CalibrateSSB/metrics.svg)](metadata/CalibrateSSB/metrics.json) | 0.0 | 0.0 | 1.4 | N/A |
-| 86 | [cdlTools](https://cran.r-project.org/package=cdlTools) | [![Metrics](metadata/cdlTools/metrics.svg)](metadata/cdlTools/metrics.json) | 0.0 | 0.0 | 1.4 | N/A |
-| 87 | [fastLink](https://cran.r-project.org/package=fastLink) | [![Metrics](metadata/fastLink/metrics.svg)](metadata/fastLink/metrics.json) | 0.0 | 0.0 | 1.5 | N/A |
-| 88 | [hbsae](https://cran.r-project.org/package=hbsae) | [![Metrics](metadata/hbsae/metrics.svg)](metadata/hbsae/metrics.json) | 0.0 | 0.0 | 1.4 | N/A |
-| 89 | [icarus](https://cran.r-project.org/package=icarus) | [![Metrics](metadata/icarus/metrics.svg)](metadata/icarus/metrics.json) | 0.0 | 0.0 | 1.5 | N/A |
-| 90 | [inca](https://cran.r-project.org/package=inca) | [![Metrics](metadata/inca/metrics.svg)](metadata/inca/metrics.json) | 0.0 | 0.0 | 1.4 | N/A |
-| 91 | [prnsamplr](https://cran.r-project.org/package=prnsamplr) | [![Metrics](metadata/prnsamplr/metrics.svg)](metadata/prnsamplr/metrics.json) | 0.0 | 0.0 | 1.4 | N/A |
-| 92 | [pxR](https://cran.r-project.org/package=pxR) | [![Metrics](metadata/pxR/metrics.svg)](metadata/pxR/metrics.json) | 0.0 | 0.0 | 1.5 | N/A |
-| 93 | [restatapi](https://cran.r-project.org/package=restatapi) | [![Metrics](metadata/restatapi/metrics.svg)](metadata/restatapi/metrics.json) | 0.0 | 0.0 | 1.5 | N/A |
-| 94 | [rspa](https://cran.r-project.org/package=rspa) | [![Metrics](metadata/rspa/metrics.svg)](metadata/rspa/metrics.json) | 0.0 | 0.0 | 1.4 | N/A |
-| 95 | [SeleMix](https://cran.r-project.org/package=SeleMix) | [![Metrics](metadata/SeleMix/metrics.svg)](metadata/SeleMix/metrics.json) | 0.0 | 0.0 | 1.4 | N/A |
-| 96 | [univOutl](https://cran.r-project.org/package=univOutl) | [![Metrics](metadata/univOutl/metrics.svg)](metadata/univOutl/metrics.json) | 0.0 | 0.0 | 1.4 | N/A |
-| 97 | [CANSIM2R](https://cran.r-project.org/package=CANSIM2R) | [![Metrics](metadata/CANSIM2R/metrics.svg)](metadata/CANSIM2R/metrics.json) | 0.0 | 0.0 | 1.1 | N/A |
-| 98 | [gustave](https://cran.r-project.org/package=gustave) | [![Metrics](metadata/gustave/metrics.svg)](metadata/gustave/metrics.json) | 0.0 | 0.0 | 1.3 | N/A |
-| 99 | [HRTnomaly](https://cran.r-project.org/package=HRTnomaly) | [![Metrics](metadata/HRTnomaly/metrics.svg)](metadata/HRTnomaly/metrics.json) | 0.0 | 0.0 | 1.3 | N/A |
-| 100 | [inegiR](https://cran.r-project.org/package=inegiR) | [![Metrics](metadata/inegiR/metrics.svg)](metadata/inegiR/metrics.json) | 0.0 | 0.0 | 1.1 | N/A |
-| 101 | [jointCalib](https://cran.r-project.org/package=jointCalib) | [![Metrics](metadata/jointCalib/metrics.svg)](metadata/jointCalib/metrics.json) | 0.0 | 0.0 | 1.3 | N/A |
-| 102 | [qbinplots](https://cran.r-project.org/package=qbinplots) | [![Metrics](metadata/qbinplots/metrics.svg)](metadata/qbinplots/metrics.json) | 0.0 | 0.0 | 1.2 | N/A |
-| 103 | [STATcubeR](https://cran.r-project.org/package=STATcubeR) | [![Metrics](metadata/STATcubeR/metrics.svg)](metadata/STATcubeR/metrics.json) | 0.0 | 0.0 | 1.3 | N/A |
-| 104 | [validatetools](https://cran.r-project.org/package=validatetools) | [![Metrics](metadata/validatetools/metrics.svg)](metadata/validatetools/metrics.json) | 0.0 | 0.0 | 1.3 | N/A |
-| 105 | [XBRL](https://cran.r-project.org/package=XBRL) | [![Metrics](metadata/XBRL/metrics.svg)](metadata/XBRL/metrics.json) | 0.0 | 0.0 | 1.1 | N/A |
-| 106 | [cbsodata4](https://github.com/statistiekcbs/cbsodata4) | [![Metrics](metadata/cbsodata4/metrics.svg)](metadata/cbsodata4/metrics.json) | N/A | N/A | 0.0 | N/A |
-| 107 | [ReGenesees](https://github.com/DiegoZardetto/ReGenesees) | [![Metrics](metadata/ReGenesees/metrics.svg)](metadata/ReGenesees/metrics.json) | N/A | N/A | 0.0 | N/A |
-| 108 | [rjdverse](https://github.com/rjdverse) | [![Metrics](metadata/rjdverse/metrics.svg)](metadata/rjdverse/metrics.json) | N/A | N/A | 0.0 | N/A |
-| 109 | [TEMPO](https://cran.r-project.org/package=TEMPO) | [![Metrics](metadata/TEMPO/metrics.svg)](metadata/TEMPO/metrics.json) | N/A | N/A | 0.0 | N/A |
+| 68 | [TEMPO](https://cran.r-project.org/package=TEMPO) | [![Metrics](metadata/TEMPO/metrics.svg)](metadata/TEMPO/metrics.json) | 0.0 | 3.8 | 1.4 | 0.0 |
+| 69 | [cols4all](https://cran.r-project.org/package=cols4all) | [![Metrics](metadata/cols4all/metrics.svg)](metadata/cols4all/metrics.json) | 1.1 | 0.0 | 2.2 | N/A |
+| 70 | [rjstat](https://cran.r-project.org/package=rjstat) | [![Metrics](metadata/rjstat/metrics.svg)](metadata/rjstat/metrics.json) | 1.8 | 0.0 | 1.5 | N/A |
+| 71 | [convey](https://cran.r-project.org/package=convey) | [![Metrics](metadata/convey/metrics.svg)](metadata/convey/metrics.json) | 0.0 | 0.0 | 2.9 | N/A |
+| 72 | [StatMatch](https://cran.r-project.org/package=StatMatch) | [![Metrics](metadata/StatMatch/metrics.svg)](metadata/StatMatch/metrics.json) | 0.0 | 1.7 | 1.5 | 0.9 |
+| 73 | [danstat](https://cran.r-project.org/package=danstat) | [![Metrics](metadata/danstat/metrics.svg)](metadata/danstat/metrics.json) | 0.0 | 1.7 | 1.0 | N/A |
+| 74 | [nomisr](https://cran.r-project.org/package=nomisr) | [![Metrics](metadata/nomisr/metrics.svg)](metadata/nomisr/metrics.json) | 0.0 | 1.7 | 1.0 | N/A |
+| 75 | [readsdmx](https://cran.r-project.org/package=readsdmx) | [![Metrics](metadata/readsdmx/metrics.svg)](metadata/readsdmx/metrics.json) | 1.1 | 0.0 | 1.4 | N/A |
+| 76 | [surveyplanning](https://cran.r-project.org/package=surveyplanning) | [![Metrics](metadata/surveyplanning/metrics.svg)](metadata/surveyplanning/metrics.json) | 1.1 | 0.0 | 1.4 | N/A |
+| 77 | [tmap](https://cran.r-project.org/package=tmap) | [![Metrics](metadata/tmap/metrics.svg)](metadata/tmap/metrics.json) | 0.0 | 0.0 | 2.8 | N/A |
+| 78 | [validatedb](https://cran.r-project.org/package=validatedb) | [![Metrics](metadata/validatedb/metrics.svg)](metadata/validatedb/metrics.json) | 0.0 | 1.7 | 0.8 | 1.2 |
+| 79 | [vardpoor](https://cran.r-project.org/package=vardpoor) | [![Metrics](metadata/vardpoor/metrics.svg)](metadata/vardpoor/metrics.json) | 1.1 | 0.0 | 1.5 | N/A |
+| 80 | [czso](https://cran.r-project.org/package=czso) | [![Metrics](metadata/czso/metrics.svg)](metadata/czso/metrics.json) | 0.0 | 0.0 | 2.0 | N/A |
+| 81 | [simPop](https://cran.r-project.org/package=simPop) | [![Metrics](metadata/simPop/metrics.svg)](metadata/simPop/metrics.json) | 0.0 | 0.0 | 2.0 | N/A |
+| 82 | [x12](https://cran.r-project.org/package=x12) | [![Metrics](metadata/x12/metrics.svg)](metadata/x12/metrics.json) | 0.0 | 0.0 | 2.0 | N/A |
+| 83 | [deductive](https://cran.r-project.org/package=deductive) | [![Metrics](metadata/deductive/metrics.svg)](metadata/deductive/metrics.json) | 0.0 | 0.0 | 1.9 | N/A |
+| 84 | [R2BEAT](https://cran.r-project.org/package=R2BEAT) | [![Metrics](metadata/R2BEAT/metrics.svg)](metadata/R2BEAT/metrics.json) | 0.0 | 0.0 | 1.9 | N/A |
+| 85 | [blsR](https://cran.r-project.org/package=blsR) | [![Metrics](metadata/blsR/metrics.svg)](metadata/blsR/metrics.json) | 0.0 | 0.0 | 1.4 | N/A |
+| 86 | [CalibrateSSB](https://cran.r-project.org/package=CalibrateSSB) | [![Metrics](metadata/CalibrateSSB/metrics.svg)](metadata/CalibrateSSB/metrics.json) | 0.0 | 0.0 | 1.4 | N/A |
+| 87 | [cdlTools](https://cran.r-project.org/package=cdlTools) | [![Metrics](metadata/cdlTools/metrics.svg)](metadata/cdlTools/metrics.json) | 0.0 | 0.0 | 1.4 | N/A |
+| 88 | [fastLink](https://cran.r-project.org/package=fastLink) | [![Metrics](metadata/fastLink/metrics.svg)](metadata/fastLink/metrics.json) | 0.0 | 0.0 | 1.5 | N/A |
+| 89 | [hbsae](https://cran.r-project.org/package=hbsae) | [![Metrics](metadata/hbsae/metrics.svg)](metadata/hbsae/metrics.json) | 0.0 | 0.0 | 1.4 | N/A |
+| 90 | [icarus](https://cran.r-project.org/package=icarus) | [![Metrics](metadata/icarus/metrics.svg)](metadata/icarus/metrics.json) | 0.0 | 0.0 | 1.5 | N/A |
+| 91 | [inca](https://cran.r-project.org/package=inca) | [![Metrics](metadata/inca/metrics.svg)](metadata/inca/metrics.json) | 0.0 | 0.0 | 1.4 | N/A |
+| 92 | [prnsamplr](https://cran.r-project.org/package=prnsamplr) | [![Metrics](metadata/prnsamplr/metrics.svg)](metadata/prnsamplr/metrics.json) | 0.0 | 0.0 | 1.4 | N/A |
+| 93 | [pxR](https://cran.r-project.org/package=pxR) | [![Metrics](metadata/pxR/metrics.svg)](metadata/pxR/metrics.json) | 0.0 | 0.0 | 1.5 | N/A |
+| 94 | [restatapi](https://cran.r-project.org/package=restatapi) | [![Metrics](metadata/restatapi/metrics.svg)](metadata/restatapi/metrics.json) | 0.0 | 0.0 | 1.5 | N/A |
+| 95 | [rspa](https://cran.r-project.org/package=rspa) | [![Metrics](metadata/rspa/metrics.svg)](metadata/rspa/metrics.json) | 0.0 | 0.0 | 1.4 | N/A |
+| 96 | [SeleMix](https://cran.r-project.org/package=SeleMix) | [![Metrics](metadata/SeleMix/metrics.svg)](metadata/SeleMix/metrics.json) | 0.0 | 0.0 | 1.4 | N/A |
+| 97 | [univOutl](https://cran.r-project.org/package=univOutl) | [![Metrics](metadata/univOutl/metrics.svg)](metadata/univOutl/metrics.json) | 0.0 | 0.0 | 1.4 | N/A |
+| 98 | [CANSIM2R](https://cran.r-project.org/package=CANSIM2R) | [![Metrics](metadata/CANSIM2R/metrics.svg)](metadata/CANSIM2R/metrics.json) | 0.0 | 0.0 | 1.1 | N/A |
+| 99 | [gustave](https://cran.r-project.org/package=gustave) | [![Metrics](metadata/gustave/metrics.svg)](metadata/gustave/metrics.json) | 0.0 | 0.0 | 1.3 | N/A |
+| 100 | [HRTnomaly](https://cran.r-project.org/package=HRTnomaly) | [![Metrics](metadata/HRTnomaly/metrics.svg)](metadata/HRTnomaly/metrics.json) | 0.0 | 0.0 | 1.3 | N/A |
+| 101 | [inegiR](https://cran.r-project.org/package=inegiR) | [![Metrics](metadata/inegiR/metrics.svg)](metadata/inegiR/metrics.json) | 0.0 | 0.0 | 1.1 | N/A |
+| 102 | [jointCalib](https://cran.r-project.org/package=jointCalib) | [![Metrics](metadata/jointCalib/metrics.svg)](metadata/jointCalib/metrics.json) | 0.0 | 0.0 | 1.3 | N/A |
+| 103 | [qbinplots](https://cran.r-project.org/package=qbinplots) | [![Metrics](metadata/qbinplots/metrics.svg)](metadata/qbinplots/metrics.json) | 0.0 | 0.0 | 1.2 | N/A |
+| 104 | [STATcubeR](https://cran.r-project.org/package=STATcubeR) | [![Metrics](metadata/STATcubeR/metrics.svg)](metadata/STATcubeR/metrics.json) | 0.0 | 0.0 | 1.3 | N/A |
+| 105 | [validatetools](https://cran.r-project.org/package=validatetools) | [![Metrics](metadata/validatetools/metrics.svg)](metadata/validatetools/metrics.json) | 0.0 | 0.0 | 1.3 | N/A |
+| 106 | [XBRL](https://cran.r-project.org/package=XBRL) | [![Metrics](metadata/XBRL/metrics.svg)](metadata/XBRL/metrics.json) | 0.0 | 0.0 | 1.1 | N/A |
+| 107 | [cbsodata4](https://github.com/statistiekcbs/cbsodata4) | [![Metrics](metadata/cbsodata4/metrics.svg)](metadata/cbsodata4/metrics.json) | N/A | N/A | 0.0 | N/A |
+| 108 | [ReGenesees](https://github.com/DiegoZardetto/ReGenesees) | [![Metrics](metadata/ReGenesees/metrics.svg)](metadata/ReGenesees/metrics.json) | N/A | N/A | 0.0 | N/A |
+| 109 | [rjdverse](https://github.com/rjdverse) | [![Metrics](metadata/rjdverse/metrics.svg)](metadata/rjdverse/metrics.json) | N/A | N/A | 0.0 | N/A |
 | 110 | [tmapverse](https://github.com/r-tmap/tmapverse) | [![Metrics](metadata/tmapverse/metrics.svg)](metadata/tmapverse/metrics.json) | N/A | N/A | 0.0 | N/A |

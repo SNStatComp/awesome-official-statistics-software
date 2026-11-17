@@ -22,7 +22,7 @@
         "id": "statistics-in-transition-new-series",
         "title": "Statistics in Transition new series",
         "issn": "1234-7655",
-        "articleCount": 563
+        "articleCount": 547
       },
       {
         "id": "journal-of-survey-statistics-and-methodology",
@@ -34,13 +34,13 @@
         "id": "international-statistical-review",
         "title": "International Statistical Review",
         "issn": "0306-7734",
-        "articleCount": 2943
+        "articleCount": 2945
       },
       {
         "id": "statistical-methods-and-applications",
         "title": "Statistical Methods & Applications",
         "issn": "2287-7843",
-        "articleCount": 1205
+        "articleCount": 1194
       },
       {
         "id": "the-r-journal",
@@ -58,7 +58,7 @@
         "id": "journal-of-computational-and-graphical-statistics",
         "title": "Journal of Computational and Graphical Statistics",
         "issn": "1061-8600",
-        "articleCount": 2540
+        "articleCount": 2517
       }
     ],
     "unavailable": [
@@ -83,6 +83,6 @@
       "reason": "Google Scholar has no official public search API; automated scraping is unreliable and is not included in the automated mention count."
     }
   ],
-  "searchedAt": "2026-11-16T15:08:44.242Z",
-  "generatedAt": "2026-11-16T15:08:44.242Z"
+  "searchedAt": "2026-11-17T08:38:23.140Z",
+  "generatedAt": "2026-11-17T08:38:23.140Z"
 }
