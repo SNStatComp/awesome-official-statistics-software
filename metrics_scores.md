@@ -2,7 +2,7 @@
 
 - Methodology: [metrics calculation](metrics_calculation.md)
 
-Generated: 2026-11-17T07:50:33.171Z
+Generated: 2026-11-17T07:57:34.139Z
 
 R packages and R package collections are sorted from highest to lowest. Select a score to open that package's full `metrics.json`.
 
