@@ -7,11 +7,11 @@
 We prefer software that is easy to install and use and actively maintained. [Contributions](#contributions) welcome.
 
 #### News
+- Nov 2026: [Experimental metrics](README2.md) for R packages to be released at **uRos2026**: [link](http://r-project.ro/conference2026.html)
 - Jan 2026: [IAOS paper](https://journals.sagepub.com/doi/10.1177/18747655251411424) **Statistical open source software for official statistics: State of play and future directions** (ten Bosch, Van der Loo)
 - Oct 2025: FOSS, list and principles presented at **ISI2025**: [conf](https://www.isi-next.org/conferences/isi-wsc2025/), [slides](https://www.markvanderloo.eu/files/share/loo2025FOSS.pdf)
 - March 2025: List and principles presented at **NTTS2025**: [conf](https://cros.ec.europa.eu/ntts2025), [slides](https://olavtenbosch.github.io/pdf/2025_NTTS_tenBosch_AwesomeList.pdf)
 - Feb 2025: **Principles** derived from list in **UNECE-HLG-MOS charter on open source**: [charter](https://unece.github.io/OSS/)
-- Nov 2024: The list in keynote Sandra Baragain and other presentations at the **uRos2024**: [link](http://r-project.ro/conference2024.html)
 - [all news](news.md)
 
 
@@ -395,7 +395,7 @@ R package [restatis](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;rest
 - <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/pystatis/version.svg"></img> <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/pystatis/latest.svg"></img> <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/pystatis/license.svg"></img>\
 Python [pystatis](https:&#x2F;&#x2F;pypi.org&#x2F;project&#x2F;pystatis&#x2F;). Python wrapper for GENESIS web service interface (API) of the Federal Statistical Office
 - <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/TEMPO/version.svg"></img> <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/TEMPO/latest.svg"></img> <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/TEMPO/license.svg"></img>\
-R package [TEMPO](https:&#x2F;&#x2F;github.com&#x2F;RProjectRomania&#x2F;TEMPO). Provides access to the Online database from the Romanian [National Institute of Statistics](https:&#x2F;&#x2F;insse.ro)
+R package [TEMPO](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;TEMPO). Provides access to the Online database from the Romanian [National Institute of Statistics](https:&#x2F;&#x2F;insse.ro)
 - <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/cancensus/version.svg"></img> <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/cancensus/latest.svg"></img> <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/cancensus/license.svg"></img>\
 R package [cancensus](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;cancensus). Access to Canadian Census Data and Geography
 - <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/nomisr/version.svg"></img> <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/nomisr/latest.svg"></img> <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;metadata/nomisr/license.svg"></img>\

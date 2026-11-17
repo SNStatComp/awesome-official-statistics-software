@@ -8,14 +8,14 @@ import { fileURLToPath } from "node:url"
 const jsDir = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..")
 const rootDir = path.dirname(jsDir)
 
-test("generates an R-only README with the correct grouping and badge mode", (t) => {
+test("generates README2 with metrics badges only for R packages", (t) => {
 	const root = fs.mkdtempSync(path.join(jsDir, "readme-test-"))
 	t.after(() => fs.rmSync(root, { recursive: true, force: true }))
 	for (const dir of ["js", "data", "metadata"]) fs.mkdirSync(path.join(root, dir))
 	for (const script of ["5a_generate_readme.js", "utils.js"]) {
 		fs.copyFileSync(path.join(jsDir, script), path.join(root, "js", script))
 	}
-	for (const template of ["template.md", "templateR.md"]) {
+	for (const template of ["template.md", "template2.md"]) {
 		fs.copyFileSync(path.join(rootDir, "data", template), path.join(root, "data", template))
 	}
 	fs.copyFileSync(path.join(rootDir, "news.md"), path.join(root, "news.md"))
@@ -35,19 +35,24 @@ test("generates an R-only README with the correct grouping and badge mode", (t) 
 		})
 		assert.equal(result.status, 0, result.stderr)
 		const full = fs.readFileSync(path.join(root, "README.md"), "utf8")
-		const filtered = fs.readFileSync(path.join(root, "README_R.md"), "utf8")
+		const filtered = fs.readFileSync(path.join(root, "README2.md"), "utf8")
 		for (const name of ["cran", "github", "collection"]) {
 			assert.ok(filtered.includes(`metadata/${name}/metrics.svg`))
+			assert.ok(filtered.includes(`metadata/${name}/metrics.json`))
 		}
 		for (const name of ["other", "java"]) {
 			assert.ok(full.includes(`metadata/${name}/version.svg`))
+			assert.ok(filtered.includes(`metadata/${name}/version.svg`))
+			assert.ok(filtered.includes(`metadata/${name}/latest.svg`))
+			assert.ok(filtered.includes(`metadata/${name}/license.svg`))
 			assert.ok(!filtered.includes(`metadata/${name}/metrics.svg`))
+			assert.ok(!filtered.includes(`metadata/${name}/metrics.json`))
 		}
 		assert.match(filtered, /#### First /)
 		assert.match(filtered, /#### Second /)
-		assert.doesNotMatch(filtered, /#### Empty /)
+		assert.match(filtered, /#### Empty /)
 		assert.equal(filtered.includes("raw.githubusercontent.com&#x2F;SNStatComp&#x2F;"), badgeMode === "true")
-		assert.match(filtered, /## AWESOME METRICS/)
+		assert.match(filtered, /## Experimental version with AWESOME METRICS/)
 		assert.match(filtered, /## Contributions/)
 	}
 })

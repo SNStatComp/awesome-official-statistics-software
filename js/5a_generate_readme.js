@@ -23,14 +23,15 @@ const badgeURL = process.env.GITHUB_ACTIONS === 'true'
 
 // build json structure for Mustache:
 let json_mustache = data.reduce((a, c) => {
+	const item = { ...c, showMetrics: is_r_package(c) }
 	let group = a.groups.find((item) => item.number == c.gsbpm_number)
 	if (group)
-		group.items.push(c)
+		group.items.push(item)
 	else
 		a.groups.push({
 			number: c.gsbpm_number,
 			name: c.gsbpm_name,
-			items: [c]
+			items: [item]
 		})
 	return a
 }, {groups: []} )
@@ -42,16 +43,6 @@ let readme = Mustache.render(template, json_mustache)
 fs.writeFileSync("./../README.md", readme)
 
 // With experimental metrics, only for R for now:
-//const template2 = fs.readFileSync('./../data/template2.md', 'utf8')
-//let readme2 = Mustache.render(template2, json_mustache)
-//fs.writeFileSync("./../README2.md", readme2)
-
-const template3 = fs.readFileSync('./../data/templateR.md', 'utf8')
-const rGroups = json_mustache.groups
-	.map((group) => ({
-		...group,
-		items: group.items.filter(is_r_package)
-	}))
-	.filter((group) => group.items.length > 0)
-const readmeR = Mustache.render(template3, { ...json_mustache, groups: rGroups })
-fs.writeFileSync("./../README_R.md", readmeR)
+const template2 = fs.readFileSync('./../data/template2.md', 'utf8')
+let readme2 = Mustache.render(template2, json_mustache)
+fs.writeFileSync("./../README2.md", readme2)

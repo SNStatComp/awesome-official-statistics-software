@@ -24,7 +24,7 @@ We prefer software that is easy to install and use and actively maintained. [Con
 
 *****
 
-## AWESOME METRICS (AI-designed, very experimental)
+## Experimental version with AWESOME METRICS for R-packages
 
 - Overview of scores: [metrics overview](metrics_scores.md)
 - Methodology: [metrics calculation](metrics_calculation.md)
@@ -38,7 +38,7 @@ We prefer software that is easy to install and use and actively maintained. [Con
 #### {{name}} ([GSBPM](https://unece.github.io/GSBPM-5.2/) {{number}})
 
 {{#items}}
-- <img src="{{badgeURL}}metadata/{{name}}/version.svg"></img> <img src="{{badgeURL}}metadata/{{name}}/latest.svg"></img> <img src="{{badgeURL}}metadata/{{name}}/license.svg"></img> [<img src="{{badgeURL}}metadata/{{name}}/metrics.svg"></img>]({{badgeURL}}metadata/{{name}}/metrics.json)\
+- <img src="{{badgeURL}}metadata/{{name}}/version.svg"></img> <img src="{{badgeURL}}metadata/{{name}}/latest.svg"></img> <img src="{{badgeURL}}metadata/{{name}}/license.svg"></img>{{#showMetrics}} [<img src="{{badgeURL}}metadata/{{name}}/metrics.svg"></img>]({{badgeURL}}metadata/{{name}}/metrics.json){{/showMetrics}}\
 {{type}} [{{name}}]({{url}}). {{description}}
 {{/items}}
 

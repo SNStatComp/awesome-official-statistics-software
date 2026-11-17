@@ -2,7 +2,7 @@
 
 - Methodology: [metrics calculation](metrics_calculation.md)
 
-Generated: 2026-11-16T15:37:11.914Z
+Generated: 2026-11-17T07:50:33.171Z
 
 R packages and R package collections are sorted from highest to lowest. Select a score to open that package's full `metrics.json`.
 
@@ -116,5 +116,5 @@ R packages and R package collections are sorted from highest to lowest. Select a
 | 106 | [cbsodata4](https://github.com/statistiekcbs/cbsodata4) | [0.0](metadata/cbsodata4/metrics.json) | N/A | N/A | 0.0 | N/A |
 | 107 | [ReGenesees](https://github.com/DiegoZardetto/ReGenesees) | [0.0](metadata/ReGenesees/metrics.json) | N/A | N/A | 0.0 | N/A |
 | 108 | [rjdverse](https://github.com/rjdverse) | [0.0](metadata/rjdverse/metrics.json) | N/A | N/A | 0.0 | N/A |
-| 109 | [TEMPO](https://github.com/RProjectRomania/TEMPO) | [0.0](metadata/TEMPO/metrics.json) | N/A | N/A | 0.0 | N/A |
+| 109 | [TEMPO](https://cran.r-project.org/package=TEMPO) | [0.0](metadata/TEMPO/metrics.json) | N/A | N/A | 0.0 | N/A |
 | 110 | [tmapverse](https://github.com/r-tmap/tmapverse) | [0.0](metadata/tmapverse/metrics.json) | N/A | N/A | 0.0 | N/A |
