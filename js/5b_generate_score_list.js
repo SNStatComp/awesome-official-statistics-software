@@ -39,20 +39,20 @@ try {
 			"",
 			`Generated: ${new Date().toISOString()}`,
 			"",
-			"R packages and R package collections are sorted from highest to lowest. Select a score to open that package's full `metrics.json`.",
+			"R packages and R package collections are sorted from highest to lowest score. Select a badge to open that package's full `metrics.json`.",
 			"",
-			`| Rank | Package | Score / 5 | Maturity | Documentation | Use | Community |`,
-			`| ---: | --- | ---: | ---: | ---: | ---: | ---: |`
+			`| Rank | Package | Score | Maturity | Documentation | Use | Community |`,
+			`| ---: | --- | --- | ---: | ---: | ---: | ---: |`
 		]
 
 		rows.forEach(({ item, metrics }, index) => {
-			const score = format_score(metrics?.awesome_metric)
-			const scoreLink = `[${score}](metadata/${encodeURIComponent(item.name)}/metrics.json)`
+			const itemPath = `metadata/${encodeURIComponent(item.name)}`
+			const badge = `[![Metrics](${itemPath}/metrics.svg)](${itemPath}/metrics.json)`
 			const packageCell = item.url
 				? `[${escape_table(item.name)}](${item.url})`
 				: escape_table(item.name)
 			const components = breakdownFields.map((field) => format_score(metrics?.awesome_metric_breakdown?.[field]))
-			lines.push(`| ${index + 1} | ${packageCell} | ${scoreLink} | ${components.join(" | ")} |`)
+			lines.push(`| ${index + 1} | ${packageCell} | ${badge} | ${components.join(" | ")} |`)
 		})
 
 		fs.writeFileSync(outputFile, `${lines.join("\n")}\n`, "utf8")

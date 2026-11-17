@@ -7443,6 +7443,32 @@
   },
   {
     "type": "R package",
+    "name": "TEMPO",
+    "url": "https://cran.r-project.org/package=TEMPO",
+    "description": "Tools for Romanias National Institute of Statistics Tempo Data",
+    "gsbpm_name": "Access to official statistics",
+    "gsbpm_number": "7.4",
+    "standard": "JSON",
+    "access_to": [
+      "Romania"
+    ],
+    "features": [
+      "to_df",
+      "endpoint_hiding",
+      "catalogue_retrieval",
+      "endpoint_queries",
+      "caching"
+    ],
+    "platform": "GitHub",
+    "license": "unknown",
+    "languages": [],
+    "generatedAt": "2026-11-16T15:04:18.501Z",
+    "pkg_gh": null,
+    "pkg_gh_languages": null,
+    "licenseSimple": "unknown"
+  },
+  {
+    "type": "R package",
     "name": "tuiksdmx",
     "url": "https://cran.r-project.org/package=tuiksdmx",
     "description": "Authenticated, metadata-driven R client for the Turkish Statistical Institute (TURKSTAT) SDMX REST API, supporting dataflow discovery, DSD and codelist exploration, structure-aware query validation, and statistical data retrieval.",
