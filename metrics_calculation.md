@@ -1,4 +1,4 @@
-## AWESOME METRICS (AI-designed, very experimental)
+## AWESOME METRICS (experimental)
 
 - Overview of scores for R packages and R package collections: [metrics overview](metrics_scores.md)
 
