@@ -1373,3 +1373,12 @@
   - catalogue_retrieval
   - endpoint_queries
   - search
+- type: R package
+  name: SampleSelectR
+  url: https://CRAN.R-project.org/package=SampleSelectR
+  description: Randomly select samples using simple random sampling (SRS), 
+    systematic sampling, and various probability proportional to size (PPS) 
+    methods, including systematic PPS and sequential PPS (i.e., Chromy's 
+    method). Also includes functionality for sample allocation.
+  gsbpm_name: Design frame and sample
+  gsbpm_number: 2.1
